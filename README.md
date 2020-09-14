@@ -109,8 +109,8 @@ Web框架：
 - [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
-
-## 0x06-Go漏洞扫描
+- [ ] https://github.com/awake1t/PortBrute
+- [ ] [年轻人的第一款弱口令扫描器(x-crack)](https://github.com/netxfly/x-crack)
 
 - [ ] https://gobies.org/
 - [ ] https://github.com/opensec-cn/kunpeng
@@ -119,13 +119,13 @@ Web框架：
 - [ ] https://github.com/jjf012/gopoc
 - [ ] https://github.com/dwisiswant0/crlfuzz
 
-## 0x07-Go域名收集
+## 0x06-Go域名收集
 
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/knownsec/ksubdomain
 
-## 0x08-Go流量隧道
+## 0x07-Go流量隧道
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/danielan/lonely-shell
@@ -134,22 +134,22 @@ Web框架：
 - [ ] https://github.com/cw1997/NATBypass
 - [ ] https://github.com/ph4ntonn/go-socks5
 
-## 0x09-Go免杀框架
+## 0x08-Go免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
 
-## 0x10-Go其他项目
+## 0x09-Go其他项目
 
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/studygolang/studygolang
 
-## 0x11-Golang大牛
+## 0x10-Golang大牛
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
 
 - [ ] 柴树杉-Go语言高级编程作者@[chai2010](https://github.com/chai2010)
 - [ ] 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)
 - [ ] 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
-- [x] 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
+- [ ] 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
