@@ -8,11 +8,9 @@
 一、基础入门：
 
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)
-- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book/)
 - [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《Go夜读》](https://github.com/talkgo/night)
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
@@ -47,7 +45,9 @@
 
 二、高手进阶：
 
+- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
+- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
 
 三、算法学习：
 
