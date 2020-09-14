@@ -41,6 +41,8 @@
 - [ ] [《Go语言101》](https://github.com/golang101/golang101)
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
+- [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
+- [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
 
 二、高手进阶：
@@ -111,13 +113,14 @@ Web框架：
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] [年轻人的第一款弱口令扫描器(x-crack)](https://github.com/netxfly/x-crack)
-
 - [ ] https://gobies.org/
 - [ ] https://github.com/opensec-cn/kunpeng
 - [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/jjf012/gopoc
 - [ ] https://github.com/dwisiswant0/crlfuzz
+- [ ] https://github.com/boy-hack/goWhatweb
+- [ ] https://github.com/l3m0n/whatweb
 
 ## 0x06-Go域名收集
 
