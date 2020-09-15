@@ -55,6 +55,7 @@
 
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
+- [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)
 
 四、Web编程：
 
