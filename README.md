@@ -39,7 +39,6 @@
 - [ ] [《Go简易编程》](http://books.studygolang.com/the-little-go-book_ZH_CN/)
 - [ ] [《Go入门指南》](http://books.studygolang.com/the-way-to-go_ZH_CN)
 - [ ] [《Go语言101》](https://github.com/golang101/golang101)
-- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
@@ -50,12 +49,14 @@
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
+- [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
 
 三、算法学习：
 
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
 
 四、Web编程：
 
