@@ -11,13 +11,9 @@
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [x] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《Go夜读》](https://github.com/talkgo/night)
-- [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
-- [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
-- [ ] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-- [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
-- [ ] [《Golang - 100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《Go 学习之路》](https://github.com/yangwenmai/learning-golang)
 - [ ] [《学习 Go 语言 第二版》](https://github.com/mikespook/Learning-Go-zh-cn)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
@@ -42,6 +38,7 @@
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
+- [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
 
 二、高手进阶：
@@ -49,7 +46,9 @@
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
+- [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
+- [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
 
 三、算法学习：
 
@@ -70,6 +69,7 @@
 
 六、杂七杂八：
 
+- [ ] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 
