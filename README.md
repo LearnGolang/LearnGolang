@@ -72,6 +72,7 @@
 - [ ] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
+- [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 
 ## 0x02-Golang视频
 
