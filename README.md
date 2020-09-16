@@ -164,11 +164,14 @@ Web框架：
 
 一、Go教程
 
-- [ ] 柴树杉-Go语言高级编程作者@[chai2010](https://github.com/chai2010)
-- [ ] 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)
-- [ ] 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
-- [ ] 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
+- 柴树杉-Go语言高级编程作者@[chai2010](https://github.com/chai2010)
+
+- 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)
+
+- 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
+
+- 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
 
 二、Go开发
 
-- [ ] [https://github.com/netxfly](https://github.com/netxfly)
+- [https://github.com/netxfly](https://github.com/netxfly)
