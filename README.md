@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。
 
-本项目创建于2020年8月10日。最近一次更新时间为9月14日。
+本项目创建于2020年8月10日。最近一次更新时间为9月16日。
 
 ## 0x01-Golang书籍
 
@@ -96,6 +96,14 @@
 - [ ] https://github.com/hyper0x/awesome-go-China
 
 Web框架：
+
+- [Macaron](https://go-macaron.com/)：模块化 Web 框架
+- [Beego](http://beego.me/)：重量级 Web 框架
+- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
+- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
+- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
+- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
+- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
 
 - [ ] https://go-macaron.com/
 - [ ] https://beego.me/
