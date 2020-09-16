@@ -22,7 +22,6 @@
 - [ ] [《学习Go语言-中文版》](https://mikespook.com/learning-go)
 - [ ] [《神奇的 Go 语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
-- [ ] [《深入解析Go》](https://github.com/zpy807/go-internals)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
