@@ -46,6 +46,7 @@
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
 - [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
+- [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)
 
 三、算法学习：
 
