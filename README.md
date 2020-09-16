@@ -16,8 +16,6 @@
 - [ ] [《Go夜读》](https://github.com/talkgo/night)
 - [ ] [《Go 学习之路》](https://github.com/yangwenmai/learning-golang)
 - [ ] [《学习 Go 语言 第二版》](https://github.com/mikespook/Learning-Go-zh-cn)
-- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
-- [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)
 - [ ] [《Go-SCP》](https://github.com/OWASP/Go-SCP)
 - [ ] [《Go 编程基础》](https://github.com/unknwon/go-fundamental-programming)
 - [ ] [《Go 开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
@@ -33,7 +31,6 @@
 - [ ] [《Mastering_Go_ZH_CN》](http://books.studygolang.com/Mastering_Go_ZH_CN/)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《Go简易编程》](http://books.studygolang.com/the-little-go-book_ZH_CN/)
-- [ ] [《Go入门指南》](http://books.studygolang.com/the-way-to-go_ZH_CN)
 - [ ] [《Go语言101》](https://github.com/golang101/golang101)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
@@ -43,6 +40,8 @@
 
 二、高手进阶：
 
+- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
+- [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
@@ -69,7 +68,6 @@
 
 六、杂七杂八：
 
-- [ ] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
