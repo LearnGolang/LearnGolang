@@ -102,15 +102,103 @@ Web框架：
 - [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
 - [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
 - [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
+- Gin https://github.com/gin-gonic/gin
+- Beego https://github.com/astaxie/beego
+- martini https://github.com/go-martini/martini
+- https://go-macaron.com/
+- https://beego.me/
+- https://github.com/revel/revel
+- https://github.com/go-martini/martini
+- https://github.com/gin-gonic/gin
+- https://github.com/kataras/iris
 
-- [ ] https://go-macaron.com/
-- [ ] https://beego.me/
-- [ ] https://github.com/revel/revel
-- [ ] https://github.com/go-martini/martini
-- [ ] https://github.com/gin-gonic/gin
-- [ ] https://github.com/kataras/iris
+HTTP
 
-爬虫框架：
+- httprouter https://github.com/julienschmidt/httprouter
+
+- fasthttp https://github.com/valyala/fasthttp
+
+- mux https://github.com/gorilla/mux
+
+JSON解析
+
+- json-iterator https://github.com/json-iterator/go
+
+- jsonparser https://github.com/buger/jsonparser
+
+数据库以及ORM
+
+- LevelDB https://github.com/syndtr/goleveldb
+
+- BoltDB https://github.com/boltdb/bolt
+
+- MySQL https://github.com/go-sql-driver/mysql
+
+- tidb https://github.com/pingcap/tidb
+
+- ssdb https://github.com/ideawu/ssdb
+
+- gorm https://github.com/jinzhu/gorm
+
+爬虫
+
+- Colly https://github.com/gocolly/colly
+
+- Goquery https://github.com/PuerkitoBio/goquery
+
+中间件
+
+- redis https://github.com/go-redis/redis
+
+- ElasticSearch https://github.com/olivere/elastic
+
+- Alice https://github.com/justinas/alice
+
+日志
+
+- zap https://github.com/uber-go/zap
+
+错误处理
+
+- errors https://github.com/pkg/errors
+
+消息队列
+
+- Nsq https://github.com/nsqio/nsq
+
+Service Mesh
+
+- Istio https://github.com/istio/istio
+
+RPC
+
+- rpcx https://github.com/smallnest/rpcx
+
+- grpc https://github.com/grpc/grpc-go
+
+协程池
+
+- ants https://github.com/panjf2000/ants
+
+视觉图像处理
+
+- bild https://github.com/anthonynsimon/bild
+
+- gmf https://github.com/3d0c/gmf
+
+- opencv https://github.com/hybridgroup/gocv
+
+网络
+
+- KCP https://github.com/xtaci/kcp-go
+
+- frp https://github.com/fatedier/frp
+
+测试
+
+- gock https://github.com/h2non/gock
+
+- goreporter https://github.com/360EntSecGroup-Skylar/goreporter
 
 ## 0x05-HackWithGo
 
