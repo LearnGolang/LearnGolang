@@ -217,6 +217,7 @@ RPC
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/boy-hack/goWhatweb
 - [ ] https://github.com/l3m0n/whatweb
+- [ ] https://github.com/boy-hack/goWhatweb
 
 ## 0x06-Go域名收集
 
