@@ -14,13 +14,12 @@
 - [x] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《Go夜读》](https://github.com/talkgo/night)
-- [ ] [《Go 学习之路》](https://github.com/yangwenmai/learning-golang)
-- [ ] [《学习 Go 语言 第二版》](https://github.com/mikespook/Learning-Go-zh-cn)
-- [ ] [《Go-SCP》](https://github.com/OWASP/Go-SCP)
+- [ ] [《Go学习之路》](https://github.com/yangwenmai/learning-golang)
+- [ ] [《学习Go语言第二版》](https://github.com/mikespook/Learning-Go-zh-cn)
 - [ ] [《Go 编程基础》](https://github.com/unknwon/go-fundamental-programming)
 - [ ] [《Go 开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《Go 语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
-- [ ] [《学习Go语言》中文版》](https://mikespook.com/learning-go)
+- [ ] [《学习Go语言-中文版》](https://mikespook.com/learning-go)
 - [ ] [《神奇的 Go 语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
 - [ ] [《深入解析Go》](https://github.com/zpy807/go-internals)
@@ -71,6 +70,7 @@
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
+- [ ] [《Go-SCP》](https://github.com/OWASP/Go-SCP)
 
 ## 0x02-Golang视频
 
