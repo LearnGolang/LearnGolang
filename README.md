@@ -219,6 +219,7 @@ RPC
 - [ ] https://github.com/boy-hack/goWhatweb
 - [ ] https://github.com/l3m0n/whatweb
 - [ ] https://github.com/boy-hack/goWhatweb
+- [ ] https://github.com/ethicalhackingplayground/Zin
 
 ## 0x06-Go域名收集
 
