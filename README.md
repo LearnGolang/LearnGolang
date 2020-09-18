@@ -34,6 +34,7 @@
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
+- [ ] [《跟煎鱼学 Go》](https://eddycjy.com/go-categories)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
 
 二、高手进阶：
@@ -63,8 +64,10 @@
 
 五、实体书籍：
 
-- [ ] [实体书《Go并发编程实战（第2版）》](https://www.ituring.com.cn/book/1950)
-- [ ] [实体书《Go 语言并发之道》]()
+- [ ] [实体书《Go并发编程实战（第2版）》](https://item.jd.com/12063141.html)
+- [ ] [实体书《Go 语言并发之道》](https://item.jd.com/12504386.html)
+- [ ] [实体书《Go语言编程之旅：一起用Go做项目》](https://item.jd.com/12685249.html)
+- [ ] [实体书《Go 语言学习笔记》](https://item.jd.com/56109131513.html)
 
 六、杂七杂八：
 
@@ -260,12 +263,10 @@ RPC
 一、Go教程
 
 - 柴树杉-Go语言高级编程作者@[chai2010](https://github.com/chai2010)
-
 - 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
-
-- 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)、[我的Go语言学习之路](https://studygolang.com/topics/8550)
-
+- 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
 - 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
+- 陈剑煜-《一起用Go做项目》作者@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
 
 二、Go开发
 
