@@ -10,7 +10,7 @@
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-- [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [x] [《通过例子学习Go标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [x] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《Go夜读》](https://github.com/talkgo/night)
@@ -220,6 +220,7 @@ RPC
 - [ ] https://github.com/l3m0n/whatweb
 - [ ] https://github.com/boy-hack/goWhatweb
 - [ ] https://github.com/ethicalhackingplayground/Zin
+- [ ] https://github.com/ring04h/s5.go
 
 ## 0x06-Go域名收集
 
@@ -247,7 +248,11 @@ RPC
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/studygolang/studygolang
 
-## 0x10-Golang大牛
+## 0x10-Go优秀项目
+
+- [ ] https://github.com/gogs/gogs
+
+## 0x11-Golang大牛
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
 
@@ -257,7 +262,7 @@ RPC
 
 - 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)
 
-- 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
+- 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)、[我的Go语言学习之路](https://studygolang.com/topics/8550)
 
 - 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
 
