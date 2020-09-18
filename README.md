@@ -59,6 +59,7 @@
 
 - [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 - [ ] [《通过例子学习 Go Web 编程》](http://books.studygolang.com/gowebexamples)
+- [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)
 
 五、实体书籍：
 
@@ -260,7 +261,7 @@ RPC
 
 - 柴树杉-Go语言高级编程作者@[chai2010](https://github.com/chai2010)
 
-- 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)
+- 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
 
 - 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)、[我的Go语言学习之路](https://studygolang.com/topics/8550)
 
