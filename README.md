@@ -91,6 +91,7 @@
 - [ ] https://www.golangtc.com
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
+- [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
 
 ## 0x04-Golang框架
 
