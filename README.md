@@ -220,8 +220,22 @@ RPC
 - [ ] https://github.com/knownsec/ksubdomain
 - [ ] https://github.com/hahwul/ras-fuzzer
 
-三、漏洞扫描
+三、隧道代理
 
+- [ ] https://github.com/fatedier/frp
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/hershell
+- [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/cw1997/NATBypass
+- [ ] https://github.com/ph4ntonn/go-socks5
+
+四、免杀框架
+
+- [ ] https://github.com/jax777/shellcode-launch
+
+五、漏洞扫描
+
+- [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/AV1080p/Hacking-With-Golang
 - [ ] https://github.com/parsiya/Hacking-with-Go
 - [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
@@ -242,33 +256,19 @@ RPC
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
 
-## 0x06-Go流量隧道
-
-- [ ] https://github.com/fatedier/frp
-- [ ] https://github.com/danielan/lonely-shell
-- [ ] https://github.com/sysdream/hershell
-- [ ] https://github.com/sysdream/chashell
-- [ ] https://github.com/cw1997/NATBypass
-- [ ] https://github.com/ph4ntonn/go-socks5
-- [ ] https://github.com/Ne0nd0g/merlin
-
-## 0x07-Go免杀框架
-
-- [ ] https://github.com/jax777/shellcode-launch
-
-## 0x08-Go其他项目
+## 0x06-Go其他项目
 
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/studygolang/studygolang
 
-## 0x09-Go优秀项目
+## 0x07-Go优秀项目
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
 
-## 0x10-Golang大牛
+## 0x08-Golang大牛
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
 
