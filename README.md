@@ -208,6 +208,20 @@ RPC
 
 ## 0x05-HackWithGo
 
+一、目录扫描
+
+- [ ] https://github.com/ffuf/ffuf
+- [ ] https://github.com/RedTeamPentesting/monsoon
+
+二、域名扫描
+
+- [ ] https://github.com/yunxu1/dnsub
+- [ ] https://github.com/hsw409328/go-scan
+- [ ] https://github.com/knownsec/ksubdomain
+- [ ] https://github.com/hahwul/ras-fuzzer
+
+三、漏洞扫描
+
 - [ ] https://github.com/AV1080p/Hacking-With-Golang
 - [ ] https://github.com/parsiya/Hacking-with-Go
 - [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
@@ -226,14 +240,9 @@ RPC
 - [ ] https://github.com/boy-hack/goWhatweb
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/ring04h/s5.go
+- [ ] https://github.com/graniet/GoFuzz
 
-## 0x06-Go域名收集
-
-- [ ] https://github.com/yunxu1/dnsub
-- [ ] https://github.com/hsw409328/go-scan
-- [ ] https://github.com/knownsec/ksubdomain
-
-## 0x07-Go流量隧道
+## 0x06-Go流量隧道
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/danielan/lonely-shell
@@ -241,23 +250,25 @@ RPC
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/cw1997/NATBypass
 - [ ] https://github.com/ph4ntonn/go-socks5
+- [ ] https://github.com/Ne0nd0g/merlin
 
-## 0x08-Go免杀框架
+## 0x07-Go免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
 
-## 0x09-Go其他项目
+## 0x08-Go其他项目
 
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/studygolang/studygolang
 
-## 0x10-Go优秀项目
+## 0x09-Go优秀项目
 
 - [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/gophish/gophish
 
-## 0x11-Golang大牛
+## 0x10-Golang大牛
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
 
