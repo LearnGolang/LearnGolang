@@ -86,6 +86,7 @@
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [《Go-SCP》](https://github.com/OWASP/Go-SCP)
+- [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 
 ## 0x02-Golang视频
 
@@ -95,6 +96,7 @@
 
 ## 0x03-Golang论坛
 
+- [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] https://gocn.vip
 - [ ] https://igo.pub
 - [ ] https://talkgo.org
@@ -103,6 +105,7 @@
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
+- [ ] https://github.com/trending/go
 
 ## 0x04-Golang框架
 
