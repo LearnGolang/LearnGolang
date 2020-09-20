@@ -60,6 +60,7 @@
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
+- [ ] [《数据结构和算法（Golang实现）》](https://github.com/hunterhug/goa.c)
 
 四、Web编程：
 
@@ -224,6 +225,8 @@ RPC
 
 〇、HackWithGo
 
+- https://github.com/parsiya/Hacking-with-Go
+- https://github.com/AV1080p/Hacking-With-Golang
 - https://github.com/trending/go
 - https://github.com/topics/subdomain?l=go
 - https://github.com/topics/hacking-tool?l=go
@@ -233,6 +236,7 @@ RPC
 - https://github.com/topics/vulnerability?l=go
 - https://github.com/topics/xss?l=go
 - https://github.com/topics/poc?l=go
+- https://github.com/topics/tunnel?l=go
 
 一、目录扫描
 
@@ -248,29 +252,13 @@ RPC
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
 
-三、隧道代理
-
-- [ ] https://github.com/fatedier/frp
-- [ ] https://github.com/danielan/lonely-shell
-- [ ] https://github.com/sysdream/hershell
-- [ ] https://github.com/sysdream/chashell
-- [ ] https://github.com/cw1997/NATBypass
-- [ ] https://github.com/ph4ntonn/go-socks5
-
-四、免杀框架
-
-- [ ] https://github.com/jax777/shellcode-launch
-
-五、漏洞扫描
+三、漏洞扫描
 
 - [ ] https://github.com/Ne0nd0g/merlin
-- [ ] https://github.com/AV1080p/Hacking-With-Golang
-- [ ] https://github.com/parsiya/Hacking-with-Go
 - [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/awake1t/PortBrute
-- [ ] [年轻人的第一款弱口令扫描器(x-crack)](https://github.com/netxfly/x-crack)
 - [ ] https://gobies.org/
 - [ ] https://github.com/opensec-cn/kunpeng
 - [ ] https://github.com/x51/STS2G
@@ -283,6 +271,23 @@ RPC
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
+
+四、密码扫描
+
+- [ ] https://github.com/netxfly/x-crack
+
+四、隧道代理
+
+- [ ] https://github.com/fatedier/frp
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/hershell
+- [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/cw1997/NATBypass
+- [ ] https://github.com/ph4ntonn/go-socks5
+
+五、免杀框架
+
+- [ ] https://github.com/jax777/shellcode-launch
 
 ## 0x06-Go其他项目
 
