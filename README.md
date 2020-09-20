@@ -93,6 +93,7 @@
 - [ ] [《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
+- [ ] [Go Syntax [LiveBytes]](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 ## 0x03-Golang论坛
 
