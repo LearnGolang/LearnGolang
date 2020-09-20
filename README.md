@@ -52,6 +52,7 @@
 - [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
 - [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions)
+- [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)
 
 三、算法学习：
 
@@ -85,7 +86,6 @@
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
-- [ ] [《Go-SCP》](https://github.com/OWASP/Go-SCP)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 
 ## 0x02-Golang视频
@@ -106,7 +106,6 @@
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
-- [ ] https://github.com/trending/go
 
 ## 0x04-Golang框架
 
@@ -223,6 +222,14 @@ RPC
 
 ## 0x05-HackWithGo
 
+〇、HackWithGo
+
+- https://github.com/trending/go
+- https://github.com/topics/subdomain?l=go
+- https://github.com/topics/hacking-tool?l=go
+- https://github.com/topics/security-tools?l=go
+- https://github.com/topics/cve?l=go
+
 一、目录扫描
 
 - [ ] https://github.com/ffuf/ffuf
@@ -231,11 +238,11 @@ RPC
 
 二、域名扫描
 
-- [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/knownsec/ksubdomain
 - [ ] https://github.com/hahwul/ras-fuzzer
+- [ ] https://github.com/OWASP/Amass
 
 三、隧道代理
 
