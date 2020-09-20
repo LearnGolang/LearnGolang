@@ -76,6 +76,18 @@
 - [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)作者:李文塔
 - [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)作者:郝林
 - [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)作者:千锋教育
+- [ ] 
+- [ ] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)李道兵译
+- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)李兆海译
+- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)柴树杉 曹春晖
+- [ ] [实体书《Go 语言并发之道》](https://item.jd.com/12504386.html)凯瑟琳
+- [ ] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)陈剑煜 徐新华
+- [ ] [实体书《Go 语言学习笔记》](https://item.jd.com/56109131513.html)雨痕
+- [ ] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)任洪彩
+- [ ] [实体书《Go Web编程》](https://item.jd.com/12252845.html)作黄健宏译
+- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)李文塔
+- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)作郝林
+- [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)千锋教育
 
 六、杂七杂八：
 
