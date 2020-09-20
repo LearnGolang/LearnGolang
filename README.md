@@ -64,10 +64,18 @@
 
 五、实体书籍：
 
-- [ ] [实体书《Go并发编程实战（第2版）》](https://item.jd.com/12063141.html)
+- [x] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)
+- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)
+- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)
+- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)
 - [ ] [实体书《Go 语言并发之道》](https://item.jd.com/12504386.html)
-- [ ] [实体书《Go语言编程之旅：一起用Go做项目》](https://item.jd.com/12685249.html)
+- [ ] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)
 - [ ] [实体书《Go 语言学习笔记》](https://item.jd.com/56109131513.html)
+- [ ] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)
+- [ ] [实体书《Go Web编程》](https://item.jd.com/12252845.html)
+- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)
+- [ ] [实体书《Go并发编程实战》：郝林](https://item.jd.com/12063141.html)
+- [ ] [实体书《Go语言开发实战》：千锋教育](https://item.jd.com/12622679.html)
 
 六、杂七杂八：
 
@@ -279,7 +287,7 @@ RPC
 - 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
 - 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
 - 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
-- 陈剑煜-《一起用Go做项目》作者@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
+- 陈剑煜-《Go语言编程之旅》作者@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
 
 二、Go开发
 
