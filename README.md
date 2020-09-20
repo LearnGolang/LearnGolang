@@ -39,16 +39,19 @@
 
 二、高手进阶：
 
+- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)
-- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
+- [ ] [《Go 语言原本》](https://github.com/golang-design/under-the-hood)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
 - [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
 - [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)
 - [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
+- [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)
+- [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions)
 
 三、算法学习：
 
@@ -276,6 +279,7 @@ RPC
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/iawia002/annie
 
 ## 0x08-Golang大牛
 
