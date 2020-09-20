@@ -272,11 +272,15 @@ RPC
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
 
-四、密码扫描
+四、端口扫描
+
+- [ ] https://github.com/search?l=Go&q=portscan&type=Repositories
+
+五、密码扫描
 
 - [ ] https://github.com/netxfly/x-crack
 
-四、隧道代理
+六、隧道代理
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/danielan/lonely-shell
@@ -285,7 +289,7 @@ RPC
 - [ ] https://github.com/cw1997/NATBypass
 - [ ] https://github.com/ph4ntonn/go-socks5
 
-五、免杀框架
+七、免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
 
