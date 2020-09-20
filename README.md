@@ -237,6 +237,7 @@ RPC
 - https://github.com/topics/xss?l=go
 - https://github.com/topics/poc?l=go
 - https://github.com/topics/tunnel?l=go
+- [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
 
 一、目录扫描
 
@@ -254,6 +255,7 @@ RPC
 
 三、漏洞扫描
 
+- [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
 - [ ] https://github.com/chaitin/xray
@@ -271,12 +273,13 @@ RPC
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/netxfly/xsec-proxy-scanner
 
 四、端口扫描
 
-- [ ] https://github.com/search?l=Go&q=portscan&type=Repositories
+- [ ] https://github.com/awake1t/PortBrute
 
-五、密码扫描
+五、密码爆破
 
 - [ ] https://github.com/netxfly/x-crack
 
