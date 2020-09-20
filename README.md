@@ -48,6 +48,7 @@
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
 - [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
 - [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)
+- [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
 
 三、算法学习：
 
@@ -64,17 +65,17 @@
 
 五、实体书籍：
 
-- [x] [实体书《Go程序设计语言》：李道兵译](https://item.jd.com/12187988.html)
-- [x] [实体书《Go语言实战》：李兆海译](https://item.jd.com/12136974.html)
-- [x] [实体书《Go语言高级编程》：柴树杉 曹春晖](https://item.jd.com/12647494.html)
-- [ ] [实体书《Go 语言并发之道》：凯瑟琳](https://item.jd.com/12504386.html)
-- [ ] [实体书《Go语言编程之旅》：陈剑煜 徐新华](https://item.jd.com/12685249.html)
-- [ ] [实体书《Go 语言学习笔记》：雨痕](https://item.jd.com/56109131513.html)
-- [ ] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)
-- [ ] [实体书《Go Web编程》](https://item.jd.com/12252845.html)
-- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)
-- [ ] [实体书《Go并发编程实战》：郝林](https://item.jd.com/12063141.html)
-- [ ] [实体书《Go语言开发实战》：千锋教育](https://item.jd.com/12622679.html)
+- [x] [实体书《Go程序设计语言》作者:李道兵译](https://item.jd.com/12187988.html)
+- [x] [实体书《Go语言实战》作者:李兆海译](https://item.jd.com/12136974.html)
+- [x] [实体书《Go语言高级编程》作者:柴树杉 曹春晖](https://item.jd.com/12647494.html)
+- [ ] [实体书《Go 语言并发之道》作者:凯瑟琳](https://item.jd.com/12504386.html)
+- [ ] [实体书《Go语言编程之旅》作者:陈剑煜 徐新华](https://item.jd.com/12685249.html)
+- [ ] [实体书《Go 语言学习笔记》作者:雨痕](https://item.jd.com/56109131513.html)
+- [ ] [实体书《Go语言专家编程》作者:任洪彩](https://item.jd.com/12920392.html)
+- [ ] [实体书《Go Web编程》作者:黄健宏译](https://item.jd.com/12252845.html)
+- [ ] [实体书《Go语言核心编程》作者:李文塔](https://item.jd.com/12437839.html)
+- [ ] [实体书《Go并发编程实战》作者:郝林](https://item.jd.com/12063141.html)
+- [ ] [实体书《Go语言开发实战》作者:千锋教育](https://item.jd.com/12622679.html)
 
 六、杂七杂八：
 
