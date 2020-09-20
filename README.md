@@ -64,13 +64,12 @@
 
 五、实体书籍：
 
-- [x] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)
-- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)
-- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)
-- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)
-- [ ] [实体书《Go 语言并发之道》](https://item.jd.com/12504386.html)
-- [ ] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)
-- [ ] [实体书《Go 语言学习笔记》](https://item.jd.com/56109131513.html)
+- [x] [实体书《Go程序设计语言》：李道兵译](https://item.jd.com/12187988.html)
+- [x] [实体书《Go语言实战》：李兆海译](https://item.jd.com/12136974.html)
+- [x] [实体书《Go语言高级编程》：柴树杉 曹春晖](https://item.jd.com/12647494.html)
+- [ ] [实体书《Go 语言并发之道》：凯瑟琳](https://item.jd.com/12504386.html)
+- [ ] [实体书《Go语言编程之旅》：陈剑煜 徐新华](https://item.jd.com/12685249.html)
+- [ ] [实体书《Go 语言学习笔记》：雨痕](https://item.jd.com/56109131513.html)
 - [ ] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)
 - [ ] [实体书《Go Web编程》](https://item.jd.com/12252845.html)
 - [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)
@@ -288,6 +287,7 @@ RPC
 - 徐新华-studygolang站长@[polarisxu](https://github.com/polaris1119)
 - 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
 - 陈剑煜-《Go语言编程之旅》作者@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
+- 雨痕-《Go学习笔记》作者@[Q.yuhen](https://github.com/qyuhen)
 
 二、Go开发
 
