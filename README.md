@@ -229,6 +229,10 @@ RPC
 - https://github.com/topics/hacking-tool?l=go
 - https://github.com/topics/security-tools?l=go
 - https://github.com/topics/cve?l=go
+- https://github.com/topics/vulnerability-scanner?l=go
+- https://github.com/topics/vulnerability?l=go
+- https://github.com/topics/xss?l=go
+- https://github.com/topics/poc?l=go
 
 一、目录扫描
 
