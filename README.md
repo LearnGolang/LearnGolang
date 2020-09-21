@@ -227,7 +227,9 @@ RPC
 
 - https://github.com/parsiya/Hacking-with-Go
 - https://github.com/AV1080p/Hacking-With-Golang
+- https://github.com/lazybootsafe/Go-Learning-With-Hack
 - https://github.com/trending/go
+- https://github.com/topics/security?l=go
 - https://github.com/topics/subdomain?l=go
 - https://github.com/topics/hacking-tool?l=go
 - https://github.com/topics/security-tools?l=go
@@ -257,7 +259,6 @@ RPC
 
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/Ne0nd0g/merlin
-- [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/awake1t/PortBrute
@@ -287,12 +288,17 @@ RPC
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/ligolo
 - [ ] https://github.com/sysdream/hershell
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/cw1997/NATBypass
 - [ ] https://github.com/ph4ntonn/go-socks5
 
-七、免杀框架
+七、远控木马
+
+- [ ] https://github.com/whitehatnote/BlueShell
+
+八、免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
 
