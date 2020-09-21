@@ -88,6 +88,7 @@
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
+- [ ] [automateGo](https://github.com/dreddsa5dies/automateGo)、[hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
 
 ## 0x02-Golang视频
 
@@ -225,27 +226,34 @@ RPC
 
 〇、HackWithGo
 
-- https://github.com/parsiya/Hacking-with-Go
-- https://github.com/AV1080p/Hacking-With-Golang
-- https://github.com/lazybootsafe/Go-Learning-With-Hack
-- https://github.com/trending/go
-- https://github.com/topics/security?l=go
-- https://github.com/topics/subdomain?l=go
-- https://github.com/topics/hacking-tool?l=go
-- https://github.com/topics/security-tools?l=go
-- https://github.com/topics/cve?l=go
-- https://github.com/topics/vulnerability-scanner?l=go
-- https://github.com/topics/vulnerability?l=go
-- https://github.com/topics/xss?l=go
-- https://github.com/topics/poc?l=go
-- https://github.com/topics/tunnel?l=go
-- [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
+- [ ] https://github.com/parsiya/Hacking-with-Go
+- [ ] https://github.com/AV1080p/Hacking-With-Golang
+- [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
+- [ ] https://github.com/dreddsa5dies/goHackTools
+- [ ] https://github.com/parsiya/Go-Security
+- [ ] https://github.com/hahwul/WebHackersWeapons
+- [ ] https://github.com/trending/go
+- [ ] https://github.com/topics/security?l=go
+- [ ] https://github.com/topics/hacking?l=go
+- [ ] https://github.com/topics/scanner?l=go
+- [ ] https://github.com/topics/subdomain?l=go
+- [ ] https://github.com/topics/hacking-tool?l=go
+- [ ] https://github.com/topics/security-tools?l=go
+- [ ] https://github.com/topics/cve?l=go
+- [ ] https://github.com/topics/vulnerability-scanner?l=go
+- [ ] https://github.com/topics/vulnerability?l=go
+- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/poc?l=go
+- [ ] https://github.com/topics/tunnel?l=go
+- [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
 
 一、目录扫描
 
 - [ ] https://github.com/ffuf/ffuf
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/1c3z/fileleak
+- [ ] https://github.com/liamg/scout
+- [ ] https://github.com/Matir/webborer
 
 二、域名扫描
 
@@ -254,11 +262,13 @@ RPC
 - [ ] https://github.com/knownsec/ksubdomain
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
+- [ ] https://github.com/rverton/redAsset
 
 三、漏洞扫描
 
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/Ne0nd0g/merlin
+- [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/awake1t/PortBrute
@@ -275,24 +285,34 @@ RPC
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
+- [ ] https://github.com/future-architect/vuls
 
 四、端口扫描
 
 - [ ] https://github.com/awake1t/PortBrute
+- [ ] https://github.com/liamg/furious
 
 五、密码爆破
 
 - [ ] https://github.com/netxfly/x-crack
+- [ ] https://github.com/ncsa/ssh-auditor
+- [ ] https://gitlab.com/opennota/hydra
+- [ ] https://github.com/lazytools/sshchecker
 
 六、隧道代理
 
 - [ ] https://github.com/fatedier/frp
+- [ ] https://github.com/Dliv3/Venom
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/ligolo
 - [ ] https://github.com/sysdream/hershell
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/cw1997/NATBypass
 - [ ] https://github.com/ph4ntonn/go-socks5
+- [ ] https://github.com/ph4ntonn/Stowaway
+- [ ] https://github.com/LubyRuffy/tcptunnel
+- [ ] https://github.com/FireFart/goshell
+- [ ] https://github.com/ypcd/gstunnel
 
 七、远控木马
 
@@ -301,6 +321,21 @@ RPC
 八、免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
+
+九、其他项目
+
+- [ ] https://github.com/evilsocket/xray
+- [ ] https://github.com/bettercap/bettercap
+- [ ] https://github.com/dreadl0ck/netcap
+- [ ] https://github.com/projectdiscovery/nuclei
+- [ ] https://github.com/haccer/subjack
+- [ ] https://github.com/parsiya/Go-Security
+- [ ] https://github.com/hahwul/dalfox
+- [ ] https://github.com/ATpiu/asset-scan
+- [ ] https://github.com/levidurfee/gowafp
+- [ ] https://github.com/jeromer/mumbojumbo
+- [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/m-mizutani/lurker
 
 ## 0x06-Go其他项目
 
@@ -314,6 +349,7 @@ RPC
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
 - [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/hacklcx/HFish
 
 ## 0x08-Golang大牛
 
