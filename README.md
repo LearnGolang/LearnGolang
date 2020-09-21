@@ -89,6 +89,29 @@
 - [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 
+六、英文书籍
+
+- [ ] [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
+- [ ] [An Introduction to Programming in Go](http://www.golang-book.com/)
+- [ ] [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [ ] [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+- [ ] [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
+- [ ] [An Introduction to Programming in Go](http://www.golang-book.com/)
+- [ ] [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [ ] [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+- [ ] [Go 101](https://go101.org/) 
+- [ ] [Go Bootcamp](http://golangbootcamp.com/)
+- [ ] [Go Succinctly](https://github.com/thedevsir/gosuccinctly)
+- [ ] [GoBooks](https://github.com/dariubs/GoBooks)
+- [ ] [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
+- [ ] [Network Programming With Go](https://jan.newmarch.name/go/)
+- [ ] [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/)
+- [ ] [The Go Programming Language](http://www.gopl.io/)
+- [ ] [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [ ] [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [ ] [Writing A Compiler In Go](https://compilerbook.com/)
+- [ ] [Writing An Interpreter In Go](https://interpreterbook.com/)
+
 六、杂七杂八：
 
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
@@ -305,6 +328,7 @@ RPC
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
 - [ ] https://github.com/future-architect/vuls
+- [ ] https://github.com/jpillora/icmpscan
 
 四、端口扫描
 
@@ -334,6 +358,9 @@ RPC
 - [ ] https://github.com/LubyRuffy/tcptunnel
 - [ ] https://github.com/FireFart/goshell
 - [ ] https://github.com/ypcd/gstunnel
+- [ ] https://github.com/ginuerzh/gost
+- [ ] https://github.com/xct/xc
+- [ ] https://github.com/jpillora/chisel
 
 七、远控木马
 
@@ -369,6 +396,8 @@ RPC
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/n0ncetonic/nmapxml
 - [ ] https://github.com/omaidf/FaizEye
+- [ ] https://github.com/jpillora/renamer
+- [ ] https://github.com/jpillora/go-tcp-proxy
 
 ## 0x07-Golang老师
 
