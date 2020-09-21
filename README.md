@@ -89,6 +89,7 @@
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 - [ ] [automateGo](https://github.com/dreddsa5dies/automateGo)、[hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
+- [ ] https://github.com/studygolang/studygolang
 
 ## 0x02-Golang视频
 
@@ -233,7 +234,7 @@ RPC
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/trending/go
-- [ ] https://github.com/topics/security?l=go
+- [x] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
 - [ ] https://github.com/topics/scanner?l=go
 - [ ] https://github.com/topics/subdomain?l=go
@@ -263,10 +264,14 @@ RPC
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
 - [ ] https://github.com/rverton/redAsset
+- [ ] https://github.com/subfinder/goaltdns
+- [ ] https://github.com/QSoloX/whoisyou
 
 三、漏洞扫描
 
 - [ ] https://github.com/awake1t/linglong
+- [ ] https://github.com/jaeles-project/jaeles
+- [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
@@ -298,6 +303,8 @@ RPC
 - [ ] https://github.com/ncsa/ssh-auditor
 - [ ] https://gitlab.com/opennota/hydra
 - [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/codexlynx/brutemq
 
 六、隧道代理
 
@@ -317,10 +324,13 @@ RPC
 七、远控木马
 
 - [ ] https://github.com/whitehatnote/BlueShell
+- [ ] https://github.com/averagesecurityguy/c2
 
 八、免杀框架
 
 - [ ] https://github.com/jax777/shellcode-launch
+- [ ] https://github.com/EgeBalci/HERCULES
+- [ ] https://github.com/petercunha/GoAT
 
 九、其他项目
 
@@ -336,22 +346,25 @@ RPC
 - [ ] https://github.com/jeromer/mumbojumbo
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/m-mizutani/lurker
-
-## 0x06-Go其他项目
+- [ ] https://github.com/amanvir/enumerator
+- [ ] https://github.com/izanbf1803/Go-Steganography
+- [ ] https://github.com/ndelphit/apkurlgrep
+- [ ] https://github.com/stevenaldinger/decker
 
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/securego/gosec
-- [ ] https://github.com/studygolang/studygolang
+- [ ] https://github.com/n0ncetonic/nmapxml
+- [ ] https://github.com/omaidf/FaizEye
 
-## 0x07-Go优秀项目
+## 0x06-Go优秀项目
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/hacklcx/HFish
 
-## 0x08-Golang大牛
+## 0x07-Golang大牛
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
 
