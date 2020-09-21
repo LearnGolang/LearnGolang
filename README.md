@@ -9,7 +9,6 @@
 - [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
 - [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
 - [0x06-HackWithGo](https://github.com/0e0w/LearnGolang#0x06-hackwithgo)
-- [0x07-Golang老师](https://github.com/0e0w/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
 
 ## 0x01-Golang书籍
 
