@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。
 
-本项目创建于2020年8月10日。最近一次更新时间为9月20日。
+本项目创建于2020年8月10日。最近一次更新时间为9月21日。
 
 ## 0x01-Golang书籍
 
@@ -350,7 +350,6 @@ RPC
 - [ ] https://github.com/izanbf1803/Go-Steganography
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/stevenaldinger/decker
-
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/securego/gosec
