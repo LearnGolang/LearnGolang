@@ -231,7 +231,7 @@ RPC
 
 - goreporter https://github.com/360EntSecGroup-Skylar/goreporter
 
-## 0x05-Go优秀项目
+## 0x05-Golang项目
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
@@ -371,9 +371,9 @@ RPC
 - [ ] https://github.com/n0ncetonic/nmapxml
 - [ ] https://github.com/omaidf/FaizEye
 
-## 0x07-优秀Gopher
+## 0x07-Golang老师
 
-排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Gopher们。感谢感谢！
+排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
 一、Go教程
 
