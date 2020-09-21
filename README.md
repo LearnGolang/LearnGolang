@@ -7,9 +7,9 @@
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
 - [0x03-Golang论坛](https://github.com/0e0w/LearnGolang#0x03-golang%E8%AE%BA%E5%9D%9B)
 - [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
-- [0x05-HackWithGo](https://github.com/0e0w/LearnGolang#0x05-hackwithgo)
-- [0x06-Go优秀项目](https://github.com/0e0w/LearnGolang#0x06-go%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE)
-- [0x07-Golang大牛](https://github.com/0e0w/LearnGolang#0x07-golang%E5%A4%A7%E7%89%9B)
+- [0x05-Go优秀项目]()
+- [0x06-HackWithGo]()
+- [0x07-优秀Gopher]()
 
 ## 0x01-Golang书籍
 
@@ -231,7 +231,14 @@ RPC
 
 - goreporter https://github.com/360EntSecGroup-Skylar/goreporter
 
-## 0x05-HackWithGo
+## 0x05-Go优秀项目
+
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/hacklcx/HFish
+
+## 0x06-HackWithGo
 
 〇、HackWithGo
 
@@ -364,16 +371,9 @@ RPC
 - [ ] https://github.com/n0ncetonic/nmapxml
 - [ ] https://github.com/omaidf/FaizEye
 
-## 0x06-Go优秀项目
+## 0x07-优秀Gopher
 
-- [ ] https://github.com/gogs/gogs
-- [ ] https://github.com/gophish/gophish
-- [ ] https://github.com/iawia002/annie
-- [ ] https://github.com/hacklcx/HFish
-
-## 0x07-Golang大牛
-
-排名不分先后，记录自己在学习Go语言过程中遇到的这些大牛们。感谢感谢！
+排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Gopher们。感谢感谢！
 
 一、Go教程
 
