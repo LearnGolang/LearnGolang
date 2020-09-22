@@ -307,6 +307,8 @@ RPC
 三、漏洞扫描
 
 - [ ] https://github.com/awake1t/linglong
+- [ ] https://github.com/r0lh/CVE-2019-8449
+- [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/jaeles-project/jaeles
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/Ne0nd0g/merlin
