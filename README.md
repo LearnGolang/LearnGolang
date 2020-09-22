@@ -37,6 +37,7 @@
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《Go简易编程》](http://books.studygolang.com/the-little-go-book_ZH_CN/)
 - [ ] [《Go语言101》](https://github.com/golang101/golang101)
+- [ ] [《Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
@@ -120,6 +121,8 @@
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 - [ ] [automateGo](https://github.com/dreddsa5dies/automateGo)、[hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
 - [ ] https://github.com/studygolang/studygolang
+- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
+- [ ] [Go语言招聘](https://gocn.vip/jobs)
 
 ## 0x02-Golang视频
 
@@ -131,6 +134,7 @@
 ## 0x03-Golang论坛
 
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
+- [ ] [GopherChina](https://gopherchina.org/)
 - [ ] https://gocn.vip
 - [ ] https://igo.pub
 - [ ] https://talkgo.org
@@ -210,6 +214,7 @@ JSON解析
 日志
 
 - zap https://github.com/uber-go/zap
+- https://github.com/go-clog/clog
 
 错误处理
 
@@ -236,10 +241,9 @@ RPC
 视觉图像处理
 
 - bild https://github.com/anthonynsimon/bild
-
 - gmf https://github.com/3d0c/gmf
-
 - opencv https://github.com/hybridgroup/gocv
+- https://github.com/MindorksOpenSource/gogeom
 
 网络
 
@@ -259,6 +263,7 @@ RPC
 - [ ] https://github.com/gophish/gophish
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/hacklcx/HFish
+- [ ] https://github.com/schollz/croc
 
 ## 0x06-HackWithGo
 
@@ -309,7 +314,7 @@ RPC
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/r0lh/CVE-2019-8449
 - [ ] https://github.com/r0lh/vubase
-- [ ] https://github.com/jaeles-project/jaeles
+- [x] https://github.com/jaeles-project/jaeles
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
@@ -331,6 +336,7 @@ RPC
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
 - [ ] https://github.com/future-architect/vuls
 - [ ] https://github.com/jpillora/icmpscan
+- [ ] https://github.com/peterhellberg/xip.name
 
 四、端口扫描
 
@@ -363,6 +369,8 @@ RPC
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
 - [ ] https://github.com/jpillora/chisel
+- [ ] https://github.com/snail007/goproxy
+- [ ] https://github.com/esrrhs/pingtunnel
 
 七、远控木马
 
@@ -374,6 +382,10 @@ RPC
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
+
+九、网络爬虫
+
+- [ ] https://github.com/jaeles-project/gospider
 
 九、其他项目
 
