@@ -120,7 +120,6 @@
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 - [ ] [automateGo](https://github.com/dreddsa5dies/automateGo)、[hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
-- [ ] https://github.com/studygolang/studygolang
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
 
@@ -129,7 +128,7 @@
 - [ ] [《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
-- [ ] [Go Syntax [LiveBytes]](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 ## 0x03-Golang论坛
 
@@ -150,116 +149,109 @@
 - [ ] https://github.com/jobbole/awesome-go-cn
 - [ ] https://github.com/hyper0x/awesome-go-China
 
-Web框架：
+一、Web框架：
 
-- [Macaron](https://go-macaron.com/)：模块化 Web 框架
-- [Beego](http://beego.me/)：重量级 Web 框架
-- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
-- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
-- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
-- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
-- [Iris](https://github.com/kataras/iris)：Iris 是基于 Go 编写的一个快速，简单但功能齐全且非常高效的 Web 框架
-- Gin https://github.com/gin-gonic/gin
-- Beego https://github.com/astaxie/beego
-- martini https://github.com/go-martini/martini
-- https://go-macaron.com/
-- https://beego.me/
-- https://github.com/revel/revel
-- https://github.com/go-martini/martini
-- https://github.com/gin-gonic/gin
-- https://github.com/kataras/iris
+- [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/kataras/iris
+- [ ] https://github.com/astaxie/beego
+- [ ] https://github.com/revel/revel
+- [ ] https://github.com/go-martini/martini
+- [ ] https://go-macaron.com/
+- [ ] https://echo.labstack.com/
+- [ ] https://github.com/revel/revel
+- [ ] https://github.com/go-martini/martini
+- [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/kataras/iris
 
-HTTP
+二、爬虫框架
 
-- httprouter https://github.com/julienschmidt/httprouter
+- [ ] https://github.com/gocolly/colly
 
-- fasthttp https://github.com/valyala/fasthttp
+- [ ] https://github.com/PuerkitoBio/goquery
 
-- mux https://github.com/gorilla/mux
+二、HTTP
 
-JSON解析
+- [ ] https://github.com/julienschmidt/httprouter
+- [ ] https://github.com/valyala/fasthttp
+- [ ] https://github.com/gorilla/mux
+- [ ] https://github.com/alexedwards/scs
 
-- json-iterator https://github.com/json-iterator/go
+三、JSON解析
 
-- jsonparser https://github.com/buger/jsonparser
+- [ ] https://github.com/json-iterator/go
 
-数据库以及ORM
+- [ ] https://github.com/buger/jsonparser
 
-- LevelDB https://github.com/syndtr/goleveldb
+四、数据库以及ORM
 
-- BoltDB https://github.com/boltdb/bolt
+- [ ] https://github.com/syndtr/goleveldb
 
-- MySQL https://github.com/go-sql-driver/mysql
+- [ ] https://github.com/boltdb/bolt
 
-- tidb https://github.com/pingcap/tidb
+- [ ] https://github.com/go-sql-driver/mysql
 
-- ssdb https://github.com/ideawu/ssdb
+- [ ] https://github.com/pingcap/tidb
 
-- gorm https://github.com/jinzhu/gorm
+- [ ] https://github.com/ideawu/ssdb
 
-爬虫
+- [ ] https://github.com/jinzhu/gorm
 
-- Colly https://github.com/gocolly/colly
+五、中间件
 
-- Goquery https://github.com/PuerkitoBio/goquery
+- [ ] https://github.com/go-redis/redis
 
-中间件
+- [ ] https://github.com/olivere/elastic
 
-- redis https://github.com/go-redis/redis
+- [ ] https://github.com/justinas/alice
 
-- ElasticSearch https://github.com/olivere/elastic
+六、日志框架
 
-- Alice https://github.com/justinas/alice
+- [ ]  https://github.com/uber-go/zap
+- [ ] https://github.com/go-clog/clog
 
-日志
+七、错误处理
 
-- zap https://github.com/uber-go/zap
-- https://github.com/go-clog/clog
+- [ ] https://github.com/pkg/errors
 
-错误处理
+八、消息队列
 
-- errors https://github.com/pkg/errors
+- [ ]  https://github.com/nsqio/nsq
 
-消息队列
+九、Service Mesh
 
-- Nsq https://github.com/nsqio/nsq
+- [ ] https://github.com/istio/istio
 
-Service Mesh
+十、RPC
 
-- Istio https://github.com/istio/istio
+- [ ] https://github.com/smallnest/rpcx
 
-RPC
+- [ ] https://github.com/grpc/grpc-go
 
-- rpcx https://github.com/smallnest/rpcx
+十一、协程池
 
-- grpc https://github.com/grpc/grpc-go
+- [ ]  https://github.com/panjf2000/ants
 
-协程池
+十二、视觉图像处理
 
-- ants https://github.com/panjf2000/ants
+- [ ] https://github.com/anthonynsimon/bild
+- [ ] https://github.com/3d0c/gmf
+- [ ] https://github.com/hybridgroup/gocv
+- [ ] https://github.com/MindorksOpenSource/gogeom
 
-视觉图像处理
+十三、网络
 
-- bild https://github.com/anthonynsimon/bild
-- gmf https://github.com/3d0c/gmf
-- opencv https://github.com/hybridgroup/gocv
-- https://github.com/MindorksOpenSource/gogeom
+- [ ] https://github.com/xtaci/kcp-go
 
-网络
 
-- KCP https://github.com/xtaci/kcp-go
+十四、测试
 
-- frp https://github.com/fatedier/frp
+- [ ] https://github.com/h2non/gock
 
-测试
+- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
-- gock https://github.com/h2non/gock
+十五、邮箱
 
-- goreporter https://github.com/360EntSecGroup-Skylar/goreporter
-
-邮箱
-
-- https://github.com/jordan-wright/email
+- [ ] https://github.com/jordan-wright/email
 
 ## 0x05-Golang项目
 
@@ -350,6 +342,7 @@ RPC
 - [ ] https://github.com/future-architect/vuls
 - [ ] https://github.com/jpillora/icmpscan
 - [ ] https://github.com/peterhellberg/xip.name
+- [ ] https://github.com/aquasecurity/trivy
 
 四、端口扫描
 
@@ -366,6 +359,7 @@ RPC
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/codexlynx/brutemq
 - [ ] https://github.com/bigb0sss/goPassGen
+- [ ] https://github.com/fireeye/gocrack
 
 六、隧道代理
 
