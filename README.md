@@ -257,6 +257,10 @@ RPC
 
 - goreporter https://github.com/360EntSecGroup-Skylar/goreporter
 
+邮箱
+
+- https://github.com/jordan-wright/email
+
 ## 0x05-Golang项目
 
 - [ ] https://github.com/gogs/gogs
@@ -264,6 +268,7 @@ RPC
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/schollz/croc
+- [ ] https://github.com/lsds/KungFu
 
 ## 0x06-HackWithGo
 
@@ -293,10 +298,11 @@ RPC
 一、目录扫描
 
 - [ ] https://github.com/ffuf/ffuf
-- [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/Matir/webborer
+- [ ] https://github.com/evilsocket/dirsearch
+- [ ] https://github.com/RedTeamPentesting/monsoon
 
 二、域名扫描
 
@@ -308,11 +314,13 @@ RPC
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
 - [ ] https://github.com/QSoloX/whoisyou
+- [ ] https://github.com/gwen001/github-subdomains
 
 三、漏洞扫描
 
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/r0lh/CVE-2019-8449
+- [ ] https://github.com/optiv/CVE-2020-15931
 - [ ] https://github.com/r0lh/vubase
 - [x] https://github.com/jaeles-project/jaeles
 - [ ] https://github.com/projectdiscovery/nuclei
@@ -343,6 +351,7 @@ RPC
 
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
+- [ ] https://github.com/zmap/zgrab2
 
 五、密码爆破
 
@@ -352,6 +361,7 @@ RPC
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/codexlynx/brutemq
+- [ ] https://github.com/bigb0sss/goPassGen
 
 六、隧道代理
 
@@ -414,6 +424,11 @@ RPC
 - [ ] https://github.com/jpillora/renamer
 - [ ] https://github.com/jpillora/go-tcp-proxy
 - [ ] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/schollz/croc
+- [ ] https://github.com/juju/utils
+- [ ] https://github.com/evilsocket/xray
+- [ ] https://github.com/dreadl0ck/netcap
+- [x] https://github.com/evilsocket/brutemachine
 
 ## 0x07-Golang老师
 
