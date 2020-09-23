@@ -43,6 +43,7 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学 Go》](https://eddycjy.com/go-categories)
+- [ ] [《Go by Example 中文版》](https://github.com/gobyexample-cn/gobyexample)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
 
 二、高手进阶：
@@ -299,6 +300,7 @@
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/Matir/webborer
 - [ ] https://github.com/evilsocket/dirsearch
+- [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
 
 二、域名扫描
@@ -316,10 +318,11 @@
 三、漏洞扫描
 
 - [ ] https://github.com/awake1t/linglong
-- [ ] https://github.com/r0lh/CVE-2019-8449
 - [ ] https://github.com/optiv/CVE-2020-15931
 - [ ] https://github.com/r0lh/vubase
 - [x] https://github.com/jaeles-project/jaeles
+- [x] https://github.com/r0lh/CVE-2019-8449
+- [x] https://github.com/labrusca/Struts2-045-checker
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/Ne0nd0g/merlin
@@ -327,7 +330,7 @@
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/awake1t/PortBrute
-- [ ] https://gobies.org/
+- [ ] https://github.com/gobysec/Goby
 - [ ] https://github.com/opensec-cn/kunpeng
 - [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/Adminisme/ServerScan
@@ -344,12 +347,26 @@
 - [ ] https://github.com/jpillora/icmpscan
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/aquasecurity/trivy
+- [ ] https://github.com/LakeVilladom/goSkylar
+- [ ] https://github.com/jmpews/goscan
+- [ ] https://github.com/HToTH/fuckcdn
+- [x] https://github.com/irealing/banner
+- [x] https://github.com/lovetrap/SafeScan
+- [x] https://github.com/45253321/gogoscan
+- [ ] https://github.com/AkinoMaple/dedecms-admin-scan
+- [ ] https://github.com/irealing/shorturl
+- [ ] https://github.com/luc10/struts-rce-cve-2017-9805
+- [ ] https://github.com/realjf/sils
 
 四、端口扫描
 
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
 - [ ] https://github.com/zmap/zgrab2
+- [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/ariagecheney/fyneIPinfo
+- [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/youshu/GoScanner
 
 五、密码爆破
 
@@ -361,6 +378,7 @@
 - [ ] https://github.com/codexlynx/brutemq
 - [ ] https://github.com/bigb0sss/goPassGen
 - [ ] https://github.com/fireeye/gocrack
+- [ ] https://github.com/china-muwenbo/goScanPort
 
 六、隧道代理
 
@@ -396,6 +414,7 @@
 九、网络爬虫
 
 - [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/china-muwenbo/gospider
 
 九、其他项目
 
@@ -428,6 +447,7 @@
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/dreadl0ck/netcap
 - [x] https://github.com/evilsocket/brutemachine
+- [ ] https://github.com/chenziyi920/file-scanMD5
 
 ## 0x07-Golang老师
 
