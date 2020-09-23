@@ -287,6 +287,10 @@ RPC
 - [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/hacking-tool?l=go
 - [ ] https://github.com/topics/security-tools?l=go
+- [ ] https://github.com/topics/security-audit?l=go
+- [ ] https://github.com/topics/bruteforce?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/information-gathering?l=go
 - [ ] https://github.com/topics/cve?l=go
 - [ ] https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/topics/vulnerability?l=go
