@@ -314,6 +314,7 @@
 - [ ] https://github.com/subfinder/goaltdns
 - [ ] https://github.com/QSoloX/whoisyou
 - [ ] https://github.com/gwen001/github-subdomains
+- [ ] https://github.com/Freek3r/GoDigDomain
 
 三、漏洞扫描
 
@@ -371,6 +372,7 @@
 五、密码爆破
 
 - [ ] https://github.com/netxfly/x-crack
+- [ ] https://github.com/oksbsb/crack
 - [ ] https://github.com/ncsa/ssh-auditor
 - [ ] https://gitlab.com/opennota/hydra
 - [ ] https://github.com/lazytools/sshchecker
@@ -379,6 +381,8 @@
 - [ ] https://github.com/bigb0sss/goPassGen
 - [ ] https://github.com/fireeye/gocrack
 - [ ] https://github.com/china-muwenbo/goScanPort
+- [ ] https://github.com/zhangqin/mysqlfuzz
+- [ ] https://github.com/wrfly/ssh-goburp
 
 六、隧道代理
 
