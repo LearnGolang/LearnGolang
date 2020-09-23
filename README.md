@@ -289,6 +289,7 @@
 - [ ] https://github.com/topics/xss?l=go
 - [ ] https://github.com/topics/poc?l=go
 - [ ] https://github.com/topics/tunnel?l=go
+- [ ] https://github.com/search?l=Go&q=cve&type=Repositories
 - [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
 
 一、目录扫描
