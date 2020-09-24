@@ -300,7 +300,7 @@
 - [ ] https://github.com/mit-pdos/biscuit
 - [ ] https://github.com/bradfitz/shotizam
 
-## 0x06-HackWithGo
+## 0x06-Go安全工具
 
 〇、HackWithGo
 
@@ -322,7 +322,34 @@
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
 
-二、域名扫描
+二、端口扫描
+
+- [ ] https://github.com/awake1t/PortBrute
+- [ ] https://github.com/liamg/furious
+- [ ] https://github.com/zmap/zgrab2
+- [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/ariagecheney/fyneIPinfo
+- [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/Ullaakut/nmap
+
+三、密码爆破
+
+- [ ] https://github.com/netxfly/x-crack
+- [ ] https://github.com/oksbsb/crack
+- [ ] https://github.com/ncsa/ssh-auditor
+- [ ] https://gitlab.com/opennota/hydra
+- [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/codexlynx/brutemq
+- [ ] https://github.com/bigb0sss/goPassGen
+- [ ] https://github.com/fireeye/gocrack
+- [ ] https://github.com/china-muwenbo/goScanPort
+- [ ] https://github.com/zhangqin/mysqlfuzz
+- [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/sysdream/ligolo
+
+四、域名扫描
 
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
@@ -335,16 +362,16 @@
 - [ ] https://github.com/gwen001/github-subdomains
 - [ ] https://github.com/Freek3r/GoDigDomain
 
-三、漏洞扫描
+五、漏洞扫描
 
-- [ ] https://github.com/awake1t/linglong
-- [ ] https://github.com/optiv/CVE-2020-15931
-- [ ] https://github.com/r0lh/vubase
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/r0lh/CVE-2019-8449
 - [x] https://github.com/labrusca/Struts2-045-checker
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/awake1t/linglong
+- [ ] https://github.com/optiv/CVE-2020-15931
+- [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
@@ -380,33 +407,6 @@
 - [ ] https://github.com/dreddsa5dies/urlScrub
 - [ ] https://github.com/hahwul/WebHackersWeapons
 
-四、端口扫描
-
-- [ ] https://github.com/awake1t/PortBrute
-- [ ] https://github.com/liamg/furious
-- [ ] https://github.com/zmap/zgrab2
-- [ ] https://github.com/vus520/go-scan
-- [ ] https://github.com/ariagecheney/fyneIPinfo
-- [ ] https://github.com/FDlucifer/goportscan
-- [ ] https://github.com/youshu/GoScanner
-- [ ] https://github.com/Ullaakut/nmap
-
-五、密码爆破
-
-- [ ] https://github.com/netxfly/x-crack
-- [ ] https://github.com/oksbsb/crack
-- [ ] https://github.com/ncsa/ssh-auditor
-- [ ] https://gitlab.com/opennota/hydra
-- [ ] https://github.com/lazytools/sshchecker
-- [ ] https://github.com/Shadow26Wolf/quickbrute
-- [ ] https://github.com/codexlynx/brutemq
-- [ ] https://github.com/bigb0sss/goPassGen
-- [ ] https://github.com/fireeye/gocrack
-- [ ] https://github.com/china-muwenbo/goScanPort
-- [ ] https://github.com/zhangqin/mysqlfuzz
-- [ ] https://github.com/wrfly/ssh-goburp
-- [ ] https://github.com/sysdream/ligolo
-
 六、隧道代理
 
 - [ ] https://github.com/fatedier/frp
@@ -427,18 +427,16 @@
 - [ ] https://github.com/snail007/goproxy
 - [ ] https://github.com/esrrhs/pingtunnel
 
-七、远控木马
-
 - [ ] https://github.com/whitehatnote/BlueShell
 - [ ] https://github.com/averagesecurityguy/c2
 
-八、免杀框架
+七、病毒免杀
 
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
 
-九、网络爬虫
+八、网络爬虫
 
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/china-muwenbo/gospider
@@ -480,7 +478,7 @@
 - [ ] https://github.com/vulsio/msfdb-list-updater
 - [ ] https://github.com/aquasecurity/vuln-list-update
 
-## 0x07-Golang老师
+## 0x07-Go优秀老师
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
