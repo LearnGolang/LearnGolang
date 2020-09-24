@@ -95,6 +95,7 @@
 
 六、英文书籍
 
+- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -277,10 +278,10 @@
 
 〇、HackWithGo
 
-- [ ] https://github.com/parsiya/Hacking-with-Go
-- [ ] https://github.com/AV1080p/Hacking-With-Golang
-- [ ] https://github.com/lazybootsafe/Go-Learning-With-Hack
-- [ ] https://github.com/dreddsa5dies/goHackTools
+- [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
+- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
+- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
+- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/trending/go
