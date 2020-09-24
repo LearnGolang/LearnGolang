@@ -18,6 +18,7 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@茹茹
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
@@ -32,7 +33,6 @@
 - [ ] [《Go怎么开始》](https://github.com/alco/gostart)
 - [ ] [《Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
-- [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
@@ -44,18 +44,18 @@
 
 二、高手进阶：
 
-- [ ] [《Go官方博客》](https://blog.golang.org)
-- [ ] [《Go官方包文档》](https://golang.org/pkg)
-- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+- [x] [《Go官方博客》](https://blog.golang.org)
+- [x] [《Go官方包文档》](https://golang.org/pkg)
+- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
 - [ ] [《Go 语言原本》](https://github.com/golang-design/under-the-hood)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
-- [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
+- [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
-- [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)
+- [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)@geektutu
 - [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)@cizixs
 - [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
 - [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)
