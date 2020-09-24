@@ -72,6 +72,7 @@
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
 - [ ] [《数据结构和算法（Golang实现）》](https://github.com/hunterhug/goa.c)
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
+- [ ] [algorithm](https://github.com/dreddsa5dies/algorithm) @algorithm
 
 四、Web编程：
 
@@ -96,6 +97,7 @@
 六、英文书籍
 
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
+- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -282,6 +284,8 @@
 - [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
 - [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
+- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/trending/go
@@ -369,6 +373,7 @@
 - [ ] https://github.com/irealing/shorturl
 - [ ] https://github.com/luc10/struts-rce-cve-2017-9805
 - [ ] https://github.com/realjf/sils
+- [ ] https://github.com/dreddsa5dies/urlScrub
 
 四、端口扫描
 
@@ -379,6 +384,7 @@
 - [ ] https://github.com/ariagecheney/fyneIPinfo
 - [ ] https://github.com/FDlucifer/goportscan
 - [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/Ullaakut/nmap
 
 五、密码爆破
 
