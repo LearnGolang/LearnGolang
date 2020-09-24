@@ -47,6 +47,7 @@
 - [x] [《Go官方博客》](https://blog.golang.org)
 - [x] [《Go官方包文档》](https://golang.org/pkg)
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
+- [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
@@ -170,6 +171,7 @@
 - [ ] https://github.com/go-martini/martini
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/kataras/iris
+- [ ] https://github.com/savsgio/atreugo
 
 二、爬虫框架
 
@@ -270,6 +272,7 @@
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
+- [ ] https://github.com/bradfitz/shotizam
 
 ## 0x06-HackWithGo
 
