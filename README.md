@@ -291,6 +291,7 @@
 - [ ] https://github.com/topics/vulnerability?l=go
 - [ ] https://github.com/topics/xss?l=go
 - [ ] https://github.com/topics/poc?l=go
+- [ ] https://github.com/topics/redteam?l=go
 - [ ] https://github.com/topics/tunnel?l=go
 - [ ] https://github.com/search?l=Go&q=cve&type=Repositories
 - [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
@@ -305,6 +306,7 @@
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
 - [ ] https://github.com/bradfitz/shotizam
+- [ ] https://github.com/sqreen/go-agent
 
 ## 0x06-Golang黑客
 
@@ -418,6 +420,8 @@
 - [ ] https://github.com/dreddsa5dies/urlScrub
 - [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/yahoo/gryffin
+- [ ] https://github.com/hack2fun/Gscan
+- [ ] https://github.com/hack2fun/EventLogBypass
 
 六、隧道代理
 
@@ -441,6 +445,7 @@
 - [ ] https://github.com/whitehatnote/BlueShell
 - [ ] https://github.com/averagesecurityguy/c2
 - [ ] https://github.com/tiagorlampert/CHAOS
+- [ ] https://github.com/e3prom/ruse
 
 七、病毒免杀
 
@@ -488,6 +493,7 @@
 - [ ] https://github.com/vulsio/msfdb-list-updater
 - [ ] https://github.com/aquasecurity/vuln-list-update
 - [ ] https://github.com/vyrus001/go-mimikatz
+- [ ] https://github.com/jas502n/xray-crack
 
 ## 0x07-Golang老师
 
