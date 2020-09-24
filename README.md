@@ -267,27 +267,8 @@
 
 ## 0x05-Golang项目
 
-- [ ] https://github.com/gogs/gogs
-- [ ] https://github.com/gophish/gophish
-- [ ] https://github.com/iawia002/annie
-- [ ] https://github.com/hacklcx/HFish
-- [ ] https://github.com/schollz/croc
-- [ ] https://github.com/lsds/KungFu
-- [ ] https://github.com/mit-pdos/biscuit
-- [ ] https://github.com/bradfitz/shotizam
+一、项目搜索
 
-## 0x06-HackWithGo
-
-〇、HackWithGo
-
-- [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
-- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
-- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
-- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
-- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
-- [ ] https://github.com/parsiya/Go-Security
-- [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/trending/go
 - [x] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
@@ -307,6 +288,29 @@
 - [ ] https://github.com/topics/tunnel?l=go
 - [ ] https://github.com/search?l=Go&q=cve&type=Repositories
 - [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
+
+二、优秀项目
+
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/hacklcx/HFish
+- [ ] https://github.com/schollz/croc
+- [ ] https://github.com/lsds/KungFu
+- [ ] https://github.com/mit-pdos/biscuit
+- [ ] https://github.com/bradfitz/shotizam
+
+## 0x06-HackWithGo
+
+〇、HackWithGo
+
+- [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
+- [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
+- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
+- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
+- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
+- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 
 一、目录扫描
 
@@ -374,6 +378,7 @@
 - [ ] https://github.com/luc10/struts-rce-cve-2017-9805
 - [ ] https://github.com/realjf/sils
 - [ ] https://github.com/dreddsa5dies/urlScrub
+- [ ] https://github.com/hahwul/WebHackersWeapons
 
 四、端口扫描
 
