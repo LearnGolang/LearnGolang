@@ -10,7 +10,8 @@
 - [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
 - [0x06-HackWithGo](https://github.com/0e0w/LearnGolang#0x06-hackwithgo)
 
-## 0x01-Golang书籍
+<details>
+<summary>## 0x01-Golang书籍</summary>
 
 一、基础入门：
 
@@ -128,15 +129,17 @@
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
 - [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
-
-## 0x02-Golang视频
+  </details>
+<details>
+<summary>## 0x02-Golang视频</summary>
 
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
-
-## 0x03-Golang论坛
+  </details>
+<details>
+<summary>## 0x03-Golang论坛</summary>
 
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
@@ -150,8 +153,9 @@
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
-
-## 0x04-Golang框架
+  </details>
+<details>
+<summary>## 0x04-Golang框架</summary>
 
 - [ ] https://github.com/avelino/awesome-go
 - [ ] https://github.com/jobbole/awesome-go-cn
@@ -260,8 +264,9 @@
 十五、邮箱
 
 - [ ] https://github.com/jordan-wright/email
-
-## 0x05-Golang项目
+  </details>
+<details>
+<summary>## 0x05-Golang项目</summary>
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
@@ -270,8 +275,9 @@
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
-
-## 0x06-HackWithGo
+  </details>
+<details>
+<summary>## 0x06-HackWithGo</summary>
 
 〇、HackWithGo
 
@@ -465,8 +471,9 @@
 - [ ] https://github.com/vulsio/go-exploitdb
 - [ ] https://github.com/vulsio/msfdb-list-updater
 - [ ] https://github.com/aquasecurity/vuln-list-update
-
-## 0x07-Golang老师
+  </details>
+<details>
+<summary>## 0x07-Golang老师</summary>
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
@@ -485,3 +492,5 @@
 - https://github.com/schollz
 - https://github.com/projectdiscovery
 - https://github.com/aquasecurity
+
+  </details>
