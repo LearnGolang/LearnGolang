@@ -20,15 +20,11 @@
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@茹茹
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
-- [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
-- [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
-- [ ] [《学习Go语言-中文版》](https://mikespook.com/learning-go)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
-- [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Go by Example 中文》](https://books.studygolang.com/gobyexample/)
 - [ ] [《Mastering_Go_ZH_CN》](http://books.studygolang.com/Mastering_Go_ZH_CN/)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
@@ -38,6 +34,7 @@
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
+- [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
@@ -50,6 +47,7 @@
 - [ ] [《Go官方博客》](https://blog.golang.org)
 - [ ] [《Go官方包文档》](https://golang.org/pkg)
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+- [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
 - [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
@@ -97,6 +95,7 @@
 六、英文书籍
 
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
+- [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [An Introduction to Programming in Go](http://www.golang-book.com/)
 - [ ] [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
