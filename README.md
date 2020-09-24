@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。
 
-本项目创建于2020年8月10日。最近一次更新时间为9月22日。
+本项目创建于2020年8月10日。最近一次更新时间为9月24日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -15,8 +15,8 @@
 一、基础入门：
 
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)
-- [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+- [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
 - [ ] [《通过例子学习Go标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《Go 语言简明教程》](https://geektutu.com/post/quick-golang.html)
@@ -262,6 +262,7 @@
 - [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
+- [ ] https://github.com/mit-pdos/biscuit
 
 ## 0x06-HackWithGo
 
@@ -383,6 +384,7 @@
 - [ ] https://github.com/china-muwenbo/goScanPort
 - [ ] https://github.com/zhangqin/mysqlfuzz
 - [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/sysdream/ligolo
 
 六、隧道代理
 
@@ -452,6 +454,10 @@
 - [ ] https://github.com/dreadl0ck/netcap
 - [x] https://github.com/evilsocket/brutemachine
 - [ ] https://github.com/chenziyi920/file-scanMD5
+- [ ] https://github.com/marco-lancini/goscan
+- [ ] https://github.com/vulsio/go-exploitdb
+- [ ] https://github.com/vulsio/msfdb-list-updater
+- [ ] https://github.com/aquasecurity/vuln-list-update
 
 ## 0x07-Golang老师
 
@@ -471,3 +477,4 @@
 - [https://github.com/netxfly](https://github.com/netxfly)
 - https://github.com/schollz
 - https://github.com/projectdiscovery
+- https://github.com/aquasecurity
