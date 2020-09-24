@@ -70,9 +70,9 @@
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
-- [ ] [《数据结构和算法（Golang实现）》](https://github.com/hunterhug/goa.c)
+- [ ] [《数据结构和算法》](https://github.com/hunterhug/goa.c)
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
-- [ ] [algorithm](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 
 四、Web编程：
 
