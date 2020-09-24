@@ -18,12 +18,8 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
-- [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)
-- [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)
-- [ ] [《Go学习之路》](https://github.com/yangwenmai/learning-golang)
-- [ ] [《学习Go语言第二版》](https://github.com/mikespook/Learning-Go-zh-cn)
-- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@茹茹
+- [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《学习Go语言-中文版》](https://mikespook.com/learning-go)
@@ -40,6 +36,8 @@
 - [ ] [《Go怎么开始》](https://github.com/alco/gostart)
 - [ ] [《Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
+- [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)
+- [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
@@ -98,7 +96,7 @@
 
 六、英文书籍
 
-- [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
+- [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [An Introduction to Programming in Go](http://www.golang-book.com/)
 - [ ] [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
@@ -134,7 +132,7 @@
 
 ## 0x02-Golang视频
 
-- [ ] [《Go 编程基础》](https://github.com/Unknwon/go-fundamental-programming)@无闻
+- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
@@ -142,6 +140,7 @@
 ## 0x03-Golang论坛
 
 - [ ] [Go夜读](https://github.com/talkgo/night)
+- [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [GopherChina](https://gopherchina.org/)
 - [ ] https://gocn.vip
