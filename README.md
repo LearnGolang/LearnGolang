@@ -8,7 +8,7 @@
 - [0x03-Golang论坛](https://github.com/0e0w/LearnGolang#0x03-golang%E8%AE%BA%E5%9D%9B)
 - [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
 - [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
-- [0x06-Go安全工具](https://github.com/0e0w/LearnGolang#0x06-go%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [0x06-Golang黑客](https://github.com/0e0w/LearnGolang#0x06-golang%E9%BB%91%E5%AE%A2)
 
 ## 0x01-Golang书籍
 
@@ -306,7 +306,7 @@
 - [ ] https://github.com/mit-pdos/biscuit
 - [ ] https://github.com/bradfitz/shotizam
 
-## 0x06-Go安全工具
+## 0x06-Golang黑客
 
 〇、HackWithGo
 
@@ -449,6 +449,7 @@
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/brimstone/go-shellcode
 - [ ] https://github.com/ryhanson/phishery
+- [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 
 八、其他项目
 
@@ -488,7 +489,7 @@
 - [ ] https://github.com/aquasecurity/vuln-list-update
 - [ ] https://github.com/vyrus001/go-mimikatz
 
-## 0x07-Go优秀老师
+## 0x07-Golang老师
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
