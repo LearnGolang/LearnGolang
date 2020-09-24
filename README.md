@@ -267,6 +267,10 @@
 
 - [ ] https://github.com/jordan-wright/email
 
+十六、图形化
+
+- [ ] https://github.com/andlabs/ui
+
 ## 0x05-Golang项目
 
 一、项目搜索
@@ -323,6 +327,7 @@
 - [ ] https://github.com/evilsocket/dirsearch
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
+- [ ] https://github.com/hakluke/hakrawler
 
 二、端口扫描
 
@@ -334,6 +339,9 @@
 - [ ] https://github.com/FDlucifer/goportscan
 - [ ] https://github.com/youshu/GoScanner
 - [ ] https://github.com/Ullaakut/nmap
+- [ ] https://github.com/lavalamp-/ipv666
+- [ ] https://github.com/timest/goscan
+- [ ] https://github.com/projectdiscovery/naabu
 
 三、密码爆破
 
@@ -363,6 +371,7 @@
 - [ ] https://github.com/QSoloX/whoisyou
 - [ ] https://github.com/gwen001/github-subdomains
 - [ ] https://github.com/Freek3r/GoDigDomain
+- [ ] https://github.com/tomsteele/blacksheepwall
 
 五、漏洞扫描
 
@@ -408,6 +417,7 @@
 - [ ] https://github.com/realjf/sils
 - [ ] https://github.com/dreddsa5dies/urlScrub
 - [ ] https://github.com/hahwul/WebHackersWeapons
+- [ ] https://github.com/yahoo/gryffin
 
 六、隧道代理
 
@@ -428,15 +438,17 @@
 - [ ] https://github.com/jpillora/chisel
 - [ ] https://github.com/snail007/goproxy
 - [ ] https://github.com/esrrhs/pingtunnel
-
 - [ ] https://github.com/whitehatnote/BlueShell
 - [ ] https://github.com/averagesecurityguy/c2
+- [ ] https://github.com/tiagorlampert/CHAOS
 
 七、病毒免杀
 
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
+- [ ] https://github.com/brimstone/go-shellcode
+- [ ] https://github.com/ryhanson/phishery
 
 八、其他项目
 
@@ -474,6 +486,7 @@
 - [ ] https://github.com/vulsio/go-exploitdb
 - [ ] https://github.com/vulsio/msfdb-list-updater
 - [ ] https://github.com/aquasecurity/vuln-list-update
+- [ ] https://github.com/vyrus001/go-mimikatz
 
 ## 0x07-Go优秀老师
 
