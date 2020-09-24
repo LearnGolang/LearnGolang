@@ -180,6 +180,8 @@
 
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/PuerkitoBio/goquery
+- [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/china-muwenbo/gospider
 
 二、HTTP
 
@@ -436,12 +438,7 @@
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
 
-八、网络爬虫
-
-- [ ] https://github.com/jaeles-project/gospider
-- [ ] https://github.com/china-muwenbo/gospider
-
-九、其他项目
+八、其他项目
 
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/bettercap/bettercap
