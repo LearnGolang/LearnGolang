@@ -18,19 +18,18 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@茹茹
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
-- [ ] [《Go by Example 中文》](https://books.studygolang.com/gobyexample/)
 - [ ] [《Mastering_Go_ZH_CN》](http://books.studygolang.com/Mastering_Go_ZH_CN/)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《Go语言101》](https://github.com/golang101/golang101)
-- [ ] [《Go怎么开始》](https://github.com/alco/gostart)
 - [ ] [《Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
@@ -39,7 +38,6 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学 Go》](https://eddycjy.com/go-categories)
-- [ ] [《Go by Example 中文版》](https://github.com/gobyexample-cn/gobyexample)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
 
 二、高手进阶：
@@ -96,6 +94,7 @@
 
 六、英文书籍
 
+- [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
