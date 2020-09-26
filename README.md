@@ -366,6 +366,7 @@
 四、域名扫描
 
 - [ ] https://github.com/yunxu1/dnsub
+- [ ] https://github.com/SanSYS/subdscan
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/knownsec/ksubdomain
 - [ ] https://github.com/hahwul/ras-fuzzer
