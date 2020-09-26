@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为9月24日。
+本项目创建于2020年8月10日。最近一次更新时间为9月26日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -44,12 +44,12 @@
 
 - [x] [《Go官方博客》](https://blog.golang.org)
 - [x] [《Go官方包文档》](https://golang.org/pkg)
+- [x] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
-- [ ] [《GO专家编程》](http://books.studygolang.com/GoExpertProgramming)
 - [ ] [《Go 语言原本》](https://github.com/golang-design/under-the-hood)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
