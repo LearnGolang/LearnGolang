@@ -446,6 +446,7 @@
 - [ ] https://github.com/averagesecurityguy/c2
 - [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/e3prom/ruse
+- [ ] https://github.com/google/martian
 
 七、病毒免杀
 
@@ -494,6 +495,7 @@
 - [ ] https://github.com/aquasecurity/vuln-list-update
 - [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/jas502n/xray-crack
+- [ ] https://github.com/codingo/bbr
 
 ## 0x07-Golang老师
 
