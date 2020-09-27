@@ -347,6 +347,7 @@
 - [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/projectdiscovery/naabu
+- [ ] https://github.com/nray-scanner/nray
 
 三、密码爆破
 
