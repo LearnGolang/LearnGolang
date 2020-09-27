@@ -350,7 +350,7 @@
 
 三、密码爆破
 
-- [ ] https://github.com/netxfly/x-crack
+- [x] https://github.com/netxfly/x-crack
 - [ ] https://github.com/oksbsb/crack
 - [ ] https://github.com/ncsa/ssh-auditor
 - [ ] https://gitlab.com/opennota/hydra
