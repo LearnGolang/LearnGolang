@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为9月27日。
+本项目创建于2020年8月10日。最近一次更新时间为9月28日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -191,6 +191,7 @@
 - [ ] https://github.com/valyala/fasthttp
 - [ ] https://github.com/gorilla/mux
 - [ ] https://github.com/alexedwards/scs
+- [ ] https://github.com/zhshch2002/goreq
 
 三、JSON解析
 
@@ -427,6 +428,7 @@
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/hack2fun/EventLogBypass
+- [ ] https://github.com/hakluke/hakrawler
 
 六、隧道代理
 
