@@ -509,6 +509,7 @@
 - [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/jas502n/xray-crack
 - [ ] https://github.com/codingo/bbr
+- [ ] https://github.com/dstotijn/hetty
 
 ## 0X07-Golang逆向
 
