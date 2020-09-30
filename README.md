@@ -24,6 +24,7 @@
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
+- [ ] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
@@ -334,6 +335,7 @@
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/hakluke/hakrawler
+- [ ] https://github.com/yuxiaokui/webfinger
 
 二、端口扫描
 
