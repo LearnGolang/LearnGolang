@@ -9,6 +9,7 @@
 - [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
 - [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
 - [0x06-Golang黑客](https://github.com/0e0w/LearnGolang#0x06-golang%E9%BB%91%E5%AE%A2)
+- [0x07-Golang逆向]()
 
 ## 0x01-Golang书籍
 
@@ -509,7 +510,12 @@
 - [ ] https://github.com/jas502n/xray-crack
 - [ ] https://github.com/codingo/bbr
 
-## 0x07-Golang老师
+## 0X07-Golang逆向
+
+- [ ] https://github.com/CarveSystems/gostringsr2
+
+
+## 0x08-Golang老师
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
