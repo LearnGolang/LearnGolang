@@ -73,6 +73,7 @@
 - [ ] [《数据结构和算法》](https://github.com/hunterhug/goa.c)
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)
 
 四、Web编程：
 
@@ -509,7 +510,7 @@
 - [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/jas502n/xray-crack
 - [ ] https://github.com/codingo/bbr
-- [ ] https://github.com/dstotijn/hetty
+- [x] https://github.com/dstotijn/hetty
 
 ## 0X07-Golang逆向
 
