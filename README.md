@@ -134,6 +134,7 @@
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
 - [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
+- [ ] https://github.com/golang-design/history
 
 ## 0x02-Golang视频
 
