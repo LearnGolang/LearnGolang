@@ -231,10 +231,12 @@
 
 - [ ]  https://github.com/uber-go/zap
 - [ ] https://github.com/go-clog/clog
+- [ ] https://github.com/rs/zerolog
 
 七、错误处理
 
 - [ ] https://github.com/pkg/errors
+- [ ] https://github.com/rotisserie/eris
 
 八、消息队列
 
@@ -279,6 +281,12 @@
 十六、图形化
 
 - [ ] https://github.com/andlabs/ui
+
+十七、RSS
+
+- [ ] https://github.com/mmcdole/gofeed
+
+- [ ] https://github.com/gorilla/feeds
 
 ## 0x05-Golang项目
 
@@ -515,10 +523,12 @@
 - [ ] https://github.com/codingo/bbr
 - [x] https://github.com/dstotijn/hetty
 - [x] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/BishopFox/sliver
 
 ## 0X07-Golang逆向
 
 - [ ] https://github.com/CarveSystems/gostringsr2
+- [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
 
 ## 0x08-Golang老师
