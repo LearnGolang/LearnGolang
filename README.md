@@ -98,6 +98,7 @@
 
 六、英文书籍
 
+- [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
@@ -112,7 +113,6 @@
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《Go 101》](https://go101.org/) 
-- [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
 - [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
