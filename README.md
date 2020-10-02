@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的基础教程和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为10月01日。
+本项目创建于2020年8月10日。最近一次更新时间为10月02日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -18,6 +18,7 @@
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
+- [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
@@ -25,7 +26,6 @@
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
-- [ ] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
