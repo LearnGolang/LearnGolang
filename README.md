@@ -50,7 +50,7 @@
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
-- [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@changkun
+- [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
