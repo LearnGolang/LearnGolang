@@ -19,13 +19,11 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
-<details>
-<summary>基础入门其他书籍</summary>
-- [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
-- [ ] - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
+- [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
@@ -43,7 +41,7 @@
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学 Go》](https://eddycjy.com/go-categories)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
-  </details>
+
 二、高手进阶：
 
 - [x] [《Go官方博客》](https://blog.golang.org)
