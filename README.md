@@ -48,21 +48,20 @@
 - [x] [《Go官方包文档》](https://golang.org/pkg)
 - [x] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
+- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
-- [ ] [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
-- [ ] [《Go 语言原本》](https://github.com/golang-design/under-the-hood)
-- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)
+- [ ] [《Go语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
+- [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
 - [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
 - [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)@geektutu
 - [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)@cizixs
 - [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
 - [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)
-- [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions)
+- [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)
-- [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 
 三、算法学习：
 
@@ -98,6 +97,7 @@
 
 六、英文书籍
 
+- [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
