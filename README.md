@@ -89,6 +89,7 @@
 - [x] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [x] [实体书《Go 语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
 - [x] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
+- [ ] [实体书《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
 - [ ] [实体书《Go 语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
 - [ ] [实体书《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
@@ -121,10 +122,12 @@
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
+- [ ] [《Get Programming with Go》]()
 
 七、杂七杂八
 
 - [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
+- [ ] [GoBooks](https://asmcn.icopy.site/awesome/GoBooks)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
