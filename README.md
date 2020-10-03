@@ -52,6 +52,7 @@
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
+- [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
 - [ ] [《Go语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
