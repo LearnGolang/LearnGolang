@@ -278,10 +278,12 @@
 十五、邮箱
 
 - [ ] https://github.com/jordan-wright/email
+- [ ] https://github.com/foxcpp/maddy
 
 十六、图形化
 
 - [ ] https://github.com/andlabs/ui
+- [ ] https://github.com/kpfaulkner/goui
 
 十七、RSS
 
@@ -326,6 +328,7 @@
 - [ ] https://github.com/bradfitz/shotizam
 - [ ] https://github.com/sqreen/go-agent
 - [ ] https://github.com/didi/sharingan
+- [ ] https://github.com/huhu/go-search-extension
 
 ## 0x06-Golang黑客
 
