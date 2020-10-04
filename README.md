@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为10月03日。
+本项目创建于2020年8月10日。最近一次更新时间为10月04日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -66,14 +66,14 @@
 
 三、算法学习：
 
-- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)
-- [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)
-- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
-- [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)
-- [ ] [《数据结构和算法》](https://github.com/hunterhug/goa.c)
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
+- [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
+- [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)
+- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
+- [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)
 
 四、Web编程：
@@ -101,6 +101,7 @@
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
+- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
@@ -133,7 +134,7 @@
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
-- [ ] [automateGo](https://github.com/dreddsa5dies/automateGo)、[hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
+- [ ] [hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
 - [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
