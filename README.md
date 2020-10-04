@@ -20,11 +20,11 @@
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效 GO 编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
-- [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
@@ -82,6 +82,7 @@
 - [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《通过例子学习 Go Web 编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)
+- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 
 五、实体书籍：
 
@@ -101,19 +102,24 @@
 六、英文书籍
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
-- [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
+- [x] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
+- [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
+- [ ] [《Introducing Go》]()
+- [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
+- [ ] [《Go Recipes》]()
+- [ ] [《Get Programming with Go》]()
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
+- [x] [《An Introduction to Programming in Go》](http://www.golang-book.com/)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
-- [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《Go 101》](https://go101.org/) 
