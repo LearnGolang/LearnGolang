@@ -22,6 +22,7 @@
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
+- [ ] [《实效 GO 编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@songleo
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
@@ -78,7 +79,7 @@
 
 四、Web编程：
 
-- [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+- [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《通过例子学习 Go Web 编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)
 
@@ -129,7 +130,6 @@
 
 七、杂七杂八
 
-- [ ] [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [ ] [GoBooks](https://asmcn.icopy.site/awesome/GoBooks)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
@@ -550,6 +550,7 @@
 - 杨文-Go夜读发起人@[yangwenmai](https://github.com/yangwenmai)
 - 陈剑煜-《Go语言编程之旅》作者@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
 - 雨痕-《Go学习笔记》作者@[Q.yuhen](https://github.com/qyuhen)
+- 谢孟军-beego作者[@astaxie](https://github.com/astaxie)
 
 二、Go开发
 
