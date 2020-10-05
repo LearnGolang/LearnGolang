@@ -133,6 +133,7 @@
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
 - [ ] [《Get Programming with Go》]()
+- [ ] https://github.com/hoanhan101/algo
 
 七、杂七杂八
 
@@ -192,6 +193,7 @@
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/kataras/iris
 - [ ] https://github.com/savsgio/atreugo
+- [ ] https://github.com/tal-tech/go-zero
 
 二、爬虫框架
 
@@ -250,6 +252,7 @@
 八、消息队列
 
 - [ ]  https://github.com/nsqio/nsq
+- [ ]  https://github.com/MasslessParticle/GoQ
 
 九、Service Mesh
 
@@ -264,6 +267,7 @@
 十一、协程池
 
 - [ ]  https://github.com/panjf2000/ants
+- [ ]  https://github.com/alitto/pond
 
 十二、视觉图像处理
 
@@ -337,6 +341,13 @@
 - [ ] https://github.com/sqreen/go-agent
 - [ ] https://github.com/didi/sharingan
 - [ ] https://github.com/huhu/go-search-extension
+- [ ] https://github.com/berty/berty
+- [ ] https://github.com/u-root/gobusybox
+
+三、Go游戏
+
+- [ ] https://github.com/loig/ld47
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 
 ## 0x06-Golang黑客
 
@@ -377,6 +388,7 @@
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/nray-scanner/nray
+- [ ] https://github.com/projectdiscovery/naabu
 
 三、密码爆破
 
@@ -412,6 +424,7 @@
 
 五、漏洞扫描
 
+- [ ] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/r0lh/CVE-2019-8449
 - [x] https://github.com/labrusca/Struts2-045-checker
@@ -486,6 +499,7 @@
 - [x] https://github.com/rabbitmask/Netstat
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
+- [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 
 七、病毒免杀
 
@@ -538,13 +552,18 @@
 - [x] https://github.com/dstotijn/hetty
 - [x] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/BishopFox/sliver
+- [ ] https://github.com/zznop/sploit
+- [ ] https://github.com/michenriksen/aquatone
 
 ## 0X07-Golang逆向
+
+一、使用Go逆向
 
 - [x] https://www.anquanke.com/member/122079
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
+二、逆向Go程序
 
 ## 0x08-Golang老师
 
