@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为10月04日。
+本项目创建于2020年8月10日。最近一次更新时间为10月05日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -349,6 +349,7 @@
 - [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
+- [ ] https://github.com/tprynn/web-methodology
 
 一、目录扫描
 
@@ -359,7 +360,7 @@
 - [ ] https://github.com/evilsocket/dirsearch
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
-- [ ] https://github.com/hakluke/hakrawler
+- [x] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/yuxiaokui/webfinger
 
 二、端口扫描
@@ -407,6 +408,7 @@
 - [ ] https://github.com/gwen001/github-subdomains
 - [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/tomsteele/blacksheepwall
+- [ ] https://github.com/tomnomnom/assetfinder
 
 五、漏洞扫描
 
