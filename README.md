@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日。最近一次更新时间为10月05日。
+本项目创建于2020年8月10日。最近一次更新时间为10月06日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -209,6 +209,7 @@
 - [ ] https://github.com/gorilla/mux
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
+- [ ] https://github.com/projectdiscovery/rawhttp
 
 三、JSON解析
 
@@ -343,6 +344,7 @@
 - [ ] https://github.com/huhu/go-search-extension
 - [ ] https://github.com/berty/berty
 - [ ] https://github.com/u-root/gobusybox
+- [ ] https://github.com/nkanaev/yarr
 
 三、Go游戏
 
@@ -373,6 +375,7 @@
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [x] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/yuxiaokui/webfinger
+- [ ] https://github.com/projectdiscovery/nuclei
 
 二、端口扫描
 
@@ -421,6 +424,9 @@
 - [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/tomsteele/blacksheepwall
 - [ ] https://github.com/tomnomnom/assetfinder
+- [ ] https://github.com/projectdiscovery/shuffledns
+- [ ] https://github.com/projectdiscovery/chaos-client
+- [ ] https://github.com/projectdiscovery/dnsprobe
 
 五、漏洞扫描
 
@@ -471,6 +477,7 @@
 - [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/hakluke/hakrawler
+- [x] https://github.com/projectdiscovery/httpx
 
 六、隧道代理
 
@@ -510,7 +517,11 @@
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 
-八、其他项目
+八、代码审计
+
+- [ ] https://github.com/tfsec/tfsec
+
+九、其他项目
 
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/bettercap/bettercap
@@ -585,3 +596,4 @@
 - https://github.com/schollz
 - https://github.com/projectdiscovery
 - https://github.com/aquasecurity
+- https://github.com/projectdiscovery
