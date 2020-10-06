@@ -369,7 +369,7 @@
 
 一、目录扫描
 
-- [ ] https://github.com/ffuf/ffuf
+- [x] https://github.com/ffuf/ffuf
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/Matir/webborer
@@ -420,6 +420,7 @@
 - [ ] https://github.com/search?l=Go&q=subdomain
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
+- [x] https://github.com/evilsocket/dnssearch
 - [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
