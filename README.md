@@ -351,11 +351,9 @@
 - [ ] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
 - [ ] https://github.com/topics/scanner?l=go
-- [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/hacking-tool?l=go
 - [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-audit?l=go
-- [ ] https://github.com/topics/bruteforce?l=go
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/information-gathering?l=go
 - [ ] https://github.com/topics/cve?l=go
@@ -365,9 +363,9 @@
 - [ ] https://github.com/topics/poc?l=go
 - [ ] https://github.com/topics/redteam?l=go
 - [ ] https://github.com/topics/tunnel?l=go
-- [ ] https://github.com/search?l=Go&q=cve&type=Repositories
-- [ ] https://github.com/search?l=Go&q=portscan&type=Repositories
-- [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories
+- [ ] https://github.com/search?l=Go&q=cve
+- [ ] https://github.com/search?l=Go&q=portscan
+- [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
 
 一、目录扫描
 
@@ -400,6 +398,7 @@
 
 三、密码爆破
 
+- [ ] https://github.com/topics/bruteforce?l=go
 - [x] https://github.com/netxfly/x-crack
 - [ ] https://github.com/oksbsb/crack
 - [ ] https://github.com/ncsa/ssh-auditor
@@ -416,15 +415,18 @@
 
 四、域名扫描
 
+- [ ] https://github.com/topics/subdomain?l=go
+- [ ] https://github.com/topics/subdomains?l=go
+- [ ] https://github.com/search?l=Go&q=subdomain
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
+- [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
 - [ ] https://github.com/QSoloX/whoisyou
 - [ ] https://github.com/gwen001/github-subdomains
-- [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/tomsteele/blacksheepwall
 - [ ] https://github.com/tomnomnom/assetfinder
 - [ ] https://github.com/projectdiscovery/shuffledns
@@ -432,6 +434,7 @@
 - [ ] https://github.com/projectdiscovery/dnsprobe
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
+- [ ] https://github.com/Freek3r/GoDigDomain
 
 五、漏洞扫描
 
