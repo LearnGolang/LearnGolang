@@ -416,10 +416,10 @@
 
 四、域名扫描
 
-- [ ] https://github.com/yunxu1/dnsub
-- [ ] https://github.com/SanSYS/subdscan
+- [x] https://github.com/yunxu1/dnsub
+- [x] https://github.com/knownsec/ksubdomain
+- [x] https://github.com/SanSYS/subdscan
 - [ ] https://github.com/hsw409328/go-scan
-- [ ] https://github.com/knownsec/ksubdomain
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
 - [ ] https://github.com/rverton/redAsset
