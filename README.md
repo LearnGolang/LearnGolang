@@ -194,6 +194,7 @@
 - [ ] https://github.com/kataras/iris
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
+- [ ] https://github.com/gohugoio/hugo
 
 二、爬虫框架
 
@@ -309,27 +310,8 @@
 一、项目搜索
 
 - [ ] https://github.com/trending/go
-- [x] https://github.com/topics/security?l=go
-- [ ] https://github.com/topics/hacking?l=go
-- [ ] https://github.com/topics/scanner?l=go
-- [ ] https://github.com/topics/subdomain?l=go
-- [ ] https://github.com/topics/hacking-tool?l=go
-- [ ] https://github.com/topics/security-tools?l=go
-- [ ] https://github.com/topics/security-audit?l=go
-- [ ] https://github.com/topics/bruteforce?l=go
-- [ ] https://github.com/topics/dirbuster?l=go
-- [ ] https://github.com/topics/information-gathering?l=go
-- [ ] https://github.com/topics/cve?l=go
-- [ ] https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/topics/vulnerability?l=go
-- [ ] https://github.com/topics/xss?l=go
-- [ ] https://github.com/topics/poc?l=go
-- [ ] https://github.com/topics/redteam?l=go
-- [ ] https://github.com/topics/tunnel?l=go
-- [ ] https://github.com/search?l=Go&q=cve&type=Repositories
-- [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
 
-二、Go游戏
+二、娱乐游戏
 
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
@@ -360,10 +342,32 @@
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
-- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
+- [ ] https://github.com/tomnomnom/hacks
+- [ ] https://github.com/zheng-ji/ToyCollection
 - [ ] https://github.com/tprynn/web-methodology
+- [ ] https://github.com/topics/security?l=go
+- [ ] https://github.com/topics/hacking?l=go
+- [ ] https://github.com/topics/scanner?l=go
+- [ ] https://github.com/topics/subdomain?l=go
+- [ ] https://github.com/topics/hacking-tool?l=go
+- [ ] https://github.com/topics/security-tools?l=go
+- [ ] https://github.com/topics/security-audit?l=go
+- [ ] https://github.com/topics/bruteforce?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/information-gathering?l=go
+- [ ] https://github.com/topics/cve?l=go
+- [ ] https://github.com/topics/vulnerability-scanner?l=go
+- [ ] https://github.com/topics/vulnerability?l=go
+- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/poc?l=go
+- [ ] https://github.com/topics/redteam?l=go
+- [ ] https://github.com/topics/tunnel?l=go
+- [ ] https://github.com/search?l=Go&q=cve&type=Repositories
+- [ ] https://github.com/search?l=Go&q=portscan&type=Repositories
+- [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories
 
 一、目录扫描
 
@@ -435,6 +439,11 @@
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/r0lh/CVE-2019-8449
 - [x] https://github.com/labrusca/Struts2-045-checker
+- [x] https://github.com/brompwnie/CVE-2019-5418-Scanner
+- [x] https://github.com/irealing/banner
+- [x] https://github.com/lovetrap/SafeScan
+- [x] https://github.com/45253321/gogoscan
+- [x] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/awake1t/linglong
@@ -465,9 +474,6 @@
 - [ ] https://github.com/LakeVilladom/goSkylar
 - [ ] https://github.com/jmpews/goscan
 - [ ] https://github.com/HToTH/fuckcdn
-- [x] https://github.com/irealing/banner
-- [x] https://github.com/lovetrap/SafeScan
-- [x] https://github.com/45253321/gogoscan
 - [ ] https://github.com/AkinoMaple/dedecms-admin-scan
 - [ ] https://github.com/irealing/shorturl
 - [ ] https://github.com/luc10/struts-rce-cve-2017-9805
@@ -478,7 +484,9 @@
 - [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/hakluke/hakrawler
-- [x] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/jm33-m0/mec-ng
+- [ ] https://github.com/hahwul/hack-pet
+- [ ] https://github.com/s-index/go-cve-search
 
 六、隧道代理
 
