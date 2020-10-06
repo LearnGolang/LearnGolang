@@ -67,22 +67,22 @@
 
 三、算法学习：
 
-- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
+- [x] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
-- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)
-- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)
+- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
+- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
-- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 
 四、Web编程：
 
 - [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
-- [ ] [《通过例子学习 Go Web 编程》](http://books.studygolang.com/gowebexamples)
-- [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)
-- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [ ] [《通过例子学习GoWeb编程》](http://books.studygolang.com/gowebexamples)
+- [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
+- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
 五、实体书籍：
 
@@ -163,6 +163,7 @@
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
+- [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
 - [ ] [GopherChina](https://gopherchina.org/)
 - [ ] https://gocn.vip
 - [ ] https://igo.pub
@@ -171,7 +172,6 @@
 - [ ] https://www.golangtc.com
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
-- [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
 
 ## 0x04-Golang框架
 
@@ -431,7 +431,7 @@
 
 五、漏洞扫描
 
-- [ ] https://github.com/bp0lr/wurl
+- [x] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/r0lh/CVE-2019-8449
 - [x] https://github.com/labrusca/Struts2-045-checker
@@ -524,6 +524,9 @@
 
 九、其他项目
 
+- [x] https://github.com/dstotijn/hetty
+- [x] https://github.com/zsdevX/DarkEye
+- [x] https://github.com/evilsocket/brutemachine
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
@@ -552,7 +555,6 @@
 - [ ] https://github.com/juju/utils
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/dreadl0ck/netcap
-- [x] https://github.com/evilsocket/brutemachine
 - [ ] https://github.com/chenziyi920/file-scanMD5
 - [ ] https://github.com/marco-lancini/goscan
 - [ ] https://github.com/vulsio/go-exploitdb
@@ -561,8 +563,6 @@
 - [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/jas502n/xray-crack
 - [ ] https://github.com/codingo/bbr
-- [x] https://github.com/dstotijn/hetty
-- [x] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/BishopFox/sliver
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/michenriksen/aquatone
