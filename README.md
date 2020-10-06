@@ -301,8 +301,8 @@
 十七、RSS
 
 - [ ] https://github.com/mmcdole/gofeed
-
 - [ ] https://github.com/gorilla/feeds
+- [ ] https://github.com/nkanaev/gofeed
 
 ## 0x05-Golang项目
 
@@ -329,7 +329,12 @@
 - [ ] https://github.com/search?l=Go&q=cve&type=Repositories
 - [ ] [扫描](https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F&type=Repositories)、[PortScan](https://github.com/search?l=Go&q=portscan&type=Repositories)
 
-二、优秀项目
+二、Go游戏
+
+- [ ] https://github.com/loig/ld47
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+
+三、优秀项目
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/gophish/gophish
@@ -345,11 +350,7 @@
 - [ ] https://github.com/berty/berty
 - [ ] https://github.com/u-root/gobusybox
 - [ ] https://github.com/nkanaev/yarr
-
-三、Go游戏
-
-- [ ] https://github.com/loig/ld47
-- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+- [ ] https://github.com/AgeloVito/proxypool
 
 ## 0x06-Golang黑客
 
