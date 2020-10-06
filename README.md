@@ -416,10 +416,8 @@
 
 四、域名扫描
 
-- [x] https://github.com/yunxu1/dnsub
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
-- [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/hahwul/ras-fuzzer
 - [ ] https://github.com/OWASP/Amass
 - [ ] https://github.com/rverton/redAsset
@@ -432,6 +430,8 @@
 - [ ] https://github.com/projectdiscovery/shuffledns
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/projectdiscovery/dnsprobe
+- [ ] https://github.com/yunxu1/dnsub
+- [ ] https://github.com/hsw409328/go-scan
 
 五、漏洞扫描
 
