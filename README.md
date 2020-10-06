@@ -23,7 +23,7 @@
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
-- [ ] [《实效 GO 编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
+- [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
@@ -49,21 +49,21 @@
 - [x] [《Go官方包文档》](https://golang.org/pkg)
 - [x] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
-- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
+- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
-- [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)
-- [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)
-- [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)
+- [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
+- [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)@xxjwxc
+- [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)@田浩
 - [ ] [《Go语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
 - [ ] [《7天用Go从零实现系列》](https://github.com/geektutu/7days-golang)@geektutu
 - [ ] [《Go语言并发编程》](https://github.com/cizixs/go-concurrency-programming)@cizixs
-- [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)
-- [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)
-- [ ] [《go-internals》](https://github.com/go-internals-cn/go-internals)
+- [ ] [《Go 1.5 源码剖析》](https://github.com/qyuhen/book)@雨痕
+- [ ] [《深入Go并发编程研讨课》](https://github.com/smallnest/dive-to-gosync-workshop)@smallnest
+- [ ] [《go-internals-CN》](https://github.com/go-internals-cn/go-internals)@ray-g
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
-- [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)
+- [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 
 三、算法学习：
 
@@ -371,10 +371,10 @@
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/Matir/webborer
+- [ ] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/evilsocket/dirsearch
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
-- [x] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/projectdiscovery/nuclei
 
