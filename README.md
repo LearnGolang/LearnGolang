@@ -76,6 +76,7 @@
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 
 四、Web编程：
 
@@ -375,57 +376,11 @@
 - [ ] https://github.com/search?l=Go&q=portscan
 - [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
 
-一、目录扫描
-
-- [x] https://github.com/ffuf/ffuf
-- [ ] https://github.com/1c3z/fileleak
-- [ ] https://github.com/liamg/scout
-- [ ] https://github.com/Matir/webborer
-- [ ] https://github.com/hakluke/hakrawler
-- [ ] https://github.com/evilsocket/dirsearch
-- [ ] https://github.com/sdgdsffdsfff/lcyscan
-- [ ] https://github.com/RedTeamPentesting/monsoon
-- [ ] https://github.com/yuxiaokui/webfinger
-- [ ] https://github.com/projectdiscovery/nuclei
-
-二、端口扫描
-
-- [ ] https://github.com/awake1t/PortBrute
-- [ ] https://github.com/liamg/furious
-- [ ] https://github.com/zmap/zgrab2
-- [ ] https://github.com/vus520/go-scan
-- [ ] https://github.com/ariagecheney/fyneIPinfo
-- [ ] https://github.com/FDlucifer/goportscan
-- [ ] https://github.com/youshu/GoScanner
-- [ ] https://github.com/Ullaakut/nmap
-- [ ] https://github.com/lavalamp-/ipv666
-- [ ] https://github.com/timest/goscan
-- [ ] https://github.com/projectdiscovery/naabu
-- [ ] https://github.com/nray-scanner/nray
-- [ ] https://github.com/projectdiscovery/naabu
-
-三、密码爆破
-
-- [ ] https://github.com/topics/bruteforce?l=go
-- [x] https://github.com/netxfly/x-crack
-- [ ] https://github.com/oksbsb/crack
-- [ ] https://github.com/ncsa/ssh-auditor
-- [ ] https://gitlab.com/opennota/hydra
-- [ ] https://github.com/lazytools/sshchecker
-- [ ] https://github.com/Shadow26Wolf/quickbrute
-- [ ] https://github.com/codexlynx/brutemq
-- [ ] https://github.com/bigb0sss/goPassGen
-- [ ] https://github.com/fireeye/gocrack
-- [ ] https://github.com/china-muwenbo/goScanPort
-- [ ] https://github.com/zhangqin/mysqlfuzz
-- [ ] https://github.com/wrfly/ssh-goburp
-- [ ] https://github.com/sysdream/ligolo
-
-四、域名扫描
+一、域名扫描
 
 - [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/subdomains?l=go
-- [ ] https://github.com/search?l=Go&q=subdomain
+- [x] https://github.com/search?l=Go&q=subdomain
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
 - [x] https://github.com/evilsocket/dnssearch
@@ -464,9 +419,85 @@
 - [ ] https://github.com/theblackturtle/fprobe
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/bobesa/go-domain-util
+- [ ] https://github.com/codeexpress/subdomainrecon
+- [ ] https://github.com/netevert/delator
+- [ ] https://github.com/edoardottt/scilla
+- [ ] https://github.com/SanSYS/subdscan
+- [ ] https://github.com/MilindPurswani/takemeon
+- [ ] https://github.com/yghonem14/cngo
+- [ ] https://github.com/fengdingbo/subdomain-scanner | 国人写的
+- [ ] https://github.com/pwn1sher/CertShooter
+- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描
+- [ ] https://github.com/51gn3d/stko
+- [ ] https://github.com/Sam-Lane/subway
+- [ ] https://github.com/mosunit/SubdomainEnumerator
+- [ ] https://github.com/mcrouse911/subdomainfinder
+- [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域
+- [ ] https://github.com/foae/extract-subdomains-from-https
+- [ ] https://github.com/Any3ite/subDomainFucker
+- [ ] https://github.com/medasz/subDomainsBrute
+- [ ] https://github.com/denismitr/subguess
+- [ ] https://github.com/jonhadfield/subtocheck
+- [ ] https://github.com/minix357/subsearch
+- [ ] https://github.com/dryvenn/crawler
+- [ ] https://github.com/z3dc0ps/altsub-pro
+- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
+- [ ] https://github.com/goodlandsecurity/subfinder
+- [ ] https://github.com/scanterog/crawler
+- [ ] https://github.com/iepathos/brutall
+- [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/McRaeAlex/domainutils
+
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
+
+二、路径扫描
+
+- [x] https://github.com/ffuf/ffuf
+- [ ] https://github.com/1c3z/fileleak
+- [ ] https://github.com/liamg/scout
+- [ ] https://github.com/Matir/webborer
+- [ ] https://github.com/hakluke/hakrawler
+- [ ] https://github.com/evilsocket/dirsearch
+- [ ] https://github.com/sdgdsffdsfff/lcyscan
+- [ ] https://github.com/RedTeamPentesting/monsoon
+- [ ] https://github.com/yuxiaokui/webfinger
+- [ ] https://github.com/projectdiscovery/nuclei
+
+三、端口扫描
+
+- [ ] https://github.com/awake1t/PortBrute
+- [ ] https://github.com/liamg/furious
+- [ ] https://github.com/zmap/zgrab2
+- [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/ariagecheney/fyneIPinfo
+- [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/Ullaakut/nmap
+- [ ] https://github.com/lavalamp-/ipv666
+- [ ] https://github.com/timest/goscan
+- [ ] https://github.com/projectdiscovery/naabu
+- [ ] https://github.com/nray-scanner/nray
+- [ ] https://github.com/projectdiscovery/naabu
+
+四、密码爆破
+
+- [ ] https://github.com/topics/bruteforce?l=go
+- [x] https://github.com/netxfly/x-crack
+- [ ] https://github.com/oksbsb/crack
+- [ ] https://github.com/ncsa/ssh-auditor
+- [ ] https://gitlab.com/opennota/hydra
+- [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/codexlynx/brutemq
+- [ ] https://github.com/bigb0sss/goPassGen
+- [ ] https://github.com/fireeye/gocrack
+- [ ] https://github.com/china-muwenbo/goScanPort
+- [ ] https://github.com/zhangqin/mysqlfuzz
+- [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/sysdream/ligolo
 
 五、漏洞扫描
 
@@ -479,6 +510,10 @@
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
 - [x] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/Any3ite/phpstudy_backdoor
+- [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
+- [ ] https://github.com/Any3ite/CVE-2014-6271
+- [ ] https://github.com/Any3ite/cdnCheck
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/awake1t/linglong
