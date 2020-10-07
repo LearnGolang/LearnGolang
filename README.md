@@ -19,6 +19,7 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
+- [x] [《胡文Go.ogle》]()@Fango
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
