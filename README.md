@@ -214,6 +214,7 @@
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
+- [ ] https://github.com/dstotijn/hetty
 
 四、JSON解析
 
@@ -337,6 +338,9 @@
 - [ ] https://github.com/u-root/gobusybox
 - [ ] https://github.com/nkanaev/yarr
 - [ ] https://github.com/AgeloVito/proxypool
+- [ ] https://github.com/cloudflare/gokey
+- [ ] https://github.com/CISOfy/lynis
+- [ ] https://github.com/wangbjun/go-micloud
 
 ## 0x06-Golang安全
 
