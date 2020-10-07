@@ -148,6 +148,7 @@
 - [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
 - [ ] https://github.com/golang-design/history
+- [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 
 ## 0x02-Golang视频
 
@@ -344,8 +345,8 @@
 - [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
-- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
-- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
+- [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
+- [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [ ] https://github.com/tomnomnom/hacks
 - [ ] https://github.com/zheng-ji/ToyCollection
 - [ ] https://github.com/tprynn/web-methodology
