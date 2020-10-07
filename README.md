@@ -198,7 +198,7 @@
 
 二、爬虫框架
 
-- [ ] https://github.com/gocolly/colly
+- [x] https://github.com/gocolly/colly
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/china-muwenbo/gospider
