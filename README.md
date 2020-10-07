@@ -22,6 +22,7 @@
 - [x] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
+- [x] [《Go语言101》](https://github.com/golang101/golang101)@老貘
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
@@ -33,7 +34,6 @@
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
 - [ ] [《Mastering_Go_ZH_CN》](http://books.studygolang.com/Mastering_Go_ZH_CN/)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
-- [ ] [《Go语言101》](https://github.com/golang101/golang101)
 - [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
@@ -42,7 +42,7 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
-- [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)
+- [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
 二、高手进阶：
 
@@ -81,27 +81,12 @@
 
 四、Web编程：
 
-- [ ] [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
-- [ ] [《通过例子学习GoWeb编程》](http://books.studygolang.com/gowebexamples)
+- [x] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
+- [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-五、实体书籍：
-
-- [x] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
-- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
-- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
-- [x] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
-- [x] [实体书《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
-- [x] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
-- [ ] [实体书《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
-- [ ] [实体书《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
-- [ ] [实体书《GoWeb编程》](https://item.jd.com/12252845.html)@黄健宏译
-- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
-- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
-- [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
-
-六、英文书籍
+五、英文原著
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [x] [《Go Bootcamp》](http://golangbootcamp.com/)
@@ -135,7 +120,22 @@
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
 - [ ] [《Get Programming with Go》]()
-- [ ] https://github.com/hoanhan101/algo
+- [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
+
+六、实体书籍：
+
+- [x] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
+- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
+- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
+- [x] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
+- [x] [实体书《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
+- [x] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
+- [ ] [实体书《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
+- [ ] [实体书《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [ ] [实体书《GoWeb编程》](https://item.jd.com/12252845.html)@黄健宏译
+- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
+- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
+- [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 
 七、杂七杂八
 
