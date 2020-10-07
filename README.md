@@ -216,29 +216,21 @@
 四、JSON解析
 
 - [ ] https://github.com/json-iterator/go
-
 - [ ] https://github.com/buger/jsonparser
 
 五、数据库以及ORM
 
 - [ ] https://github.com/syndtr/goleveldb
-
 - [ ] https://github.com/boltdb/bolt
-
 - [ ] https://github.com/go-sql-driver/mysql
-
 - [ ] https://github.com/pingcap/tidb
-
 - [ ] https://github.com/ideawu/ssdb
-
 - [ ] https://github.com/jinzhu/gorm
 
 六、中间件
 
 - [ ] https://github.com/go-redis/redis
-
 - [ ] https://github.com/olivere/elastic
-
 - [ ] https://github.com/justinas/alice
 
 七、日志框架
