@@ -641,7 +641,8 @@
 
 一、使用Go逆向
 
-- [x] https://www.anquanke.com/member/122079
+- [x] https://github.com/zznop/sploit
+- [ ] https://www.anquanke.com/member/122079
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
