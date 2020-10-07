@@ -370,8 +370,8 @@
 
 一、域名扫描
 
-- [ ] https://github.com/topics/subdomain?l=go
-- [ ] https://github.com/topics/subdomains?l=go
+- [x] https://github.com/topics/subdomain?l=go
+- [x] https://github.com/topics/subdomains?l=go
 - [x] https://github.com/search?l=Go&q=subdomain
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
@@ -388,6 +388,7 @@
 - [ ] https://github.com/projectdiscovery/shuffledns
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/projectdiscovery/dnsprobe
+- [ ] https://github.com/projectdiscovery/subfinder
 - [ ] https://github.com/scanterog/crawler
 - [ ] https://github.com/jimen0/brute
 - [ ] https://github.com/iepathos/brutall
@@ -440,6 +441,22 @@
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/subfinder/goaltdns
+- [ ] https://github.com/netevert/delator
+- [ ] https://github.com/nscuro/fdnssearch
+- [ ] https://github.com/amar-myana/certdomainfinder
+- [ ] https://github.com/jimen0/resolver
+- [ ] https://github.com/daehee/mildew
+- [ ] https://github.com/haccer/subjack
+- [ ] https://github.com/celrenheit/lion
+- [ ] https://github.com/projectdiscovery/dnsprobe
+- [ ] https://github.com/Cgboal/SonarSearch
+- [ ] https://github.com/jakejarvis/subtake
+- [ ] https://github.com/jimen0/fdns
+- [ ] https://github.com/subfinder/research
+- [ ] https://github.com/CosasDePuma/Elliot
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
+- [ ] https://github.com/jonhadfield/subtocheck
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
@@ -578,6 +595,7 @@
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
+- [ ] https://github.com/WangYihang/Platypus
 
 七、病毒免杀
 
