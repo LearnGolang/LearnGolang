@@ -313,8 +313,14 @@
 
 一、CMS网站
 
+- [x] https://github.com/gogs/gogs
 - [x] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
+
+二、钓鱼工具
+
+- [x] https://github.com/gophish/gophish
+- [x] https://github.com/hacklcx/HFish
 
 三、娱乐游戏
 
@@ -323,10 +329,7 @@
 
 三、优秀项目
 
-- [ ] https://github.com/gogs/gogs
-- [ ] https://github.com/gophish/gophish
 - [ ] https://github.com/iawia002/annie
-- [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
