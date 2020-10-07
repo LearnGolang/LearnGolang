@@ -327,7 +327,7 @@
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 
-三、优秀项目
+四、优秀项目
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/schollz/croc
