@@ -377,11 +377,11 @@
 - [ ] https://github.com/topics/subdomains?l=go
 - [ ] https://github.com/search?l=Go&q=subdomain
 - [x] https://github.com/evilsocket/dnssearch | 子域枚举工具
+- [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现
 - [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具
 - [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具
+- [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer
 - [ ] https://github.com/haccer/subjack
-- [ ] https://github.com/hahwul/ras-fuzzer
-- [ ] https://github.com/OWASP/Amass
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
 - [ ] https://github.com/QSoloX/whoisyou
