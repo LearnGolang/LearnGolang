@@ -1,5 +1,5 @@
 # LearnGolang
-本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
+本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
 本项目创建于2020年8月10日，最近一次更新时间为10月07日。
 
@@ -19,7 +19,7 @@
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
-- [x] [《胡文Go.ogle》]()@Fango
+- [x] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
@@ -240,6 +240,7 @@
 - [ ]  https://github.com/uber-go/zap
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/rs/zerolog
+- [ ] https://github.com/sirupsen/logrus
 
 八、错误处理
 
