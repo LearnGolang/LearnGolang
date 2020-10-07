@@ -373,9 +373,10 @@
 
 一、域名扫描
 
-- [x] https://github.com/topics/subdomain?l=go
-- [x] https://github.com/topics/subdomains?l=go
-- [x] https://github.com/search?l=Go&q=subdomain
+​	https://github.com/topics/subdomain?l=go
+​	https://github.com/topics/subdomains?l=go
+​	https://github.com/search?l=Go&q=subdomain
+
 - [x] https://github.com/knownsec/ksubdomain
 - [x] https://github.com/SanSYS/subdscan
 - [x] https://github.com/evilsocket/dnssearch
