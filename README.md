@@ -448,7 +448,6 @@
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/McRaeAlex/domainutils
-
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
