@@ -441,6 +441,29 @@
 - [ ] https://github.com/projectdiscovery/shuffledns
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/projectdiscovery/dnsprobe
+- [ ] https://github.com/scanterog/crawler
+- [ ] https://github.com/jimen0/brute
+- [ ] https://github.com/iepathos/brutall
+- [ ] https://github.com/anshumanbh/brutesubs
+- [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/kevinborras/GokGok
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/evilsocket/dnssearch
+- [ ] https://github.com/Ice3man543/SubOver
+- [ ] https://github.com/haccer/subjack
+- [ ] https://github.com/projectdiscovery/subfinder
+- [ ] https://github.com/LukaSikic/subzy
+- [ ] https://github.com/tomnomnom/assetfinder
+- [ ] https://github.com/gwen001/github-subdomains
+- [ ] https://github.com/hahwul/ras-fuzzer
+- [ ] https://github.com/projectdiscovery/shuffledns
+- [ ] https://github.com/incogbyte/shosubgo |shodan接口搜索子域
+- [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
+- [ ] https://github.com/projectdiscovery/dnsprobe
+- [ ] https://github.com/theblackturtle/fprobe
+- [ ] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/bobesa/go-domain-util
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
@@ -499,6 +522,7 @@
 - [ ] https://github.com/jm33-m0/mec-ng
 - [ ] https://github.com/hahwul/hack-pet
 - [ ] https://github.com/s-index/go-cve-search
+- [ ] https://github.com/markwh245/rapt0r
 
 六、隧道代理
 
