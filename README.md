@@ -375,7 +375,8 @@
 
 - [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/subdomains?l=go
-- [ ] https://github.com/search?l=Go&q=subdomain
+- [x] https://github.com/search?l=Go&q=subdomain
+- [ ] https://github.com/search?l=Go&q=domains
 - [x] https://github.com/evilsocket/dnssearch | 子域枚举工具
 - [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现
 - [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具
@@ -384,7 +385,8 @@
 - [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
-- [ ] https://github.com/QSoloX/whoisyou
+- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP
+- [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/gwen001/github-subdomains
 - [ ] https://github.com/tomsteele/blacksheepwall
 - [ ] https://github.com/tomnomnom/assetfinder
