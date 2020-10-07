@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月06日。
+本项目创建于2020年8月10日，最近一次更新时间为10月07日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -181,9 +181,9 @@
 
 一、Web框架
 
+- [x] https://github.com/astaxie/beego
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/kataras/iris
-- [ ] https://github.com/astaxie/beego
 - [ ] https://github.com/revel/revel
 - [ ] https://github.com/go-martini/martini
 - [ ] https://go-macaron.com/
