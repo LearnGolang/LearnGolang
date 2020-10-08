@@ -223,7 +223,6 @@
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
-- [ ] https://github.com/dstotijn/hetty
 
 五、JSON解析
 
@@ -351,6 +350,7 @@
 - [ ] https://github.com/cloudflare/gokey
 - [ ] https://github.com/CISOfy/lynis
 - [ ] https://github.com/wangbjun/go-micloud
+- [ ] https://github.com/screego/server
 
 ## 0x06-Golang安全
 
@@ -527,6 +527,7 @@
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
+- [x] https://github.com/dstotijn/hetty
 
 六、漏洞扫描
 
@@ -640,7 +641,6 @@
 
 十、其他项目
 
-- [x] https://github.com/dstotijn/hetty
 - [x] https://github.com/zsdevX/DarkEye
 - [x] https://github.com/evilsocket/brutemachine
 - [ ] https://github.com/evilsocket/xray
@@ -683,6 +683,7 @@
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/netxfly/sec_check
 - [ ] https://github.com/buger/goreplay
+- [ ] https://github.com/peterhellberg/xip.name
 
 ## 0X07-Golang逆向
 
@@ -722,3 +723,5 @@
 - https://github.com/aquasecurity
 - https://github.com/projectdiscovery
 - https://github.com/tomnomnom
+- https://github.com/evilsocket
+
