@@ -1,7 +1,7 @@
 # LearnGolang
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月07日。
+本项目创建于2020年8月10日，最近一次更新时间为10月08日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -46,8 +46,8 @@
 
 二、高手进阶：
 
-- [x] [《Go官方博客》](https://blog.golang.org)
-- [x] [《Go官方包文档》](https://golang.org/pkg)
+- [x] [《Go官方博客》](https://blog.golang.org)@golang
+- [x] [《Go官方包文档》](https://golang.org/pkg)@golang
 - [x] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
 - [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉
@@ -124,18 +124,18 @@
 
 六、实体书籍：
 
-- [x] [实体书《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
-- [x] [实体书《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
-- [x] [实体书《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
-- [x] [实体书《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
-- [x] [实体书《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
-- [x] [实体书《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
-- [ ] [实体书《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
-- [ ] [实体书《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
-- [ ] [实体书《GoWeb编程》](https://item.jd.com/12252845.html)@黄健宏译
-- [ ] [实体书《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
-- [ ] [实体书《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
-- [ ] [实体书《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
+- [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
+- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
+- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
+- [x] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
+- [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
+- [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
+- [ ] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
+- [ ] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [ ] [《GoWeb编程》](https://item.jd.com/12252845.html)@黄健宏译
+- [ ] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
+- [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
+- [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 
 七、杂七杂八
 
@@ -144,11 +144,10 @@
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 - [ ] [hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
-- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
 - [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
-- [ ] https://github.com/golang-design/history
+- [ ] [golang-design](https://github.com/golang-design/history)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 
 ## 0x02-Golang视频
@@ -386,18 +385,18 @@
 - [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具
 - [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具
 - [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer
+- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域
+- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP
+- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域
 - [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
-- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP
 - [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/gwen001/github-subdomains
 - [ ] https://github.com/tomsteele/blacksheepwall
-- [ ] https://github.com/tomnomnom/assetfinder
 - [ ] https://github.com/projectdiscovery/shuffledns
-- [ ] https://github.com/projectdiscovery/chaos-client
+- [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域
 - [ ] https://github.com/projectdiscovery/dnsprobe
-- [ ] https://github.com/projectdiscovery/subfinder
 - [ ] https://github.com/scanterog/crawler
 - [ ] https://github.com/jimen0/brute
 - [ ] https://github.com/iepathos/brutall
@@ -674,6 +673,8 @@
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
 二、逆向Go程序
+
+- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 
 ## 0x08-Golang老师
 
