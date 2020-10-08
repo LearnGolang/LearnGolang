@@ -1,4 +1,7 @@
+
+
 # LearnGolang
+
 本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
 本项目创建于2020年8月10日，最近一次更新时间为10月08日。
@@ -204,6 +207,7 @@
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/china-muwenbo/gospider
+- [ ] https://github.com/crawlab-team/crawlab
 
 三、HTTP框架
 
@@ -347,7 +351,7 @@
 
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
-- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
+- [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
@@ -459,6 +463,7 @@
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
+- [ ] https://github.com/Q2h1Cg/dnsbrute
 
 二、路径扫描
 
@@ -472,6 +477,7 @@
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/projectdiscovery/nuclei
+- [ ] https://github.com/OJ/gobuster
 
 三、端口扫描
 
@@ -488,6 +494,7 @@
 - [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/nray-scanner/nray
 - [ ] https://github.com/projectdiscovery/naabu
+- [ ] https://github.com/liamg/furious
 
 四、密码爆破
 
@@ -506,7 +513,13 @@
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/sysdream/ligolo
 
-五、漏洞扫描
+五、Web安全
+
+- [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
+- [ ] https://github.com/yahoo/gryffin
+- [ ] https://github.com/yahoo/webseclab
+
+六、漏洞扫描
 
 - [x] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
@@ -516,6 +529,7 @@
 - [x] https://github.com/irealing/banner
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
+- [ ] https://github.com/0x09AL/go-deliver
 - [x] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
 - [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
@@ -565,8 +579,10 @@
 - [ ] https://github.com/hahwul/hack-pet
 - [ ] https://github.com/s-index/go-cve-search
 - [ ] https://github.com/markwh245/rapt0r
+- [ ] https://github.com/AmyangXYZ/AssassinGo
+- [ ] https://github.com/botherder/kraken
 
-六、隧道代理
+七、隧道代理
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/Dliv3/Venom
@@ -595,8 +611,10 @@
 - [ ] https://github.com/HTFTIMEONE/proxyPool
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/WangYihang/Platypus
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/chashell
 
-七、病毒免杀
+八、病毒免杀
 
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
@@ -604,12 +622,13 @@
 - [ ] https://github.com/brimstone/go-shellcode
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
+- [ ] https://github.com/ryhanson/phishery
 
-八、代码审计
+九、代码审计
 
 - [ ] https://github.com/tfsec/tfsec
 
-九、其他项目
+十、其他项目
 
 - [x] https://github.com/dstotijn/hetty
 - [x] https://github.com/zsdevX/DarkEye
@@ -652,6 +671,8 @@
 - [ ] https://github.com/BishopFox/sliver
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/michenriksen/aquatone
+- [ ] https://github.com/netxfly/sec_check
+- [ ] https://github.com/buger/goreplay
 
 ## 0X07-Golang逆向
 
@@ -665,6 +686,9 @@
 二、逆向Go程序
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
+- [ ] https://github.com/securego/gosec
+- [ ] https://github.com/felberj/gotools
+- [ ] https://github.com/unixpickle/gobfuscate
 
 ## 0x08-Golang老师
 
