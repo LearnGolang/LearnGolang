@@ -219,6 +219,7 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/dstotijn/hetty
+- [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
 
 四、JSON解析
 
@@ -271,6 +272,7 @@
 
 - [ ]  https://github.com/panjf2000/ants
 - [ ]  https://github.com/alitto/pond
+- [ ]  https://github.com/dean2021/hackpool
 
 十三、视觉图像处理
 
@@ -494,6 +496,9 @@
 - [ ] https://github.com/nray-scanner/nray
 - [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/liamg/furious
+- [ ] https://github.com/lair-framework/go-nmap
+- [ ] https://github.com/dean2021/go-nmap
+- [ ] https://github.com/dean2021/go-masscan
 
 四、密码爆破
 
@@ -531,6 +536,7 @@
 - [x] https://github.com/45253321/gogoscan
 - [ ] https://github.com/0x09AL/go-deliver
 - [x] https://github.com/projectdiscovery/httpx
+- [x] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
 - [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
 - [ ] https://github.com/Any3ite/CVE-2014-6271
