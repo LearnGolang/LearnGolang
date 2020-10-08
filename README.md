@@ -76,6 +76,7 @@
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
 - [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
@@ -684,6 +685,7 @@
 - [ ] https://github.com/netxfly/sec_check
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/peterhellberg/xip.name
+- [ ] https://github.com/playGitboy/bruteHASH
 
 ## 0X07-Golang逆向
 
@@ -693,6 +695,7 @@
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
+- [ ] https://github.com/lunixbochs/usercorn
 
 二、逆向Go程序
 
