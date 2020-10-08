@@ -152,6 +152,7 @@
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
 - [ ] [golang-design](https://github.com/golang-design/history)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
+- [ ] https://github.com/zheng-ji/ToyCollection
 
 ## 0x02-Golang视频
 
@@ -352,13 +353,11 @@
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @lazybootsafe
+- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
-- [ ] https://github.com/tomnomnom/hacks
-- [ ] https://github.com/zheng-ji/ToyCollection
-- [ ] https://github.com/tprynn/web-methodology
+- [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
 - [ ] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
 - [ ] https://github.com/topics/scanner?l=go
@@ -515,6 +514,7 @@
 
 五、Web安全
 
+- [ ] https://github.com/tprynn/web-methodology
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
@@ -711,3 +711,4 @@
 - https://github.com/projectdiscovery
 - https://github.com/aquasecurity
 - https://github.com/projectdiscovery
+- https://github.com/tomnomnom
