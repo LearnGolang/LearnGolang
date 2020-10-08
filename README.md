@@ -388,6 +388,9 @@
 - [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域
+- [ ] https://github.com/scanterog/crawler | 网站内域名爬虫
+- [ ] https://github.com/incogbyte/shosubgo |shodan接口搜索子域
+- [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
 - [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/subfinder/goaltdns
@@ -397,7 +400,6 @@
 - [ ] https://github.com/projectdiscovery/shuffledns
 - [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域
 - [ ] https://github.com/projectdiscovery/dnsprobe
-- [ ] https://github.com/scanterog/crawler
 - [ ] https://github.com/jimen0/brute
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/anshumanbh/brutesubs
@@ -405,19 +407,9 @@
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/attacker34/brute
-- [ ] https://github.com/evilsocket/dnssearch
-- [ ] https://github.com/Ice3man543/SubOver
-- [ ] https://github.com/haccer/subjack
-- [ ] https://github.com/projectdiscovery/subfinder
-- [ ] https://github.com/LukaSikic/subzy
-- [ ] https://github.com/tomnomnom/assetfinder
-- [ ] https://github.com/gwen001/github-subdomains
-- [ ] https://github.com/hahwul/ras-fuzzer
-- [ ] https://github.com/projectdiscovery/shuffledns
-- [ ] https://github.com/incogbyte/shosubgo |shodan接口搜索子域
-- [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
-- [ ] https://github.com/projectdiscovery/dnsprobe
 - [ ] https://github.com/theblackturtle/fprobe
+- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具
+- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/bobesa/go-domain-util
 - [ ] https://github.com/codeexpress/subdomainrecon
@@ -455,7 +447,6 @@
 - [ ] https://github.com/amar-myana/certdomainfinder
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/daehee/mildew
-- [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/celrenheit/lion
 - [ ] https://github.com/projectdiscovery/dnsprobe
 - [ ] https://github.com/Cgboal/SonarSearch
@@ -627,7 +618,6 @@
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
 - [ ] https://github.com/projectdiscovery/nuclei
-- [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/ATpiu/asset-scan
