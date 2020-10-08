@@ -529,6 +529,7 @@
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
 - [x] https://github.com/dstotijn/hetty
+- [ ] https://github.com/pikpikcu/XRCross
 
 六、漏洞扫描
 
@@ -643,7 +644,6 @@
 十、其他项目
 
 - [x] https://github.com/zsdevX/DarkEye
-- [x] https://github.com/evilsocket/brutemachine
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
