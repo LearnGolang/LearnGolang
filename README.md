@@ -2,7 +2,7 @@
 
 # LearnGolang
 
-本项目记录自己学习Golang过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
+本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
 本项目创建于2020年8月10日，最近一次更新时间为10月08日。
 
@@ -185,7 +185,12 @@
 - [ ] https://github.com/jobbole/awesome-go-cn
 - [ ] https://github.com/hyper0x/awesome-go-China
 
-一、Web框架
+一、安全框架
+
+- [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
+- [x] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
+
+二、Web框架
 
 - [x] https://github.com/astaxie/beego
 - [ ] https://github.com/gin-gonic/gin
@@ -202,7 +207,7 @@
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gohugoio/hugo
 
-二、爬虫框架
+三、爬虫框架
 
 - [x] https://github.com/gocolly/colly
 - [ ] https://github.com/PuerkitoBio/goquery
@@ -210,7 +215,7 @@
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/crawlab-team/crawlab
 
-三、HTTP框架
+四、HTTP框架
 
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
@@ -219,14 +224,13 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/dstotijn/hetty
-- [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
 
-四、JSON解析
+五、JSON解析
 
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
 
-五、数据库以及ORM
+六、数据库以及ORM
 
 - [ ] https://github.com/syndtr/goleveldb
 - [ ] https://github.com/boltdb/bolt
@@ -235,74 +239,74 @@
 - [ ] https://github.com/ideawu/ssdb
 - [ ] https://github.com/jinzhu/gorm
 
-六、中间件
+七、中间件
 
 - [ ] https://github.com/go-redis/redis
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
-七、日志框架
+八、日志框架
 
 - [ ]  https://github.com/uber-go/zap
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/rs/zerolog
 - [ ] https://github.com/sirupsen/logrus
 
-八、错误处理
+九、错误处理
 
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
 
-九、消息队列
+十、消息队列
 
 - [ ]  https://github.com/nsqio/nsq
 - [ ]  https://github.com/MasslessParticle/GoQ
 
-十、Service Mesh
+十一、Service Mesh
 
 - [ ] https://github.com/istio/istio
 
-十一、RPC
+十二、RPC
 
 - [ ] https://github.com/smallnest/rpcx
 
 - [ ] https://github.com/grpc/grpc-go
 
-十二、协程池
+十三、协程池
 
 - [ ]  https://github.com/panjf2000/ants
 - [ ]  https://github.com/alitto/pond
 - [ ]  https://github.com/dean2021/hackpool
 
-十三、视觉图像处理
+十四、视觉图像处理
 
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
-十四、网络框架
+十五、网络框架
 
 - [ ] https://github.com/xtaci/kcp-go
 
 
-十五、测试框架
+十六、测试框架
 
 - [ ] https://github.com/h2non/gock
 
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
-十六、邮箱框架
+十七、邮箱框架
 
 - [ ] https://github.com/jordan-wright/email
 - [ ] https://github.com/foxcpp/maddy
 
-十七、图形化
+十八、图形化
 
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/kpfaulkner/goui
 
-十八、RSS框架
+十九、RSS框架
 
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
