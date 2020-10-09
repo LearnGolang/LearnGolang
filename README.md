@@ -4,7 +4,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月08日。
+本项目创建于2020年8月10日，最近一次更新时间为10月09日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -352,6 +352,7 @@
 - [ ] https://github.com/CISOfy/lynis
 - [ ] https://github.com/wangbjun/go-micloud
 - [ ] https://github.com/screego/server
+- [ ] https://github.com/etcd-io/etcd
 
 ## 0x06-Golang安全
 
@@ -626,6 +627,7 @@
 - [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/rancher/remotedialer
 
 八、病毒免杀
 
@@ -636,10 +638,12 @@
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/ryhanson/phishery
+- [ ] https://github.com/0x9ef/golang-uacbypasser
 
 九、代码审计
 
 - [ ] https://github.com/tfsec/tfsec
+- [x] https://github.com/ynqa/diffy
 
 十、其他项目
 
@@ -692,6 +696,8 @@
 一、使用Go逆向
 
 - [x] https://github.com/zznop/sploit
+- [ ] https://github.com/goretk/redress
+- [ ] https://github.com/goretk/gore
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
