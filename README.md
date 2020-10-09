@@ -225,6 +225,7 @@
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
+- [ ] https://github.com/imroc/req
 
 五、JSON解析
 
@@ -252,6 +253,7 @@
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/rs/zerolog
 - [ ] https://github.com/sirupsen/logrus
+- [ ] https://github.com/imroc/log
 
 九、错误处理
 
@@ -367,7 +369,8 @@
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
-- [ ] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
+- [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
+- [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
 - [ ] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
@@ -642,6 +645,7 @@
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/0x9ef/golang-uacbypasser
+- [x] https://github.com/timwhitez/Doge-Loader
 
 九、代码审计
 
