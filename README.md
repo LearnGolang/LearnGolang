@@ -548,6 +548,7 @@
 - [x] https://github.com/irealing/banner
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
+- [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/0x09AL/go-deliver
 - [x] https://github.com/projectdiscovery/httpx
 - [x] https://github.com/dean2021/titlesearch
@@ -634,6 +635,7 @@
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/rancher/remotedialer
+- [ ] https://github.com/mauri870/powershell-reverse-http
 
 八、病毒免杀
 
