@@ -192,32 +192,7 @@
 - [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
 - [x] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
 
-二、Web框架
-
-- [x] https://github.com/astaxie/beego
-- [ ] https://github.com/gin-gonic/gin
-- [ ] https://github.com/kataras/iris
-- [ ] https://github.com/revel/revel
-- [ ] https://github.com/go-martini/martini
-- [ ] https://go-macaron.com/
-- [ ] https://echo.labstack.com/
-- [ ] https://github.com/revel/revel
-- [ ] https://github.com/go-martini/martini
-- [ ] https://github.com/gin-gonic/gin
-- [ ] https://github.com/kataras/iris
-- [ ] https://github.com/savsgio/atreugo
-- [ ] https://github.com/tal-tech/go-zero
-- [ ] https://github.com/gohugoio/hugo
-
-三、爬虫框架
-
-- [x] https://github.com/gocolly/colly
-- [ ] https://github.com/PuerkitoBio/goquery
-- [ ] https://github.com/jaeles-project/gospider
-- [ ] https://github.com/china-muwenbo/gospider
-- [ ] https://github.com/crawlab-team/crawlab
-
-四、HTTP框架
+二、HTTP框架
 
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
@@ -226,6 +201,31 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/imroc/req
+
+三、Web框架
+
+- [x] https://github.com/astaxie/beego
+- [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/caddyserver/caddy
+- [ ] https://github.com/kataras/iris
+- [ ] https://github.com/revel/revel
+- [ ] https://github.com/kataras/iris
+- [ ] https://github.com/go-martini/martini
+- [ ] https://go-macaron.com/
+- [ ] https://echo.labstack.com/
+- [ ] https://github.com/revel/revel
+- [ ] https://github.com/go-martini/martini
+- [ ] https://github.com/savsgio/atreugo
+- [ ] https://github.com/tal-tech/go-zero
+- [ ] https://github.com/gohugoio/hugo
+
+四、爬虫框架
+
+- [x] https://github.com/gocolly/colly
+- [ ] https://github.com/PuerkitoBio/goquery
+- [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/china-muwenbo/gospider
+- [ ] https://github.com/crawlab-team/crawlab
 
 五、JSON解析
 
