@@ -367,6 +367,7 @@
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
+- [ ] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
 - [ ] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
