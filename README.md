@@ -143,6 +143,7 @@
 
 七、杂七杂八
 
+- [ ] [Go语言优秀资源整理](https://github.com/shockerli/go-awesome)
 - [ ] [GoBooks](https://asmcn.icopy.site/awesome/GoBooks)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
@@ -353,6 +354,7 @@
 - [ ] https://github.com/wangbjun/go-micloud
 - [ ] https://github.com/screego/server
 - [ ] https://github.com/etcd-io/etcd
+- [ ] https://github.com/elliotchance/c2go
 
 ## 0x06-Golang安全
 
