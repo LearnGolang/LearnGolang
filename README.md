@@ -1,10 +1,8 @@
-
-
 # LearnGolang
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月09日。
+本项目创建于2020年8月10日，最近一次更新时间为10月10日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -201,6 +199,7 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/imroc/req
+- [ ] https://github.com/parnurzeal/gorequest
 
 三、Web框架
 
@@ -381,9 +380,8 @@
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/information-gathering?l=go
 - [ ] https://github.com/topics/cve?l=go
-- [ ] https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/topics/vulnerability?l=go
-- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/topics/poc?l=go
 - [ ] https://github.com/topics/redteam?l=go
 - [ ] https://github.com/topics/tunnel?l=go
@@ -540,6 +538,7 @@
 
 六、漏洞扫描
 
+- [ ] https://github.com/topics/xss?l=go
 - [x] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/r0lh/CVE-2019-8449
@@ -602,6 +601,7 @@
 - [ ] https://github.com/markwh245/rapt0r
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/botherder/kraken
+- [ ] https://github.com/hahwul/a2sv
 
 七、隧道代理
 
