@@ -19,15 +19,14 @@
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
-- [x] [《Go语言101》](https://github.com/golang101/golang101)@老貘
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
@@ -43,6 +42,7 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
 二、高手进阶：
@@ -239,6 +239,7 @@
 - [ ] https://github.com/pingcap/tidb
 - [ ] https://github.com/ideawu/ssdb
 - [ ] https://github.com/jinzhu/gorm
+- [ ] https://github.com/qiniu/qmgo
 
 七、中间件
 
