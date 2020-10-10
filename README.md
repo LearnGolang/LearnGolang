@@ -718,6 +718,7 @@
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/unixpickle/gobfuscate
+- [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
 ## 0x08-Golang老师
 
