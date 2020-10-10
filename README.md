@@ -200,6 +200,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/imroc/req
 - [ ] https://github.com/parnurzeal/gorequest
+- [ ] https://github.com/projectdiscovery/httpx
 
 三、Web框架
 
@@ -379,6 +380,8 @@
 - [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-audit?l=go
 - [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/reconnaissance?l=go
+- [ ] https://github.com/topics/recon?l=go
 - [ ] https://github.com/topics/information-gathering?l=go
 - [ ] https://github.com/topics/cve?l=go
 - [ ] https://github.com/topics/vulnerability?l=go
@@ -394,6 +397,7 @@
 
 - [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/subdomains?l=go
+- [ ] https://github.com/topics/subdomain-scanner?l=go
 - [x] https://github.com/search?l=Go&q=subdomain
 - [ ] https://github.com/search?l=Go&q=domains
 - [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
@@ -405,44 +409,34 @@
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
+- [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 77
 - [ ] https://github.com/incogbyte/shosubgo | 通过shodan接口搜索子域 | 80
 - [ ] https://github.com/amar-myana/certdomainfinder | 通过certspotter搜索子域 | 9
+- [ ] https://github.com/pwn1sher/CertShooter | 通过CertSpotter 搜索子域 | 1
+- [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域 | 126
 - [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
-- [ ] https://github.com/haccer/subjack
-- [ ] https://github.com/rverton/redAsset
-- [ ] https://github.com/subfinder/goaltdns
-- [ ] https://github.com/tomnomnom/httprobe
-- [ ] https://github.com/gwen001/github-subdomains
-- [ ] https://github.com/tomsteele/blacksheepwall
-- [ ] https://github.com/projectdiscovery/shuffledns
-- [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域
-- [ ] https://github.com/projectdiscovery/dnsprobe
-- [ ] https://github.com/jimen0/brute
-- [ ] https://github.com/iepathos/brutall
-- [ ] https://github.com/anshumanbh/brutesubs
-- [ ] https://github.com/Kevintheminion18/assetfinder
-- [ ] https://github.com/McRaeAlex/domainutils
-- [ ] https://github.com/kevinborras/GokGok
-- [ ] https://github.com/attacker34/brute
-- [ ] https://github.com/theblackturtle/fprobe
-- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具
-- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序
-- [ ] https://github.com/zsdevX/DarkEye
-- [ ] https://github.com/bobesa/go-domain-util
-- [ ] https://github.com/netevert/delator
-- [ ] https://github.com/edoardottt/scilla
-- [ ] https://github.com/SanSYS/subdscan
-- [ ] https://github.com/MilindPurswani/takemeon
-- [ ] https://github.com/yghonem14/cngo
-- [ ] https://github.com/fengdingbo/subdomain-scanner | 国人写的
-- [ ] https://github.com/pwn1sher/CertShooter
-- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描
+- [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
+- [ ] https://github.com/subfinder/goaltdns | 用golang编写的置换生成工具 | 103
+- [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1k
+- [x] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
+- [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域 | 3
+- [ ] https://github.com/tomsteele/blacksheepwall | Go编写的主机名侦查工具 | 282
+- [ ] https://github.com/projectdiscovery/shuffledns | 使用bruteforce枚举有效的子域 | 376
+- [ ] https://github.com/projectdiscovery/dnsprobe | 查询DNS的工具 | 185
+- [ ] https://github.com/iepathos/brutall | 开源的跨平台多工具子域爆破攻击者 | 1
+- [ ] https://github.com/anshumanbh/brutesubs | 配合Docker进行域名爆破 | 226
+- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
+- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 224
+- [ ] https://github.com/bobesa/go-domain-util | 检查url是否包含子域 | 41
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 9
+- [ ] https://github.com/fengdingbo/subdomain-scanner | 使用Golang编写的子域名检测程 | 5
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
+- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
 - [ ] https://github.com/51gn3d/stko
 - [ ] https://github.com/Sam-Lane/subway
 - [ ] https://github.com/mosunit/SubdomainEnumerator
 - [ ] https://github.com/mcrouse911/subdomainfinder
-- [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域
-- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域
+- [ ] https://github.com/yghonem14/cngo
 - [ ] https://github.com/foae/extract-subdomains-from-https
 - [ ] https://github.com/Any3ite/subDomainFucker
 - [ ] https://github.com/medasz/subDomainsBrute
@@ -473,10 +467,15 @@
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/Q2h1Cg/dnsbrute
-- [ ] 以下的域名扫描工具待测试
 - [ ] https://github.com/codeexpress/subdomainrecon
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
+- [ ] https://github.com/rverton/redAsset
+- [ ] https://github.com/jimen0/brute
+- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/kevinborras/GokGok
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/MilindPurswani/takemeon
 
 二、路径扫描
 
@@ -494,6 +493,7 @@
 
 三、端口扫描
 
+- [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
 - [ ] https://github.com/zmap/zgrab2
@@ -701,6 +701,7 @@
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/playGitboy/bruteHASH
 - [ ] https://github.com/iiiusky/WappalyzerParse
+- [ ] https://github.com/zsdevX/DarkEye
 
 ## 0X07-Golang逆向
 
