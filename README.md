@@ -396,16 +396,17 @@
 - [ ] https://github.com/topics/subdomains?l=go
 - [x] https://github.com/search?l=Go&q=subdomain
 - [ ] https://github.com/search?l=Go&q=domains
-- [x] https://github.com/evilsocket/dnssearch | 子域枚举工具
-- [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现
-- [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具
-- [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具
-- [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer
-- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域
-- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP
-- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域
-- [ ] https://github.com/scanterog/crawler | 网站内域名爬虫
-- [ ] https://github.com/incogbyte/shosubgo |shodan接口搜索子域
+- [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
+- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 2.9k
+- [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
+- [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
+- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
+- [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
+- [ ] https://github.com/incogbyte/shosubgo | 通过shodan接口搜索子域 | 80
+- [ ] https://github.com/amar-myana/certdomainfinder | 通过certspotter搜索子域 | 9
 - [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
 - [ ] https://github.com/haccer/subjack
 - [ ] https://github.com/rverton/redAsset
@@ -428,7 +429,6 @@
 - [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/bobesa/go-domain-util
-- [ ] https://github.com/codeexpress/subdomainrecon
 - [ ] https://github.com/netevert/delator
 - [ ] https://github.com/edoardottt/scilla
 - [ ] https://github.com/SanSYS/subdscan
@@ -455,12 +455,10 @@
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/scanterog/crawler
 - [ ] https://github.com/iepathos/brutall
-- [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/subfinder/goaltdns
 - [ ] https://github.com/netevert/delator
 - [ ] https://github.com/nscuro/fdnssearch
-- [ ] https://github.com/amar-myana/certdomainfinder
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/daehee/mildew
 - [ ] https://github.com/celrenheit/lion
@@ -470,12 +468,15 @@
 - [ ] https://github.com/jimen0/fdns
 - [ ] https://github.com/subfinder/research
 - [ ] https://github.com/CosasDePuma/Elliot
-- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/jonhadfield/subtocheck
 - [ ] https://github.com/yunxu1/dnsub
 - [ ] https://github.com/hsw409328/go-scan
 - [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/Q2h1Cg/dnsbrute
+- [ ] 以下的域名扫描工具待测试
+- [ ] https://github.com/codeexpress/subdomainrecon
+- [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 
 二、路径扫描
 
@@ -505,7 +506,6 @@
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/nray-scanner/nray
-- [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/liamg/furious
 - [ ] https://github.com/lair-framework/go-nmap
 - [ ] https://github.com/dean2021/go-nmap
