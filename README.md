@@ -700,6 +700,7 @@
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/playGitboy/bruteHASH
+- [ ] https://github.com/iiiusky/WappalyzerParse
 
 ## 0X07-Golang逆向
 
