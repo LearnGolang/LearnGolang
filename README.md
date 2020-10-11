@@ -478,12 +478,22 @@
 
 二、路径扫描
 
+- [ ] https://github.com/topics/fuzzer?l=go
+- [ ] https://github.com/topics/fuzzing?l=go
+- [ ] https://github.com/topics/fuzz?l=go
 - [x] https://github.com/ffuf/ffuf
 - [ ] https://github.com/1c3z/fileleak
+- [ ] https://github.com/dzonerzy/goWAPT
+- [ ] https://github.com/liamg/scout
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/Matir/webborer
 - [ ] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/evilsocket/dirsearch
+- [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/vlad-s/gofuzzyourself
+- [ ] https://github.com/happal/taifun
+- [ ] https://github.com/sueesmar/pluzz
+- [ ] https://github.com/ArenasDev/crapbuster
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/yuxiaokui/webfinger
@@ -496,6 +506,7 @@
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
+- [ ] https://github.com/liamg/scout
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/vus520/go-scan
 - [ ] https://github.com/ariagecheney/fyneIPinfo
@@ -550,6 +561,7 @@
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
 - [ ] https://github.com/canc3s/shiro
+- [ ] https://github.com/liamg/pax
 - [ ] https://github.com/0x09AL/go-deliver
 - [ ] https://github.com/CosasDePuma/Elliot
 - [x] https://github.com/projectdiscovery/httpx
@@ -563,6 +575,7 @@
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/optiv/CVE-2020-15931
 - [ ] https://github.com/r0lh/vubase
+- [ ] https://github.com/liamg/gitjacker
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
