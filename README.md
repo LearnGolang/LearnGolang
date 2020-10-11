@@ -545,6 +545,7 @@
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/phil-fly/goWeakPass
 - [ ] https://github.com/sysdream/ligolo
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
 
 五、Web安全
 
@@ -574,6 +575,7 @@
 - [x] https://github.com/irealing/banner
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
+- [x] https://github.com/optimic/WeblogicScanner
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
 - [ ] https://github.com/hahwul/mzap
@@ -589,6 +591,7 @@
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/optiv/CVE-2020-15931
+- [ ] https://github.com/orf53975/weblogicExp
 - [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/liamg/gitjacker
 - [ ] https://github.com/Ne0nd0g/merlin
