@@ -385,7 +385,6 @@
 - [ ] https://github.com/topics/hacking-tool?l=go
 - [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-audit?l=go
-- [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/reconnaissance?l=go
 - [ ] https://github.com/topics/recon?l=go
 - [ ] https://github.com/topics/information-gathering?l=go
@@ -396,7 +395,6 @@
 - [ ] https://github.com/topics/redteam?l=go
 - [ ] https://github.com/topics/tunnel?l=go
 - [ ] https://github.com/search?l=Go&q=cve
-- [ ] https://github.com/search?l=Go&q=portscan
 - [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
 
 一、域名扫描
@@ -475,17 +473,21 @@
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/vmnguyen/findweb
 
 二、路径扫描
 
 - [ ] https://github.com/topics/fuzzer?l=go
 - [ ] https://github.com/topics/fuzzing?l=go
 - [ ] https://github.com/topics/fuzz?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/webscan?l=go
 - [x] https://github.com/ffuf/ffuf
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/dzonerzy/goWAPT
 - [ ] https://github.com/liamg/scout
-- [ ] https://github.com/liamg/scout
+- [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/stefanoj3/dirstalk
 - [ ] https://github.com/Matir/webborer
 - [ ] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/evilsocket/dirsearch
@@ -503,6 +505,9 @@
 
 三、端口扫描
 
+- [ ] https://github.com/topics/portscan?l=go
+- [ ] https://github.com/topics/portscanner?l=go
+- [ ] https://github.com/search?l=Go&q=portscan
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
@@ -522,12 +527,14 @@
 - [ ] https://github.com/dean2021/go-nmap
 - [ ] https://github.com/dean2021/go-masscan
 
-四、密码爆破
+四、密码破解
 
 - [ ] https://github.com/topics/bruteforce?l=go
 - [x] https://github.com/netxfly/x-crack
+- [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/oksbsb/crack
 - [ ] https://github.com/ncsa/ssh-auditor
+- [ ] https://github.com/netxfly/crack_ssh
 - [ ] https://gitlab.com/opennota/hydra
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
@@ -541,16 +548,23 @@
 
 五、Web安全
 
+- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/ssrf?l=go
+- [ ] https://github.com/topics/rce?l=go
+- [ ] https://github.com/topics/sql-injection?l=go
 - [ ] https://github.com/tprynn/web-methodology
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
 - [x] https://github.com/dstotijn/hetty
 - [ ] https://github.com/pikpikcu/XRCross
+- [ ] https://github.com/chennqqi/godnslog
+- [ ] https://github.com/hahwul/dalfox
 
 六、漏洞扫描
 
-- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/pentesting?l=go
+- [ ] https://github.com/topics/vulnerability-scanner?l=go
 - [x] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/marco-lancini/goscan
@@ -580,7 +594,6 @@
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
-- [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/gobysec/Goby
 - [ ] https://github.com/opensec-cn/kunpeng
 - [ ] https://github.com/x51/STS2G
@@ -670,7 +683,7 @@
 - [ ] https://github.com/tfsec/tfsec
 - [x] https://github.com/ynqa/diffy
 
-十、钓鱼工具
+十、社工钓鱼
 
 - [x] https://github.com/gophish/gophish
 - [x] https://github.com/hacklcx/HFish
