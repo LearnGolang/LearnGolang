@@ -362,6 +362,7 @@
 - [ ] https://github.com/ArturSS7/TukTuk
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/charmbracelet/bubbletea
+- [ ] https://github.com/common-nighthawk/go-figure
 
 ## 0x06-Golang安全
 
@@ -436,18 +437,12 @@
 - [ ] https://github.com/fengdingbo/subdomain-scanner | 使用Golang编写的子域名检测程 | 5
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
 - [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
-- [ ] https://github.com/51gn3d/stko
-- [ ] https://github.com/Sam-Lane/subway
-- [ ] https://github.com/mosunit/SubdomainEnumerator
-- [ ] https://github.com/mcrouse911/subdomainfinder
-- [ ] https://github.com/yghonem14/cngo
-- [ ] https://github.com/foae/extract-subdomains-from-https
-- [ ] https://github.com/Any3ite/subDomainFucker
-- [ ] https://github.com/medasz/subDomainsBrute
-- [ ] https://github.com/denismitr/subguess
-- [ ] https://github.com/jonhadfield/subtocheck
-- [ ] https://github.com/minix357/subsearch
-- [ ] https://github.com/dryvenn/crawler
+- [ ] https://github.com/51gn3d/stko | 子域接管发现工具 | 2
+- [ ] https://github.com/mosunit/SubdomainEnumerator | 使用多种工具进行子域枚举| 1
+- [ ] https://github.com/mcrouse911/subdomainfinder | 子域名查找器 | 0
+- [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
+- [ ] https://github.com/minix357/subsearch | 小型并发子域枚举工具 | 2
+- [ ] https://github.com/dryvenn/crawler | 简单的网页爬虫子域搜寻器 | 0
 - [ ] https://github.com/z3dc0ps/altsub-pro
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 - [ ] https://github.com/goodlandsecurity/subfinder
@@ -480,6 +475,11 @@
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/attacker34/brute
 - [ ] https://github.com/MilindPurswani/takemeon
+- [ ] https://github.com/foae/extract-subdomains-from-https
+- [ ] https://github.com/Any3ite/subDomainFucker
+- [ ] https://github.com/medasz/subDomainsBrute
+- [ ] https://github.com/denismitr/subguess
+- [ ] https://github.com/Sam-Lane/subway | 通过虚拟托管HTTP请求来枚举子域 | 2
 
 二、路径扫描
 
@@ -494,6 +494,7 @@
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/OJ/gobuster
+- [ ] https://github.com/yghonem14/cngo
 
 三、端口扫描
 
