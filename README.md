@@ -488,6 +488,7 @@
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/webscan?l=go
 - [x] https://github.com/ffuf/ffuf
+- [ ] https://github.com/tomnomnom/meg
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/dzonerzy/goWAPT
 - [ ] https://github.com/liamg/scout
@@ -687,6 +688,7 @@
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/0x9ef/golang-uacbypasser
 - [x] https://github.com/timwhitez/Doge-Loader
+- [ ] https://github.com/Binject/shellcode
 
 九、代码审计
 
