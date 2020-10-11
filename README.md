@@ -42,7 +42,7 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
 二、高手进阶：
@@ -141,6 +141,8 @@
 七、杂七杂八
 
 - [ ] [Go语言优秀资源整理](https://github.com/shockerli/go-awesome)
+- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
+- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
 - [ ] [GoBooks](https://asmcn.icopy.site/awesome/GoBooks)
 - [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 - [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
@@ -318,7 +320,11 @@
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 
-二十、其他框架
+二十、电子表格
+
+- [ ] https://github.com/tealeg/xlsx
+
+二十一、其他框架
 
 - [ ] https://github.com/FiloSottile/age
 
