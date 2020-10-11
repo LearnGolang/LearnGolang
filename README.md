@@ -446,36 +446,35 @@
 - [ ] https://github.com/dryvenn/crawler | 简单的网页爬虫子域搜寻器 | 0
 - [ ] https://github.com/z3dc0ps/altsub-pro | 查找子域名的存活状态 | 1
 - [ ] https://github.com/Sam-Lane/subway | 通过虚拟托管HTTP请求来枚举子域 | 2
-- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
-- [ ] https://github.com/goodlandsecurity/subfinder
-- [ ] https://github.com/iepathos/brutall
-- [ ] https://github.com/McRaeAlex/domainutils
-- [ ] https://github.com/nscuro/fdnssearch
-- [ ] https://github.com/jimen0/resolver
-- [ ] https://github.com/daehee/mildew
-- [ ] https://github.com/Cgboal/SonarSearch
-- [ ] https://github.com/jakejarvis/subtake
-- [ ] https://github.com/jimen0/fdns
-- [ ] https://github.com/subfinder/research
-- [ ] https://github.com/CosasDePuma/Elliot
+- [ ] https://github.com/nscuro/fdnssearch | 从Rapid7 Open Data快速搜索FDNS数据集 | 9
+- [ ] https://github.com/jakejarvis/subtake | 基于subjack脚本进行子域接管侦察 | 90
+- [ ] https://github.com/jimen0/fdns | 并发Rapid7 FDNS数据集解析器 | 65
+- [ ] https://github.com/subfinder/research | 子域枚举工具 | 30
 - [ ] https://github.com/jonhadfield/subtocheck
-- [ ] https://github.com/yunxu1/dnsub
-- [ ] https://github.com/hsw409328/go-scan
-- [ ] https://github.com/Freek3r/GoDigDomain
-- [ ] https://github.com/Q2h1Cg/dnsbrute
-- [ ] https://github.com/codeexpress/subdomainrecon
+- [ ] https://github.com/yunxu1/dnsub | 一款好用的子域名扫描工具 | 81
+- [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
+- [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/jimen0/brute
+- [ ] https://github.com/hsw409328/go-scan
+- [ ] https://github.com/Freek3r/GoDigDomain
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/kevinborras/GokGok
+- [ ] https://github.com/jimen0/resolver
+- [ ] https://github.com/daehee/mildew
+- [ ] https://github.com/Cgboal/SonarSearch
 - [ ] https://github.com/attacker34/brute
 - [ ] https://github.com/MilindPurswani/takemeon
 - [ ] https://github.com/foae/extract-subdomains-from-https
 - [ ] https://github.com/Any3ite/subDomainFucker
 - [ ] https://github.com/medasz/subDomainsBrute
 - [ ] https://github.com/denismitr/subguess
+- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
+- [ ] https://github.com/goodlandsecurity/subfinder
+- [ ] https://github.com/iepathos/brutall
+- [ ] https://github.com/McRaeAlex/domainutils
 
 二、路径扫描
 
@@ -552,6 +551,7 @@
 - [x] https://github.com/45253321/gogoscan
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/0x09AL/go-deliver
+- [ ] https://github.com/CosasDePuma/Elliot
 - [x] https://github.com/projectdiscovery/httpx
 - [x] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
