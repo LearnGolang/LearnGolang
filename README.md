@@ -201,6 +201,7 @@
 - [ ] https://github.com/imroc/req
 - [ ] https://github.com/parnurzeal/gorequest
 - [ ] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/mssola/user_agent
 
 三、Web框架
 
@@ -231,6 +232,7 @@
 
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
+- [ ] https://github.com/lqiz/amoeba
 
 六、数据库以及ORM
 
@@ -332,17 +334,12 @@
 - [x] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
 
-二、钓鱼工具
-
-- [x] https://github.com/gophish/gophish
-- [x] https://github.com/hacklcx/HFish
-
-三、娱乐游戏
+二、娱乐游戏
 
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 
-四、优秀项目
+三、优秀项目
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/schollz/croc
@@ -363,6 +360,8 @@
 - [ ] https://github.com/etcd-io/etcd
 - [ ] https://github.com/elliotchance/c2go
 - [ ] https://github.com/ArturSS7/TukTuk
+- [ ] https://github.com/pion/turn
+- [ ] https://github.com/charmbracelet/bubbletea
 
 ## 0x06-Golang安全
 
@@ -661,10 +660,16 @@
 - [ ] https://github.com/tfsec/tfsec
 - [x] https://github.com/ynqa/diffy
 
-十、其他项目
+十、钓鱼工具
+
+- [x] https://github.com/gophish/gophish
+- [x] https://github.com/hacklcx/HFish
+
+十一、其他项目
 
 - [x] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/evilsocket/xray
+- [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
 - [ ] https://github.com/projectdiscovery/nuclei
@@ -707,6 +712,7 @@
 - [ ] https://github.com/playGitboy/bruteHASH
 - [ ] https://github.com/iiiusky/WappalyzerParse
 - [ ] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/chaitin/cloudwalker
 
 ## 0X07-Golang逆向
 
