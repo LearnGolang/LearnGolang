@@ -543,6 +543,7 @@
 - [ ] https://github.com/china-muwenbo/goScanPort
 - [ ] https://github.com/zhangqin/mysqlfuzz
 - [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/phil-fly/goWeakPass
 - [ ] https://github.com/sysdream/ligolo
 
 五、Web安全
