@@ -202,6 +202,7 @@
 - [ ] https://github.com/parnurzeal/gorequest
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/mssola/user_agent
+- [ ] https://github.com/celrenheit/lion
 
 三、Web框架
 
@@ -443,19 +444,15 @@
 - [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
 - [ ] https://github.com/minix357/subsearch | 小型并发子域枚举工具 | 2
 - [ ] https://github.com/dryvenn/crawler | 简单的网页爬虫子域搜寻器 | 0
-- [ ] https://github.com/z3dc0ps/altsub-pro
+- [ ] https://github.com/z3dc0ps/altsub-pro | 查找子域名的存活状态 | 1
+- [ ] https://github.com/Sam-Lane/subway | 通过虚拟托管HTTP请求来枚举子域 | 2
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 - [ ] https://github.com/goodlandsecurity/subfinder
-- [ ] https://github.com/scanterog/crawler
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/McRaeAlex/domainutils
-- [ ] https://github.com/subfinder/goaltdns
-- [ ] https://github.com/netevert/delator
 - [ ] https://github.com/nscuro/fdnssearch
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/daehee/mildew
-- [ ] https://github.com/celrenheit/lion
-- [ ] https://github.com/projectdiscovery/dnsprobe
 - [ ] https://github.com/Cgboal/SonarSearch
 - [ ] https://github.com/jakejarvis/subtake
 - [ ] https://github.com/jimen0/fdns
@@ -479,7 +476,6 @@
 - [ ] https://github.com/Any3ite/subDomainFucker
 - [ ] https://github.com/medasz/subDomainsBrute
 - [ ] https://github.com/denismitr/subguess
-- [ ] https://github.com/Sam-Lane/subway | 通过虚拟托管HTTP请求来枚举子域 | 2
 
 二、路径扫描
 
