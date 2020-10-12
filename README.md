@@ -367,6 +367,7 @@
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/common-nighthawk/go-figure
+- [ ] https://github.com/SaturnsVoid/GoBot
 
 ## 0x06-Golang安全
 
