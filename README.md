@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月11日。
+本项目创建于2020年8月10日，最近一次更新时间为10月12日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -415,6 +415,7 @@
 - [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
 - [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
+- [x] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 9
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
@@ -437,7 +438,6 @@
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
 - [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 224
 - [ ] https://github.com/bobesa/go-domain-util | 检查url是否包含子域 | 41
-- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 9
 - [ ] https://github.com/fengdingbo/subdomain-scanner | 使用Golang编写的子域名检测程 | 5
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
 - [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
@@ -748,6 +748,8 @@
 - [ ] https://github.com/iiiusky/WappalyzerParse
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/chaitin/cloudwalker
+- [ ] https://github.com/asalih/guardian
+- [ ] https://github.com/jptosso/coraza-waf
 
 ## 0X07-Golang逆向
 
