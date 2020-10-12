@@ -140,20 +140,16 @@
 
 七、杂七杂八
 
-- [ ] [Go语言优秀资源整理](https://github.com/shockerli/go-awesome)
-- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
-- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
-- [ ] [GoBooks](https://asmcn.icopy.site/awesome/GoBooks)
-- [ ] [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
-- [ ] [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn)
-- [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
-- [ ] [hackerrankGo](https://github.com/dreddsa5dies/hackerrankGo)
 - [ ] [Go语言招聘](https://gocn.vip/jobs)
-- [ ] [Gopher 阅读清单](https://github.com/enocom/gopher-reading-list)
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
+- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
+- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
+- [ ] [go-awesome](https://github.com/shockerli/go-awesome)
+- [ ] [go-study-index](https://github.com/unknwon/go-study-index)
+- [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
+- [ ] [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 - [ ] [golang-design](https://github.com/golang-design/history)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
-- [ ] https://github.com/zheng-ji/ToyCollection
 
 ## 0x02-Golang视频
 
@@ -207,6 +203,7 @@
 
 三、Web框架
 
+- [ ] https://github.com/topics/web?l=go
 - [x] https://github.com/astaxie/beego
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/caddyserver/caddy
@@ -333,6 +330,7 @@
 〇、项目搜索
 
 - [ ] https://github.com/trending/go
+- [ ] https://github.com/topics/tool?l=go
 
 一、CMS网站
 
@@ -488,6 +486,7 @@
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/webscan?l=go
 - [x] https://github.com/ffuf/ffuf
+- [x] https://github.com/OJ/gobuster
 - [ ] https://github.com/tomnomnom/meg
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/dzonerzy/goWAPT
@@ -506,7 +505,6 @@
 - [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/projectdiscovery/nuclei
-- [ ] https://github.com/OJ/gobuster
 - [ ] https://github.com/yghonem14/cngo
 
 三、端口扫描
