@@ -563,6 +563,7 @@
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
 - [x] https://github.com/dstotijn/hetty
+- [ ] https://github.com/denandz/glorp
 - [ ] https://github.com/pikpikcu/XRCross
 - [ ] https://github.com/chennqqi/godnslog
 - [ ] https://github.com/hahwul/dalfox
@@ -748,6 +749,7 @@
 - [ ] https://github.com/chaitin/cloudwalker
 - [ ] https://github.com/asalih/guardian
 - [ ] https://github.com/jptosso/coraza-waf
+- [ ] https://github.com/rinetd/ssh
 
 ## 0X07-Golang逆向
 
@@ -768,6 +770,10 @@
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+
+三、Go勒索病毒
+
+- [ ] https://paper.seebug.org/1357/
 
 ## 0x08-Golang老师
 
