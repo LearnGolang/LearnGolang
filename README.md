@@ -200,6 +200,7 @@
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/mssola/user_agent
 - [ ] https://github.com/celrenheit/lion
+- [ ] https://github.com/zhshch2002/goreq
 
 三、DNS框架
 
@@ -240,6 +241,7 @@
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/zhshch2002/gospider
 
 七、JSON解析
 
@@ -329,6 +331,7 @@
 
 - [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/fatih/color
+- [ ] https://github.com/urfave/c
 
 二十三、其他框架
 
@@ -467,10 +470,7 @@
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
-- [ ] https://github.com/jimen0/resolver
-- [ ] https://github.com/daehee/mildew
-- [ ] https://github.com/Cgboal/SonarSearch
-- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/MilindPurswani/takemeon
 - [ ] https://github.com/foae/extract-subdomains-from-https
 - [ ] https://github.com/Any3ite/subDomainFucker
@@ -484,6 +484,9 @@
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/jimen0/resolver
+- [ ] https://github.com/Cgboal/SonarSearch
 
 二、路径扫描
 
@@ -650,6 +653,7 @@
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/hahwul/a2sv
+- [ ] https://github.com/devanshbatham/Gorecon
 
 七、隧道代理
 
@@ -762,6 +766,7 @@
 - [ ] https://github.com/rinetd/ssh
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/dghubble/go-twitter
+- [ ] https://github.com/lc/gau
 
 ## 0X07-Golang逆向
 
