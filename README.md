@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月12日。
+本项目创建于2020年8月10日，最近一次更新时间为10月13日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -321,7 +321,11 @@
 
 - [ ] https://github.com/tealeg/xlsx
 
-二十一、其他框架
+二十一、打印调试
+
+- [ ] https://github.com/davecgh/go-spew
+
+二十二、其他框架
 
 - [ ] https://github.com/FiloSottile/age
 
@@ -342,6 +346,7 @@
 
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+- [ ] https://github.com/umarquez/0ms2-game
 
 三、优秀项目
 
@@ -368,6 +373,7 @@
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/common-nighthawk/go-figure
 - [ ] https://github.com/SaturnsVoid/GoBot
+- [ ] https://github.com/godcong/fate
 
 ## 0x06-Golang安全
 
@@ -694,6 +700,7 @@
 
 - [ ] https://github.com/tfsec/tfsec
 - [x] https://github.com/ynqa/diffy
+- [ ] https://github.com/William-Yeh/fswatch
 
 十、社工钓鱼
 
@@ -751,6 +758,7 @@
 - [ ] https://github.com/asalih/guardian
 - [ ] https://github.com/jptosso/coraza-waf
 - [ ] https://github.com/rinetd/ssh
+- [ ] https://github.com/schollz/croc
 
 ## 0X07-Golang逆向
 
