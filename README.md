@@ -201,7 +201,21 @@
 - [ ] https://github.com/mssola/user_agent
 - [ ] https://github.com/celrenheit/lion
 
-三、Web框架
+三、DNS框架
+
+- [ ] https://github.com/miekg/dns
+
+四、数据库框架
+
+- [ ] https://github.com/syndtr/goleveldb
+- [ ] https://github.com/boltdb/bolt
+- [ ] https://github.com/go-sql-driver/mysql
+- [ ] https://github.com/pingcap/tidb
+- [ ] https://github.com/ideawu/ssdb
+- [ ] https://github.com/jinzhu/gorm
+- [ ] https://github.com/qiniu/qmgo
+
+五、Web框架
 
 - [ ] https://github.com/topics/web?l=go
 - [x] https://github.com/astaxie/beego
@@ -219,7 +233,7 @@
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gohugoio/hugo
 
-四、爬虫框架
+六、爬虫框架
 
 - [x] https://github.com/gocolly/colly
 - [ ] https://github.com/PuerkitoBio/goquery
@@ -227,29 +241,19 @@
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/crawlab-team/crawlab
 
-五、JSON解析
+七、JSON解析
 
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/lqiz/amoeba
 
-六、数据库以及ORM
-
-- [ ] https://github.com/syndtr/goleveldb
-- [ ] https://github.com/boltdb/bolt
-- [ ] https://github.com/go-sql-driver/mysql
-- [ ] https://github.com/pingcap/tidb
-- [ ] https://github.com/ideawu/ssdb
-- [ ] https://github.com/jinzhu/gorm
-- [ ] https://github.com/qiniu/qmgo
-
-七、中间件
+八、中间件框架
 
 - [ ] https://github.com/go-redis/redis
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
-八、日志框架
+九、日志框架
 
 - [ ]  https://github.com/uber-go/zap
 - [ ] https://github.com/go-clog/clog
@@ -257,75 +261,76 @@
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/imroc/log
 
-九、错误处理
+十、错误处理
 
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
 
-十、消息队列
+十一、消息队列
 
 - [ ]  https://github.com/nsqio/nsq
 - [ ]  https://github.com/MasslessParticle/GoQ
 
-十一、Service Mesh
+十二、Service Mesh
 
 - [ ] https://github.com/istio/istio
 
-十二、RPC
+十三、RPC
 
 - [ ] https://github.com/smallnest/rpcx
 
 - [ ] https://github.com/grpc/grpc-go
 
-十三、协程池
+十四、协程池
 
 - [ ]  https://github.com/panjf2000/ants
 - [ ]  https://github.com/alitto/pond
 - [ ]  https://github.com/dean2021/hackpool
 
-十四、视觉图像处理
+十五、视觉图像处理
 
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
-十五、网络框架
+十六、网络框架
 
 - [ ] https://github.com/xtaci/kcp-go
 
 
-十六、测试框架
+十七、测试框架
 
 - [ ] https://github.com/h2non/gock
 
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
-十七、邮箱框架
+十八、邮箱框架
 
 - [ ] https://github.com/jordan-wright/email
 - [ ] https://github.com/foxcpp/maddy
 
-十八、图形化
+十九、图形化
 
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/kpfaulkner/goui
 
-十九、RSS框架
+二十、RSS框架
 
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 
-二十、电子表格
+二十一、电子表格
 
 - [ ] https://github.com/tealeg/xlsx
 
-二十一、打印调试
+二十二、打印调试
 
 - [ ] https://github.com/davecgh/go-spew
+- [ ] https://github.com/fatih/color
 
-二十二、其他框架
+二十三、其他框架
 
 - [ ] https://github.com/FiloSottile/age
 
@@ -458,18 +463,10 @@
 - [ ] https://github.com/jakejarvis/subtake | 基于subjack脚本进行子域接管侦察 | 90
 - [ ] https://github.com/jimen0/fdns | 并发Rapid7 FDNS数据集解析器 | 65
 - [ ] https://github.com/subfinder/research | 子域枚举工具 | 30
-- [ ] https://github.com/jonhadfield/subtocheck
 - [ ] https://github.com/yunxu1/dnsub | 一款好用的子域名扫描工具 | 81
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
-- [ ] https://github.com/Kevintheminion18/assetfinder
-- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
-- [ ] https://github.com/rverton/redAsset
-- [ ] https://github.com/jimen0/brute
-- [ ] https://github.com/hsw409328/go-scan
-- [ ] https://github.com/Freek3r/GoDigDomain
-- [ ] https://github.com/McRaeAlex/domainutils
-- [ ] https://github.com/kevinborras/GokGok
+- [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/daehee/mildew
 - [ ] https://github.com/Cgboal/SonarSearch
@@ -484,6 +481,9 @@
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/vmnguyen/findweb
+- [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/rverton/redAsset
+- [ ] https://github.com/McRaeAlex/domainutils
 
 二、路径扫描
 
@@ -520,6 +520,7 @@
 - [ ] https://github.com/topics/portscanner?l=go
 - [ ] https://github.com/search?l=Go&q=portscan
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
+- [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
 - [ ] https://github.com/liamg/scout
@@ -537,6 +538,7 @@
 - [ ] https://github.com/lair-framework/go-nmap
 - [ ] https://github.com/dean2021/go-nmap
 - [ ] https://github.com/dean2021/go-masscan
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 
 四、密码破解
 
