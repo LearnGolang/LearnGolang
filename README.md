@@ -326,6 +326,7 @@
 二十一、电子表格
 
 - [ ] https://github.com/tealeg/xlsx
+- [ ] https://github.com/360EntSecGroup-Skylar/excelize
 
 二十二、打印调试
 
@@ -383,6 +384,8 @@
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
 - [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/lanyi1998/DNSlog-GO
+- [ ] https://github.com/spf13/viper
 
 ## 0x06-Golang安全
 
@@ -767,6 +770,10 @@
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/dghubble/go-twitter
 - [ ] https://github.com/lc/gau
+- [ ] https://github.com/shazow/ssh-chat
+- [ ] https://github.com/chriskaliX/drdos-framework
+- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
+- [ ] https://github.com/securego/gosec
 
 ## 0X07-Golang逆向
 
