@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月13日。
+本项目创建于2020年8月10日，最近一次更新时间为10月14日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -382,6 +382,7 @@
 - [ ] https://github.com/common-nighthawk/go-figure
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
+- [ ] https://github.com/americanexpress/earlybird
 
 ## 0x06-Golang安全
 
@@ -389,8 +390,8 @@
 
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
-- [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
+- [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
@@ -420,7 +421,7 @@
 - [ ] https://github.com/topics/subdomain?l=go
 - [ ] https://github.com/topics/subdomains?l=go
 - [ ] https://github.com/topics/subdomain-scanner?l=go
-- [x] https://github.com/search?l=Go&q=subdomain
+- [ ] https://github.com/search?l=Go&q=subdomain
 - [ ] https://github.com/search?l=Go&q=domains
 - [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
@@ -428,9 +429,11 @@
 - [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
 - [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
+- [x] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
 - [x] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 9
+- [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
+- [x] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
-- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
 - [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 77
 - [ ] https://github.com/incogbyte/shosubgo | 通过shodan接口搜索子域 | 80
@@ -441,7 +444,6 @@
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
 - [ ] https://github.com/subfinder/goaltdns | 用golang编写的置换生成工具 | 103
 - [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1k
-- [x] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
 - [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域 | 3
 - [ ] https://github.com/tomsteele/blacksheepwall | Go编写的主机名侦查工具 | 282
 - [ ] https://github.com/projectdiscovery/shuffledns | 使用bruteforce枚举有效的子域 | 376
@@ -469,7 +471,6 @@
 - [ ] https://github.com/yunxu1/dnsub | 一款好用的子域名扫描工具 | 81
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
-- [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/MilindPurswani/takemeon
 - [ ] https://github.com/foae/extract-subdomains-from-https
@@ -488,34 +489,25 @@
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/Cgboal/SonarSearch
 
-二、路径扫描
+二、密码破解
 
-- [ ] https://github.com/topics/fuzzer?l=go
-- [ ] https://github.com/topics/fuzzing?l=go
-- [ ] https://github.com/topics/fuzz?l=go
-- [ ] https://github.com/topics/dirbuster?l=go
-- [ ] https://github.com/topics/webscan?l=go
-- [x] https://github.com/ffuf/ffuf
-- [x] https://github.com/OJ/gobuster
-- [ ] https://github.com/tomnomnom/meg
-- [ ] https://github.com/1c3z/fileleak
-- [ ] https://github.com/dzonerzy/goWAPT
-- [ ] https://github.com/liamg/scout
-- [ ] https://github.com/dowdyph0/transgo
-- [ ] https://github.com/stefanoj3/dirstalk
-- [ ] https://github.com/Matir/webborer
-- [ ] https://github.com/hakluke/hakrawler
-- [ ] https://github.com/evilsocket/dirsearch
-- [ ] https://github.com/graniet/GoFuzz
-- [ ] https://github.com/vlad-s/gofuzzyourself
-- [ ] https://github.com/happal/taifun
-- [ ] https://github.com/sueesmar/pluzz
-- [ ] https://github.com/ArenasDev/crapbuster
-- [ ] https://github.com/sdgdsffdsfff/lcyscan
-- [ ] https://github.com/RedTeamPentesting/monsoon
-- [ ] https://github.com/yuxiaokui/webfinger
-- [ ] https://github.com/projectdiscovery/nuclei
-- [ ] https://github.com/yghonem14/cngo
+- [ ] https://github.com/topics/bruteforce?l=go
+- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
+- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
+- [ ] https://github.com/oksbsb/crack
+- [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
+- [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
+- [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
+- [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/codexlynx/brutemq
+- [ ] https://github.com/bigb0sss/goPassGen
+- [ ] https://github.com/fireeye/gocrack
+- [ ] https://github.com/china-muwenbo/goScanPort
+- [ ] https://github.com/zhangqin/mysqlfuzz
+- [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
 
 三、端口扫描
 
@@ -543,26 +535,34 @@
 - [ ] https://github.com/dean2021/go-masscan
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 
-四、密码破解
+四、路径扫描
 
-- [ ] https://github.com/topics/bruteforce?l=go
-- [x] https://github.com/netxfly/x-crack
-- [ ] https://github.com/awake1t/PortBrute
-- [ ] https://github.com/oksbsb/crack
-- [ ] https://github.com/ncsa/ssh-auditor
-- [ ] https://github.com/netxfly/crack_ssh
-- [ ] https://gitlab.com/opennota/hydra
-- [ ] https://github.com/lazytools/sshchecker
-- [ ] https://github.com/Shadow26Wolf/quickbrute
-- [ ] https://github.com/codexlynx/brutemq
-- [ ] https://github.com/bigb0sss/goPassGen
-- [ ] https://github.com/fireeye/gocrack
-- [ ] https://github.com/china-muwenbo/goScanPort
-- [ ] https://github.com/zhangqin/mysqlfuzz
-- [ ] https://github.com/wrfly/ssh-goburp
-- [ ] https://github.com/phil-fly/goWeakPass
-- [ ] https://github.com/sysdream/ligolo
-- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
+- [ ] https://github.com/topics/fuzzer?l=go
+- [ ] https://github.com/topics/fuzzing?l=go
+- [ ] https://github.com/topics/fuzz?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/webscan?l=go
+- [x] https://github.com/ffuf/ffuf
+- [x] https://github.com/OJ/gobuster
+- [ ] https://github.com/tomnomnom/meg
+- [ ] https://github.com/1c3z/fileleak
+- [ ] https://github.com/dzonerzy/goWAPT
+- [ ] https://github.com/liamg/scout
+- [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/stefanoj3/dirstalk
+- [ ] https://github.com/Matir/webborer
+- [ ] https://github.com/hakluke/hakrawler
+- [ ] https://github.com/evilsocket/dirsearch
+- [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/vlad-s/gofuzzyourself
+- [ ] https://github.com/happal/taifun
+- [ ] https://github.com/sueesmar/pluzz
+- [ ] https://github.com/ArenasDev/crapbuster
+- [ ] https://github.com/sdgdsffdsfff/lcyscan
+- [ ] https://github.com/RedTeamPentesting/monsoon
+- [ ] https://github.com/yuxiaokui/webfinger
+- [ ] https://github.com/projectdiscovery/nuclei
+- [ ] https://github.com/yghonem14/cngo
 
 五、Web安全
 
