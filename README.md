@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月14日。
+本项目创建于2020年8月10日，最近一次更新时间为10月15日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -334,6 +334,10 @@
 - [ ] https://github.com/fatih/color
 - [ ] https://github.com/urfave/c
 
+二十三、时间日期
+
+- [ ] https://github.com/jinzhu/now
+
 二十三、其他框架
 
 - [ ] https://github.com/FiloSottile/age
@@ -386,6 +390,8 @@
 - [ ] https://github.com/americanexpress/earlybird
 - [ ] https://github.com/lanyi1998/DNSlog-GO
 - [ ] https://github.com/spf13/viper
+- [ ] https://github.com/brianvoe/gofakeit
+- [ ] https://github.com/lanyulei/ferry
 
 ## 0x06-Golang安全
 
@@ -475,6 +481,7 @@
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
+- [ ] https://github.com/tomnomnom/waybackurls
 - [ ] https://github.com/MilindPurswani/takemeon
 - [ ] https://github.com/foae/extract-subdomains-from-https
 - [ ] https://github.com/Any3ite/subDomainFucker
@@ -691,6 +698,7 @@
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/rancher/remotedialer
 - [ ] https://github.com/mauri870/powershell-reverse-http
+- [ ] https://github.com/stripe/smokescreen
 
 八、病毒免杀
 
@@ -798,6 +806,7 @@
 三、Go勒索病毒
 
 - [ ] https://paper.seebug.org/1357/
+- [ ] https://github.com/petercunha/GoAT
 
 ## 0x08-Golang老师
 
