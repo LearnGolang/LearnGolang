@@ -424,6 +424,7 @@
 - [ ] https://github.com/topics/tunnel?l=go
 - [ ] https://github.com/search?l=Go&q=cve
 - [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
+- [ ] https://github.com/hahwul/WebHackersWeapons
 
 一、域名扫描
 
@@ -577,6 +578,9 @@
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/yghonem14/cngo
+- [ ] https://github.com/l3m0n/whatweb
+- [ ] https://github.com/unstppbl/gowap
+- [ ] https://github.com/boy-hack/goWhatweb
 
 五、Web安全
 
@@ -628,7 +632,6 @@
 - [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
 - [ ] https://github.com/Any3ite/CVE-2014-6271
 - [ ] https://github.com/Any3ite/cdnCheck
-- [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/awake1t/linglong
 - [ ] https://github.com/optiv/CVE-2020-15931
@@ -638,15 +641,11 @@
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
-- [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/gobysec/Goby
 - [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/jjf012/gopoc
 - [ ] https://github.com/dwisiswant0/crlfuzz
-- [ ] https://github.com/boy-hack/goWhatweb
-- [ ] https://github.com/l3m0n/whatweb
-- [ ] https://github.com/boy-hack/goWhatweb
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
@@ -663,7 +662,6 @@
 - [ ] https://github.com/luc10/struts-rce-cve-2017-9805
 - [ ] https://github.com/realjf/sils
 - [ ] https://github.com/dreddsa5dies/urlScrub
-- [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/hack2fun/EventLogBypass
