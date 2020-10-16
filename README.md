@@ -357,8 +357,9 @@
 二、娱乐游戏
 
 - [ ] https://github.com/loig/ld47
-- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+- [ ] https://github.com/duanhf2012/origin
 - [ ] https://github.com/umarquez/0ms2-game
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 
 三、优秀项目
 
@@ -533,6 +534,7 @@
 - [ ] https://github.com/ariagecheney/fyneIPinfo
 - [ ] https://github.com/FDlucifer/goportscan
 - [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/DaikiYamakawa/go-portscan
 - [ ] https://github.com/Ullaakut/nmap
 - [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/timest/goscan
@@ -722,6 +724,7 @@
 
 九、代码审计
 
+- [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
 - [x] https://github.com/ynqa/diffy
 - [ ] https://github.com/William-Yeh/fswatch
