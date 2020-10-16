@@ -600,6 +600,7 @@
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/teknogeek/ssrf-sheriff
+- [ ] 、https://github.com/ethicalhackingplayground/Zin
 
 六、漏洞扫描
 
@@ -640,7 +641,6 @@
 - [ ] https://github.com/orf53975/weblogicExp
 - [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/liamg/gitjacker
-- [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/gobysec/Goby
@@ -648,7 +648,6 @@
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/jjf012/gopoc
 - [ ] https://github.com/dwisiswant0/crlfuzz
-- [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
@@ -679,6 +678,7 @@
 
 - [ ] https://github.com/fatedier/frp
 - [ ] https://github.com/Dliv3/Venom
+- [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/ligolo
 - [ ] https://github.com/sysdream/hershell
