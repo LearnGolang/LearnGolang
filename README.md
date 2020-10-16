@@ -393,6 +393,7 @@
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/hashicorp/boundary
+- [ ] https://github.com/ReactiveX/RxGo
 
 ## 0x06-Golang安全
 
@@ -500,6 +501,7 @@
 - [ ] https://github.com/attacker34/brute
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/Cgboal/SonarSearch
+- [ ] https://github.com/mzfr/takeover
 
 二、密码破解
 
@@ -785,6 +787,7 @@
 - [ ] https://github.com/chriskaliX/drdos-framework
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/securego/gosec
+- [ ] https://github.com/WangYihang/Platypus
 
 ## 0X07-Golang逆向
 
