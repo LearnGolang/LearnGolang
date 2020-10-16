@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月15日。
+本项目创建于2020年8月10日，最近一次更新时间为10月16日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -392,6 +392,7 @@
 - [ ] https://github.com/spf13/viper
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/lanyulei/ferry
+- [ ] https://github.com/hashicorp/boundary
 
 ## 0x06-Golang安全
 
@@ -410,6 +411,7 @@
 - [ ] https://github.com/topics/security?l=go
 - [ ] https://github.com/topics/hacking?l=go
 - [ ] https://github.com/topics/scanner?l=go
+- [ ] https://github.com/topics/security-scanner?l=go
 - [ ] https://github.com/topics/hacking-tool?l=go
 - [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-audit?l=go
@@ -518,6 +520,7 @@
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
+- [ ] https://github.com/edoardottt/pwdsafety
 
 三、端口扫描
 
