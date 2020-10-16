@@ -529,6 +529,7 @@
 - [ ] https://github.com/search?l=Go&q=portscan
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
+- [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
@@ -621,6 +622,7 @@
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
 - [x] https://github.com/optimic/WeblogicScanner
+- [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
 - [ ] https://github.com/hahwul/mzap
@@ -663,14 +665,12 @@
 - [ ] https://github.com/realjf/sils
 - [ ] https://github.com/dreddsa5dies/urlScrub
 - [ ] https://github.com/yahoo/gryffin
-- [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/hakluke/hakrawler
 - [ ] https://github.com/jm33-m0/mec-ng
 - [ ] https://github.com/hahwul/hack-pet
 - [ ] https://github.com/s-index/go-cve-search
 - [ ] https://github.com/markwh245/rapt0r
-- [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/hahwul/a2sv
 - [ ] https://github.com/devanshbatham/Gorecon
