@@ -504,8 +504,9 @@
 
 - [ ] https://github.com/topics/bruteforce?l=go
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
-- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
-- [ ] https://github.com/oksbsb/crack
+- [x] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
+- [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
+- [x] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
 - [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
@@ -517,7 +518,6 @@
 - [ ] https://github.com/china-muwenbo/goScanPort
 - [ ] https://github.com/zhangqin/mysqlfuzz
 - [ ] https://github.com/wrfly/ssh-goburp
-- [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
 - [ ] https://github.com/edoardottt/pwdsafety
 
@@ -823,6 +823,7 @@
 
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
+- [ ] https://github.com/wille/cry
 
 四、Go加密发布
 
