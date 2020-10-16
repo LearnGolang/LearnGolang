@@ -340,6 +340,7 @@
 二十三、其他框架
 
 - [ ] https://github.com/FiloSottile/age
+- [ ] https://github.com/aceld/zinx
 
 ## 0x05-Golang项目
 
@@ -394,6 +395,8 @@
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/hashicorp/boundary
 - [ ] https://github.com/ReactiveX/RxGo
+- [ ] https://github.com/cookieY/Yearning
+- [ ] https://github.com/didi/nightingale
 
 ## 0x06-Golang安全
 
@@ -820,6 +823,10 @@
 
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
+
+四、Go加密发布
+
+- [ ] https://github.com/unixpickle/gobfuscate
 
 ## 0x08-Golang老师
 
