@@ -238,7 +238,6 @@
 
 - [x] https://github.com/gocolly/colly
 - [ ] https://github.com/PuerkitoBio/goquery
-- [ ] https://github.com/jaeles-project/gospider
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/zhshch2002/gospider
@@ -409,12 +408,6 @@
 - [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
 - [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
-- [ ] https://github.com/topics/security?l=go
-- [ ] https://github.com/topics/hacking?l=go
-- [ ] https://github.com/topics/scanner?l=go
-- [ ] https://github.com/topics/security-scanner?l=go
-- [ ] https://github.com/topics/hacking-tool?l=go
-- [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-audit?l=go
 - [ ] https://github.com/topics/reconnaissance?l=go
 - [ ] https://github.com/topics/recon?l=go
@@ -529,6 +522,7 @@
 - [ ] https://github.com/topics/portscan?l=go
 - [ ] https://github.com/topics/portscanner?l=go
 - [ ] https://github.com/search?l=Go&q=portscan
+- [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/awake1t/PortBrute
@@ -594,11 +588,20 @@
 - [ ] https://github.com/pikpikcu/XRCross
 - [ ] https://github.com/chennqqi/godnslog
 - [ ] https://github.com/hahwul/dalfox
+- [ ] https://github.com/dwisiswant0/crlfuzz
+- [ ] https://github.com/teknogeek/ssrf-sheriff
 
 六、漏洞扫描
 
 - [ ] https://github.com/topics/pentesting?l=go
+- [ ] https://github.com/topics/security?l=go
+- [ ] https://github.com/topics/hacking?l=go
+- [ ] https://github.com/topics/scanner?l=go
+- [ ] https://github.com/topics/hacking-tool?l=go
+- [ ] https://github.com/topics/security-tools?l=go
+- [ ] https://github.com/topics/security-scanner?l=go
 - [ ] https://github.com/topics/vulnerability-scanner?l=go
+- [ ] https://github.com/opensec-cn/kunpeng
 - [x] https://github.com/bp0lr/wurl
 - [x] https://github.com/jaeles-project/jaeles
 - [x] https://github.com/marco-lancini/goscan
@@ -632,7 +635,6 @@
 - [ ] https://github.com/chaitin/xray
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/gobysec/Goby
-- [ ] https://github.com/opensec-cn/kunpeng
 - [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/jjf012/gopoc
@@ -736,7 +738,6 @@
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
-- [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/ATpiu/asset-scan
@@ -788,6 +789,9 @@
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/WangYihang/Platypus
+- [ ] https://github.com/IAmStoxe/urlgrab
+- [ ] https://github.com/m4ll0k/Aron
+- [ ] https://github.com/allyomalley/dnsobserver
 
 ## 0X07-Golang逆向
 
