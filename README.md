@@ -150,6 +150,7 @@
 - [ ] [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 - [ ] [golang-design](https://github.com/golang-design/history)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
+- [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang视频
 
@@ -527,6 +528,9 @@
 - [ ] https://github.com/topics/portscan?l=go
 - [ ] https://github.com/topics/portscanner?l=go
 - [ ] https://github.com/search?l=Go&q=portscan
+- [ ] https://github.com/topics/ip-scanner?l=go
+- [ ] https://github.com/topics/port-scanner?l=go
+- [ ] https://github.com/topics/network-scanner?l=go
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/hack2fun/Gscan
@@ -545,7 +549,6 @@
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/nray-scanner/nray
-- [ ] https://github.com/liamg/furious
 - [ ] https://github.com/lair-framework/go-nmap
 - [ ] https://github.com/dean2021/go-nmap
 - [ ] https://github.com/dean2021/go-masscan
@@ -790,14 +793,15 @@
 - [ ] https://github.com/dghubble/go-twitter
 - [ ] https://github.com/lc/gau
 - [ ] https://github.com/shazow/ssh-chat
-- [ ] https://github.com/chriskaliX/drdos-framework
-- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/IAmStoxe/urlgrab
 - [ ] https://github.com/m4ll0k/Aron
-- [ ] https://github.com/allyomalley/dnsobserver
 - [ ] https://github.com/google/syzkaller
+- [ ] https://github.com/allyomalley/dnsobserver
+- [ ] https://github.com/chriskaliX/drdos-framework
+- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
+- [ ] https://github.com/OlivierLaflamme/Offensive-Go-Scripts
 
 ## 0X07-Golang逆向
 
