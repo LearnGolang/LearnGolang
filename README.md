@@ -399,6 +399,7 @@
 - [ ] https://github.com/ReactiveX/RxGo
 - [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/didi/nightingale
+- [ ] https://github.com/infinitbyte/gopa
 
 ## 0x06-Golang安全
 
