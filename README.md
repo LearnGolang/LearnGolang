@@ -243,6 +243,7 @@
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/zhshch2002/gospider
+- [ ] https://github.com/mvdan/xurls
 
 七、JSON解析
 
@@ -715,6 +716,8 @@
 - [ ] https://github.com/mauri870/powershell-reverse-http
 - [ ] https://github.com/stripe/smokescreen
 - [ ] https://github.com/BitTheByte/Eagle
+- [ ] https://github.com/FunnyWolf/TFirewall
+- [ ] https://github.com/sysdream/ligolo
 
 八、病毒免杀
 
