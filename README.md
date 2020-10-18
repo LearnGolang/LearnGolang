@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月17日。
+本项目创建于2020年8月10日，最近一次更新时间为10月18日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -234,6 +234,7 @@
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gohugoio/hugo
+- [ ] https://github.com/gogf/gf
 
 六、爬虫框架
 
@@ -802,6 +803,7 @@
 - [ ] https://github.com/chriskaliX/drdos-framework
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/OlivierLaflamme/Offensive-Go-Scripts
+- [ ] https://github.com/michenriksen/gitrob
 
 ## 0X07-Golang逆向
 
