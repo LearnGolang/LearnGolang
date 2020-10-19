@@ -828,6 +828,7 @@
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/unixpickle/gobfuscate
+- [ ] https://www.4hou.com/posts/8OJ2
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
 三、Go勒索病毒
