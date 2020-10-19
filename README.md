@@ -345,6 +345,7 @@
 
 - [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/aceld/zinx
+- [ ] https://github.com/iancoleman/strcase
 
 ## 0x05-Golang项目
 
@@ -567,6 +568,7 @@
 - [ ] https://github.com/topics/fuzz?l=go
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/webscan?l=go
+- [ ] https://github.com/l2-team/cmsfingers
 - [x] https://github.com/ffuf/ffuf
 - [x] https://github.com/OJ/gobuster
 - [ ] https://github.com/tomnomnom/meg
