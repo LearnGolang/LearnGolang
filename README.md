@@ -2,13 +2,12 @@
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-本项目创建于2020年8月10日，最近一次更新时间为10月19日。
+本项目创建于2020年8月10日，最近一次更新时间为10月20日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
 - [0x03-Golang论坛](https://github.com/0e0w/LearnGolang#0x03-golang%E8%AE%BA%E5%9D%9B)
 - [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
-- 
 - [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
 - [0x06-Golang安全](https://github.com/0e0w/LearnGolang#0x06-golang%E5%AE%89%E5%85%A8)
 - [0x07-Golang逆向](https://github.com/0e0w/LearnGolang#0x07-golang%E9%80%86%E5%90%91)
@@ -346,6 +345,8 @@
 - [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/iancoleman/strcase
+- [ ] https://github.com/shaj13/libcache
+- [ ] https://github.com/prometheus/client_golang
 
 ## 0x05-Golang项目
 
@@ -637,6 +638,7 @@
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
+- [ ] https://github.com/banzaicloud/dast-operator
 - [ ] https://github.com/hahwul/mzap
 - [ ] https://github.com/0x09AL/go-deliver
 - [ ] https://github.com/CosasDePuma/Elliot
