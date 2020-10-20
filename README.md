@@ -24,6 +24,7 @@
 - [x] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
+- [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
@@ -74,6 +75,7 @@
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
 - [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
 - [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
@@ -346,6 +348,8 @@
 - [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/iancoleman/strcase
 - [ ] https://github.com/shaj13/libcache
+- [ ] https://github.com/gojuukaze/YTask
+- [ ] https://github.com/gocelery/gocelery
 - [ ] https://github.com/prometheus/client_golang
 
 ## 0x05-Golang项目
@@ -704,6 +708,8 @@
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
+- [ ] https://github.com/ehang-io/nps
+- [ ] https://github.com/Dreamacro/clash
 - [ ] https://github.com/jpillora/chisel
 - [ ] https://github.com/snail007/goproxy
 - [ ] https://github.com/esrrhs/pingtunnel
