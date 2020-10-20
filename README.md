@@ -245,6 +245,7 @@
 - [ ] https://github.com/zhshch2002/gospider
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/PuerkitoBio/gocrawl
+- [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/china-muwenbo/gospider
 
@@ -352,6 +353,7 @@
 - [ ] https://github.com/gojuukaze/YTask
 - [ ] https://github.com/gocelery/gocelery
 - [ ] https://github.com/prometheus/client_golang
+- [ ] https://github.com/blugelabs/bluge
 
 ## 0x05-Golang项目
 
@@ -710,6 +712,7 @@
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
+- [ ] https://github.com/imgproxy/imgproxy
 - [ ] https://github.com/ehang-io/nps
 - [ ] https://github.com/Dreamacro/clash
 - [ ] https://github.com/jpillora/chisel
