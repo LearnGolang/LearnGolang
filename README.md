@@ -744,6 +744,8 @@
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
 - [x] https://github.com/ynqa/diffy
+- [ ] https://github.com/sergi/go-diff
+- [ ] https://github.com/securego/gosec
 - [ ] https://github.com/William-Yeh/fswatch
 
 十、社工钓鱼
@@ -771,7 +773,6 @@
 - [ ] https://github.com/stevenaldinger/decker
 - [ ] https://github.com/tucnak/telebot
 - [ ] https://github.com/parsiya/Go-Security
-- [ ] https://github.com/securego/gosec
 - [ ] https://github.com/n0ncetonic/nmapxml
 - [ ] https://github.com/omaidf/FaizEye
 - [ ] https://github.com/jpillora/renamer
@@ -831,7 +832,6 @@
 二、逆向Go程序
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
-- [ ] https://github.com/securego/gosec
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://www.4hou.com/posts/8OJ2
