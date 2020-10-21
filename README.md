@@ -203,6 +203,7 @@
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/mssola/user_agent
 - [ ] https://github.com/celrenheit/lion
+- [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/zhshch2002/goreq
 
 三、DNS框架
@@ -224,6 +225,7 @@
 - [ ] https://github.com/topics/web?l=go
 - [x] https://github.com/astaxie/beego
 - [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/staaldraad/xxeserv
 - [ ] https://github.com/caddyserver/caddy
 - [ ] https://github.com/kataras/iris
 - [ ] https://github.com/revel/revel
@@ -413,6 +415,8 @@
 - [ ] https://github.com/infinitbyte/gopa
 - [ ] https://github.com/gofiber/fiber
 - [ ] https://github.com/bouk/babelfish
+- [ ] https://github.com/magma/magma
+- [ ] https://github.com/jtpereyda/boofuzz
 
 ## 0x06-Golang安全
 
