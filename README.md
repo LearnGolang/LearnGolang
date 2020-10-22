@@ -206,6 +206,7 @@
 - [ ] https://github.com/celrenheit/lion
 - [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/zhshch2002/goreq
+- [ ] https://github.com/google/go-safeweb
 
 三、DNS框架
 
@@ -357,6 +358,7 @@
 - [ ] https://github.com/gocelery/gocelery
 - [ ] https://github.com/prometheus/client_golang
 - [ ] https://github.com/blugelabs/bluge
+- [ ] https://github.com/dzhou121/gonvim
 
 ## 0x05-Golang项目
 
@@ -418,6 +420,9 @@
 - [ ] https://github.com/bouk/babelfish
 - [ ] https://github.com/magma/magma
 - [ ] https://github.com/jtpereyda/boofuzz
+- [ ] https://github.com/dave/dst
+- [ ] https://github.com/suyashkumar/dicom
+- [ ] https://github.com/filebrowser/filebrowser
 
 ## 0x06-Golang安全
 
@@ -625,7 +630,8 @@
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/teknogeek/ssrf-sheriff
-- [ ] 、https://github.com/ethicalhackingplayground/Zin
+- [ ] https://github.com/microcosm-cc/bluemonday
+- [ ] https://github.com/ethicalhackingplayground/Zin
 
 六、漏洞扫描
 
@@ -754,6 +760,8 @@
 - [ ] https://github.com/0x9ef/golang-uacbypasser
 - [x] https://github.com/timwhitez/Doge-Loader
 - [ ] https://github.com/Binject/shellcode
+- [ ] https://github.com/D00MFist/Go4aRun
+- [ ] https://github.com/EddieIvan01/gld
 
 九、代码审计
 
