@@ -361,6 +361,8 @@
 - [ ] https://github.com/dzhou121/gonvim
 - [ ] https://github.com/RussellLuo/validating
 - [ ] https://github.com/owenrumney/go-sarif
+- [ ] https://github.com/google/gopacket
+- [ ] https://github.com/gomodule/redigo
 
 ## 0x05-Golang项目
 
@@ -749,6 +751,7 @@
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/FunnyWolf/TFirewall
 - [ ] https://github.com/sysdream/ligolo
+- [ ] https://github.com/AdguardTeam/dnsproxy
 
 八、病毒免杀
 
