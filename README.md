@@ -389,6 +389,7 @@
 三、优秀项目
 
 - [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/nkanaev/yarr
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
@@ -398,7 +399,6 @@
 - [ ] https://github.com/huhu/go-search-extension
 - [ ] https://github.com/berty/berty
 - [ ] https://github.com/u-root/gobusybox
-- [ ] https://github.com/nkanaev/yarr
 - [ ] https://github.com/AgeloVito/proxypool
 - [ ] https://github.com/cloudflare/gokey
 - [ ] https://github.com/CISOfy/lynis
