@@ -537,6 +537,8 @@
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/amanvir/enumerator
+- [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/jimen0/brute
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 
@@ -571,8 +573,12 @@
 - [ ] https://github.com/dullgiulio/bruto
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
+- [ ] https://github.com/mylamour/boomb
+- [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/vlad-s/gofindssh
+- [ ] https://github.com/apiotrowski312/ScrabbleBot
 - [ ] https://github.com/skarnecki/lockpick
+- [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 
 三、端口扫描
@@ -623,6 +629,7 @@
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/hihebark/gds
 - [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/brem-hub/godirb
 - [ ] https://github.com/stefanoj3/dirstalk
 - [ ] https://github.com/Matir/webborer
 - [ ] https://github.com/hakluke/hakrawler
