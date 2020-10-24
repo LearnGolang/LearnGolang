@@ -99,16 +99,22 @@
 - [x] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
+- [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
+- [ ] [《Go Recipes》]()
+- [ ] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
+- [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
+- [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
-- [ ] [《Go Recipes》]()
 - [ ] [《Get Programming with Go》]()
-- [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)@hoanhan101
+- [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
+- [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
+- [ ] [《Get Programming with Go》]()
+- [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [x] [《An Introduction to Programming in Go》](http://www.golang-book.com/)
-- [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
@@ -116,16 +122,10 @@
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
-- [ ] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
-- [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
-- [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 - [ ] [《Network Programming With Go》](https://jan.newmarch.name/go/)
 - [ ] [《Spaceship Go A Journey to the Standard Library》](https://blasrodri.github.io/spaceship-go-gh-pages/)
 - [ ] [《The Go Programming Language》](http://www.gopl.io/)
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
-- [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
-- [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
-- [ ] [《Get Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 
 六、实体书籍：
@@ -145,15 +145,15 @@
 
 七、杂七杂八
 
-- [ ] [Go语言招聘](https://gocn.vip/jobs)
-- [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
-- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
-- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [go-awesome](https://github.com/shockerli/go-awesome)
 - [ ] [go-study-index](https://github.com/unknwon/go-study-index)
 - [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
 - [ ] [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 - [ ] [golang-design](https://github.com/golang-design/history)
+- [ ] [Go语言招聘](https://gocn.vip/jobs)
+- [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
+- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
+- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
@@ -445,20 +445,20 @@
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
 - [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [ ] [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
 - [ ] https://github.com/topics/security-audit?l=go
 - [ ] https://github.com/topics/reconnaissance?l=go
 - [ ] https://github.com/topics/recon?l=go
 - [ ] https://github.com/topics/information-gathering?l=go
+- [ ] https://github.com/topics/poc?l=go
 - [ ] https://github.com/topics/cve?l=go
 - [ ] https://github.com/topics/vulnerability?l=go
 - [ ] https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/topics/poc?l=go
 - [ ] https://github.com/topics/redteam?l=go
 - [ ] https://github.com/topics/tunnel?l=go
 - [ ] https://github.com/search?l=Go&q=cve
 - [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
-- [ ] https://github.com/hahwul/WebHackersWeapons
 
 一、域名扫描
 
@@ -527,17 +527,20 @@
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/vmnguyen/findweb
-- [ ] https://github.com/Kevintheminion18/assetfinder
 - [ ] https://github.com/rverton/redAsset
-- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/mzfr/takeover
 - [ ] https://github.com/attacker34/brute
 - [ ] https://github.com/jimen0/resolver
+- [ ] https://github.com/PayUSecurity/dohbf
 - [ ] https://github.com/Cgboal/SonarSearch
-- [ ] https://github.com/mzfr/takeover
+- [ ] https://github.com/McRaeAlex/domainutils
+- [ ] https://github.com/Kevintheminion18/assetfinder
 
 二、密码破解
 
 - [ ] https://github.com/topics/bruteforce?l=go
+- [ ] https://github.com/topics/brute-force?l=go
+- [ ] https://github.com/search?l=Go&q=bruteforce
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
 - [x] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
@@ -555,6 +558,8 @@
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
 - [ ] https://github.com/edoardottt/pwdsafety
+- [ ] https://github.com/Leeon123/SSHcrack
+- [ ] https://github.com/vpereira/brucutu
 
 三、端口扫描
 
