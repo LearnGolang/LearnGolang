@@ -595,8 +595,8 @@
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [x] https://github.com/phil-fly/portScan | 端口扫描器 | 2
-- [x] https://github.com/projectdiscovery/naabu
-- [x] https://github.com/nray-scanner/nray
+- [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
+- [x] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
