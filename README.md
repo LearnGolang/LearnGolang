@@ -556,6 +556,7 @@
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/insionng/genpassword
 - [ ] https://github.com/codexlynx/brutemq
 - [ ] https://github.com/bigb0sss/goPassGen
 - [ ] https://github.com/fireeye/gocrack
@@ -574,6 +575,7 @@
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
 - [ ] https://github.com/mylamour/boomb
+- [ ] https://github.com/fireeye/gocrack
 - [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/vlad-s/gofindssh
 - [ ] https://github.com/apiotrowski312/ScrabbleBot
