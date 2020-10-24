@@ -853,6 +853,7 @@
 - [ ] https://github.com/maliceio/malice
 - [ ] https://github.com/saferwall/saferwall
 - [ ] https://github.com/ropnop/kerbrute
+- [ ] https://github.com/ysrc/yulong-hids
 
 ## 0X07-Golang逆向
 
