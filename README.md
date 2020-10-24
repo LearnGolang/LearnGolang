@@ -1,3 +1,5 @@
+
+
 # LearnGolang
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
@@ -474,7 +476,7 @@
 - [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [x] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [x] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 9
+- [x] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 12
 - [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [x] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
@@ -594,25 +596,75 @@
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/hack2fun/Gscan
+- [x] https://github.com/phil-fly/portScan
+- [x] https://github.com/projectdiscovery/naabu
+- [x] https://github.com/nray-scanner/nray
 - [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/awake1t/PortBrute
 - [ ] https://github.com/liamg/furious
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/zmap/zgrab2
+- [ ] https://github.com/pojntfx/liwasc
 - [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/AlexsJones/schism
+- [ ] https://github.com/R4yGM/netscanner
+- [ ] https://github.com/Pingze-github/portScanner
+- [ ] https://github.com/ivopetiz/network-scanner
 - [ ] https://github.com/ariagecheney/fyneIPinfo
 - [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/amir-shiati/portscanner
 - [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/sj14/portscan
+- [ ] https://github.com/anrosent/portscan
+- [ ] https://github.com/djhohnstein/portscanner
+- [ ] https://github.com/dtx/go-portscan
+- [ ] https://github.com/ancientlore/portscan
 - [ ] https://github.com/DaikiYamakawa/go-portscan
+- [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
+- [ ] https://github.com/dozyio/go-port-scanner
 - [ ] https://github.com/Ullaakut/nmap
 - [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/timest/goscan
-- [ ] https://github.com/projectdiscovery/naabu
 - [ ] https://github.com/nray-scanner/nray
 - [ ] https://github.com/lair-framework/go-nmap
 - [ ] https://github.com/dean2021/go-nmap
+- [ ] https://github.com/guitarpawat/portscan
+- [ ] https://github.com/colindickson/portscan
+- [ ] https://github.com/btsomogyi/portscan
+- [ ] https://github.com/freeddser/portscan
+- [ ] https://github.com/takish/portscan
+- [ ] https://github.com/amir-shiati/portscanner
+- [ ] https://github.com/byronzhu-haha/portscanner
+- [ ] https://github.com/svitlanaGalianova/portscanner
+- [ ] https://github.com/mangelsnc/portscanner
+- [ ] https://github.com/vilhelmbergsoe/portscanner
+- [ ] https://github.com/yuraant/go-portscanner
+- [ ] https://github.com/oldcookie/go-portscanner
+- [ ] https://github.com/bitmaskit/go-portscanner
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/magisterquis/portscan2dns
+- [ ] https://github.com/wangxianzhuo/PortScan
 - [ ] https://github.com/dean2021/go-masscan
+- [ ] https://github.com/mspaulding06/portscan
 - [ ] https://github.com/xs25cn/scanPort
+- [ ] https://github.com/lkiesow/go-scan-http
+- [ ] https://github.com/viiftw/glance
+- [ ] https://github.com/mlesniak/port-scanner
+- [ ] https://github.com/ivopetiz/network-scanner
+- [ ] https://github.com/Trevilness/PortScanner
+- [ ] https://github.com/BurnyMcDull/portscan
+- [ ] https://github.com/ElCap1tan/gort
+- [ ] https://github.com/Konstantin8105/port
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/jcbritobr/port-scanner
+- [ ] https://github.com/vokomarov/netshark
+- [ ] https://github.com/tengzhangchao/PortScan
+- [ ] https://github.com/zs5460/portscan
+- [ ] https://github.com/qq431169079/PortScanner-3
+- [ ] https://github.com/pwn1sher/Golang-PortScanner
+- [ ] https://github.com/Killeroo/Skimmer
+- [ ] https://github.com/snarlysodboxer/portscan-compare-notify
+- [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 
 四、路径扫描
