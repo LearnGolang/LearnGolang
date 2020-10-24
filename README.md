@@ -528,6 +528,7 @@
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/mzfr/takeover
 - [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/kevinborras/GokGok
 - [ ] https://github.com/dlion/guessTor
 - [ ] https://github.com/lc/brute53
 - [ ] https://github.com/zxsecurity/glugger
@@ -597,9 +598,7 @@
 - [x] https://github.com/phil-fly/portScan | 端口扫描器 | 2
 - [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
 - [x] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
-- [ ] https://github.com/kevinborras/GokGok
-- [ ] https://github.com/awake1t/PortBrute
-- [ ] https://github.com/liamg/furious
+- [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 279
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/pojntfx/liwasc
