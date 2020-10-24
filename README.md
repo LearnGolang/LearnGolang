@@ -1,5 +1,3 @@
-
-
 # LearnGolang
 
 本项目记录自己在学习Golang的过程中遇到的一些优秀项目。包括一些Go语言的学习资源和一些优秀的Go项目代码。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
@@ -557,6 +555,7 @@
 - [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
 - [ ] https://github.com/lazytools/sshchecker
+- [ ] https://github.com/hack2fun/Gscan
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/insionng/genpassword
 - [ ] https://github.com/codexlynx/brutemq
@@ -595,8 +594,7 @@
 - [ ] https://github.com/topics/network-scanner?l=go
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
-- [ ] https://github.com/hack2fun/Gscan
-- [x] https://github.com/phil-fly/portScan
+- [x] https://github.com/phil-fly/portScan | 端口扫描器 | 2
 - [x] https://github.com/projectdiscovery/naabu
 - [x] https://github.com/nray-scanner/nray
 - [ ] https://github.com/kevinborras/GokGok
