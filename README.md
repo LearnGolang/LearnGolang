@@ -198,17 +198,18 @@
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
 - [ ] https://github.com/gorilla/mux
+- [ ] https://github.com/imroc/req
+- [ ] https://github.com/aceld/zinx
+- [ ] https://github.com/celrenheit/lion
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
-- [ ] https://github.com/imroc/req
 - [ ] https://github.com/parnurzeal/gorequest
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/mssola/user_agent
-- [ ] https://github.com/celrenheit/lion
-- [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/google/go-safeweb
+- [ ] https://github.com/patrickhener/goshs
 
 三、DNS框架
 
@@ -429,6 +430,7 @@
 - [ ] https://github.com/dave/dst
 - [ ] https://github.com/suyashkumar/dicom
 - [ ] https://github.com/filebrowser/filebrowser
+- [ ] https://github.com/t94j0/satellite
 
 ## 0x06-Golang安全
 
@@ -740,6 +742,7 @@
 - [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/e3prom/ruse
 - [ ] https://github.com/google/martian
+- [ ] https://github.com/inconshreveable/ngrok
 - [x] https://github.com/rabbitmask/Netstat
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
@@ -849,6 +852,7 @@
 - [ ] https://github.com/michenriksen/gitrob
 - [ ] https://github.com/maliceio/malice
 - [ ] https://github.com/saferwall/saferwall
+- [ ] https://github.com/ropnop/kerbrute
 
 ## 0X07-Golang逆向
 
