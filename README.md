@@ -440,7 +440,7 @@
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
@@ -522,19 +522,23 @@
 - [ ] https://github.com/Any3ite/subDomainFucker
 - [ ] https://github.com/medasz/subDomainsBrute
 - [ ] https://github.com/denismitr/subguess
-- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
-- [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/iepathos/brutall
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/vmnguyen/findweb
 - [ ] https://github.com/rverton/redAsset
 - [ ] https://github.com/mzfr/takeover
 - [ ] https://github.com/attacker34/brute
+- [ ] https://github.com/dlion/guessTor
+- [ ] https://github.com/lc/brute53
+- [ ] https://github.com/zxsecurity/glugger
 - [ ] https://github.com/jimen0/resolver
 - [ ] https://github.com/PayUSecurity/dohbf
 - [ ] https://github.com/Cgboal/SonarSearch
 - [ ] https://github.com/McRaeAlex/domainutils
 - [ ] https://github.com/Kevintheminion18/assetfinder
+- [ ] https://github.com/amanvir/enumerator
+- [ ] https://github.com/goodlandsecurity/subfinder
+- [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 
 二、密码破解
 
@@ -553,13 +557,23 @@
 - [ ] https://github.com/codexlynx/brutemq
 - [ ] https://github.com/bigb0sss/goPassGen
 - [ ] https://github.com/fireeye/gocrack
-- [ ] https://github.com/china-muwenbo/goScanPort
 - [ ] https://github.com/zhangqin/mysqlfuzz
+- [ ] https://github.com/dru1d-foofus/gorgon
 - [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/ildarmf/bruteforce
+- [ ] https://github.com/joohoi/godance
+- [ ] https://github.com/china-muwenbo/goScanPort
 - [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
 - [ ] https://github.com/edoardottt/pwdsafety
 - [ ] https://github.com/Leeon123/SSHcrack
+- [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/vpereira/brucutu
+- [ ] https://github.com/dullgiulio/bruto
+- [ ] https://github.com/adrpino/sshackle
+- [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
+- [ ] https://github.com/vlad-s/gofindssh
+- [ ] https://github.com/skarnecki/lockpick
+- [ ] https://github.com/Shadow26Wolf/quickbrute
 
 三、端口扫描
 
@@ -607,6 +621,7 @@
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/dzonerzy/goWAPT
 - [ ] https://github.com/liamg/scout
+- [ ] https://github.com/hihebark/gds
 - [ ] https://github.com/dowdyph0/transgo
 - [ ] https://github.com/stefanoj3/dirstalk
 - [ ] https://github.com/Matir/webborer
@@ -644,6 +659,7 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/microcosm-cc/bluemonday
+- [ ] https://github.com/gen0cide/hasherbasher
 - [ ] https://github.com/ethicalhackingplayground/Zin
 
 六、漏洞扫描
