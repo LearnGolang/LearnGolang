@@ -211,6 +211,7 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/google/go-safeweb
 - [ ] https://github.com/patrickhener/goshs
+- [ ] https://github.com/PuerkitoBio/goquery
 
 三、DNS框架
 
@@ -741,6 +742,8 @@
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
 - [x] https://github.com/optimic/WeblogicScanner
+- [ ] https://github.com/projectdiscovery/httpx
+- [x] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
@@ -748,8 +751,6 @@
 - [ ] https://github.com/hahwul/mzap
 - [ ] https://github.com/0x09AL/go-deliver
 - [ ] https://github.com/CosasDePuma/Elliot
-- [x] https://github.com/projectdiscovery/httpx
-- [x] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
 - [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
 - [ ] https://github.com/Any3ite/CVE-2014-6271
