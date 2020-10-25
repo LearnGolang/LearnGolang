@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为10月24日。
+本项目创建于2020年8月10日，最近一次更新时间为10月25日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -254,6 +254,7 @@
 - [ ] https://github.com/PuerkitoBio/gocrawl
 - [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/el10savio/GoCrawler
 - [ ] https://github.com/china-muwenbo/gospider
 
 七、JSON解析
@@ -933,6 +934,7 @@
 - [ ] https://github.com/saferwall/saferwall
 - [ ] https://github.com/ropnop/kerbrute
 - [ ] https://github.com/ysrc/yulong-hids
+- [ ] https://github.com/Threagile/threagile
 
 ## 0X07-Golang逆向
 
