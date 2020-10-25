@@ -331,6 +331,7 @@
 十九、图形化
 
 - [ ] https://github.com/andlabs/ui
+- [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
 
 二十、RSS框架
