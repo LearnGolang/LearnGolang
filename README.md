@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为10月25日。
+本项目创建于2020年8月10日，最近一次更新时间为10月26日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -749,10 +749,12 @@
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
+- [ ] https://github.com/phil-fly/go-ipscan
 - [ ] https://github.com/banzaicloud/dast-operator
 - [ ] https://github.com/hahwul/mzap
 - [ ] https://github.com/0x09AL/go-deliver
 - [ ] https://github.com/CosasDePuma/Elliot
+- [ ] https://github.com/stapelberg/airscan
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
 - [ ] https://github.com/Any3ite/CVE-2020-5902-F5BIG
 - [ ] https://github.com/Any3ite/CVE-2014-6271
@@ -854,6 +856,7 @@
 - [ ] https://github.com/Binject/shellcode
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/EddieIvan01/gld
+- [ ] https://github.com/hack2fun/BypassAV
 
 九、代码审计
 
