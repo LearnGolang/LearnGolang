@@ -433,6 +433,7 @@
 - [ ] https://github.com/suyashkumar/dicom
 - [ ] https://github.com/filebrowser/filebrowser
 - [ ] https://github.com/t94j0/satellite
+- [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x06-Golang安全
 
@@ -551,6 +552,7 @@
 - [ ] https://github.com/topics/brute-force?l=go
 - [ ] https://github.com/search?l=Go&q=bruteforce
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
+- [x] https://github.com/fireeye/gocrack | 密码破解工具 | 936
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
 - [x] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
@@ -559,17 +561,16 @@
 - [ ] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
 - [ ] https://github.com/lazytools/sshchecker | 快速专用的ssh暴力破解工具 | 5
-- [ ] https://github.com/insionng/genpassword
-- [ ] https://github.com/codexlynx/brutemq
-- [ ] https://github.com/bigb0sss/goPassGen
-- [ ] https://github.com/fireeye/gocrack
-- [ ] https://github.com/zhangqin/mysqlfuzz
-- [ ] https://github.com/dru1d-foofus/gorgon
+- [ ] https://github.com/insionng/genpassword | golang生成密码字典 | 6
+- [ ] https://github.com/bigb0sss/goPassGen | 易于猜测的密码生成器 | 4
+- [ ] https://github.com/codexlynx/brutemq | 爆破RabbitMQ密码 | 1
+- [ ] https://github.com/china-muwenbo/goScanPort | 批量扫描21端口并爆破FTP | 8
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理器 | 20
+- [ ] https://github.com/zhangqin/mysqlfuzz | 针对指定ip段的mysql爆破 | 1
+- [ ] https://github.com/dru1d-foofus/gorgon | 模块化跨平台暴力破解工具 | 3
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/ildarmf/bruteforce
 - [ ] https://github.com/joohoi/godance
-- [ ] https://github.com/china-muwenbo/goScanPort | 批量扫描21端口并爆破FTP | 8
-- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理器 | 20
 - [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/vpereira/brucutu
@@ -577,7 +578,6 @@
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
 - [ ] https://github.com/mylamour/boomb
-- [ ] https://github.com/fireeye/gocrack
 - [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/vlad-s/gofindssh
 - [ ] https://github.com/apiotrowski312/ScrabbleBot
