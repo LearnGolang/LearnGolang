@@ -520,6 +520,7 @@
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
+- [ ] https://github.com/lc/gau
 - [ ] https://github.com/tomnomnom/waybackurls
 - [ ] https://github.com/MilindPurswani/takemeon
 - [ ] https://github.com/foae/extract-subdomains-from-https
@@ -874,7 +875,6 @@
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
-- [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/ATpiu/asset-scan
 - [ ] https://github.com/levidurfee/gowafp
@@ -886,7 +886,6 @@
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/stevenaldinger/decker
 - [ ] https://github.com/tucnak/telebot
-- [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/n0ncetonic/nmapxml
 - [ ] https://github.com/omaidf/FaizEye
 - [ ] https://github.com/jpillora/renamer
@@ -918,7 +917,6 @@
 - [ ] https://github.com/rinetd/ssh
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/dghubble/go-twitter
-- [ ] https://github.com/lc/gau
 - [ ] https://github.com/shazow/ssh-chat
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/WangYihang/Platypus
@@ -959,9 +957,10 @@
 
 三、Go勒索病毒
 
+- [ ] https://github.com/wille/cry
+
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
-- [ ] https://github.com/wille/cry
 
 四、Go加密发布
 
