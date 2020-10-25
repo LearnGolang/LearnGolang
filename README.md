@@ -550,15 +550,14 @@
 - [ ] https://github.com/topics/brute-force?l=go
 - [ ] https://github.com/search?l=Go&q=bruteforce
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
-- [x] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
 - [x] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
+- [ ] https://github.com/hack2fun/Gscan | 基于golang的高并发扫描器 | 15
 - [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
+- [ ] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
-- [ ] https://github.com/lazytools/sshchecker
-- [ ] https://github.com/hack2fun/Gscan
-- [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/lazytools/sshchecker | 快速专用的ssh暴力破解工具 | 5
 - [ ] https://github.com/insionng/genpassword
 - [ ] https://github.com/codexlynx/brutemq
 - [ ] https://github.com/bigb0sss/goPassGen
@@ -568,9 +567,8 @@
 - [ ] https://github.com/wrfly/ssh-goburp
 - [ ] https://github.com/ildarmf/bruteforce
 - [ ] https://github.com/joohoi/godance
-- [ ] https://github.com/china-muwenbo/goScanPort
-- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner
-- [ ] https://github.com/edoardottt/pwdsafety
+- [ ] https://github.com/china-muwenbo/goScanPort | 批量扫描21端口并爆破FTP | 8
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理器 | 20
 - [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/vpereira/brucutu
