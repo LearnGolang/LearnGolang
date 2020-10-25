@@ -69,6 +69,7 @@
 - [ ] [《go-internals-CN》](https://github.com/go-internals-cn/go-internals)@ray-g
 - [ ] [《inside-go》](https://github.com/jianfengye/inside-go)@jianfengye
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
+- [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 
 三、算法学习：
@@ -933,6 +934,7 @@
 - [ ] https://github.com/ropnop/kerbrute
 - [ ] https://github.com/ysrc/yulong-hids
 - [ ] https://github.com/Threagile/threagile
+- [ ] https://github.com/amit-davidson/Chronos
 
 ## 0X07-Golang逆向
 
