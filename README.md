@@ -31,19 +31,22 @@
 - [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
-- [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
+- [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
 - [ ] [《Mastering_Go_ZH_CN》](http://books.studygolang.com/Mastering_Go_ZH_CN/)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
+- [ ] [《TopGoer教程》](http://www.topgoer.com)
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
+- [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
+- [ ] [《易百Go语言教程](https://www.yiibai.com/go)
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
@@ -155,6 +158,7 @@
 - [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
+- [ ] https://mojotv.cn/404#Golang
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 八、学习视频
