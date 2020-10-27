@@ -454,6 +454,7 @@
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
+- [ ] [awesome-go-security](https://github.com/Binject/awesome-go-security)@Binject
 - [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [ ] [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
