@@ -6,15 +6,13 @@
 
 本项目创建于2020年8月10日，最近一次更新时间为10月27日。
 
-- [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
-- [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
-- [0x03-Golang论坛](https://github.com/0e0w/LearnGolang#0x03-golang%E8%AE%BA%E5%9D%9B)
-- [0x04-Golang框架](https://github.com/0e0w/LearnGolang#0x04-golang%E6%A1%86%E6%9E%B6)
-- [0x05-Golang项目](https://github.com/0e0w/LearnGolang#0x05-golang%E9%A1%B9%E7%9B%AE)
-- [0x06-Golang安全](https://github.com/0e0w/LearnGolang#0x06-golang%E5%AE%89%E5%85%A8)
-- [0x07-Golang逆向](https://github.com/0e0w/LearnGolang#0x07-golang%E9%80%86%E5%90%91)
+- [0x01-Golang资源]()
+- [0x02-Golang项目]()
+- [0x03-Golang框架]()
+- [0x04-Golang安全]()
+- [0x05-Golang逆向]()
 
-## 0x01-Golang书籍
+## 0x01-Golang资源
 
 一、基础入门：
 
@@ -158,7 +156,7 @@
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
-## 0x02-Golang视频
+八、学习视频
 
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
@@ -168,7 +166,7 @@
 - [ ] [《20个小时快速入门go语言-下》](https://www.bilibili.com/video/BV17W411W7hm)@黑马程序员
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
-## 0x03-Golang论坛
+九、学习论坛
 
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
@@ -183,7 +181,73 @@
 - [ ] https://www.golangschool.com
 - [ ] https://learnku.com/go
 
-## 0x04-Golang框架
+## 0x02-Golang项目
+
+〇、项目搜索
+
+- [ ] https://github.com/trending/go
+- [ ] https://github.com/topics/tool?l=go
+
+一、CMS网站
+
+- [x] https://github.com/gogs/gogs
+- [x] https://github.com/ponzu-cms/ponzu
+- [ ] https://github.com/qor/qor
+
+二、娱乐游戏
+
+- [ ] https://github.com/loig/ld47
+- [ ] https://github.com/duanhf2012/origin
+- [ ] https://github.com/umarquez/0ms2-game
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
+
+三、优秀项目
+
+- [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/nkanaev/yarr
+- [ ] https://github.com/schollz/croc
+- [ ] https://github.com/lsds/KungFu
+- [ ] https://github.com/mit-pdos/biscuit
+- [ ] https://github.com/bradfitz/shotizam
+- [ ] https://github.com/sqreen/go-agent
+- [ ] https://github.com/didi/sharingan
+- [ ] https://github.com/huhu/go-search-extension
+- [ ] https://github.com/berty/berty
+- [ ] https://github.com/u-root/gobusybox
+- [ ] https://github.com/AgeloVito/proxypool
+- [ ] https://github.com/cloudflare/gokey
+- [ ] https://github.com/CISOfy/lynis
+- [ ] https://github.com/wangbjun/go-micloud
+- [ ] https://github.com/screego/server
+- [ ] https://github.com/etcd-io/etcd
+- [ ] https://github.com/elliotchance/c2go
+- [ ] https://github.com/ArturSS7/TukTuk
+- [ ] https://github.com/pion/turn
+- [ ] https://github.com/charmbracelet/bubbletea
+- [ ] https://github.com/common-nighthawk/go-figure
+- [ ] https://github.com/SaturnsVoid/GoBot
+- [ ] https://github.com/godcong/fate
+- [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/lanyi1998/DNSlog-GO
+- [ ] https://github.com/spf13/viper
+- [ ] https://github.com/brianvoe/gofakeit
+- [ ] https://github.com/lanyulei/ferry
+- [ ] https://github.com/hashicorp/boundary
+- [ ] https://github.com/ReactiveX/RxGo
+- [ ] https://github.com/cookieY/Yearning
+- [ ] https://github.com/didi/nightingale
+- [ ] https://github.com/infinitbyte/gopa
+- [ ] https://github.com/gofiber/fiber
+- [ ] https://github.com/bouk/babelfish
+- [ ] https://github.com/magma/magma
+- [ ] https://github.com/jtpereyda/boofuzz
+- [ ] https://github.com/dave/dst
+- [ ] https://github.com/suyashkumar/dicom
+- [ ] https://github.com/filebrowser/filebrowser
+- [ ] https://github.com/t94j0/satellite
+- [ ] https://github.com/lane-c-wagner/go-password-validator
+
+## 0x03-Golang框架
 
 - [ ] https://github.com/avelino/awesome-go
 - [ ] https://github.com/jobbole/awesome-go-cn
@@ -371,73 +435,7 @@
 - [ ] https://github.com/google/gopacket
 - [ ] https://github.com/gomodule/redigo
 
-## 0x05-Golang项目
-
-〇、项目搜索
-
-- [ ] https://github.com/trending/go
-- [ ] https://github.com/topics/tool?l=go
-
-一、CMS网站
-
-- [x] https://github.com/gogs/gogs
-- [x] https://github.com/ponzu-cms/ponzu
-- [ ] https://github.com/qor/qor
-
-二、娱乐游戏
-
-- [ ] https://github.com/loig/ld47
-- [ ] https://github.com/duanhf2012/origin
-- [ ] https://github.com/umarquez/0ms2-game
-- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
-
-三、优秀项目
-
-- [ ] https://github.com/iawia002/annie
-- [ ] https://github.com/nkanaev/yarr
-- [ ] https://github.com/schollz/croc
-- [ ] https://github.com/lsds/KungFu
-- [ ] https://github.com/mit-pdos/biscuit
-- [ ] https://github.com/bradfitz/shotizam
-- [ ] https://github.com/sqreen/go-agent
-- [ ] https://github.com/didi/sharingan
-- [ ] https://github.com/huhu/go-search-extension
-- [ ] https://github.com/berty/berty
-- [ ] https://github.com/u-root/gobusybox
-- [ ] https://github.com/AgeloVito/proxypool
-- [ ] https://github.com/cloudflare/gokey
-- [ ] https://github.com/CISOfy/lynis
-- [ ] https://github.com/wangbjun/go-micloud
-- [ ] https://github.com/screego/server
-- [ ] https://github.com/etcd-io/etcd
-- [ ] https://github.com/elliotchance/c2go
-- [ ] https://github.com/ArturSS7/TukTuk
-- [ ] https://github.com/pion/turn
-- [ ] https://github.com/charmbracelet/bubbletea
-- [ ] https://github.com/common-nighthawk/go-figure
-- [ ] https://github.com/SaturnsVoid/GoBot
-- [ ] https://github.com/godcong/fate
-- [ ] https://github.com/americanexpress/earlybird
-- [ ] https://github.com/lanyi1998/DNSlog-GO
-- [ ] https://github.com/spf13/viper
-- [ ] https://github.com/brianvoe/gofakeit
-- [ ] https://github.com/lanyulei/ferry
-- [ ] https://github.com/hashicorp/boundary
-- [ ] https://github.com/ReactiveX/RxGo
-- [ ] https://github.com/cookieY/Yearning
-- [ ] https://github.com/didi/nightingale
-- [ ] https://github.com/infinitbyte/gopa
-- [ ] https://github.com/gofiber/fiber
-- [ ] https://github.com/bouk/babelfish
-- [ ] https://github.com/magma/magma
-- [ ] https://github.com/jtpereyda/boofuzz
-- [ ] https://github.com/dave/dst
-- [ ] https://github.com/suyashkumar/dicom
-- [ ] https://github.com/filebrowser/filebrowser
-- [ ] https://github.com/t94j0/satellite
-- [ ] https://github.com/lane-c-wagner/go-password-validator
-
-## 0x06-Golang安全
+## 0x04-Golang安全
 
 〇、HackWithGo
 
@@ -941,7 +939,7 @@
 - [ ] https://github.com/amit-davidson/Chronos
 - [ ] https://github.com/kitabisa/teler
 
-## 0X07-Golang逆向
+## 0X05-Golang逆向
 
 一、使用Go逆向
 
@@ -972,7 +970,7 @@
 
 - [ ] https://github.com/unixpickle/gobfuscate
 
-## 0x08-Golang老师
+## 0x06-Golang老师
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
