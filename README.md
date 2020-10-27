@@ -245,6 +245,7 @@
 - [ ] https://github.com/suyashkumar/dicom
 - [ ] https://github.com/filebrowser/filebrowser
 - [ ] https://github.com/t94j0/satellite
+- [ ] https://github.com/zu1k/nali
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -270,7 +271,6 @@
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/parnurzeal/gorequest
-- [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/mssola/user_agent
 - [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/google/go-safeweb
@@ -434,6 +434,7 @@
 - [ ] https://github.com/owenrumney/go-sarif
 - [ ] https://github.com/google/gopacket
 - [ ] https://github.com/gomodule/redigo
+- [ ] https://github.com/mozillazg/go-pinyin
 
 ## 0x04-Golang安全
 
@@ -742,7 +743,7 @@
 - [x] https://github.com/lovetrap/SafeScan
 - [x] https://github.com/45253321/gogoscan
 - [x] https://github.com/optimic/WeblogicScanner
-- [ ] https://github.com/projectdiscovery/httpx
+- [x] https://github.com/projectdiscovery/httpx
 - [x] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
@@ -893,7 +894,6 @@
 - [ ] https://github.com/omaidf/FaizEye
 - [ ] https://github.com/jpillora/renamer
 - [ ] https://github.com/jpillora/go-tcp-proxy
-- [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/juju/utils
 - [ ] https://github.com/evilsocket/xray
@@ -991,6 +991,5 @@
 - https://github.com/schollz
 - https://github.com/projectdiscovery
 - https://github.com/aquasecurity
-- https://github.com/projectdiscovery
 - https://github.com/tomnomnom
 - https://github.com/evilsocket
