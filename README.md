@@ -576,7 +576,7 @@
 - [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理器 | 20
 - [ ] https://github.com/zhangqin/mysqlfuzz | 针对指定ip段的mysql爆破 | 1
 - [ ] https://github.com/dru1d-foofus/gorgon | 模块化跨平台暴力破解工具 | 3
-- [ ] https://github.com/wrfly/ssh-goburp
+- [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
 - [ ] https://github.com/ildarmf/bruteforce
 - [ ] https://github.com/joohoi/godance
 - [ ] https://github.com/Leeon123/SSHcrack
