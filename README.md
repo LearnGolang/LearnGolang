@@ -181,9 +181,9 @@
 - [ ] https://gocn.vip
 - [ ] https://igo.pub
 - [ ] https://talkgo.org
-- [ ] https://studygolang.com
-- [ ] https://www.golangtc.com
-- [ ] https://www.golangschool.com
+- [ ] [studygolang](https://studygolang.com)
+- [ ] [golangtc](https://www.golangtc.com)
+- [ ] [golangschool](https://www.golangschool.com)
 - [ ] https://learnku.com/go
 
 ## 0x02-Golang项目
@@ -609,6 +609,7 @@
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 279
 - [ ] https://github.com/liamg/scout
 - [ ] https://github.com/zmap/zgrab2
+- [ ] https://github.com/xs25cn/scanPort
 - [ ] https://github.com/pojntfx/liwasc
 - [ ] https://github.com/vus520/go-scan
 - [ ] https://github.com/AlexsJones/schism
@@ -651,7 +652,6 @@
 - [ ] https://github.com/wangxianzhuo/PortScan
 - [ ] https://github.com/dean2021/go-masscan
 - [ ] https://github.com/mspaulding06/portscan
-- [ ] https://github.com/xs25cn/scanPort
 - [ ] https://github.com/lkiesow/go-scan-http
 - [ ] https://github.com/viiftw/glance
 - [ ] https://github.com/mlesniak/port-scanner
