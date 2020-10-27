@@ -6,11 +6,11 @@
 
 本项目创建于2020年8月10日，最近一次更新时间为10月27日。
 
-- [0x01-Golang资源]()
-- [0x02-Golang项目]()
-- [0x03-Golang框架]()
-- [0x04-Golang安全]()
-- [0x05-Golang逆向]()
+- [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
+- [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
+- [0x03-Golang框架](https://github.com/0e0w/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
+- [0x04-Golang安全](https://github.com/0e0w/LearnGolang#0x04-golang%E5%AE%89%E5%85%A8)
+- [0x05-Golang逆向](https://github.com/0e0w/LearnGolang#0x05-golang%E9%80%86%E5%90%91)
 
 ## 0x01-Golang资源
 
@@ -939,7 +939,7 @@
 - [ ] https://github.com/amit-davidson/Chronos
 - [ ] https://github.com/kitabisa/teler
 
-## 0X05-Golang逆向
+## 0x05-Golang逆向
 
 一、使用Go逆向
 
