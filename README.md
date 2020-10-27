@@ -28,6 +28,7 @@
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
+- [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)
@@ -246,6 +247,7 @@
 - [ ] https://github.com/filebrowser/filebrowser
 - [ ] https://github.com/t94j0/satellite
 - [ ] https://github.com/zu1k/nali
+- [ ] https://github.com/moby/moby
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -814,6 +816,7 @@
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
+- [ ] https://github.com/Ridter/DomainHiding
 - [ ] https://github.com/imgproxy/imgproxy
 - [ ] https://github.com/knownsec/Portforward
 - [ ] https://github.com/ehang-io/nps
