@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为10月26日。
+本项目创建于2020年8月10日，最近一次更新时间为10月27日。
 
 - [0x01-Golang书籍](https://github.com/0e0w/LearnGolang#0x01-golang%E4%B9%A6%E7%B1%8D)
 - [0x02-Golang视频](https://github.com/0e0w/LearnGolang#0x02-golang%E8%A7%86%E9%A2%91)
@@ -816,6 +816,7 @@
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
 - [ ] https://github.com/imgproxy/imgproxy
+- [ ] https://github.com/knownsec/Portforward
 - [ ] https://github.com/ehang-io/nps
 - [ ] https://github.com/Dreamacro/clash
 - [ ] https://github.com/jpillora/chisel
