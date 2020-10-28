@@ -252,6 +252,7 @@
 - [ ] https://github.com/t94j0/satellite
 - [ ] https://github.com/zu1k/nali
 - [ ] https://github.com/moby/moby
+- [ ] https://github.com/kevinburke/go-bindata
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -264,6 +265,7 @@
 
 - [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
 - [x] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
+- [ ] https://github.com/shenghui0779/yiigo
 
 二、HTTP框架
 
