@@ -255,6 +255,8 @@
 - [ ] https://github.com/moby/moby
 - [ ] https://github.com/kevinburke/go-bindata
 - [ ] https://github.com/gobuffalo/packr
+- [ ] https://gitee.com/ipvb/baligo
+- [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -868,6 +870,7 @@
 - [x] https://github.com/timwhitez/Doge-Loader
 - [ ] https://github.com/Binject/shellcode
 - [ ] https://github.com/D00MFist/Go4aRun
+- [ ] https://github.com/insightglacier/go_meterpreter
 - [ ] https://github.com/EddieIvan01/gld
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Binject/backdoorfactory
