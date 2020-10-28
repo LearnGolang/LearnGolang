@@ -727,6 +727,7 @@
 - [ ] https://github.com/yahoo/webseclab
 - [x] https://github.com/dstotijn/hetty
 - [ ] https://github.com/denandz/glorp
+- [ ] https://github.com/hahwul/jwt-hack
 - [ ] https://github.com/pikpikcu/XRCross
 - [ ] https://github.com/chennqqi/godnslog
 - [ ] https://github.com/hahwul/dalfox
