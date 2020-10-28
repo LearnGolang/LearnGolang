@@ -112,6 +112,7 @@
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
+- [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
 - [ ] [《Get Programming with Go》]()
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
@@ -253,6 +254,7 @@
 - [ ] https://github.com/zu1k/nali
 - [ ] https://github.com/moby/moby
 - [ ] https://github.com/kevinburke/go-bindata
+- [ ] https://github.com/gobuffalo/packr
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -443,6 +445,7 @@
 - [ ] https://github.com/google/gopacket
 - [ ] https://github.com/gomodule/redigo
 - [ ] https://github.com/mozillazg/go-pinyin
+- [ ] https://github.com/brutella/hc
 
 ## 0x04-Golang安全
 
@@ -838,10 +841,10 @@
 - [ ] https://github.com/google/martian
 - [ ] https://github.com/inconshreveable/ngrok
 - [x] https://github.com/rabbitmask/Netstat
+- [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
-- [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/chashell
 - [ ] https://github.com/rancher/remotedialer
@@ -933,7 +936,6 @@
 - [ ] https://github.com/dghubble/go-twitter
 - [ ] https://github.com/shazow/ssh-chat
 - [ ] https://github.com/securego/gosec
-- [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/IAmStoxe/urlgrab
 - [ ] https://github.com/m4ll0k/Aron
 - [ ] https://github.com/google/syzkaller
@@ -1006,3 +1008,4 @@
 - https://github.com/tomnomnom
 - https://github.com/evilsocket
 - https://github.com/Binject
+- https://github.com/gobuffalo
