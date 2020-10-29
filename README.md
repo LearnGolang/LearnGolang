@@ -403,6 +403,7 @@
 
 - [ ] https://github.com/jordan-wright/email
 - [ ] https://github.com/foxcpp/maddy
+- [ ] https://github.com/go-gomail/gomail
 
 十九、图形化
 
@@ -448,6 +449,7 @@
 - [ ] https://github.com/gomodule/redigo
 - [ ] https://github.com/mozillazg/go-pinyin
 - [ ] https://github.com/brutella/hc
+- [ ] https://github.com/dushixiang/tcpwall
 - [ ] https://github.com/elastic/go-elasticsearch
 
 ## 0x04-Golang安全
