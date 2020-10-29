@@ -448,6 +448,7 @@
 - [ ] https://github.com/gomodule/redigo
 - [ ] https://github.com/mozillazg/go-pinyin
 - [ ] https://github.com/brutella/hc
+- [ ] https://github.com/elastic/go-elasticsearch
 
 ## 0x04-Golang安全
 
@@ -958,6 +959,7 @@
 - [ ] https://github.com/amit-davidson/Chronos
 - [ ] https://github.com/kitabisa/teler
 - [ ] https://github.com/anchore/grype
+- [ ] https://github.com/KnicKnic/go-powershell
 
 ## 0x05-Golang逆向
 
