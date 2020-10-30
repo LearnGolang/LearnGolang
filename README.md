@@ -257,6 +257,7 @@
 - [ ] https://github.com/gobuffalo/packr
 - [ ] https://gitee.com/ipvb/baligo
 - [ ] https://github.com/balibuild/bali
+- [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
