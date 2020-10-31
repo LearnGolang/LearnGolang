@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为10月30日。
+本项目创建于2020年8月10日，最近一次更新时间为10月31日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -257,6 +257,8 @@
 - [ ] https://github.com/gobuffalo/packr
 - [ ] https://gitee.com/ipvb/baligo
 - [ ] https://github.com/balibuild/bali
+- [ ] https://github.com/gomods/athens
+- [ ] https://github.com/Buzz2d0/Hyuga
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
@@ -879,6 +881,7 @@
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/insightglacier/go_meterpreter
 - [ ] https://github.com/EddieIvan01/gld
+- [ ] https://github.com/Ne0nd0g/go-shellcode
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Binject/backdoorfactory
 
