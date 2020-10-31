@@ -259,7 +259,6 @@
 - [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/gomods/athens
 - [ ] https://github.com/Buzz2d0/Hyuga
-- [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -621,17 +620,12 @@
 - [ ] https://github.com/topics/network-scanner?l=go
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
-- [x] https://github.com/phil-fly/portScan | 端口扫描器 | 2
-- [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
-- [x] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
+- [ ] https://github.com/phil-fly/portScan | 端口扫描器 | 2
+- [ ] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
+- [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 279
-- [ ] https://github.com/liamg/scout
-- [ ] https://github.com/zmap/zgrab2
-- [ ] https://github.com/xs25cn/scanPort
-- [ ] https://github.com/pojntfx/liwasc
-- [ ] https://github.com/vus520/go-scan
-- [ ] https://github.com/AlexsJones/schism
-- [ ] https://github.com/R4yGM/netscanner
+- [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
+- [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 - [ ] https://github.com/Pingze-github/portScanner
 - [ ] https://github.com/ivopetiz/network-scanner
 - [ ] https://github.com/ariagecheney/fyneIPinfo
@@ -671,6 +665,7 @@
 - [ ] https://github.com/dean2021/go-masscan
 - [ ] https://github.com/mspaulding06/portscan
 - [ ] https://github.com/lkiesow/go-scan-http
+- [ ] https://github.com/AlexsJones/schism
 - [ ] https://github.com/viiftw/glance
 - [ ] https://github.com/mlesniak/port-scanner
 - [ ] https://github.com/ivopetiz/network-scanner
@@ -689,6 +684,8 @@
 - [ ] https://github.com/snarlysodboxer/portscan-compare-notify
 - [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
+- [ ] https://github.com/pojntfx/liwasc
+- [ ] https://github.com/vus520/go-scan
 
 四、路径扫描
 
@@ -698,9 +695,9 @@
 - [ ] https://github.com/topics/dirbuster?l=go
 - [ ] https://github.com/topics/webscan?l=go
 - [ ] https://github.com/l2-team/cmsfingers
-- [x] https://github.com/ffuf/ffuf
-- [x] https://github.com/OJ/gobuster
-- [ ] https://github.com/tomnomnom/meg
+- [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
+- [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
+- [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
 - [ ] https://github.com/1c3z/fileleak
 - [ ] https://github.com/dzonerzy/goWAPT
 - [ ] https://github.com/liamg/scout
@@ -760,18 +757,18 @@
 - [ ] https://github.com/topics/security-scanner?l=go
 - [ ] https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/opensec-cn/kunpeng
-- [x] https://github.com/bp0lr/wurl
-- [x] https://github.com/jaeles-project/jaeles
-- [x] https://github.com/marco-lancini/goscan
-- [x] https://github.com/r0lh/CVE-2019-8449
-- [x] https://github.com/labrusca/Struts2-045-checker
-- [x] https://github.com/brompwnie/CVE-2019-5418-Scanner
-- [x] https://github.com/irealing/banner
-- [x] https://github.com/lovetrap/SafeScan
-- [x] https://github.com/45253321/gogoscan
-- [x] https://github.com/optimic/WeblogicScanner
-- [x] https://github.com/projectdiscovery/httpx
-- [x] https://github.com/dean2021/titlesearch
+- [ ] https://github.com/bp0lr/wurl
+- [ ] https://github.com/jaeles-project/jaeles
+- [ ] https://github.com/marco-lancini/goscan
+- [ ] https://github.com/r0lh/CVE-2019-8449
+- [ ] https://github.com/labrusca/Struts2-045-checker
+- [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
+- [ ] https://github.com/irealing/banner
+- [ ] https://github.com/lovetrap/SafeScan
+- [ ] https://github.com/45253321/gogoscan
+- [ ] https://github.com/optimic/WeblogicScanner
+- [ ] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/dean2021/titlesearch
 - [ ] https://github.com/AmyangXYZ/AssassinGo
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/liamg/pax
@@ -802,6 +799,7 @@
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
 - [ ] https://github.com/future-architect/vuls
+- [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/jpillora/icmpscan
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/aquasecurity/trivy
@@ -855,7 +853,7 @@
 - [ ] https://github.com/e3prom/ruse
 - [ ] https://github.com/google/martian
 - [ ] https://github.com/inconshreveable/ngrok
-- [x] https://github.com/rabbitmask/Netstat
+- [ ] https://github.com/rabbitmask/Netstat
 - [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
