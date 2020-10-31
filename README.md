@@ -886,6 +886,7 @@
 - [ ] https://github.com/Ne0nd0g/go-shellcode
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Binject/backdoorfactory
+- [ ] https://github.com/EgeBalci/sgn
 
 九、代码审计
 
