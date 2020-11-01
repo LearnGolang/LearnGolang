@@ -583,6 +583,7 @@
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
 - [x] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
+- [ ] https://github.com/phil-fly/go-ipscan | 使用icmp检测获取当前网段存活主机 | 2
 - [ ] https://github.com/hack2fun/Gscan | 基于golang的高并发扫描器 | 15
 - [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
 - [ ] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
@@ -707,21 +708,22 @@
 - [ ] https://github.com/evilsocket/dirsearch | dirsearch的Go实现 | 154
 - [ ] https://github.com/brem-hub/godirb | 快速的目录扫描工具 | 0
 - [ ] https://github.com/stefanoj3/dirstalk | dirbuster和dirb的现代替代品 | 181
-- [ ] https://github.com/Matir/webborer
-- [ ] https://github.com/hakluke/hakrawler
-- [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/Matir/webborer | Go编写的目录枚举工具 | 42
+- [ ] https://github.com/hakluke/hakrawler | 快速的Web搜寻器 | 1.6k
+- [ ] https://github.com/projectdiscovery/nuclei | 扫描的快速工具 | 1.6k
+- [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
+- [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
+- [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
+- [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/vlad-s/gofuzzyourself
 - [ ] https://github.com/happal/taifun
 - [ ] https://github.com/sueesmar/pluzz
 - [ ] https://github.com/ArenasDev/crapbuster
 - [ ] https://github.com/sdgdsffdsfff/lcyscan
-- [ ] https://github.com/RedTeamPentesting/monsoon
 - [ ] https://github.com/yuxiaokui/webfinger
-- [ ] https://github.com/projectdiscovery/nuclei
 - [ ] https://github.com/yghonem14/cngo
-- [ ] https://github.com/l3m0n/whatweb
 - [ ] https://github.com/unstppbl/gowap
-- [ ] https://github.com/boy-hack/goWhatweb
+- [ ] https://github.com/graniet/GoFuzz
 
 五、Web安全
 
@@ -758,26 +760,19 @@
 - [ ] https://github.com/topics/security-tools?l=go
 - [ ] https://github.com/topics/security-scanner?l=go
 - [ ] https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/opensec-cn/kunpeng
-- [ ] https://github.com/bp0lr/wurl
-- [ ] https://github.com/jaeles-project/jaeles
-- [ ] https://github.com/marco-lancini/goscan
-- [ ] https://github.com/r0lh/CVE-2019-8449
-- [ ] https://github.com/labrusca/Struts2-045-checker
-- [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
-- [ ] https://github.com/irealing/banner
-- [ ] https://github.com/lovetrap/SafeScan
-- [ ] https://github.com/45253321/gogoscan
-- [ ] https://github.com/optimic/WeblogicScanner
-- [ ] https://github.com/projectdiscovery/httpx
-- [ ] https://github.com/dean2021/titlesearch
-- [ ] https://github.com/AmyangXYZ/AssassinGo
-- [ ] https://github.com/canc3s/shiro
-- [ ] https://github.com/liamg/pax
-- [ ] https://github.com/phil-fly/go-ipscan
-- [ ] https://github.com/banzaicloud/dast-operator
-- [ ] https://github.com/hahwul/mzap
-- [ ] https://github.com/0x09AL/go-deliver
+- [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
+- [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
+- [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 872
+- [ ] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 757
+- [ ] https://github.com/irealing/banner | Web端口扫描工具 | 2
+- [ ] https://github.com/lovetrap/SafeScan | 关于扫描器的想法和实现 | 5
+- [ ] https://github.com/45253321/gogoscan | golang编写的扫描器 | 0
+- [ ] https://github.com/optimic/WeblogicScanner | Weblogic漏洞扫描 | 0
+- [ ] https://github.com/dean2021/titlesearch | 批量抓取域名title工具 | 1
+- [ ] https://github.com/AmyangXYZ/AssassinGo | 可扩展的并发信息收集和漏洞扫描框架 | 506
+- [ ] https://github.com/banzaicloud/dast-operator | 动态应用程序和API安全测试 | 89
+- [ ] https://github.com/hahwul/mzap |  多目标ZAP扫描 | 42
+- [ ] https://github.com/0x09AL/go-deliver | Go编写的有效载荷交付工具 | 102
 - [ ] https://github.com/CosasDePuma/Elliot
 - [ ] https://github.com/stapelberg/airscan
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
@@ -823,6 +818,12 @@
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/hahwul/a2sv
 - [ ] https://github.com/devanshbatham/Gorecon
+-  CVE扫描工具
+- [ ] https://github.com/canc3s/shiro
+- [ ] https://github.com/liamg/pax
+- [ ] https://github.com/r0lh/CVE-2019-8449
+- [ ] https://github.com/labrusca/Struts2-045-checker
+- [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
 
 七、代理隧道
 
