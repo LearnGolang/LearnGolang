@@ -196,8 +196,8 @@
 
 一、CMS网站
 
-- [x] https://github.com/gogs/gogs
-- [x] https://github.com/ponzu-cms/ponzu
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
 
 二、娱乐游戏
@@ -269,8 +269,8 @@
 
 一、安全框架
 
-- [x] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
-- [x] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
+- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
+- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
 - [ ] https://github.com/shenghui0779/yiigo
 
 二、HTTP框架
@@ -312,7 +312,7 @@
 五、Web框架
 
 - [ ] https://github.com/topics/web?l=go
-- [x] https://github.com/astaxie/beego
+- [ ] https://github.com/astaxie/beego
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/staaldraad/xxeserv
 - [ ] https://github.com/caddyserver/caddy
@@ -331,7 +331,7 @@
 
 六、爬虫框架
 
-- [x] https://github.com/gocolly/colly
+- [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
 - [ ] https://github.com/zhshch2002/gospider
 - [ ] https://github.com/PuerkitoBio/goquery
@@ -468,7 +468,7 @@
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
 - [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
 - [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
@@ -628,7 +628,7 @@
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 279
 - [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 - [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
-- [ ] https://github.com/Pingze-github/portScanner
+- [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/ivopetiz/network-scanner
 - [ ] https://github.com/ariagecheney/fyneIPinfo
 - [ ] https://github.com/FDlucifer/goportscan
@@ -643,7 +643,6 @@
 - [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
 - [ ] https://github.com/dozyio/go-port-scanner
 - [ ] https://github.com/Ullaakut/nmap
-- [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/nray-scanner/nray
 - [ ] https://github.com/lair-framework/go-nmap
@@ -688,6 +687,7 @@
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/pojntfx/liwasc
 - [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/Pingze-github/portScanner
 
 四、路径扫描
 
@@ -700,16 +700,15 @@
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
-- [ ] https://github.com/1c3z/fileleak
-- [ ] https://github.com/dzonerzy/goWAPT
-- [ ] https://github.com/liamg/scout
-- [ ] https://github.com/hihebark/gds
-- [ ] https://github.com/dowdyph0/transgo
-- [ ] https://github.com/brem-hub/godirb
-- [ ] https://github.com/stefanoj3/dirstalk
+- [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
+- [ ] https://github.com/dzonerzy/goWAPT | 瑞士军刀wfuzz的弟弟 | 285
+- [ ] https://github.com/liamg/scout | 发现Web未公开的文件目录 | 209
+- [ ] https://github.com/hihebark/gds | 在网站上搜索隐藏的路径 | 6
+- [ ] https://github.com/evilsocket/dirsearch | dirsearch的Go实现 | 154
+- [ ] https://github.com/brem-hub/godirb | 快速的目录扫描工具 | 0
+- [ ] https://github.com/stefanoj3/dirstalk | dirbuster和dirb的现代替代品 | 181
 - [ ] https://github.com/Matir/webborer
 - [ ] https://github.com/hakluke/hakrawler
-- [ ] https://github.com/evilsocket/dirsearch
 - [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/vlad-s/gofuzzyourself
 - [ ] https://github.com/happal/taifun
@@ -746,6 +745,7 @@
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/microcosm-cc/bluemonday
 - [ ] https://github.com/gen0cide/hasherbasher
+- [ ] https://github.com/dowdyph0/transgo
 - [ ] https://github.com/ethicalhackingplayground/Zin
 
 六、漏洞扫描
@@ -789,6 +789,7 @@
 - [ ] https://github.com/optiv/CVE-2020-15931
 - [ ] https://github.com/orf53975/weblogicExp
 - [ ] https://github.com/r0lh/vubase
+- [ ] https://github.com/C-Sto/recursebuster
 - [ ] https://github.com/liamg/gitjacker
 - [ ] https://github.com/leobeosab/sharingan
 - [ ] https://github.com/chaitin/xray
