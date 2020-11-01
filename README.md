@@ -270,7 +270,7 @@
 一、安全框架
 
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
-- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典
+- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
 - [ ] https://github.com/shenghui0779/yiigo
 
 二、HTTP框架
@@ -290,6 +290,8 @@
 - [ ] https://github.com/google/go-safeweb
 - [ ] https://github.com/patrickhener/goshs
 - [ ] https://github.com/PuerkitoBio/goquery
+- [ ] https://github.com/levigross/grequests
+- [ ] https://github.com/Greyh4t/zhttp
 
 三、DNS框架
 
@@ -735,19 +737,20 @@
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
 - [ ] https://github.com/yahoo/gryffin
 - [ ] https://github.com/yahoo/webseclab
-- [x] https://github.com/dstotijn/hetty
+- [ ] https://github.com/dstotijn/hetty
 - [ ] https://github.com/denandz/glorp
 - [ ] https://github.com/hahwul/jwt-hack
 - [ ] https://github.com/Shivangx01b/CorsMe
 - [ ] https://github.com/Shivangx01b/BountyIt
 - [ ] https://github.com/pikpikcu/XRCross
 - [ ] https://github.com/chennqqi/godnslog
+- [ ] https://github.com/dowdyph0/transgo
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/teknogeek/ssrf-sheriff
 - [ ] https://github.com/microcosm-cc/bluemonday
 - [ ] https://github.com/gen0cide/hasherbasher
-- [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/Zin
 
 六、漏洞扫描
@@ -842,6 +845,7 @@
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
+- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/Ridter/DomainHiding
 - [ ] https://github.com/imgproxy/imgproxy
 - [ ] https://github.com/knownsec/Portforward
@@ -972,6 +976,7 @@
 - [ ] https://github.com/amit-davidson/Chronos
 - [ ] https://github.com/kitabisa/teler
 - [ ] https://github.com/anchore/grype
+- [ ] https://github.com/AmyangXYZ/DNSSniffer
 - [ ] https://github.com/KnicKnic/go-powershell
 
 ## 0x05-Golang逆向
