@@ -722,6 +722,7 @@
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
+- [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/vlad-s/gofuzzyourself
 - [ ] https://github.com/happal/taifun
@@ -731,7 +732,6 @@
 - [ ] https://github.com/yuxiaokui/webfinger
 - [ ] https://github.com/yghonem14/cngo
 - [ ] https://github.com/unstppbl/gowap
-- [ ] https://github.com/graniet/GoFuzz
 
 五、Web安全
 
@@ -749,7 +749,6 @@
 - [ ] https://github.com/Shivangx01b/CorsMe
 - [ ] https://github.com/Shivangx01b/BountyIt
 - [ ] https://github.com/pikpikcu/XRCross
-- [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/chennqqi/godnslog
 - [ ] https://github.com/dowdyph0/transgo
 - [ ] https://github.com/hahwul/dalfox
@@ -926,7 +925,6 @@
 - [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/levidurfee/gowafp
 - [ ] https://github.com/jeromer/mumbojumbo
-- [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/m-mizutani/lurker
 - [ ] https://github.com/amanvir/enumerator
 - [ ] https://github.com/izanbf1803/Go-Steganography
