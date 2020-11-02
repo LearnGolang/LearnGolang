@@ -499,11 +499,11 @@
 
 一、域名扫描
 
-- [ ] https://github.com/topics/subdomain?l=go
-- [ ] https://github.com/topics/subdomains?l=go
-- [ ] https://github.com/topics/subdomain-scanner?l=go
-- [ ] https://github.com/search?l=Go&q=subdomain
-- [ ] https://github.com/search?l=Go&q=domains
+-  https://github.com/topics/subdomain?l=go
+-  https://github.com/topics/subdomains?l=go
+-  https://github.com/topics/subdomain-scanner?l=go
+-  https://github.com/search?l=Go&q=subdomain
+-  https://github.com/search?l=Go&q=domains
 - [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
 - [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 2.9k
@@ -584,9 +584,9 @@
 
 二、密码破解
 
-- [ ] https://github.com/topics/bruteforce?l=go
-- [ ] https://github.com/topics/brute-force?l=go
-- [ ] https://github.com/search?l=Go&q=bruteforce
+-  https://github.com/topics/bruteforce?l=go
+-  https://github.com/topics/brute-force?l=go
+-  https://github.com/search?l=Go&q=bruteforce
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
 - [x] https://github.com/fireeye/gocrack | 密码破解工具 | 936
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
@@ -624,12 +624,12 @@
 
 三、端口扫描
 
-- [ ] https://github.com/topics/portscan?l=go
-- [ ] https://github.com/topics/portscanner?l=go
-- [ ] https://github.com/search?l=Go&q=portscan
-- [ ] https://github.com/topics/ip-scanner?l=go
-- [ ] https://github.com/topics/port-scanner?l=go
-- [ ] https://github.com/topics/network-scanner?l=go
+-  https://github.com/topics/portscan?l=go
+-  https://github.com/topics/portscanner?l=go
+-  https://github.com/search?l=Go&q=portscan
+-  https://github.com/topics/ip-scanner?l=go
+-  https://github.com/topics/port-scanner?l=go
+-  https://github.com/topics/network-scanner?l=go
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 - [ ] https://github.com/phil-fly/portScan | 端口扫描器 | 2
@@ -701,11 +701,11 @@
 
 四、路径扫描
 
-- [ ] https://github.com/topics/fuzzer?l=go
-- [ ] https://github.com/topics/fuzzing?l=go
-- [ ] https://github.com/topics/fuzz?l=go
-- [ ] https://github.com/topics/dirbuster?l=go
-- [ ] https://github.com/topics/webscan?l=go
+-  https://github.com/topics/fuzzer?l=go
+-  https://github.com/topics/fuzzing?l=go
+-  https://github.com/topics/fuzz?l=go
+-  https://github.com/topics/dirbuster?l=go
+-  https://github.com/topics/webscan?l=go
 - [ ] https://github.com/l2-team/cmsfingers
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
@@ -736,10 +736,10 @@
 
 五、Web安全
 
-- [ ] https://github.com/topics/xss?l=go
-- [ ] https://github.com/topics/ssrf?l=go
-- [ ] https://github.com/topics/rce?l=go
-- [ ] https://github.com/topics/sql-injection?l=go
+-  https://github.com/topics/xss?l=go
+-  https://github.com/topics/ssrf?l=go
+-  https://github.com/topics/rce?l=go
+-  https://github.com/topics/sql-injection?l=go
 - [ ] https://github.com/tprynn/web-methodology
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
 - [ ] https://github.com/yahoo/gryffin
@@ -764,14 +764,14 @@
 
 六、漏洞扫描
 
-- [ ] https://github.com/topics/pentesting?l=go
-- [ ] https://github.com/topics/security?l=go
-- [ ] https://github.com/topics/hacking?l=go
-- [ ] https://github.com/topics/scanner?l=go
-- [ ] https://github.com/topics/hacking-tool?l=go
-- [ ] https://github.com/topics/security-tools?l=go
-- [ ] https://github.com/topics/security-scanner?l=go
-- [ ] https://github.com/topics/vulnerability-scanner?l=go
+-  https://github.com/topics/pentesting?l=go
+-  https://github.com/topics/security?l=go
+-  https://github.com/topics/hacking?l=go
+-  https://github.com/topics/scanner?l=go
+-  https://github.com/topics/hacking-tool?l=go
+-  https://github.com/topics/security-tools?l=go
+-  https://github.com/topics/security-scanner?l=go
+-  https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
 - [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
 - [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 872
@@ -831,6 +831,9 @@
 
 七、代理隧道
 
+-  https://github.com/topics/proxy?l=go
+-  https://github.com/topics/tunnel?l=go
+-  https://github.com/topics/reverse-proxy?l=go
 - [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 - [ ] https://github.com/Dliv3/Venom
 - [ ] https://github.com/Ne0nd0g/merlin
