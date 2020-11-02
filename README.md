@@ -781,6 +781,7 @@
 - [ ] https://github.com/45253321/gogoscan | golang编写的扫描器 | 0
 - [ ] https://github.com/optimic/WeblogicScanner | Weblogic漏洞扫描 | 0
 - [ ] https://github.com/dean2021/titlesearch | 批量抓取域名title工具 | 1
+- [ ] https://github.com/yahoo/gryffin | 一个大规模的Web安全扫描平台 | 2k
 - [ ] https://github.com/AmyangXYZ/AssassinGo | 可扩展的并发信息收集和漏洞扫描框架 | 506
 - [ ] https://github.com/banzaicloud/dast-operator | 动态应用程序和API安全测试 | 89
 - [ ] https://github.com/hahwul/mzap |  多目标ZAP扫描 | 42
@@ -805,15 +806,12 @@
 - [ ] https://github.com/ATpiu/asset-scan
 - [ ] https://github.com/jpillora/icmpscan
 - [ ] https://github.com/peterhellberg/xip.name
-- [ ] https://github.com/yahoo/gryffin
-- [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/jm33-m0/mec-ng
 - [ ] https://github.com/hahwul/hack-pet
 - [ ] https://github.com/s-index/go-cve-search
-- [ ] https://github.com/botherder/kraken
-- [ ] https://github.com/hahwul/a2sv
 - [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/dreddsa5dies/urlScrub
+- [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/devanshbatham/Gorecon
 -  CVE扫描工具
 - [ ] https://github.com/canc3s/shiro
@@ -833,7 +831,7 @@
 
 七、代理隧道
 
-- [ ] https://github.com/fatedier/frp
+- [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 - [ ] https://github.com/Dliv3/Venom
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/danielan/lonely-shell
@@ -900,6 +898,7 @@
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Binject/backdoorfactory
 - [ ] https://github.com/EgeBalci/sgn
+- [ ] https://github.com/hack2fun/EventLogBypass
 
 九、代码审计
 
