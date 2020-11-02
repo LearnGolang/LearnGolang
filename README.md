@@ -793,8 +793,8 @@
 - [ ] https://github.com/gobysec/Goby| 一款新的网络安全测试工具 | 283
 - [ ] https://github.com/Adminisme/ServerScan | 高并发网络扫描服务探测工具 | 432
 - [ ] https://github.com/jjf012/gopoc | 用cel-go重现了xray的poc检测功能的轮子 | 62
-- [ ] https://github.com/netxfly/xsec-proxy-scanner
-- [ ] https://github.com/future-architect/vuls
+- [ ] https://github.com/netxfly/xsec-proxy-scanner | 速度快而小巧的代理扫描器 | 228
+- [ ] https://github.com/future-architect/vuls | Linux漏洞扫描程序 | 8k
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/ATpiu/asset-scan
 - [ ] https://github.com/jpillora/icmpscan
