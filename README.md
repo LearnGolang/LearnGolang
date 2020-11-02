@@ -21,9 +21,9 @@
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
-- [x] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
-- [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
-- [x] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
+- [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
+- [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
@@ -52,10 +52,10 @@
 
 二、高手进阶：
 
-- [x] [《Go官方博客》](https://blog.golang.org)@golang
-- [x] [《Go官方包文档》](https://golang.org/pkg)@golang
-- [x] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
-- [x] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
+- [ ] [《Go官方博客》](https://blog.golang.org)@golang
+- [ ] [《Go官方包文档》](https://golang.org/pkg)@golang
+- [ ] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
+- [ ] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
@@ -76,7 +76,7 @@
 
 三、算法学习：
 
-- [x] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
@@ -91,7 +91,7 @@
 
 四、Web编程：
 
-- [x] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
+- [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
@@ -99,7 +99,7 @@
 五、英文原著
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
-- [x] [《Go Bootcamp》](http://golangbootcamp.com/)
+- [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
@@ -475,11 +475,11 @@
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
-- [x] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [x] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
-- [x] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
-- [x] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
-- [x] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
+- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
+- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
+- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
+- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
+- [ ] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
 - [ ] [awesome-go-security](https://github.com/Binject/awesome-go-security)@Binject
 - [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [ ] [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
@@ -504,16 +504,16 @@
 -  https://github.com/topics/subdomain-scanner?l=go
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
-- [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
-- [x] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
-- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 2.9k
-- [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
-- [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
-- [x] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
-- [x] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [x] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 12
-- [x] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
-- [x] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
+- [ ] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
+- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 2.9k
+- [ ] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
+- [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 12
+- [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
+- [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
 - [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 77
@@ -587,10 +587,10 @@
 -  https://github.com/topics/bruteforce?l=go
 -  https://github.com/topics/brute-force?l=go
 -  https://github.com/search?l=Go&q=bruteforce
-- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
-- [x] https://github.com/fireeye/gocrack | 密码破解工具 | 936
-- [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
-- [x] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
+- [ ] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
+- [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
+- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
+- [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
 - [ ] https://github.com/phil-fly/go-ipscan | 使用icmp检测获取当前网段存活主机 | 2
 - [ ] https://github.com/hack2fun/Gscan | 基于golang的高并发扫描器 | 15
@@ -892,7 +892,7 @@
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/0x9ef/golang-uacbypasser
-- [x] https://github.com/timwhitez/Doge-Loader
+- [ ] https://github.com/timwhitez/Doge-Loader
 - [ ] https://github.com/Binject/shellcode
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/insightglacier/go_meterpreter
