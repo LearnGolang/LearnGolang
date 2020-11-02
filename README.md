@@ -749,9 +749,11 @@
 - [ ] https://github.com/Shivangx01b/CorsMe
 - [ ] https://github.com/Shivangx01b/BountyIt
 - [ ] https://github.com/pikpikcu/XRCross
+- [ ] https://github.com/graniet/GoFuzz
 - [ ] https://github.com/chennqqi/godnslog
 - [ ] https://github.com/dowdyph0/transgo
 - [ ] https://github.com/hahwul/dalfox
+- [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/KathanP19/Gxss
 - [ ] https://github.com/dwisiswant0/crlfuzz
 - [ ] https://github.com/teknogeek/ssrf-sheriff
@@ -785,16 +787,12 @@
 - [ ] https://github.com/0x09AL/go-deliver | Go编写的有效载荷交付工具 | 102
 - [ ] https://github.com/CosasDePuma/Elliot | 一个在夜间自动执行OSINT流程的框架 | 19
 - [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 114
-- [ ] https://github.com/liamg/gitjacker
-- [ ] https://github.com/leobeosab/sharingan
-- [ ] https://github.com/chaitin/xray
-- [ ] https://github.com/gobysec/Goby
-- [ ] https://github.com/x51/STS2G
-- [ ] https://github.com/Adminisme/ServerScan
-- [ ] https://github.com/jjf012/gopoc
-- [ ] https://github.com/dwisiswant0/crlfuzz
-- [ ] https://github.com/ring04h/s5.go
-- [ ] https://github.com/graniet/GoFuzz
+- [ ] https://github.com/liamg/gitjacker | git仓库泄漏利用工具 | 1.1k
+- [ ] https://github.com/leobeosab/sharingan | 进攻性安全侦察工具 | 71
+- [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 4.2k
+- [ ] https://github.com/gobysec/Goby| 一款新的网络安全测试工具 | 283
+- [ ] https://github.com/Adminisme/ServerScan | 高并发网络扫描服务探测工具 | 432
+- [ ] https://github.com/jjf012/gopoc | 用cel-go重现了xray的poc检测功能的轮子 | 62
 - [ ] https://github.com/netxfly/xsec-proxy-scanner
 - [ ] https://github.com/future-architect/vuls
 - [ ] https://github.com/zmap/zgrab2
@@ -822,6 +820,7 @@
 - [ ] https://github.com/devanshbatham/Gorecon
 -  CVE扫描工具
 - [ ] https://github.com/canc3s/shiro
+- [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/liamg/pax
 - [ ] https://github.com/Any3ite/CVE-2014-6271
 - [ ] https://github.com/Any3ite/cdnCheck
@@ -850,6 +849,7 @@
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
 - [ ] https://github.com/xct/xc
+- [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/Ridter/DomainHiding
 - [ ] https://github.com/imgproxy/imgproxy
