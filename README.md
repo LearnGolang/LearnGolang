@@ -46,7 +46,8 @@
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
-- [ ] [《易百Go语言教程](https://www.yiibai.com/go)
+- [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
+- [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
