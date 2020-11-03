@@ -586,6 +586,7 @@
 
 -  https://github.com/topics/bruteforce?l=go
 -  https://github.com/topics/brute-force?l=go
+-  https://github.com/topics/brute-force-attacks?l=go
 -  https://github.com/search?l=Go&q=bruteforce
 - [ ] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
 - [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
@@ -608,9 +609,9 @@
 - [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
 - [ ] https://github.com/ildarmf/bruteforce
 - [ ] https://github.com/joohoi/godance
-- [ ] https://github.com/Leeon123/SSHcrack
+- [ ] https://github.com/Leeon123/SSHcrack | 使用golang制作的SSH爆破工具 | 3
 - [ ] https://github.com/deed02392/weakpass
-- [ ] https://github.com/vpereira/brucutu
+- [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
 - [ ] https://github.com/dullgiulio/bruto
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
@@ -678,25 +679,25 @@
 - [ ] https://github.com/lkiesow/go-scan-http
 - [ ] https://github.com/AlexsJones/schism
 - [ ] https://github.com/viiftw/glance
+- [ ] https://github.com/pojntfx/liwasc
+-  [ ] https://github.com/vus520/go-scan
+-  [ ] https://github.com/ElCap1tan/gort
+-  [ ] https://github.com/zs5460/portscan
+-  [ ] https://github.com/Killeroo/Skimmer
 - [ ] https://github.com/mlesniak/port-scanner
 - [ ] https://github.com/ivopetiz/network-scanner
 - [ ] https://github.com/Trevilness/PortScanner
 - [ ] https://github.com/BurnyMcDull/portscan
-- [ ] https://github.com/ElCap1tan/gort
 - [ ] https://github.com/Konstantin8105/port
 - [ ] https://github.com/Tanmay-N/Go-Portscanner
 - [ ] https://github.com/jcbritobr/port-scanner
 - [ ] https://github.com/vokomarov/netshark
 - [ ] https://github.com/tengzhangchao/PortScan
-- [ ] https://github.com/zs5460/portscan
 - [ ] https://github.com/qq431169079/PortScanner-3
 - [ ] https://github.com/pwn1sher/Golang-PortScanner
-- [ ] https://github.com/Killeroo/Skimmer
 - [ ] https://github.com/snarlysodboxer/portscan-compare-notify
 - [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
-- [ ] https://github.com/pojntfx/liwasc
-- [ ] https://github.com/vus520/go-scan
 - [ ] https://github.com/Pingze-github/portScanner
 
 四、路径扫描
