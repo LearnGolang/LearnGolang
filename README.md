@@ -472,6 +472,17 @@
 
 〇、HackWithGo
 
+-  https://github.com/topics/poc?l=go
+-  https://github.com/topics/cve?l=go
+-  https://github.com/topics/recon?l=go
+-  https://github.com/search?l=Go&q=cve
+-  https://github.com/topics/redteam?l=go
+-  https://github.com/topics/vulnerability?l=go
+-  https://github.com/topics/security-audit?l=go
+-  https://github.com/topics/reconnaissance?l=go
+-  https://github.com/topics/information-gathering?l=go
+-  https://github.com/topics/vulnerability-scanner?l=go
+-  扫描、漏洞、
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
@@ -484,18 +495,6 @@
 - [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [ ] [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 - [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
-- [ ] https://github.com/topics/security-audit?l=go
-- [ ] https://github.com/topics/reconnaissance?l=go
-- [ ] https://github.com/topics/recon?l=go
-- [ ] https://github.com/topics/information-gathering?l=go
-- [ ] https://github.com/topics/poc?l=go
-- [ ] https://github.com/topics/cve?l=go
-- [ ] https://github.com/topics/vulnerability?l=go
-- [ ] https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/topics/redteam?l=go
-- [ ] https://github.com/topics/tunnel?l=go
-- [ ] https://github.com/search?l=Go&q=cve
-- [ ] https://github.com/search?l=Go&q=%E6%89%AB%E6%8F%8F
 
 一、域名扫描
 
@@ -607,18 +606,17 @@
 - [ ] https://github.com/zhangqin/mysqlfuzz | 针对指定ip段的mysql爆破 | 1
 - [ ] https://github.com/dru1d-foofus/gorgon | 模块化跨平台暴力破解工具 | 3
 - [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
-- [ ] https://github.com/ildarmf/bruteforce
-- [ ] https://github.com/joohoi/godance
+- [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
 - [ ] https://github.com/Leeon123/SSHcrack | 使用golang制作的SSH爆破工具 | 3
 - [ ] https://github.com/deed02392/weakpass
-- [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
+- [ ] https://github.com/ildarmf/bruteforce
+-  [ ] https://github.com/joohoi/godance
 - [ ] https://github.com/dullgiulio/bruto
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
 - [ ] https://github.com/mylamour/boomb
 - [ ] https://github.com/Leeon123/SSHcrack
 - [ ] https://github.com/vlad-s/gofindssh
-- [ ] https://github.com/apiotrowski312/ScrabbleBot
 - [ ] https://github.com/skarnecki/lockpick
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
