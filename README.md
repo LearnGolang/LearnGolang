@@ -986,6 +986,8 @@
 - [ ] https://github.com/AmyangXYZ/DNSSniffer
 - [ ] https://github.com/KnicKnic/go-powershell
 - [ ] https://github.com/tstillz/webshell-analyzer
+- [ ] https://github.com/samgha/vipas
+- [ ] https://github.com/baidu-security/webshell-scanner-client
 - [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
 
 ## 0x05-Golang逆向
