@@ -813,7 +813,7 @@
 - [ ] https://github.com/dreddsa5dies/urlScrub
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/devanshbatham/Gorecon
--  CVE扫描工具
+-  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/x51/STS2G
 - [ ] https://github.com/liamg/pax
@@ -854,6 +854,7 @@
 - [ ] https://github.com/Ridter/DomainHiding
 - [ ] https://github.com/imgproxy/imgproxy
 - [ ] https://github.com/knownsec/Portforward
+- [ ] https://github.com/TNK-Studio/gortal
 - [ ] https://github.com/ehang-io/nps
 - [ ] https://github.com/Dreamacro/clash
 - [ ] https://github.com/jpillora/chisel
@@ -884,6 +885,7 @@
 
 八、病毒免杀
 
+- [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
@@ -900,31 +902,29 @@
 - [ ] https://github.com/Ne0nd0g/go-shellcode
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Binject/backdoorfactory
-- [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/hack2fun/EventLogBypass
 
 九、代码审计
 
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
-- [x] https://github.com/ynqa/diffy
+- [ ] https://github.com/ynqa/diffy
 - [ ] https://github.com/sergi/go-diff
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/William-Yeh/fswatch
 
 十、社工钓鱼
 
-- [x] https://github.com/gophish/gophish
-- [x] https://github.com/hacklcx/HFish
+- [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/hacklcx/HFish
+- [ ] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/evilsocket/xray
 
 十一、其他项目
 
-- [x] https://github.com/zsdevX/DarkEye
-- [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
-- [ ] https://github.com/hahwul/dalfox
 - [ ] https://github.com/levidurfee/gowafp
 - [ ] https://github.com/jeromer/mumbojumbo
 - [ ] https://github.com/m-mizutani/lurker
