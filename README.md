@@ -21,8 +21,8 @@
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
+- [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E4%B9%A6%E7%B1%8D/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
-- [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
@@ -989,7 +989,7 @@
 
 一、使用Go逆向
 
-- [x] https://github.com/zznop/sploit
+- [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/redress
 - [ ] https://github.com/goretk/gore
 - [ ] https://www.anquanke.com/member/122079
@@ -1020,7 +1020,7 @@
 
 排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
 
-一、Go教程
+一、Go教程资源
 
 - 柴树杉《Go语言高级编程》作者@[chai2010](https://github.com/chai2010)
 - 无闻-知名Go语言分享者@[Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
@@ -1031,7 +1031,7 @@
 - 谢孟军-beego作者[@astaxie](https://github.com/astaxie)
 - 老貘《Go语言101》作者[@老貘](https://gfw.tapirgames.com)
 
-二、Go开发
+二、Go开发参考
 
 - [https://github.com/netxfly](https://github.com/netxfly)
 - https://github.com/schollz
