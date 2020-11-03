@@ -161,6 +161,7 @@
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] https://mojotv.cn/404#Golang
+- [ ] https://github.com/hwholiday/learning_tools
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 八、学习视频
@@ -984,6 +985,7 @@
 - [ ] https://github.com/skydive-project/skydive
 - [ ] https://github.com/AmyangXYZ/DNSSniffer
 - [ ] https://github.com/KnicKnic/go-powershell
+- [ ] https://github.com/tstillz/webshell-analyzer
 - [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
 
 ## 0x05-Golang逆向
