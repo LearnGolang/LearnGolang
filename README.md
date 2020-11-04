@@ -267,6 +267,7 @@
 - [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/gomods/athens
 - [ ] https://github.com/Buzz2d0/Hyuga
+- [ ] https://github.com/didi/sharingan
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -534,7 +535,7 @@
 - [ ] https://github.com/iepathos/brutall | 开源的跨平台多工具子域爆破攻击者 | 1
 - [ ] https://github.com/anshumanbh/brutesubs | 配合Docker进行域名爆破 | 226
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
-- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 224
+- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
 - [ ] https://github.com/bobesa/go-domain-util | 检查url是否包含子域 | 41
 - [ ] https://github.com/fengdingbo/subdomain-scanner | 使用Golang编写的子域名检测程 | 5
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
