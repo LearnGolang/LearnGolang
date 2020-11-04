@@ -28,6 +28,7 @@
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
+- [ ] [《Go语言设计与实现》](https://draveness.me/golang)
 - [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
