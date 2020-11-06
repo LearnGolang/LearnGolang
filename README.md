@@ -810,6 +810,7 @@
 - [ ] https://github.com/jmpews/goscan | golang的扫描框架 | 39
 - [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 - [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
+- [ ] https://github.com/c26root/hb
 - [ ] https://github.com/markwh245/rapt0r
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/ATpiu/asset-scan
@@ -896,6 +897,7 @@
 八、病毒免杀
 
 - [ ] https://github.com/EgeBalci/sgn
+- [ ] https://github.com/c26root/hb
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
