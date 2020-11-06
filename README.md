@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月05日。
+本项目创建于2020年8月10日，最近一次更新时间为11月06日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -162,6 +162,7 @@
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] https://mojotv.cn/404#Golang
+- [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
@@ -270,6 +271,7 @@
 - [ ] https://github.com/didi/sharingan
 - [ ] https://github.com/Shpota/goxygen
 - [ ] https://github.com/kitabisa/teler
+- [ ] https://github.com/robertkrimen/otto
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -291,6 +293,7 @@
 - [ ] https://github.com/gorilla/mux
 - [ ] https://github.com/imroc/req
 - [ ] https://github.com/aceld/zinx
+- [ ] https://github.com/asmcos/requests
 - [ ] https://github.com/celrenheit/lion
 - [ ] https://github.com/alexedwards/scs
 - [ ] https://github.com/zhshch2002/goreq
@@ -321,6 +324,7 @@
 - [ ] https://github.com/go-gorm/gorm
 - [ ] https://github.com/syndtr/goleveldb
 - [ ] https://github.com/boltdb/bolt
+- [ ] https://github.com/jackc/pgx
 
 五、Web框架
 
@@ -640,7 +644,7 @@
 - [ ] https://github.com/phil-fly/portScan | 端口扫描器 | 2
 - [ ] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
 - [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
-- [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 279
+- [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
 - [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 - [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 - [ ] https://github.com/lavalamp-/ipv666
@@ -879,6 +883,7 @@
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/crabkun/switcher
 - [ ] https://github.com/rancher/remotedialer
 - [ ] https://github.com/mauri870/powershell-reverse-http
 - [ ] https://github.com/stripe/smokescreen
