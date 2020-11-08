@@ -272,6 +272,8 @@
 - [ ] https://github.com/Shpota/goxygen
 - [ ] https://github.com/kitabisa/teler
 - [ ] https://github.com/robertkrimen/otto
+- [ ] https://github.com/fzipp/gocyclo
+- [ ] https://github.com/0xsha/CloudBrute
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
 ## 0x03-Golang框架
@@ -647,6 +649,7 @@
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
 - [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 - [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
+- [ ] https://github.com/timest/goscan
 - [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/ivopetiz/network-scanner
 - [ ] https://github.com/ariagecheney/fyneIPinfo
@@ -662,7 +665,6 @@
 - [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
 - [ ] https://github.com/dozyio/go-port-scanner
 - [ ] https://github.com/Ullaakut/nmap
-- [ ] https://github.com/timest/goscan
 - [ ] https://github.com/nray-scanner/nray
 - [ ] https://github.com/lair-framework/go-nmap
 - [ ] https://github.com/dean2021/go-nmap
