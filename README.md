@@ -898,6 +898,7 @@
 - [ ] https://github.com/BitTheByte/Eagle
 - [ ] https://github.com/FunnyWolf/TFirewall
 - [ ] https://github.com/sysdream/ligolo
+- [ ] https://github.com/rhaidiz/broxy
 - [ ] https://github.com/p4gefau1t/trojan-go
 - [ ] https://github.com/AdguardTeam/dnsproxy
 
