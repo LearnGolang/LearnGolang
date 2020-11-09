@@ -49,6 +49,7 @@
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
+- [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
@@ -615,7 +616,7 @@
 - [ ] https://github.com/bigb0sss/goPassGen | 易于猜测的密码生成器 | 4
 - [ ] https://github.com/codexlynx/brutemq | 爆破RabbitMQ密码 | 1
 - [ ] https://github.com/china-muwenbo/goScanPort | 批量扫描21端口并爆破FTP | 8
-- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理器 | 20
+- [ ] https://github.com/edermi/go-tomcat-mgmt-scanner | 查找和暴力破解tomcat管理后台 | 20
 - [ ] https://github.com/zhangqin/mysqlfuzz | 针对指定ip段的mysql爆破 | 1
 - [ ] https://github.com/dru1d-foofus/gorgon | 模块化跨平台暴力破解工具 | 3
 - [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
