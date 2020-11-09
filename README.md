@@ -275,6 +275,7 @@
 - [ ] https://github.com/robertkrimen/otto
 - [ ] https://github.com/fzipp/gocyclo
 - [ ] https://github.com/0xsha/CloudBrute
+- [ ] https://github.com/esimov/pigo
 - [ ] https://github.com/eolinker/goku-api-gateway
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
@@ -477,6 +478,7 @@
 - [ ] https://github.com/gomodule/redigo
 - [ ] https://github.com/mozillazg/go-pinyin
 - [ ] https://github.com/brutella/hc
+- [ ] https://github.com/asim/nitro
 - [ ] https://github.com/go-redis/cache
 - [ ] https://github.com/dushixiang/tcpwall
 - [ ] https://github.com/awesome-gocui/gocui
