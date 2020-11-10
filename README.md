@@ -40,7 +40,6 @@
 - [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
 - [ ] [《TopGoer教程》](http://www.topgoer.com)
-- [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
@@ -50,10 +49,11 @@
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
+- [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
-二、高手进阶：
+二、高级进阶：
 
 - [ ] [《Go官方博客》](https://blog.golang.org)@golang
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@golang
@@ -76,7 +76,7 @@
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 
-三、视频教程
+三、视频教程：
 
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
@@ -91,7 +91,7 @@
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
 - [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
-- [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲
+- [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 四、算法学习：
@@ -117,7 +117,7 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-六、英文原著
+六、英文原著：
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
@@ -161,12 +161,15 @@
 - [x] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
-- [ ] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
-- [ ] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
-- [ ] [《GoWeb编程》](https://item.jd.com/12252845.html)@黄健宏译
+- [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
+- [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
+- [x] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
+- [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
+- [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 
 八、杂七杂八
 
