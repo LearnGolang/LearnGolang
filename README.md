@@ -405,6 +405,7 @@
 
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
+- [ ] https://github.com/cockroachdb/errors
 
 十一、消息队列
 
