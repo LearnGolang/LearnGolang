@@ -162,6 +162,7 @@
 - [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
+- [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/hwholiday/learning_tools
@@ -276,6 +277,7 @@
 - [ ] https://github.com/fzipp/gocyclo
 - [ ] https://github.com/0xsha/CloudBrute
 - [ ] https://github.com/esimov/pigo
+- [ ] https://github.com/jwma/jump-jump
 - [ ] https://github.com/eolinker/goku-api-gateway
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 
