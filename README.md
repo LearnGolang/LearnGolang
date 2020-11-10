@@ -98,6 +98,7 @@
 
 四、算法学习：
 
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
@@ -185,6 +186,7 @@
 - [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
 - [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
+- [ ] [dive-go-opensource](https://github.com/polaris1119/dive-go-opensource)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
@@ -342,11 +344,12 @@
 - [ ] https://github.com/mongodb/mongo-go-driver
 - [ ] https://github.com/qiniu/qmgo
 -  其他待分类
+- [ ] https://github.com/jackc/pgx
+- [ ] https://github.com/boltdb/bolt
 - [ ] https://github.com/ideawu/ssdb
 - [ ] https://github.com/go-gorm/gorm
 - [ ] https://github.com/syndtr/goleveldb
-- [ ] https://github.com/boltdb/bolt
-- [ ] https://github.com/jackc/pgx
+- [ ] https://github.com/didiyudha/sse-redis
 
 五、Web框架
 
@@ -884,10 +887,9 @@
 - [ ] https://github.com/FireFart/goshell
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
-- [ ] https://github.com/xct/xc
+- [ ] https://github.com/sshuttle/sshuttle
 - [ ] https://github.com/EddieIvan01/iox
 - [ ] https://github.com/ring04h/s5.go
-- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/Ridter/DomainHiding
 - [ ] https://github.com/imgproxy/imgproxy
 - [ ] https://github.com/knownsec/Portforward
@@ -896,6 +898,7 @@
 - [ ] https://github.com/ehang-io/nps
 - [ ] https://github.com/Dreamacro/clash
 - [ ] https://github.com/jpillora/chisel
+- [ ] https://github.com/xct/xc
 - [ ] https://github.com/snail007/goproxy
 - [ ] https://github.com/staaldraad/turner
 - [ ] https://github.com/esrrhs/pingtunnel
@@ -909,6 +912,7 @@
 - [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/HTFTIMEONE/proxyPool
+- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/danielan/lonely-shell
 - [ ] https://github.com/sysdream/chashell
@@ -1033,6 +1037,7 @@
 - [ ] https://github.com/kavishgr/tempomail
 - [ ] https://github.com/Threagile/threagile
 - [ ] https://github.com/ga0/netgraph
+- [ ] https://github.com/wallarm/gotestwaf
 - [ ] https://github.com/baidu-security/webshell-scanner-client
 - [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
 
