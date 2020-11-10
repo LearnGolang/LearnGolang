@@ -109,6 +109,7 @@
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
+- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
 
 五、Web编程：
 
@@ -186,6 +187,7 @@
 - [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
 - [ ] https://github.com/TIGERB/easy-tips
+- [ ] https://github.com/lifei6671/interview-go
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
