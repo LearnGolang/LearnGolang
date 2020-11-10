@@ -50,6 +50,7 @@
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
+- [ ] [《Golang学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
@@ -86,6 +87,7 @@
 - [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马程序员
 - [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩教育
 - [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@七米
 - [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
 - [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
