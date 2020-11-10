@@ -887,7 +887,6 @@
 - [ ] https://github.com/FireFart/goshell
 - [ ] https://github.com/ypcd/gstunnel
 - [ ] https://github.com/ginuerzh/gost
-- [ ] https://github.com/sshuttle/sshuttle
 - [ ] https://github.com/EddieIvan01/iox
 - [ ] https://github.com/ring04h/s5.go
 - [ ] https://github.com/Ridter/DomainHiding
