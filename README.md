@@ -76,7 +76,19 @@
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 
-三、算法学习：
+三、视频教程
+
+- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
+- [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
+- [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
+- [ ] [《20个小时快速入门go语言-上》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马程序员
+- [ ] [《20个小时快速入门go语言-中》](https://www.bilibili.com/video/BV1UW411x7Ve)@黑马程序员
+- [ ] [《20个小时快速入门go语言-下》](https://www.bilibili.com/video/BV17W411W7hm)@黑马程序员
+- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
+- [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
+
+四、算法学习：
 
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
@@ -92,14 +104,14 @@
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 
-四、Web编程：
+五、Web编程：
 
 - [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-五、英文原著
+六、英文原著
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
@@ -135,7 +147,7 @@
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 
-六、实体书籍：
+七、实体书籍：
 
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
@@ -150,7 +162,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 
-七、杂七杂八
+八、杂七杂八
 
 - [ ] [go-awesome](https://github.com/shockerli/go-awesome)
 - [ ] [go-study-index](https://github.com/unknwon/go-study-index)
@@ -167,16 +179,6 @@
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
-
-八、学习视频
-
-- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
-- [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
-- [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
-- [ ] [《20个小时快速入门go语言-上》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马程序员
-- [ ] [《20个小时快速入门go语言-中》](https://www.bilibili.com/video/BV1UW411x7Ve)@黑马程序员
-- [ ] [《20个小时快速入门go语言-下》](https://www.bilibili.com/video/BV17W411W7hm)@黑马程序员
-- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 九、学习论坛
 
