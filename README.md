@@ -50,7 +50,7 @@
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
 二、高手进阶：
@@ -81,11 +81,17 @@
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
-- [ ] [《20个小时快速入门go语言-上》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马程序员
-- [ ] [《20个小时快速入门go语言-中》](https://www.bilibili.com/video/BV1UW411x7Ve)@黑马程序员
-- [ ] [《20个小时快速入门go语言-下》](https://www.bilibili.com/video/BV17W411W7hm)@黑马程序员
+- [ ] [《20个小时快速入门go语言》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马程序员
+- [ ] [《Go语言开发实战教程》](https://www.bilibili.com/video/BV1kE41157q1)@黑马程序员
+- [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马程序员
+- [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩教育
+- [ ] [《2019Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
+- [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
+- [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
+- [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 四、算法学习：
