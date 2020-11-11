@@ -486,7 +486,6 @@
 二十三、其他框架
 
 - [ ] https://github.com/FiloSottile/age
-- [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/iancoleman/strcase
 - [ ] https://github.com/shaj13/libcache
 - [ ] https://github.com/gojuukaze/YTask
