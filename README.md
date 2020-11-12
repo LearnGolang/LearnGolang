@@ -525,7 +525,7 @@
 -  https://github.com/topics/reconnaissance?l=go
 -  https://github.com/topics/information-gathering?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
--  扫描、漏洞、
+-  扫描、漏洞
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
@@ -845,6 +845,7 @@
 - [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 - [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 - [ ] https://github.com/c26root/hb
+- [ ] https://github.com/kjyc1/cat-8080-brute
 - [ ] https://github.com/markwh245/rapt0r
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/ATpiu/asset-scan
