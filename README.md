@@ -307,6 +307,8 @@
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 - [ ] https://github.com/dapr/dapr
 - [ ] https://github.com/cli/cli
+- [ ] https://github.com/thoas/picfit
+- [ ] https://github.com/galeone/tfgo
 
 ## 0x03-Golang框架
 
@@ -518,6 +520,7 @@
 - [ ] https://github.com/LaYa-op/laya-go
 - [ ] https://github.com/vugu/vugu
 - [ ] https://github.com/admpub/nging
+- [ ] https://gitea.com/xorm/xorm
 
 ## 0x04-Golang安全
 
@@ -975,6 +978,7 @@
 - [ ] https://github.com/sergi/go-diff
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/William-Yeh/fswatch
+- [ ] https://github.com/americanexpress/earlybird
 
 十、社工钓鱼
 
