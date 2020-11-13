@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月12日。
+本项目创建于2020年8月10日，最近一次更新时间为11月13日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -188,6 +188,7 @@
 - [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [dive-go-opensource](https://github.com/polaris1119/dive-go-opensource)
+- [ ] [play-with-go](https://github.com/play-with-go/play-with-go)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
@@ -302,6 +303,8 @@
 - [ ] https://github.com/TwinProduction/gatus
 - [ ] https://github.com/eolinker/goku-api-gateway
 - [ ] https://github.com/lane-c-wagner/go-password-validator
+- [ ] https://github.com/dapr/dapr
+- [ ] https://github.com/cli/cli
 
 ## 0x03-Golang框架
 
@@ -511,6 +514,7 @@
 - [ ] https://github.com/elastic/go-elasticsearch
 - [ ] https://github.com/mix-go/mix
 - [ ] https://github.com/LaYa-op/laya-go
+- [ ] https://github.com/vugu/vugu
 
 ## 0x04-Golang安全
 
@@ -934,6 +938,7 @@
 - [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/mauri870/powershell-reverse-http
+- [ ] https://github.com/schollz/croc
 
 八、病毒免杀
 
@@ -1050,6 +1055,7 @@
 - [ ] https://github.com/baidu-security/webshell-scanner-client
 - [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
 - [ ] https://github.com/dwisiswant0/unew
+- [ ] https://github.com/moonD4rk/HackBrowserData
 
 ## 0x05-Golang逆向
 
