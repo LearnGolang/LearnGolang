@@ -171,11 +171,15 @@
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
 - [x] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [ ] [《Go语言编程》](https://item.jd.com/11067810.html)@许式伟
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
+- [ ] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
+- [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
+- [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 
 八、杂七杂八
