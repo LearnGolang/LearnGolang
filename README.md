@@ -30,6 +30,7 @@
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)
 - [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
+- [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
@@ -515,6 +516,7 @@
 - [ ] https://github.com/mix-go/mix
 - [ ] https://github.com/LaYa-op/laya-go
 - [ ] https://github.com/vugu/vugu
+- [ ] https://github.com/admpub/nging
 
 ## 0x04-Golang安全
 
@@ -962,6 +964,7 @@
 - [ ] https://github.com/Binject/backdoorfactory
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
+- [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 
 九、代码审计
 
