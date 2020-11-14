@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月13日。
+本项目创建于2020年8月10日，最近一次更新时间为11月14日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -831,6 +831,7 @@
 -  https://github.com/topics/security-scanner?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
 - [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
+- [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
 - [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
 - [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
 - [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 872
@@ -1070,6 +1071,8 @@
 - [ ] https://github.com/ShiftLeftSecurity/shiftleft-go-demo
 - [ ] https://github.com/dwisiswant0/unew
 - [ ] https://github.com/moonD4rk/HackBrowserData
+- [ ] https://github.com/cckuailong/HackChrome
+- [ ] https://github.com/signalsciences/waf-testing-framework
 
 ## 0x05-Golang逆向
 
