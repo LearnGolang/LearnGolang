@@ -526,6 +526,7 @@
 - [ ] https://github.com/admpub/nging
 - [ ] https://gitea.com/xorm/xorm
 - [ ] https://github.com/projectdiscovery/dnsx
+- [ ] https://github.com/thinkgos/http-middlewares
 
 ## 0x04-Golang安全
 
@@ -954,6 +955,7 @@
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/mauri870/powershell-reverse-http
 - [ ] https://github.com/schollz/croc
+- [ ] https://github.com/thinkgos/jocasta
 
 八、病毒免杀
 
