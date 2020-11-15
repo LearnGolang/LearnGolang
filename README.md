@@ -116,6 +116,7 @@
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
+- [ ] https://github.com/hbollon/go-edlib
 
 五、Web编程：
 
@@ -980,6 +981,7 @@
 - [ ] https://github.com/Binject/backdoorfactory
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
+- [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 
 九、代码审计
