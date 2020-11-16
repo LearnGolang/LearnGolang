@@ -864,8 +864,8 @@
 - [ ] https://github.com/jmpews/goscan | golang的扫描框架 | 39
 - [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 - [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
-- [ ] https://github.com/yinqiwen/gscan
-- [ ] https://github.com/xmendez/wfuzz
+- [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
+- [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/kjyc1/cat-8080-brute
 - [ ] https://github.com/markwh245/rapt0r
