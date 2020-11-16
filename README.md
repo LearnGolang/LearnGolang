@@ -804,13 +804,13 @@
 -  https://github.com/topics/rce?l=go
 -  https://github.com/topics/sql-injection?l=go
 - [ ] https://github.com/tprynn/web-methodology
-- [ ] https://github.com/Releasel0ck/Blind-SQL-Injector
-- [ ] https://github.com/yahoo/gryffin
-- [ ] https://github.com/yahoo/webseclab
-- [ ] https://github.com/dstotijn/hetty
-- [ ] https://github.com/denandz/glorp
-- [ ] https://github.com/hahwul/jwt-hack
-- [ ] https://github.com/Shivangx01b/CorsMe
+- [ ] https://github.com/Releasel0ck/Blind-SQL-Injector | 手工盲注辅助注入工具 | 23
+- [ ] https://github.com/yahoo/gryffin | 大规模的Web安全扫描平台 | 2k
+- [ ] https://github.com/yahoo/webseclab | Web安全测试用例集 | 920
+- [ ] https://github.com/dstotijn/hetty | 用于安全性研究的HTTP工具包 | 2.9k
+- [ ] https://github.com/denandz/glorp | 基于CLI的HTTP拦截和重放代理 | 178
+- [ ] https://github.com/hahwul/jwt-hack | JWT利用安全工具 | 122
+- [ ] https://github.com/Shivangx01b/CorsMe | 跨源资源共享错误配置扫描程序 | 105
 - [ ] https://github.com/Shivangx01b/BountyIt
 - [ ] https://github.com/pikpikcu/XRCross
 - [ ] https://github.com/chennqqi/godnslog
