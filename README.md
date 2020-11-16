@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月15日。
+本项目创建于2020年8月10日，最近一次更新时间为11月16日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -270,7 +270,6 @@
 - [ ] https://github.com/common-nighthawk/go-figure
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
-- [ ] https://github.com/americanexpress/earlybird
 - [ ] https://github.com/lanyi1998/DNSlog-GO
 - [ ] https://github.com/spf13/viper
 - [ ] https://github.com/brianvoe/gofakeit
@@ -1082,6 +1081,7 @@
 - [ ] https://github.com/moonD4rk/HackBrowserData
 - [ ] https://github.com/cckuailong/HackChrome
 - [ ] https://github.com/signalsciences/waf-testing-framework
+- [ ] https://github.com/raviqqe/muffet | Go中的快速网站链接检查器 | 1.7k
 
 ## 0x05-Golang逆向
 
@@ -1090,6 +1090,7 @@
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/redress
 - [ ] https://github.com/goretk/gore
+- [ ] https://github.com/0xjiayu/go_parser
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
