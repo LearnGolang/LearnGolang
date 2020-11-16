@@ -811,19 +811,18 @@
 - [ ] https://github.com/denandz/glorp | 基于CLI的HTTP拦截和重放代理 | 178
 - [ ] https://github.com/hahwul/jwt-hack | JWT利用安全工具 | 122
 - [ ] https://github.com/Shivangx01b/CorsMe | 跨源资源共享错误配置扫描程序 | 105
-- [ ] https://github.com/Shivangx01b/BountyIt
-- [ ] https://github.com/pikpikcu/XRCross
-- [ ] https://github.com/chennqqi/godnslog
-- [ ] https://github.com/dowdyph0/transgo
-- [ ] https://github.com/hahwul/dalfox
-- [ ] https://github.com/dwisiswant0/crlfuzz
-- [ ] https://github.com/KathanP19/Gxss
-- [ ] https://github.com/dwisiswant0/crlfuzz
-- [ ] https://github.com/teknogeek/ssrf-sheriff
+- [ ] https://github.com/Shivangx01b/BountyIt | 查找xss、lfi、rce、ssti等漏洞 | 33
+- [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
+- [ ] https://github.com/chennqqi/godnslog | 精美的dns＆http日志服务器 | 107
+- [ ] https://github.com/hahwul/dalfox | 基于go的参数分析和XSS扫描工具 | 578
+- [ ] https://github.com/dwisiswant0/crlfuzz| CRLF漏洞扫描工具 | 205
+- [ ] https://github.com/teknogeek/ssrf-sheriff| SSRF漏洞探测工具 | 205
 - [ ] https://github.com/microcosm-cc/bluemonday
 - [ ] https://github.com/gen0cide/hasherbasher
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/Zin
+- [ ] https://github.com/dowdyph0/transgo
+- [ ] https://github.com/KathanP19/Gxss
 
 六、漏洞扫描
 
