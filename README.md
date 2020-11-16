@@ -815,10 +815,9 @@
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
 - [ ] https://github.com/chennqqi/godnslog | 精美的dns＆http日志服务器 | 107
 - [ ] https://github.com/hahwul/dalfox | 基于go的参数分析和XSS扫描工具 | 578
-- [ ] https://github.com/dwisiswant0/crlfuzz| CRLF漏洞扫描工具 | 205
-- [ ] https://github.com/teknogeek/ssrf-sheriff| SSRF漏洞探测工具 | 205
-- [ ] https://github.com/microcosm-cc/bluemonday
-- [ ] https://github.com/gen0cide/hasherbasher
+- [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
+- [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
+- [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/dowdyph0/transgo
