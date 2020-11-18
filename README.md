@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月17日。
+本项目创建于2020年8月10日，最近一次更新时间为11月18日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -314,6 +314,7 @@
 - [ ] https://github.com/thoas/picfit
 - [ ] https://github.com/galeone/tfgo
 - [ ] https://github.com/gopasspw/gopass
+- [ ] https://github.com/go-masonry/mortar
 
 ## 0x03-Golang框架
 
@@ -960,6 +961,7 @@
 - [ ] https://github.com/mauri870/powershell-reverse-http
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/thinkgos/jocasta
+- [ ] https://github.com/yinqiwen/gsnova
 
 八、病毒免杀
 
@@ -1083,6 +1085,7 @@
 - [ ] https://github.com/cckuailong/HackChrome
 - [ ] https://github.com/signalsciences/waf-testing-framework
 - [ ] https://github.com/raviqqe/muffet | Go中的快速网站链接检查器 | 1.7k
+- [ ] https://github.com/rakyll/statik
 
 ## 0x05-Golang逆向
 
