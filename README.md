@@ -248,7 +248,6 @@
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
-- [ ] https://github.com/schollz/croc
 - [ ] https://github.com/lsds/KungFu
 - [ ] https://github.com/mit-pdos/biscuit
 - [ ] https://github.com/bradfitz/shotizam
@@ -315,6 +314,9 @@
 - [ ] https://github.com/galeone/tfgo
 - [ ] https://github.com/gopasspw/gopass
 - [ ] https://github.com/go-masonry/mortar
+- [ ] https://github.com/syncthing/syncthing
+- [ ] https://github.com/gogs/gogs
+- [ ] https://github.com/traefik/traefik
 
 ## 0x03-Golang框架
 
@@ -373,22 +375,21 @@
 
 - [ ] https://github.com/topics/web?l=go
 - [ ] https://github.com/astaxie/beego
+- [ ] https://github.com/gohugoio/hugo
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/staaldraad/xxeserv
 - [ ] https://github.com/caddyserver/caddy
 - [ ] https://github.com/kataras/iris
 - [ ] https://github.com/revel/revel
-- [ ] https://github.com/kataras/iris
+- [ ] https://github.com/labstack/echo
 - [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://github.com/go-martini/martini
-- [ ] https://go-macaron.com/
-- [ ] https://echo.labstack.com/
-- [ ] https://github.com/revel/revel
-- [ ] https://github.com/go-martini/martini
+- [ ] https://go-macaron.com
+- [ ] https://echo.labstack.com
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
-- [ ] https://github.com/gohugoio/hugo
 - [ ] https://github.com/gogf/gf
+- [ ] https://github.com/gorilla/mux
 
 六、爬虫框架
 
@@ -532,6 +533,9 @@
 - [ ] https://github.com/thinkgos/http-middlewares
 - [ ] https://github.com/hodgesds/perf-utils
 - [ ] https://github.com/snowlyg/gotransformer
+- [ ] https://github.com/urfave/cli
+- [ ] https://github.com/buger/goreplay
+- [ ] https://github.com/iawia002/annie
 
 ## 0x04-Golang安全
 
@@ -959,7 +963,6 @@
 - [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
 - [ ] https://github.com/TheKingOfDuck/ReverseGoShell
 - [ ] https://github.com/mauri870/powershell-reverse-http
-- [ ] https://github.com/schollz/croc
 - [ ] https://github.com/thinkgos/jocasta
 - [ ] https://github.com/yinqiwen/gsnova
 
