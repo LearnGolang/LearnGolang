@@ -203,6 +203,7 @@
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/lifei6671/interview-go
 - [ ] https://github.com/hwholiday/learning_tools
+- [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 九、学习论坛
