@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月18日。
+本项目创建于2020年8月10日，最近一次更新时间为11月19日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -205,6 +205,7 @@
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
+- [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 
 九、学习论坛
 
@@ -333,8 +334,22 @@
 
 二、HTTP框架
 
+- https://github.com/topics/request?l=go
+
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
+- [ ] https://github.com/idoubi/goz
+- [ ] https://github.com/guonaihong/gout
+- [ ] https://github.com/mozillazg/request
+- [ ] https://github.com/timakin/bodyclose
+- [ ] https://github.com/kirinlabs/HttpRequest
+- [ ] https://github.com/monaco-io/request
+- [ ] https://github.com/nahid/gohttp
+- [ ] https://github.com/blackarrowsec/pivotnacci
+- [ ] https://github.com/DavidCai1993/request
+- [ ] https://github.com/zhshch2002/goreq
+- [ ] https://github.com/telanflow/quick
+
 - [ ] https://github.com/gorilla/mux
 - [ ] https://github.com/imroc/req
 - [ ] https://github.com/aceld/zinx
@@ -903,6 +918,7 @@
 - [ ] https://github.com/orf53975/weblogicExp
 - [ ] https://github.com/labrusca/Struts2-045-checker
 - [ ] https://github.com/Any3ite/phpstudy_backdoor
+- [ ] https://github.com/BurnyMcDull/CVE-2017-7921
 - [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
 
 七、代理隧道
@@ -966,6 +982,7 @@
 - [ ] https://github.com/mauri870/powershell-reverse-http
 - [ ] https://github.com/thinkgos/jocasta
 - [ ] https://github.com/yinqiwen/gsnova
+- [ ] https://github.com/canc3s/gnc
 
 八、病毒免杀
 
