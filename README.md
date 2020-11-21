@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月20日。
+本项目创建于2020年8月10日，最近一次更新时间为11月21日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -320,6 +320,7 @@
 - [ ] https://github.com/syncthing/syncthing
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/traefik/traefik
+- [ ] https://github.com/rsc/rf
 
 ## 0x03-Golang框架
 
@@ -551,6 +552,7 @@
 - [ ] https://github.com/urfave/cli
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/iawia002/annie
+- [ ] https://github.com/go-kratos/kratos
 
 ## 0x04-Golang安全
 
@@ -722,6 +724,8 @@
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
 - [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 - [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
+- [ ] https://github.com/CTF-MissFeng/nmaps
+- [ ] https://github.com/CTF-MissFeng/NmapTools
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/lavalamp-/ipv666
 - [ ] https://github.com/theodesp/find-port
@@ -1107,6 +1111,7 @@
 - [ ] https://github.com/signalsciences/waf-testing-framework
 - [ ] https://github.com/raviqqe/muffet | Go中的快速网站链接检查器 | 1.7k
 - [ ] https://github.com/rakyll/statik
+- [ ] https://github.com/C4o/Juggler
 
 ## 0x05-Golang逆向
 
