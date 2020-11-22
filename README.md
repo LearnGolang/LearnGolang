@@ -555,8 +555,6 @@
 - [ ] https://github.com/vugu/vugu
 - [ ] https://github.com/admpub/nging
 - [ ] https://gitea.com/xorm/xorm
-- [ ] https://github.com/projectdiscovery/dnsx
-- [ ] https://github.com/thinkgos/http-middlewares
 - [ ] https://github.com/hodgesds/perf-utils
 - [ ] https://github.com/snowlyg/gotransformer
 - [ ] https://github.com/urfave/cli
@@ -564,11 +562,13 @@
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/fcharlie/buna
-- [ ] https://github.com/muraenateam/muraena
 - [ ] https://github.com/c-bata/go-prompt
 - [ ] https://github.com/cespare/xxhash
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/panjf2000/ants
+- [ ] https://github.com/projectdiscovery/dnsx
+- [ ] https://github.com/thinkgos/http-middlewares
+- [ ] https://github.com/muraenateam/muraena
 
 ## 0x04-Golang安全
 
