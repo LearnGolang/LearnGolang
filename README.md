@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月21日。
+本项目创建于2020年8月10日，最近一次更新时间为11月22日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -366,6 +366,7 @@
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/levigross/grequests
 - [ ] https://github.com/Greyh4t/zhttp
+- [ ] https://github.com/gookit/rux
 
 三、DNS框架
 
@@ -439,6 +440,7 @@
 - [ ] https://github.com/rs/zerolog
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/imroc/log
+- [ ] https://github.com/gookit/slog
 
 十、错误处理
 
@@ -554,6 +556,11 @@
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/fcharlie/buna
+- [ ] https://github.com/muraenateam/muraena
+- [ ] https://github.com/c-bata/go-prompt
+- [ ] https://github.com/cespare/xxhash
+- [ ] https://github.com/foxcpp/maddy
+- [ ] https://github.com/panjf2000/ants
 
 ## 0x04-Golang安全
 
