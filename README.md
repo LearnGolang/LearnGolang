@@ -247,7 +247,13 @@
 
 - [ ] https://github.com/jaeles-project/gospider
 
-四、优秀项目
+四、图形项目
+
+- [ ] https://github.com/fyne-io/7guis
+- [ ] https://github.com/fyne-io/examples
+- [ ] https://github.com/fyne-io/pixeledit
+
+五、优秀项目
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
@@ -321,6 +327,7 @@
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/traefik/traefik
 - [ ] https://github.com/rsc/rf
+- [ ] https://github.com/project-flogo/core
 
 ## 0x03-Golang框架
 
@@ -498,6 +505,7 @@
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
+- [ ] https://github.com/fyne-io/fyne
 
 二十、RSS框架
 
