@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月22日。
+本项目创建于2020年8月10日，最近一次更新时间为11月23日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -49,6 +49,7 @@
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
+- [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《原汁原味Go语言学习》](https://github.com/chalvern/books/tree/master/go/official_go_learning)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
@@ -206,6 +207,7 @@
 - [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
+- [ ] https://github.com/kevwan/why-golang
 - [ ] [《Mastering_Go_Second_Edition_Zh_CN》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
 
 九、学习论坛
@@ -1128,6 +1130,7 @@
 - [ ] https://github.com/raviqqe/muffet | Go中的快速网站链接检查器 | 1.7k
 - [ ] https://github.com/rakyll/statik
 - [ ] https://github.com/C4o/Juggler
+- [ ] https://github.com/utkusen/urlhunter
 
 ## 0x05-Golang逆向
 
