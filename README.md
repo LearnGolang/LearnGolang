@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月23日。
+本项目创建于2020年8月10日，最近一次更新时间为11月24日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -332,12 +332,15 @@
 - [ ] https://github.com/project-flogo/core
 - [ ] https://github.com/uber-go/goleak
 - [ ] https://github.com/didi/nightingale
+- [ ] https://github.com/junegunn/fzf
+- [ ] https://github.com/pingcap/failpoint
 
 ## 0x03-Golang框架
 
 - [ ] https://github.com/avelino/awesome-go
 - [ ] https://github.com/jobbole/awesome-go-cn
 - [ ] https://github.com/hyper0x/awesome-go-China
+- [ ] https://github.com/yinggaozhen/awesome-go-cn
 
 一、安全框架
 
@@ -418,6 +421,7 @@
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gogf/gf
 - [ ] https://github.com/gorilla/mux
+- [ ] https://github.com/gofiber/fiber
 
 六、爬虫框架
 
@@ -573,6 +577,9 @@
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/thinkgos/http-middlewares
 - [ ] https://github.com/muraenateam/muraena
+- [ ] https://github.com/allegro/bigcache
+- [ ] https://github.com/eiannone/keyboard
+- [ ] https://github.com/bojanz/address
 
 ## 0x04-Golang安全
 
@@ -1007,6 +1014,8 @@
 - [ ] https://github.com/yinqiwen/gsnova
 - [ ] https://github.com/canc3s/gnc
 - [ ] https://github.com/lu4p/ToRat
+- [ ] https://github.com/lesnuages/hershell
+- [ ] https://github.com/dushixiang/4dnat
 
 八、病毒免杀
 
