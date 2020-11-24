@@ -206,6 +206,7 @@
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
+- [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] https://github.com/kevwan/why-golang
 - [ ] [《Mastering_Go_Second_Edition_Zh_CN》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
