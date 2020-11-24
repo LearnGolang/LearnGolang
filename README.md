@@ -335,6 +335,8 @@
 - [ ] https://github.com/didi/nightingale
 - [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/pingcap/failpoint
+- [ ] https://github.com/naiba/nezha
+- [ ] https://github.com/melbahja/goph
 
 ## 0x03-Golang框架
 
@@ -581,6 +583,7 @@
 - [ ] https://github.com/allegro/bigcache
 - [ ] https://github.com/eiannone/keyboard
 - [ ] https://github.com/bojanz/address
+- [ ] https://github.com/silenceper/pool
 
 ## 0x04-Golang安全
 
@@ -1143,6 +1146,7 @@
 - [ ] https://github.com/rakyll/statik
 - [ ] https://github.com/C4o/Juggler
 - [ ] https://github.com/utkusen/urlhunter
+- [ ] https://github.com/fesiong/cobweb
 
 ## 0x05-Golang逆向
 
