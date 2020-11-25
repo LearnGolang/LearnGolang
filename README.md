@@ -91,7 +91,8 @@
 - [ ] [《Go语言开发实战教程》](https://www.bilibili.com/video/BV1kE41157q1)@黑马程序员
 - [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马程序员
 - [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩教育
-- [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [x] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci)@韩茹
 - [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
 - [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
 - [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
