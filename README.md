@@ -584,6 +584,7 @@
 - [ ] https://github.com/eiannone/keyboard
 - [ ] https://github.com/bojanz/address
 - [ ] https://github.com/silenceper/pool
+- [ ] https://github.com/BlackCodes/logbud
 
 ## 0x04-Golang安全
 
