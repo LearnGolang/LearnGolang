@@ -1009,7 +1009,6 @@
 - [ ] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/danielan/lonely-shell
--  [ ] https://github.com/sysdream/chashell
 -  [ ] https://github.com/crabkun/switcher
 -  [ ] https://github.com/rancher/remotedialer
 - [ ] https://github.com/HTFTIMEONE/proxyPool
