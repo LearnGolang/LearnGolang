@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为11月26日。
+本项目创建于2020年8月10日，最近一次更新时间为11月27日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -1021,6 +1021,7 @@
 - [ ] https://github.com/lu4p/ToRat
 - [ ] https://github.com/lesnuages/hershell
 - [ ] https://github.com/dushixiang/4dnat
+- [ ] https://github.com/inlets/inlets
 
 八、病毒免杀
 
@@ -1132,6 +1133,7 @@
 - [ ] https://github.com/AmyangXYZ/DNSSniffer
 - [ ] https://github.com/KnicKnic/go-powershell
 - [ ] https://github.com/tstillz/webshell-analyzer
+- [ ] https://github.com/tstillz/webshell-scan
 - [ ] https://github.com/samgha/vipas
 - [ ] https://github.com/kavishgr/tempomail
 - [ ] https://github.com/Threagile/threagile
