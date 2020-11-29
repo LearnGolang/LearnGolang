@@ -590,6 +590,7 @@
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/redcode-labs/Neurax
+- [ ] https://github.com/anaskhan96/soup
 
 ## 0x04-Golang安全
 
@@ -1027,6 +1028,8 @@
 - [ ] https://github.com/dushixiang/4dnat
 - [ ] https://github.com/inlets/inlets
 - [ ] https://github.com/redcode-labs/GoSH
+- [ ] https://github.com/Sandertv/gophertunnel
+- [ ] https://github.com/Lz1y/NatSocks
 
 八、病毒免杀
 
