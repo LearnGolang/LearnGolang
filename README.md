@@ -1189,6 +1189,7 @@
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://www.4hou.com/posts/8OJ2
+- [ ] https://bbs.pediy.com/thread-263921.htm
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
 三、Go恶意软件
