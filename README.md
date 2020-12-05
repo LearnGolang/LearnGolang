@@ -953,6 +953,7 @@
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/devanshbatham/Gorecon
 - [ ] https://github.com/rverton/webanalyze
+- [ ] https://github.com/ShiHuang-ESec/EHole
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/x51/STS2G
