@@ -598,6 +598,7 @@
 - [ ] https://github.com/malfunkt/hyperfox
 - [ ] https://github.com/icodeface/grdp
 - [ ] https://github.com/Madnikulin50/gordp
+- [ ] https://github.com/schollz/progressbar | 进度条
 
 ## 0x04-Golang安全
 
