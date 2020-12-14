@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2020年12月13日。
+本项目创建于2020年8月10日，最近一次更新时间为2020年12月14日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -116,6 +116,7 @@
 - [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
+- [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
