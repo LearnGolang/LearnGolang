@@ -211,6 +211,7 @@
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] https://github.com/kevwan/why-golang
 - [ ] [《Mastering_Go_Second_Edition_Zh_CN》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
+- [ ] https://github.com/eastmountyxz/Go-learning
 - [ ] https://github.com/zboya/golang_runtime_reading
 
 九、学习论坛
