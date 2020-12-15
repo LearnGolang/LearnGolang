@@ -49,7 +49,7 @@
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)
-- [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)
+- [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《原汁原味Go语言学习》](https://github.com/chalvern/books/tree/master/go/official_go_learning)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
@@ -1179,6 +1179,7 @@
 - [ ] https://github.com/kerbyj/ctfengine
 - [ ] https://github.com/EgeBalci/amber
 - [ ] https://github.com/virink/VulWarning
+- [ ] https://github.com/chroblert/JCRandomProxy
 
 ## 0x05-Golang逆向
 
