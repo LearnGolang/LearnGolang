@@ -1199,6 +1199,7 @@
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 - [ ] https://github.com/lunixbochs/usercorn
+- [ ] https://github.com/e-m-b-a/emba
 
 二、逆向Go程序
 
@@ -1207,6 +1208,7 @@
 - [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://www.4hou.com/posts/8OJ2
 - [ ] https://bbs.pediy.com/thread-263921.htm
+- [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
 三、Go恶意软件
