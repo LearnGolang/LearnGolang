@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2020年12月16日。
+本项目创建于2020年8月10日，最近一次更新时间为2020年12月17日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -643,7 +643,7 @@
 - [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 12
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 21
 - [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
