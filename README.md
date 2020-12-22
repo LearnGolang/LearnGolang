@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2020年12月21日。
+本项目创建于2020年8月10日，最近一次更新时间为2020年12月22日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -206,6 +206,7 @@
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/lifei6671/interview-go
 - [ ] https://github.com/hwholiday/learning_tools
+- [ ] https://github.com/unixpickle/num-analysis
 - [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 - [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
@@ -900,6 +901,7 @@
 - [ ] https://github.com/KathanP19/Gxss
 - [ ] https://github.com/jweny/gosqlmap
 - [ ] https://github.com/rverton/xssmap
+- [ ] https://github.com/raz-varren/xsshell
 
 六、漏洞扫描
 
@@ -1049,6 +1051,7 @@
 - [ ] https://github.com/Sandertv/gophertunnel
 - [ ] https://github.com/crowdsecurity/crowdsec
 - [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/unixpickle/reverseproxy
 
 八、病毒免杀
 
@@ -1189,6 +1192,7 @@
 - [ ] https://github.com/EgeBalci/amber
 - [ ] https://github.com/virink/VulWarning
 - [ ] https://github.com/chroblert/JCRandomProxy
+- [ ] https://github.com/tomsteele/pen-utils
 
 ## 0x05-Golang逆向
 
