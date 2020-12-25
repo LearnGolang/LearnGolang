@@ -837,6 +837,7 @@
 - [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/Pingze-github/portScanner
+- [ ] https://github.com/aeverj/pscan
 
 四、路径扫描
 
