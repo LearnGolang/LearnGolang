@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2020年12月24日。
+本项目创建于2020年8月10日，最近一次更新时间为2020年12月26日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -56,6 +56,7 @@
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
+- [ ] [《Go-Learning-With-Hack》](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [ ] [《Golang学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
@@ -621,7 +622,6 @@
 -  扫描、漏洞
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
-- [ ] [Go-Learning-With-Hack](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
 - [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
 - [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
