@@ -53,6 +53,7 @@
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
 - [ ] [《原汁原味Go语言学习》](https://github.com/chalvern/books/tree/master/go/official_go_learning)
+- [ ] [《Golang修养之路》](https://github.com/aceld/golang)
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
