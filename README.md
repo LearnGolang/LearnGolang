@@ -1205,6 +1205,7 @@
 - [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/esrrhs/fastreplace
 - [ ] https://github.com/anasbousselham/fortiscan
+- [ ] https://github.com/Ne0nd0g/merlin
 
 ## 0x05-Golang逆向
 
