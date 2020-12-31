@@ -44,6 +44,7 @@
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
+- [ ] [《learngo》](https://github.com/inancgumus/learngo)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
