@@ -356,6 +356,8 @@
 - [ ] https://github.com/cockroachdb/crlfmt
 - [ ] https://github.com/mvdan/gofumpt
 - [ ] https://github.com/google/go-licenses
+- [ ] https://github.com/mvdan/corpus
+- [ ] https://github.com/icattlecoder/godaemon
 
 ## 0x03-Golang框架
 
@@ -962,6 +964,7 @@
 - [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 - [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 - [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+- [ ] https://github.com/virink/xray-weblisten-ui
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/kjyc1/cat-8080-brute
 - [ ] https://github.com/markwh245/rapt0r
@@ -1072,6 +1075,7 @@
 - [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/unixpickle/reverseproxy
 - [ ] https://github.com/slemire/reversetroll
+- [ ] https://github.com/pry0cc/soxy
 
 八、病毒免杀
 
