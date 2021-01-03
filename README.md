@@ -974,6 +974,7 @@
 - [ ] https://github.com/rverton/webanalyze
 - [ ] https://github.com/ShiHuang-ESec/EHole
 - [ ] https://github.com/TeraSecTeam/ary
+- [ ] https://github.com/CTF-MissFeng/GoScan
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
