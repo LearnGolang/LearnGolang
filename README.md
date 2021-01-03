@@ -26,6 +26,7 @@
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx
+- [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)
