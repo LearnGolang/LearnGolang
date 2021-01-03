@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月2日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月3日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -190,6 +190,7 @@
 - [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
+- [ ] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 
 八、杂七杂八
 
@@ -608,6 +609,7 @@
 - [ ] https://github.com/Madnikulin50/gordp
 - [ ] https://github.com/schollz/progressbar | 进度条
 - [ ] https://github.com/admpub/nging
+- [ ] https://github.com/admpub/email-verifier
 
 ## 0x04-Golang安全
 
