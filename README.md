@@ -360,6 +360,7 @@
 - [ ] https://github.com/icattlecoder/godaemon
 - [ ] https://github.com/naiba/nezha
 - [ ] https://github.com/naiba/nocd
+- [ ] https://github.com/mailru/easyjson
 
 ## 0x03-Golang框架
 
