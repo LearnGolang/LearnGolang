@@ -1273,6 +1273,7 @@
 - 谢孟军-beego作者，[@astaxie](https://github.com/astaxie)
 - 老貘《Go语言101》作者，[@老貘](https://gfw.tapirgames.com)
 - 韩茹-千锋教育金牌讲师，[@rubyhan](https://github.com/rubyhan1314)
+- 李文周-Go语言优秀讲师，[@Q1mi](https://www.liwenzhou.com/)
 
 二、Go开发参考
 
