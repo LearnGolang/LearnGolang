@@ -1264,12 +1264,12 @@
 
 一、Go教程资源
 
-- 柴树杉《Go语言高级编程》作者，@[chai2010](https://github.com/chai2010)
-- 无闻-知名Go语言分享者@，[Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
-- 徐新华-studygolang站长，@[polarisxu](https://github.com/polaris1119)
-- 杨文-Go夜读发起人，@[yangwenmai](https://github.com/yangwenmai)
-- 陈剑煜《Go语言编程之旅》作者，@[eddycjy](https://github.com/eddycjy)、[博客](https://eddycjy.com/)
-- 雨痕《Go学习笔记》作者，@[Q.yuhen](https://github.com/qyuhen)
+- 柴树杉-《Go语言高级编程》作者，[@chai2010](https://github.com/chai2010)
+- 无闻-知名Go语言分享者，[@Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
+- 徐新华-studygolang站长，[@polarisxu](https://github.com/polaris1119)
+- 杨文-Go夜读发起人，[@yangwenmai](https://github.com/yangwenmai)
+- 陈剑煜《Go语言编程之旅》作者，[@eddycjy](https://github.com/eddycjy)
+- 雨痕《Go学习笔记》作者，[@Q.yuhen](https://github.com/qyuhen)
 - 谢孟军-beego作者，[@astaxie](https://github.com/astaxie)
 - 老貘《Go语言101》作者，[@老貘](https://gfw.tapirgames.com)
 - 韩茹-千锋教育金牌讲师，[@rubyhan](https://github.com/rubyhan1314)
