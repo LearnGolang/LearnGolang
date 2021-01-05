@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月4日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月5日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -987,6 +987,9 @@
 - [ ] https://github.com/ShiHuang-ESec/EHole
 - [ ] https://github.com/TeraSecTeam/ary
 - [ ] https://github.com/CTF-MissFeng/GoScan
+- [ ] https://github.com/thunderbarca/Caesar
+- [ ] https://github.com/thunderbarca/Noah
+- [ ] https://github.com/jm33-m0/emp3r0r
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
