@@ -370,6 +370,8 @@
 - [ ] https://github.com/jobbole/awesome-go-cn
 - [ ] https://github.com/hyper0x/awesome-go-China
 - [ ] https://github.com/yinggaozhen/awesome-go-cn
+- [ ] https://github.com/topics/golang-library
+- [ ] https://github.com/topics/golang-application
 
 一、安全框架
 
@@ -623,6 +625,7 @@
 - [ ] https://github.com/schollz/progressbar | 进度条
 - [ ] https://github.com/admpub/nging
 - [ ] https://github.com/admpub/email-verifier
+- [ ] https://github.com/spf13/cobra
 
 ## 0x04-Golang安全
 
