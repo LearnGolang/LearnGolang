@@ -362,6 +362,7 @@
 - [ ] https://github.com/naiba/nocd
 - [ ] https://github.com/mailru/easyjson
 - [ ] https://github.com/DimitarPetrov/stegify
+- [ ] https://github.com/ouqiang/gocron
 
 ## 0x03-Golang框架
 
@@ -991,6 +992,7 @@
 - [ ] https://github.com/thunderbarca/Caesar
 - [ ] https://github.com/thunderbarca/Noah
 - [ ] https://github.com/jm33-m0/emp3r0r
+- [ ] https://github.com/wgpsec/AstaGo
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
