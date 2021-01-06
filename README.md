@@ -2,7 +2,7 @@
 
 本项目记录自己在学习Go语言的过程中遇到的一些优秀内容，包括Golang的相关学习资源以及Golang的优秀项目代码等。尽可能的使用Go，尽可能的使用Go进行Hack。作者：[0e0w](https://github.com/0e0w/LearnGolang)
 
-关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。
+关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is more or less is less.
 
 本项目创建于2020年8月10日，最近一次更新时间为2021年1月6日。
 
@@ -135,18 +135,18 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-六、英文原著：
+六、英文书籍：
 
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
-- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
+- [x] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
 - [ ] [《Go Recipes》]()
-- [ ] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
+- [x] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
 - [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Introducing Go》]()
@@ -626,6 +626,7 @@
 - [ ] https://github.com/admpub/nging
 - [ ] https://github.com/admpub/email-verifier
 - [ ] https://github.com/spf13/cobra
+- [ ] https://github.com/traefik/yaegi
 
 ## 0x04-Golang安全
 
