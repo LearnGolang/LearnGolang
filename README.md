@@ -627,6 +627,7 @@
 - [ ] https://github.com/admpub/email-verifier
 - [ ] https://github.com/spf13/cobra
 - [ ] https://github.com/traefik/yaegi
+- [ ] https://github.com/stretchr/testify
 
 ## 0x04-Golang安全
 
