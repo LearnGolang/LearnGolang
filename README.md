@@ -46,7 +46,8 @@
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
-- [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
+- [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)@hantmac译
+- [ ] [《Mastering_Go_Second_Edition_Zh_CN》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac译
 - [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
@@ -156,18 +157,23 @@
 
 六、英文书籍
 
+- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
+- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
+- [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
+- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
-- [x] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
 - [ ] [《Go Recipes》]()
 - [x] [《Go Succinctly》](https://github.com/thedevsir/gosuccinctly)
 - [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
+- [ ] [《Mastering Go》]()
+- [ ] [《Mastering Go - Second Edition》]()
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
@@ -176,11 +182,8 @@
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
 - [ ] [《Get Programming with Go》]()
 - [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
-- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
-- [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
-- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《Network Programming With Go》](https://jan.newmarch.name/go/)
