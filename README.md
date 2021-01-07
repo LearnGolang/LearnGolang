@@ -175,6 +175,7 @@
 - [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Programming in Go》]()
+- [ ] [《Hands On Go Programming》](https://github.com/PacktPublishing/Hands-On-Go-Programming)
 - [ ] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [ ] [《Mastering Go》]()
 - [x] [《Mastering Go Second Edition》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
@@ -227,6 +228,8 @@
 - [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
 - [ ] [dive-go-opensource](https://github.com/polaris1119/dive-go-opensource)
 - [ ] [play-with-go](https://github.com/play-with-go/play-with-go)
+- [ ] https://github.com/dariubs/GoBooks
+- [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
 - [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
 - [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
