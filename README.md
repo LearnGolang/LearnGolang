@@ -18,17 +18,14 @@
 
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译
-- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
-- [x] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
-- [ ] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
+- [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译
 - [x] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
 - [ ] [《Go语言编程》](https://item.jd.com/11067810.html)@许式伟
@@ -48,11 +45,11 @@
 - [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
-- [ ] [《Go语言设计与实现》](https://draveness.me/golang)
+- [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Mastering_Go_ZH_CN》](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
-- [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)
+- [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
 - [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
@@ -86,10 +83,12 @@
 
 二、高级进阶
 
-- [ ] [《Go官方博客》](https://blog.golang.org)@golang
-- [ ] [《Go官方包文档》](https://golang.org/pkg)@golang
+- [ ] [《Go官方博客》](https://blog.golang.org)@Go
+- [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
+- [ ] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
 - [ ] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
-- [ ] [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)@柴树杉
+- [ ] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
+- [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
