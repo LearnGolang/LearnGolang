@@ -182,6 +182,7 @@
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《The Way To Go》]()
+- [ ] [《Production Go》]()
 - [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
 - [ ] [《Get Programming with Go》]()
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
