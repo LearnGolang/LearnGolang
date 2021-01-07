@@ -1008,6 +1008,7 @@
 - [ ] https://github.com/thunderbarca/Noah
 - [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/wgpsec/AstaGo
+- [ ] https://github.com/blackcrw/wprecon
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
@@ -1247,6 +1248,7 @@
 - [ ] https://github.com/anasbousselham/fortiscan
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/aceld/zinx
+- [ ] https://github.com/creekorful/trandoshan
 
 ## 0x05-Golang逆向
 
