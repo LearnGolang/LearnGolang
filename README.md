@@ -173,7 +173,7 @@
 - [ ] [《Learning Go》](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Mastering Go》]()
-- [ ] [《Mastering Go - Second Edition》]()
+- [x] [《Mastering Go Second Edition》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
