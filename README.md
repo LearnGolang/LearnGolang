@@ -377,7 +377,9 @@
 - [ ] https://github.com/loov/goda
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/elastic/beats
-- [ ] 
+- [ ] https://github.com/jm33-m0/emp3r0r
+- [ ] https://github.com/knieriem/serport
+- [ ] https://github.com/tufanbarisyildirim/gonginx
 
 ## 0x03-Golang框架
 
@@ -1259,6 +1261,7 @@
 - [ ] https://github.com/creekorful/trandoshan
 - [ ] https://github.com/lc/subjs
 - [ ] https://github.com/inguardians/peirates
+- [ ] https://github.com/magisterquis/sshhipot
 
 ## 0x05-Golang逆向
 
