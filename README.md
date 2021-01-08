@@ -373,6 +373,8 @@
 - [ ] https://github.com/ouqiang/gocron
 - [ ] https://github.com/zqjzqj/mtSecKill
 - [ ] https://github.com/tulir/gomuks
+- [ ] https://github.com/mailhog/MailHog
+- [ ] https://github.com/loov/goda
 
 ## 0x03-Golang框架
 
@@ -1251,6 +1253,7 @@
 - [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/creekorful/trandoshan
 - [ ] https://github.com/lc/subjs
+- [ ] https://github.com/inguardians/peirates
 
 ## 0x05-Golang逆向
 
