@@ -375,6 +375,7 @@
 - [ ] https://github.com/tulir/gomuks
 - [ ] https://github.com/mailhog/MailHog
 - [ ] https://github.com/loov/goda
+- [ ] https://github.com/nsqio/nsq
 
 ## 0x03-Golang框架
 
@@ -641,6 +642,7 @@
 - [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/signintech/gopdf
+- [ ] https://github.com/gogf/focus
 
 ## 0x04-Golang安全
 
