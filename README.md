@@ -376,6 +376,8 @@
 - [ ] https://github.com/mailhog/MailHog
 - [ ] https://github.com/loov/goda
 - [ ] https://github.com/nsqio/nsq
+- [ ] https://github.com/elastic/beats
+- [ ] 
 
 ## 0x03-Golang框架
 
@@ -643,6 +645,7 @@
 - [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/signintech/gopdf
 - [ ] https://github.com/gogf/focus
+- [ ] https://github.com/blugelabs/bluge
 
 ## 0x04-Golang安全
 
