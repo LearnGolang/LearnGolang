@@ -134,6 +134,7 @@
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
+- [ ] [《LeetCode-Go-Week》](https://github.com/wuqinqiang/LeetCode-Go-Week)@wuqinqiang
 - [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
 - [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
 - [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
@@ -650,6 +651,7 @@
 - [ ] https://github.com/signintech/gopdf
 - [ ] https://github.com/gogf/focus
 - [ ] https://github.com/blugelabs/bluge
+- [ ] https://github.com/yourbasic/graph
 
 ## 0x04-Golang安全
 
