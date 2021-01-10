@@ -379,12 +379,17 @@
 - [ ] https://github.com/loov/goda
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/elastic/beats
-- [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/knieriem/serport
 - [ ] https://github.com/tufanbarisyildirim/gonginx
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/google/gvisor
 - [ ] https://github.com/sensepost/gowitness
+- [ ] https://github.com/j3ssie/metabigor
+- [ ] https://github.com/orcaman/concurrent-map
+- [ ] https://github.com/aquasecurity/tracee
+- [ ] https://github.com/gojp/goreportcard
+- [ ] https://github.com/weblazy/websocket-cluster
+- [ ] https://github.com/eriklupander/rt
 
 ## 0x03-Golang框架
 
@@ -655,6 +660,7 @@
 - [ ] https://github.com/blugelabs/bluge
 - [ ] https://github.com/yourbasic/graph
 - [ ] https://github.com/xgfone/bt
+- [ ] https://github.com/rqlite/rqlite
 
 ## 0x04-Golang安全
 
@@ -1271,6 +1277,7 @@
 - [ ] https://github.com/magisterquis/sshhipot
 - [ ] https://github.com/guitmz/ezuri
 - [ ] https://github.com/projectdiscovery/mapcidr
+- [ ] https://github.com/NetSPI/goddi
 
 ## 0x05-Golang逆向
 
