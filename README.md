@@ -394,6 +394,7 @@
 - [ ] https://github.com/zhangyunhao116/skipset
 - [ ] https://github.com/rootless-containers/rootlesskit
 - [ ] https://github.com/criyle/go-sandbox
+- [ ] https://github.com/GridProtectionAlliance/go2cs
 
 ## 0x03-Golang框架
 
@@ -1285,6 +1286,7 @@
 - [ ] https://github.com/guitmz/ezuri
 - [ ] https://github.com/projectdiscovery/mapcidr
 - [ ] https://github.com/NetSPI/goddi
+- [ ] https://github.com/microsoft/ethr
 
 ## 0x05-Golang逆向
 
