@@ -384,6 +384,7 @@
 - [ ] https://github.com/tufanbarisyildirim/gonginx
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/google/gvisor
+- [ ] https://github.com/sensepost/gowitness
 
 ## 0x03-Golang框架
 
@@ -820,7 +821,7 @@
 -  https://github.com/topics/network-scanner?l=go
 - [ ] https://github.com/1ndianl33t/urlprobe
 - [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
-- [ ] https://github.com/phil-fly/portScan | 端口扫描器 | 2
+- [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及title 收集工具 | 4
 - [ ] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
 - [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
