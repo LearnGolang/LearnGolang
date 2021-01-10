@@ -381,7 +381,6 @@
 - [ ] https://github.com/elastic/beats
 - [ ] https://github.com/knieriem/serport
 - [ ] https://github.com/tufanbarisyildirim/gonginx
-- [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/google/gvisor
 - [ ] https://github.com/sensepost/gowitness
 - [ ] https://github.com/j3ssie/metabigor
@@ -393,6 +392,8 @@
 - [ ] https://github.com/micro/micro
 - [ ] https://github.com/toorop/go-bittrex
 - [ ] https://github.com/zhangyunhao116/skipset
+- [ ] https://github.com/rootless-containers/rootlesskit
+- [ ] https://github.com/criyle/go-sandbox
 
 ## 0x03-Golang框架
 
@@ -666,6 +667,7 @@
 - [ ] https://github.com/rqlite/rqlite
 - [ ] https://github.com/ericlagergren/decimal
 - [ ] https://github.com/hajimehoshi/oto
+- [ ] https://github.com/genuinetools/img
 
 ## 0x04-Golang安全
 
