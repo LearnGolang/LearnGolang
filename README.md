@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月9日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月10日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -131,6 +131,7 @@
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
+- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
@@ -1267,6 +1268,7 @@
 - [ ] https://github.com/inguardians/peirates
 - [ ] https://github.com/magisterquis/sshhipot
 - [ ] https://github.com/guitmz/ezuri
+- [ ] https://github.com/projectdiscovery/mapcidr
 
 ## 0x05-Golang逆向
 
