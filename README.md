@@ -43,6 +43,7 @@
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx译
 - [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise译
+- [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
@@ -67,7 +68,6 @@
 - [ ] [《快速上手Golang》](https://github.com/jackhu1990/golangman)
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)@Maxsu
-- [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
 - [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
@@ -1287,6 +1287,8 @@
 - [ ] https://github.com/projectdiscovery/mapcidr
 - [ ] https://github.com/NetSPI/goddi
 - [ ] https://github.com/microsoft/ethr
+- [ ] https://github.com/michenriksen/aquatone
+- [ ] https://github.com/nicolasdilley/Gomela
 
 ## 0x05-Golang逆向
 
