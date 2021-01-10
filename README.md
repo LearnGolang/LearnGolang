@@ -208,7 +208,7 @@
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
 - [ ] [GopherChina](https://gopherchina.org/)
-- [ ] https://gocn.vip
+- [ ] [GOCN Forum](https://gocn.vip)
 - [ ] https://igo.pub
 - [ ] https://talkgo.org
 - [ ] [studygolang](https://studygolang.com)
