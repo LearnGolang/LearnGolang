@@ -403,6 +403,9 @@
 - [ ] https://github.com/writeas/writefreely
 - [ ] https://github.com/shirou/gopsutil
 - [ ] https://github.com/google/grumpy
+- [ ] https://github.com/benbjohnson/hashfs
+- [ ] https://github.com/zhangyunhao116/skipset
+- [ ] https://github.com/Ripolak/minict
 
 ## 0x03-Golang框架
 
@@ -586,6 +589,8 @@
 - [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
 - [ ] https://github.com/fyne-io/fyne
+- [ ] https://github.com/lxn/walk
+- [ ] https://github.com/lxn/win
 
 二十、RSS框架
 
@@ -677,6 +682,7 @@
 - [ ] https://github.com/ericlagergren/decimal
 - [ ] https://github.com/hajimehoshi/oto
 - [ ] https://github.com/genuinetools/img
+- [ ] https://github.com/pquerna/otp
 
 ## 0x04-Golang安全
 
