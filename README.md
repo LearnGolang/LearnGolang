@@ -683,6 +683,7 @@
 - [ ] https://github.com/hajimehoshi/oto
 - [ ] https://github.com/genuinetools/img
 - [ ] https://github.com/pquerna/otp
+- [ ] https://github.com/go-kit/kit
 
 ## 0x04-Golang安全
 
@@ -1148,6 +1149,7 @@
 - [ ] https://github.com/pry0cc/soxy
 - [ ] https://github.com/ice-ice/dnstunnel
 - [ ] https://github.com/TeaWeb/build
+- [ ] https://github.com/projectdiscovery/proxify
 
 八、病毒免杀
 
@@ -1306,6 +1308,8 @@
 - [ ] https://github.com/nicolasdilley/Gomela
 - [ ] https://github.com/edoardottt/pwdsafety
 - [ ] https://github.com/mBouamama/MyJWT
+- [ ] https://github.com/cdk-team/CDK
+- [ ] https://github.com/quay/clair
 
 ## 0x05-Golang逆向
 
