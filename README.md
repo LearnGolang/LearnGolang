@@ -406,6 +406,7 @@
 - [ ] https://github.com/benbjohnson/hashfs
 - [ ] https://github.com/zhangyunhao116/skipset
 - [ ] https://github.com/Ripolak/minict
+- [ ] https://github.com/juicedata/juicefs
 
 ## 0x03-Golang框架
 
