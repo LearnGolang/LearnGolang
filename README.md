@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月10日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月11日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -142,6 +142,8 @@
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
 - [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)
+- [ ] [《Golang随笔》](https://github.com/sevenelevenlee/go-notes)
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
 - [ ] https://github.com/hbollon/go-edlib
@@ -395,6 +397,12 @@
 - [ ] https://github.com/rootless-containers/rootlesskit
 - [ ] https://github.com/criyle/go-sandbox
 - [ ] https://github.com/GridProtectionAlliance/go2cs
+- [ ] https://github.com/gotranspile/cxgo
+- [ ] https://github.com/blizzy78/ebitenui
+- [ ] https://github.com/alexellis/k3sup
+- [ ] https://github.com/writeas/writefreely
+- [ ] https://github.com/shirou/gopsutil
+- [ ] https://github.com/google/grumpy
 
 ## 0x03-Golang框架
 
@@ -1289,6 +1297,8 @@
 - [ ] https://github.com/microsoft/ethr
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/nicolasdilley/Gomela
+- [ ] https://github.com/edoardottt/pwdsafety
+- [ ] https://github.com/mBouamama/MyJWT
 
 ## 0x05-Golang逆向
 
