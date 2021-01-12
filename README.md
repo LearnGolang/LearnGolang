@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月11日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月12日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -407,6 +407,8 @@
 - [ ] https://github.com/zhangyunhao116/skipset
 - [ ] https://github.com/Ripolak/minict
 - [ ] https://github.com/juicedata/juicefs
+- [ ] https://github.com/lu4p/chat-hotwire-go
+- [ ] https://github.com/photoprism/photoprism
 
 ## 0x03-Golang框架
 
@@ -685,6 +687,11 @@
 - [ ] https://github.com/genuinetools/img
 - [ ] https://github.com/pquerna/otp
 - [ ] https://github.com/go-kit/kit
+- [ ] https://github.com/go-echarts/go-echarts
+- [ ] https://github.com/kubernetes/klog
+- [ ] https://github.com/sirupsen/logrus
+- [ ] https://github.com/xlab/treeprint
+- [ ] https://github.com/influxdata/influxdb-client-go
 
 ## 0x04-Golang安全
 
@@ -921,6 +928,7 @@
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/Pingze-github/portScanner
 - [ ] https://github.com/aeverj/pscan
+- [ ] https://github.com/RickGray/vscan-go
 
 四、路径扫描
 
@@ -1311,6 +1319,7 @@
 - [ ] https://github.com/mBouamama/MyJWT
 - [ ] https://github.com/cdk-team/CDK
 - [ ] https://github.com/quay/clair
+- [ ] https://github.com/hahwul/MemBi
 
 ## 0x05-Golang逆向
 
@@ -1330,7 +1339,6 @@
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
-- [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://www.4hou.com/posts/8OJ2
 - [ ] https://bbs.pediy.com/thread-263921.htm
 - [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
