@@ -409,6 +409,10 @@
 - [ ] https://github.com/juicedata/juicefs
 - [ ] https://github.com/lu4p/chat-hotwire-go
 - [ ] https://github.com/photoprism/photoprism
+- [ ] https://github.com/github/hub
+- [ ] https://github.com/nuclio/nuclio
+- [ ] https://github.com/owncast/owncast
+- [ ] https://github.com/polaris1119/embed
 
 ## 0x03-Golang框架
 
@@ -692,6 +696,7 @@
 - [ ] https://github.com/xlab/treeprint
 - [ ] https://github.com/influxdata/influxdb-client-go
 - [ ] https://github.com/zmap/zcrypto
+- [ ] https://github.com/rmb122/rogue_mysql_server
 
 ## 0x04-Golang安全
 
@@ -1323,6 +1328,7 @@
 - [ ] https://github.com/zmap/zdns
 - [ ] https://github.com/zmap/zlint
 - [ ] https://github.com/zmap/zannotate
+- [ ] https://github.com/hexops/autogold
 
 ## 0x05-Golang逆向
 
