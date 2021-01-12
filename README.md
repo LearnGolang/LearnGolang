@@ -413,6 +413,7 @@
 - [ ] https://github.com/nuclio/nuclio
 - [ ] https://github.com/owncast/owncast
 - [ ] https://github.com/polaris1119/embed
+- [ ] https://github.com/huichen/sego
 
 ## 0x03-Golang框架
 
@@ -698,6 +699,10 @@
 - [ ] https://github.com/zmap/zcrypto
 - [ ] https://github.com/rmb122/rogue_mysql_server
 - [ ] https://github.com/go-ffmt/ffmt
+- [ ] https://github.com/jasonlvhit/gocron
+- [ ] https://github.com/mitchellh/mapstructure
+- [ ] https://github.com/onsi/gomega
+- [ ] https://github.com/onsi/ginkgo
 
 ## 0x04-Golang安全
 
