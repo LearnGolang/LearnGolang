@@ -697,6 +697,7 @@
 - [ ] https://github.com/influxdata/influxdb-client-go
 - [ ] https://github.com/zmap/zcrypto
 - [ ] https://github.com/rmb122/rogue_mysql_server
+- [ ] https://github.com/go-ffmt/ffmt
 
 ## 0x04-Golang安全
 
