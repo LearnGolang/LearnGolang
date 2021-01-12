@@ -692,6 +692,7 @@
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/xlab/treeprint
 - [ ] https://github.com/influxdata/influxdb-client-go
+- [ ] https://github.com/zmap/zcrypto
 
 ## 0x04-Golang安全
 
@@ -1320,6 +1321,9 @@
 - [ ] https://github.com/cdk-team/CDK
 - [ ] https://github.com/quay/clair
 - [ ] https://github.com/hahwul/MemBi
+- [ ] https://github.com/zmap/zdns
+- [ ] https://github.com/zmap/zlint
+- [ ] https://github.com/zmap/zannotate
 
 ## 0x05-Golang逆向
 
