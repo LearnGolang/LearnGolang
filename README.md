@@ -1329,6 +1329,8 @@
 - [ ] https://github.com/zmap/zlint
 - [ ] https://github.com/zmap/zannotate
 - [ ] https://github.com/hexops/autogold
+- [ ] https://github.com/juju/ratelimit
+- [ ] https://github.com/juicedata/juicesync
 
 ## 0x05-Golang逆向
 
