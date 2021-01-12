@@ -687,7 +687,6 @@
 - [ ] https://github.com/genuinetools/img
 - [ ] https://github.com/pquerna/otp
 - [ ] https://github.com/go-kit/kit
-- [ ] https://github.com/go-echarts/go-echarts
 - [ ] https://github.com/kubernetes/klog
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/xlab/treeprint
