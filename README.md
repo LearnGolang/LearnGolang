@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月12日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月13日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -414,6 +414,8 @@
 - [ ] https://github.com/owncast/owncast
 - [ ] https://github.com/polaris1119/embed
 - [ ] https://github.com/huichen/sego
+- [ ] https://github.com/Tenderly/tenderly-cli
+- [ ] https://github.com/genuinetools/img
 
 ## 0x03-Golang框架
 
@@ -789,6 +791,8 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/mhmdiaa/second-order
+- [ ] https://github.com/anshumanbh/tko-subs
 - [ ] https://github.com/tomnomnom/waybackurls
 - [ ] https://github.com/ReddyyZ/urlbrute
 - [ ] https://github.com/happal/taifun
@@ -1324,7 +1328,6 @@
 - [ ] https://github.com/projectdiscovery/mapcidr
 - [ ] https://github.com/NetSPI/goddi
 - [ ] https://github.com/microsoft/ethr
-- [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/nicolasdilley/Gomela
 - [ ] https://github.com/edoardottt/pwdsafety
 - [ ] https://github.com/mBouamama/MyJWT
@@ -1337,6 +1340,7 @@
 - [ ] https://github.com/hexops/autogold
 - [ ] https://github.com/juju/ratelimit
 - [ ] https://github.com/juicedata/juicesync
+- [ ] https://github.com/allegro/bigcache
 
 ## 0x05-Golang逆向
 
