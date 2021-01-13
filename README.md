@@ -418,6 +418,11 @@
 - [ ] https://github.com/genuinetools/img
 - [ ] https://github.com/TheHackerDev/race-the-web
 - [ ] https://github.com/wuqinqiang/go-remind | 微信公众号提醒 | 1
+- [ ] https://github.com/alicfeng/mysql_markdown
+- [ ] https://github.com/brendonmatos/golive
+- [ ] https://github.com/gonum/plot
+- [ ] https://github.com/ethereum/go-ethereum
+- [ ] https://github.com/geohot/minikeyvalue
 
 ## 0x03-Golang框架
 
@@ -707,6 +712,7 @@
 - [ ] https://github.com/mitchellh/mapstructure
 - [ ] https://github.com/onsi/gomega
 - [ ] https://github.com/onsi/ginkgo
+- [ ] https://github.com/apuigsech/seekret
 
 ## 0x04-Golang安全
 
