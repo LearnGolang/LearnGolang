@@ -416,6 +416,8 @@
 - [ ] https://github.com/huichen/sego
 - [ ] https://github.com/Tenderly/tenderly-cli
 - [ ] https://github.com/genuinetools/img
+- [ ] https://github.com/TheHackerDev/race-the-web
+- [ ] https://github.com/wuqinqiang/go-remind | 微信公众号提醒 | 1
 
 ## 0x03-Golang框架
 
@@ -1341,6 +1343,8 @@
 - [ ] https://github.com/juju/ratelimit
 - [ ] https://github.com/juicedata/juicesync
 - [ ] https://github.com/allegro/bigcache
+- [ ] https://github.com/hahwul/MobileHackersWeapons
+- [ ] https://github.com/N0MoreSecr3ts/wraith
 
 ## 0x05-Golang逆向
 
