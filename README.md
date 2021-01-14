@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月13日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月14日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -423,6 +423,12 @@
 - [ ] https://github.com/gonum/plot
 - [ ] https://github.com/ethereum/go-ethereum
 - [ ] https://github.com/geohot/minikeyvalue
+- [ ] https://github.com/gocelery/gocelery
+- [ ] https://github.com/graphql-go/graphql
+- [ ] https://github.com/prometheus/node_exporter
+- [ ] https://github.com/golang/mobile
+- [ ] https://github.com/Xhofe/alist
+- [ ] https://github.com/golang/mock
 
 ## 0x03-Golang框架
 
@@ -713,6 +719,9 @@
 - [ ] https://github.com/onsi/gomega
 - [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/apuigsech/seekret
+- [ ] https://github.com/tidwall/redcon
+- [ ] https://github.com/gookit/color
+- [ ] https://github.com/avast/retry-go
 
 ## 0x04-Golang安全
 
@@ -989,6 +998,7 @@
 - [ ] https://github.com/yghonem14/cngo
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/Static-Flow/gofingerprint
+- [ ] https://github.com/rabbitmask/MacOui
 
 五、Web安全
 
@@ -1149,7 +1159,6 @@
 - [ ] https://github.com/stripe/smokescreen
 -  [ ] https://github.com/BitTheByte/Eagle
 -  [ ] https://github.com/FunnyWolf/TFirewall
--  [ ] https://github.com/sysdream/ligolo
 -  [ ] https://github.com/rhaidiz/broxy
 -  [ ] https://github.com/p4gefau1t/trojan-go
 -  [ ] https://github.com/AdguardTeam/dnsproxy
@@ -1351,6 +1360,8 @@
 - [ ] https://github.com/allegro/bigcache
 - [ ] https://github.com/hahwul/MobileHackersWeapons
 - [ ] https://github.com/N0MoreSecr3ts/wraith
+- [ ] https://github.com/jhchabran/gistfs
+- [ ] https://github.com/panther-labs/panther
 
 ## 0x05-Golang逆向
 
