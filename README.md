@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月14日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月15日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -158,7 +158,6 @@
 
 六、英文书籍
 
-- [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
@@ -432,6 +431,15 @@
 - [ ] https://github.com/goby-lang/goby | 用Go语言编写的另一种编程语言 | 3.2k
 - [ ] https://github.com/fission/fission
 - [ ] https://github.com/kubeless/kubeless
+- [ ] https://github.com/jesseduffield/lazygit
+- [ ] https://github.com/evanw/esbuild
+- [ ] https://github.com/ovh/cds
+- [ ] https://github.com/mosuka/blast
+- [ ] https://github.com/senghoo/schgo
+- [ ] https://github.com/tebeka/selenium
+- [ ] https://github.com/burrowers/garble
+- [ ] https://github.com/spf13/afero
+- [ ] https://github.com/philippgille/gokv
 
 ## 0x03-Golang框架
 
@@ -964,6 +972,7 @@
 - [ ] https://github.com/Pingze-github/portScanner
 - [ ] https://github.com/aeverj/pscan
 - [ ] https://github.com/RickGray/vscan-go
+- [ ] https://github.com/loong716/PortScan
 
 四、路径扫描
 
@@ -1218,6 +1227,7 @@
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 - [ ] https://github.com/EgeBalci/amber
 - [ ] https://github.com/D00MFist/Go4aRun
+- [ ] https://github.com/Hangingsword/HouQing
 - [ ] https://github.com/insightglacier/go_meterpreter
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
