@@ -440,6 +440,9 @@
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/spf13/afero
 - [ ] https://github.com/philippgille/gokv
+- [ ] https://github.com/jitsucom/eventnative
+- [ ] https://github.com/ashleymcnamara/gophers
+- [ ] https://github.com/go-shiori/go-readability
 
 ## 0x03-Golang框架
 
@@ -733,6 +736,8 @@
 - [ ] https://github.com/tidwall/redcon
 - [ ] https://github.com/gookit/color
 - [ ] https://github.com/avast/retry-go
+- [ ] https://github.com/go-kratos/kratos
+- [ ] https://github.com/markusmobius/go-domdistiller
 
 ## 0x04-Golang安全
 
@@ -1011,6 +1016,7 @@
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/Static-Flow/gofingerprint
 - [ ] https://github.com/rabbitmask/MacOui
+- [ ] https://github.com/0xsapra/fuzzparam
 
 五、Web安全
 
