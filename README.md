@@ -443,6 +443,9 @@
 - [ ] https://github.com/jitsucom/eventnative
 - [ ] https://github.com/ashleymcnamara/gophers
 - [ ] https://github.com/go-shiori/go-readability
+- [ ] https://github.com/linkerd/linkerd2
+- [ ] https://github.com/rollbar/rollbar-go
+- [ ] https://github.com/rancher/fleet
 
 ## 0x03-Golang框架
 
@@ -738,6 +741,7 @@
 - [ ] https://github.com/avast/retry-go
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/markusmobius/go-domdistiller
+- [ ] https://github.com/gobuffalo/logger
 
 ## 0x04-Golang安全
 
@@ -1400,6 +1404,7 @@
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
+- [ ] https://github.com/goretk/redress
 - [ ] https://www.4hou.com/posts/8OJ2
 - [ ] https://bbs.pediy.com/thread-263921.htm
 - [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
@@ -1414,6 +1419,7 @@
 
 四、Go加密发布
 
+- [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/unixpickle/gobfuscate
 
 ## 0x06-Golang老师
