@@ -446,6 +446,8 @@
 - [ ] https://github.com/linkerd/linkerd2
 - [ ] https://github.com/rollbar/rollbar-go
 - [ ] https://github.com/rancher/fleet
+- [ ] https://github.com/vardius/message-bus
+- [ ] https://github.com/phachon/mm-wiki
 
 ## 0x03-Golang框架
 
@@ -742,6 +744,8 @@
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/markusmobius/go-domdistiller
 - [ ] https://github.com/gobuffalo/logger
+- [ ] https://github.com/kbinani/screenshot
+- [ ] https://github.com/unidoc/unipdf
 
 ## 0x04-Golang安全
 
@@ -1385,6 +1389,8 @@
 - [ ] https://github.com/N0MoreSecr3ts/wraith
 - [ ] https://github.com/jhchabran/gistfs
 - [ ] https://github.com/panther-labs/panther
+- [ ] https://github.com/maxlandon/wiregost
+- [ ] https://github.com/honeytrap/honeytrap
 
 ## 0x05-Golang逆向
 
