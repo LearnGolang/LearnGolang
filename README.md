@@ -448,6 +448,7 @@
 - [ ] https://github.com/rancher/fleet
 - [ ] https://github.com/vardius/message-bus
 - [ ] https://github.com/phachon/mm-wiki
+- [ ] https://github.com/karminski/pineapple
 
 ## 0x03-Golang框架
 
