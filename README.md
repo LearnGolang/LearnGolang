@@ -449,6 +449,8 @@
 - [ ] https://github.com/vardius/message-bus
 - [ ] https://github.com/phachon/mm-wiki
 - [ ] https://github.com/karminski/pineapple
+- [ ] https://github.com/osdevisnot/sorvor
+- [ ] https://github.com/usnistgov/ndn-dpdk
 
 ## 0x03-Golang框架
 
