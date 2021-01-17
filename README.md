@@ -463,6 +463,8 @@
 - [ ] https://github.com/gomodules/notify
 - [ ] https://github.com/caarlos0/env
 - [ ] https://github.com/brianvoe/gofakeit
+- [ ] https://github.com/buger/goreplay
+- [ ] https://github.com/pingcap/tidb
 
 ## 0x03-Golang框架
 
@@ -1445,6 +1447,7 @@
 
 四、Go加密发布
 
+- [ ] https://github.com/halfrost
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/unixpickle/gobfuscate
 
