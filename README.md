@@ -181,10 +181,10 @@
 - [ ] [《Go by Example》](https://github.com/mmcgrana/gobyexample)
 - [ ] [《Programming in Go》]()
 - [ ] [《Hands On Go Programming》](https://github.com/PacktPublishing/Hands-On-Go-Programming)
+- [ ] [《Head First Go》]()
 - [ ] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [ ] [《Learning Go Programming》]()
-- [ ] [《Mastering Go》]()
-- [x] [《Mastering Go Second Edition》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
+- [x] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《Network Programming With Go》]()
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
