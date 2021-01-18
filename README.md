@@ -244,7 +244,7 @@
 - [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] https://github.com/kevwan/why-golang
-- [ ] [《Mastering_Go_Second_Edition_Zh_CN》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
+- [ ] https://github.com/bjmayor/GoPlayWithCompiler
 - [ ] https://github.com/eastmountyxz/Go-learning
 - [ ] https://github.com/zboya/golang_runtime_reading
 
@@ -468,6 +468,7 @@
 - [ ] https://github.com/moloch--/denim
 - [ ] https://github.com/chrislusf/seaweedfs
 - [ ] https://github.com/opencontainers/runc
+- [ ] https://github.com/hashicorp/memberlist
 
 ## 0x03-Golang框架
 
