@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月17日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月18日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -465,6 +465,9 @@
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/pingcap/tidb
+- [ ] https://github.com/moloch--/denim
+- [ ] https://github.com/chrislusf/seaweedfs
+- [ ] https://github.com/opencontainers/runc
 
 ## 0x03-Golang框架
 
@@ -1334,7 +1337,6 @@
 - [ ] https://github.com/asalih/guardian
 - [ ] https://github.com/jptosso/coraza-waf
 - [ ] https://github.com/rinetd/ssh
-- [ ] https://github.com/schollz/croc
 - [ ] https://github.com/dghubble/go-twitter
 - [ ] https://github.com/shazow/ssh-chat
 - [ ] https://github.com/IAmStoxe/urlgrab
