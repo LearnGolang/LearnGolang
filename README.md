@@ -39,6 +39,7 @@
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 - [ ] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
+- [ ] [《Go语言编码规范》](https://github.com/shockerli/go-code-guide)
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx译
@@ -469,7 +470,9 @@
 - [ ] https://github.com/chrislusf/seaweedfs
 - [ ] https://github.com/opencontainers/runc
 - [ ] https://github.com/hashicorp/memberlist
-- [ ] https://github.com/maskedeken/gost-plugin
+- [ ] https://github.com/robpike/ivy
+- [ ] https://github.com/shanghai-edu/multissh
+- [ ] https://github.com/linkedin/Burrow
 
 ## 0x03-Golang框架
 
@@ -1245,6 +1248,7 @@
 - [ ] https://github.com/ice-ice/dnstunnel
 - [ ] https://github.com/TeaWeb/build
 - [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/maskedeken/gost-plugin
 
 八、病毒免杀
 
