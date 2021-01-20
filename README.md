@@ -475,6 +475,10 @@
 - [ ] https://github.com/shanghai-edu/multissh
 - [ ] https://github.com/linkedin/Burrow
 - [ ] https://github.com/spf13/viper
+- [ ] https://github.com/shengdoushi/base58
+- [ ] https://github.com/mmcloughlin/geohash
+- [ ] https://github.com/abadojack/whatlanggo
+- [ ] https://github.com/writeas/writefreely
 
 ## 0x03-Golang框架
 
@@ -781,6 +785,9 @@
 - [ ] https://github.com/go-delve/delve
 - [ ] https://github.com/wuhan005/jkit
 - [ ] https://github.com/rclone/rclone
+- [ ] https://github.com/diamondburned/handy
+- [ ] https://github.com/jinzhu/copier
+- [ ] https://github.com/tomnomnom/httprobe
 
 ## 0x04-Golang安全
 
@@ -1428,6 +1435,8 @@
 - [ ] https://github.com/maxlandon/wiregost
 - [ ] https://github.com/honeytrap/honeytrap
 - [ ] https://github.com/fabpot/local-php-security-checker
+- [ ] https://github.com/pkg/browser
+- [ ] https://github.com/XTLS/Xray-core
 
 ## 0x05-Golang逆向
 
