@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月19日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月20日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -242,6 +242,7 @@
 - [ ] https://github.com/unixpickle/num-analysis
 - [ ] https://github.com/study-core/go1.14.6-analysis
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
+- [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
 - [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] https://github.com/kevwan/why-golang
@@ -473,6 +474,7 @@
 - [ ] https://github.com/robpike/ivy
 - [ ] https://github.com/shanghai-edu/multissh
 - [ ] https://github.com/linkedin/Burrow
+- [ ] https://github.com/spf13/viper
 
 ## 0x03-Golang框架
 
@@ -777,6 +779,8 @@
 - [ ] https://github.com/jtguibas/cinema
 - [ ] https://github.com/aarzilli/nucular
 - [ ] https://github.com/go-delve/delve
+- [ ] https://github.com/wuhan005/jkit
+- [ ] https://github.com/rclone/rclone
 
 ## 0x04-Golang安全
 
@@ -1423,6 +1427,7 @@
 - [ ] https://github.com/panther-labs/panther
 - [ ] https://github.com/maxlandon/wiregost
 - [ ] https://github.com/honeytrap/honeytrap
+- [ ] https://github.com/fabpot/local-php-security-checker
 
 ## 0x05-Golang逆向
 
