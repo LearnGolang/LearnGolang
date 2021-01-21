@@ -483,6 +483,7 @@
 - [ ] https://github.com/writeas/writefreely
 - [ ] https://github.com/mickael-kerjean/filestash
 - [ ] https://github.com/cloudreve/Cloudreve
+- [ ] https://github.com/rsumner31/yanff
 
 ## 0x03-Golang框架
 
@@ -792,6 +793,7 @@
 - [ ] https://github.com/jinzhu/copier
 - [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/radondb/radon
+- [ ] https://github.com/capnspacehook/taskmaster
 
 ## 0x04-Golang安全
 
@@ -1032,6 +1034,7 @@
 - [ ] https://github.com/aeverj/pscan
 - [ ] https://github.com/RickGray/vscan-go
 - [ ] https://github.com/loong716/PortScan
+- [ ] https://github.com/jboursiquot/portscan
 
 四、路径扫描
 
