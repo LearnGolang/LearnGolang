@@ -70,6 +70,7 @@
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)@Maxsu
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
+- [ ] [《Golang标准库中文版》](https://github.com/jemygraw/GoStandardLibrary-Chinese)
 - [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@aceld
@@ -481,6 +482,7 @@
 - [ ] https://github.com/abadojack/whatlanggo
 - [ ] https://github.com/writeas/writefreely
 - [ ] https://github.com/mickael-kerjean/filestash
+- [ ] https://github.com/cloudreve/Cloudreve
 
 ## 0x03-Golang框架
 
