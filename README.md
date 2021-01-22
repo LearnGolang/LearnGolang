@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月21日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月22日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -373,7 +373,6 @@
 - [ ] https://github.com/google/go-licenses
 - [ ] https://github.com/mvdan/corpus
 - [ ] https://github.com/icattlecoder/godaemon
-- [ ] https://github.com/naiba/nezha
 - [ ] https://github.com/naiba/nocd
 - [ ] https://github.com/mailru/easyjson
 - [ ] https://github.com/DimitarPetrov/stegify
@@ -484,6 +483,8 @@
 - [ ] https://github.com/mickael-kerjean/filestash
 - [ ] https://github.com/cloudreve/Cloudreve
 - [ ] https://github.com/rsumner31/yanff
+- [ ] https://github.com/pulumi/pulumi
+- [ ] https://github.com/HDT3213/godis
 
 ## 0x03-Golang框架
 
@@ -794,6 +795,10 @@
 - [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/radondb/radon
 - [ ] https://github.com/capnspacehook/taskmaster
+- [ ] https://github.com/vardius/gollback
+- [ ] https://github.com/go-pkgz/syncs
+- [ ] https://github.com/go-rod/rod
+- [ ] https://github.com/tidwall/pjson
 
 ## 0x04-Golang安全
 
@@ -842,7 +847,7 @@
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
 - [ ] https://github.com/ody5sey/Noah | 网页标题获取工具 | 0
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
-- [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 77
+- [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 138
 - [ ] https://github.com/incogbyte/shosubgo | 通过shodan接口搜索子域 | 80
 - [ ] https://github.com/amar-myana/certdomainfinder | 通过certspotter搜索子域 | 9
 - [ ] https://github.com/pwn1sher/CertShooter | 通过CertSpotter 搜索子域 | 1
