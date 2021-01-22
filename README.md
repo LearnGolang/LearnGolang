@@ -251,6 +251,7 @@
 - [ ] https://github.com/bjmayor/GoPlayWithCompiler
 - [ ] https://github.com/eastmountyxz/Go-learning
 - [ ] https://github.com/zboya/golang_runtime_reading
+- [ ] https://github.com/lukexwang/GoConcurrencyPatterns
 
 ## 0x02-Golang项目
 
@@ -802,6 +803,7 @@
 - [ ] https://github.com/go-pkgz/syncs
 - [ ] https://github.com/go-rod/rod
 - [ ] https://github.com/tidwall/pjson
+- [ ] https://github.com/benbjohnson/litestream
 
 ## 0x04-Golang安全
 
@@ -1452,6 +1454,7 @@
 - [ ] https://github.com/fabpot/local-php-security-checker
 - [ ] https://github.com/pkg/browser
 - [ ] https://github.com/XTLS/Xray-core
+- [ ] https://github.com/projectdiscovery/proxify
 
 ## 0x05-Golang逆向
 
