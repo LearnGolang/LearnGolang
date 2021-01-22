@@ -485,6 +485,9 @@
 - [ ] https://github.com/rsumner31/yanff
 - [ ] https://github.com/pulumi/pulumi
 - [ ] https://github.com/HDT3213/godis
+- [ ] https://github.com/tidwall/evio
+- [ ] https://github.com/infracost/infracost
+- [ ] https://github.com/owncloud/ocis
 
 ## 0x03-Golang框架
 
