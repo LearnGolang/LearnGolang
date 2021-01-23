@@ -903,6 +903,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/drsigned/sigsubs
 - [ ] https://github.com/mhmdiaa/second-order
 - [ ] https://github.com/anshumanbh/tko-subs
 - [ ] https://github.com/tomnomnom/waybackurls
@@ -1119,6 +1120,8 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/drsigned/sigurlx
+- [ ] https://github.com/drsigned/sigurls
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/dowdyph0/transgo
@@ -1126,6 +1129,7 @@
 - [ ] https://github.com/jweny/gosqlmap
 - [ ] https://github.com/rverton/xssmap
 - [ ] https://github.com/raz-varren/xsshell
+- [ ] https://github.com/blackbinn/wprecon
 
 六、漏洞扫描
 
@@ -1471,6 +1475,11 @@
 - [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/ArmyCyberInstitute/cmgr
 - [ ] https://github.com/securego/gosec
+- [ ] https://github.com/drsigned/substko
+- [ ] https://github.com/drsigned/bypass403
+- [ ] https://github.com/drsigned/corsmisc
+- [ ] https://github.com/drsigned/sigdork
+- [ ] https://github.com/drsigned/lazyhunter
 
 ## 0x05-Golang逆向
 
@@ -1540,3 +1549,4 @@
 - https://github.com/evilsocket
 - https://github.com/Binject
 - https://github.com/gobuffalo
+- https://github.com/drsigned
