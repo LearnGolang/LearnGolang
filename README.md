@@ -493,10 +493,13 @@
 - [ ] https://github.com/rancher/rancher
 - [ ] https://github.com/hnrss/hnrss
 - [ ] https://github.com/traefik/yaegi
+- [ ] https://github.com/ycd/toc
+- [ ] https://github.com/fyne-io/fyne
+- [ ] https://github.com/minio/kes
 - [ ] https://github.com/goreleaser/nfpm
 - [ ] https://github.com/TwinProduction/gatus
-- [ ] https://github.com/ycd/toc
 - [ ] https://github.com/binwiederhier/pcopy
+- [ ] https://github.com/function61/varasto
 
 ## 0x03-Golang框架
 
