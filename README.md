@@ -490,6 +490,13 @@
 - [ ] https://github.com/infracost/infracost
 - [ ] https://github.com/owncloud/ocis
 - [ ] https://github.com/panther-labs/panther
+- [ ] https://github.com/rancher/rancher
+- [ ] https://github.com/hnrss/hnrss
+- [ ] https://github.com/traefik/yaegi
+- [ ] https://github.com/goreleaser/nfpm
+- [ ] https://github.com/TwinProduction/gatus
+- [ ] https://github.com/ycd/toc
+- [ ] https://github.com/binwiederhier/pcopy
 
 ## 0x03-Golang框架
 
@@ -615,6 +622,7 @@
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/imroc/log
 - [ ] https://github.com/gookit/slog
+- [ ] https://github.com/bp0lr/go-logger
 
 十、错误处理
 
@@ -805,6 +813,7 @@
 - [ ] https://github.com/go-rod/rod
 - [ ] https://github.com/tidwall/pjson
 - [ ] https://github.com/benbjohnson/litestream
+- [ ] https://github.com/nlpodyssey/spago
 
 ## 0x04-Golang安全
 
@@ -1279,6 +1288,7 @@
 - [ ] https://github.com/TeaWeb/build
 - [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/maskedeken/gost-plugin
+- [ ] https://github.com/haxii/fastproxy
 
 八、病毒免杀
 
@@ -1456,6 +1466,8 @@
 - [ ] https://github.com/pkg/browser
 - [ ] https://github.com/XTLS/Xray-core
 - [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/ArmyCyberInstitute/cmgr
+- [ ] https://github.com/securego/gosec
 
 ## 0x05-Golang逆向
 
@@ -1491,7 +1503,11 @@
 四、Go加密发布
 
 - [ ] https://github.com/halfrost
+
 - [ ] https://github.com/burrowers/garble
+
+  https://github.com/flew-software/filecrypt
+
 - [ ] https://github.com/unixpickle/gobfuscate
 
 ## 0x06-Golang老师
