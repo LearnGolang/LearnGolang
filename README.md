@@ -1100,6 +1100,8 @@
 - [ ] https://github.com/Static-Flow/gofingerprint
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/0xsapra/fuzzparam
+- [ ] https://github.com/thunderbarca/Caesar
+-  [ ] https://github.com/zhanglei/Caesar
 
 五、Web安全
 
@@ -1196,7 +1198,6 @@
 - [ ] https://github.com/ShiHuang-ESec/EHole
 - [ ] https://github.com/TeraSecTeam/ary
 - [ ] https://github.com/CTF-MissFeng/GoScan
--  [ ] https://github.com/thunderbarca/Caesar
 - [ ] https://github.com/thunderbarca/Noah
 - [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/wgpsec/AstaGo
