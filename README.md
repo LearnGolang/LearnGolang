@@ -502,6 +502,7 @@
 - [ ] https://github.com/function61/varasto
 - [ ] https://github.com/bjdgyc/anylink
 - [ ] https://github.com/asciimoo/wuzz
+- [ ] https://github.com/goharbor/harbor
 
 ## 0x03-Golang框架
 
@@ -1300,6 +1301,7 @@
 - [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/maskedeken/gost-plugin
 - [ ] https://github.com/haxii/fastproxy
+- [ ] https://github.com/chroblert/JCRandomProxy
 
 八、病毒免杀
 
