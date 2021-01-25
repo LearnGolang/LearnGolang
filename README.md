@@ -1271,7 +1271,7 @@
 -  [ ] https://github.com/AdguardTeam/dnsproxy
 - [ ] https://github.com/inconshreveable/ngrok
 - [ ] https://github.com/rabbitmask/Netstat
-- [ ] https://github.com/WangYihang/Platypus
+- [x] https://github.com/WangYihang/Platypus
 - [ ] https://github.com/wrfly/gus-proxy
 - [ ] https://github.com/danielan/lonely-shell
 -  [ ] https://github.com/crabkun/switcher
@@ -1485,6 +1485,7 @@
 - [ ] https://github.com/drsigned/sigdork
 - [ ] https://github.com/drsigned/lazyhunter
 - [ ] https://github.com/moonD4rk/HackBrowserData
+- [ ] https://github.com/sundowndev/PhoneInfoga
 
 ## 0x05-Golang逆向
 
