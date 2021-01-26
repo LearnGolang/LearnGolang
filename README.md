@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年1月25日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年1月26日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -1164,7 +1164,7 @@
 - [ ] https://github.com/hahwul/mzap |  多目标ZAP扫描 | 42
 - [ ] https://github.com/0x09AL/go-deliver | Go编写的有效载荷交付工具 | 102
 - [ ] https://github.com/CosasDePuma/Elliot | 一个在夜间自动执行OSINT流程的框架 | 19
-- [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 114
+- [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 200
 - [ ] https://github.com/liamg/gitjacker | git仓库泄漏利用工具 | 1.1k
 - [ ] https://github.com/leobeosab/sharingan | 进攻性安全侦察工具 | 71
 - [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 4.2k
@@ -1337,6 +1337,7 @@
 - [ ] https://github.com/tfsec/tfsec
 - [ ] https://github.com/ynqa/diffy
 - [ ] https://github.com/sergi/go-diff
+- [ ] https://github.com/ZupIT/horusec
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/William-Yeh/fswatch
 - [ ] https://github.com/americanexpress/earlybird
