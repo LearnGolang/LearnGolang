@@ -505,7 +505,9 @@
 - [ ] https://github.com/goharbor/harbor
 - [ ] https://github.com/ViRb3/wgcf
 - [ ] https://github.com/pa-m/sklearn
+- [ ] https://github.com/electricbubble/gwda
 - [ ] https://github.com/envoyproxy/protoc-gen-validate
+- [ ] https://github.com/Allenxuxu/gev
 
 ## 0x03-Golang框架
 
@@ -631,6 +633,7 @@
 - [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/imroc/log
 - [ ] https://github.com/gookit/slog
+- [ ] https://github.com/foomo/logfrog
 - [ ] https://github.com/bp0lr/go-logger
 
 十、错误处理
@@ -785,7 +788,6 @@
 - [ ] https://github.com/pquerna/otp
 - [ ] https://github.com/go-kit/kit
 - [ ] https://github.com/kubernetes/klog
-- [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/xlab/treeprint
 - [ ] https://github.com/influxdata/influxdb-client-go
 - [ ] https://github.com/zmap/zcrypto
@@ -866,7 +868,7 @@
 - [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 21
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 67
 - [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
@@ -1493,6 +1495,8 @@
 - [ ] https://github.com/moonD4rk/HackBrowserData
 - [ ] https://github.com/sundowndev/PhoneInfoga
 - [ ] https://github.com/mdempsky/deferfuzz
+- [ ] https://github.com/MiSecurity/x-patrol
+- [ ] https://github.com/ethicalhackingplayground/Zin
 
 ## 0x05-Golang逆向
 
