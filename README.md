@@ -513,6 +513,8 @@
 - [ ] https://github.com/projectdiscovery/mapcidr
 - [ ] https://github.com/hashicorp/consul
 - [ ] https://github.com/muesli/duf
+- [ ] https://github.com/ccssmnn/hego
+- [ ] https://github.com/itchyny/bed
 
 ## 0x03-Golang框架
 
@@ -602,7 +604,6 @@
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gogf/gf
-- [ ] https://github.com/gorilla/mux
 - [ ] https://github.com/gofiber/fiber
 
 六、爬虫框架
@@ -1504,6 +1505,7 @@
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/C-Sto/BananaPhone
+- [ ] https://github.com/ryandamour/crlfmap
 - [ ] https://github.com/ethicalhackingplayground/Zin
 
 ## 0x05-Golang逆向
