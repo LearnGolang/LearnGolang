@@ -831,6 +831,8 @@
 - [ ] https://github.com/benbjohnson/litestream
 - [ ] https://github.com/nlpodyssey/spago
 - [ ] https://github.com/go-bindata/go-bindata
+- [ ] https://github.com/link1st/go-stress-testing
+- [ ] https://github.com/gavv/httpexpect
 
 ## 0x04-Golang安全
 
@@ -1505,6 +1507,7 @@
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/ryandamour/crlfmap
+- [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/ethicalhackingplayground/Zin
 
 ## 0x05-Golang逆向
