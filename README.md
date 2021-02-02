@@ -520,6 +520,7 @@
 - [ ] https://github.com/sourcegraph/codenotify
 - [ ] https://github.com/master-of-servers/mose
 - [ ] https://github.com/AsynkronIT/protoactor-go
+- [ ] https://github.com/achannarasappa/ticker
 
 ## 0x03-Golang框架
 
@@ -838,6 +839,7 @@
 - [ ] https://github.com/go-bindata/go-bindata
 - [ ] https://github.com/link1st/go-stress-testing
 - [ ] https://github.com/gavv/httpexpect
+- [ ] https://github.com/vyrus001/msflib
 - [ ] https://github.com/prometheus/prometheus
 
 ## 0x04-Golang安全
