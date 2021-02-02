@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月1日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月2日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -515,6 +515,9 @@
 - [ ] https://github.com/ccssmnn/hego
 - [ ] https://github.com/itchyny/bed
 - [ ] https://github.com/evilsocket/ditto
+- [ ] https://github.com/jszwec/s3fs
+- [ ] https://github.com/moorara/konfig
+- [ ] https://github.com/sourcegraph/codenotify
 - [ ] https://github.com/master-of-servers/mose
 - [ ] https://github.com/AsynkronIT/protoactor-go
 
@@ -835,6 +838,7 @@
 - [ ] https://github.com/go-bindata/go-bindata
 - [ ] https://github.com/link1st/go-stress-testing
 - [ ] https://github.com/gavv/httpexpect
+- [ ] https://github.com/prometheus/prometheus
 
 ## 0x04-Golang安全
 
@@ -1319,6 +1323,7 @@
 
 八、病毒免杀
 
+- [ ] https://github.com/xct/morbol
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/jax777/shellcode-launch
