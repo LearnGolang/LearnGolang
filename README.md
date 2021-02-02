@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月2日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月3日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -522,6 +522,7 @@
 - [ ] https://github.com/AsynkronIT/protoactor-go
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/gwen001/github-regexp
+- [ ] https://github.com/cloudskiff/driftctl
 
 ## 0x03-Golang框架
 
@@ -1081,6 +1082,7 @@
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/Pingze-github/portScanner
 - [ ] https://github.com/aeverj/pscan
+- [ ] https://launchpad.net/gommap
 - [ ] https://github.com/RickGray/vscan-go
 - [ ] https://github.com/loong716/PortScan
 - [ ] https://github.com/jboursiquot/portscan
