@@ -598,6 +598,7 @@
 - [ ] https://github.com/astaxie/beego
 - [ ] https://github.com/gohugoio/hugo
 - [ ] https://github.com/gin-gonic/gin
+- [ ] https://github.com/gofiber/fiber
 - [ ] https://github.com/staaldraad/xxeserv
 - [ ] https://github.com/caddyserver/caddy
 - [ ] https://github.com/kataras/iris
@@ -610,7 +611,6 @@
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/gogf/gf
-- [ ] https://github.com/gofiber/fiber
 
 六、爬虫框架
 
