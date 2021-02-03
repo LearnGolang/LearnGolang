@@ -525,6 +525,10 @@
 - [ ] https://github.com/cloudskiff/driftctl
 - [ ] https://github.com/evilsocket/arc
 - [ ] https://github.com/evilsocket/ditto
+- [ ] https://github.com/antlr/antlr4
+- [ ] https://github.com/json-iterator/go
+- [ ] https://github.com/akyoto/asm
+- [ ] https://github.com/labulaka521/yuque_sync
 
 ## 0x03-Golang框架
 
@@ -845,6 +849,8 @@
 - [ ] https://github.com/gavv/httpexpect
 - [ ] https://github.com/vyrus001/msflib
 - [ ] https://github.com/prometheus/prometheus
+- [ ] https://github.com/go-yaml/yaml/tree/v3
+- [ ] https://github.com/labulaka521/crocodile
 
 ## 0x04-Golang安全
 
