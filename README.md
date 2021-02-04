@@ -283,7 +283,11 @@
 - [ ] https://github.com/fyne-io/examples
 - [ ] https://github.com/fyne-io/pixeledit
 
-五、优秀项目
+五、量化投资
+
+- [ ] https://github.com/achannarasappa/ticker
+
+六、优秀项目
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
@@ -530,6 +534,11 @@
 - [ ] https://github.com/labulaka521/yuque_sync
 - [ ] https://github.com/DominicBreuker/pspy
 - [ ] https://github.com/phachon/mm-wiki
+- [ ] https://github.com/erbbysam/DNSGrep
+- [ ] https://github.com/lucas-clemente/quic-go
+- [ ] https://github.com/facebook/ent
+- [ ] https://github.com/liuggchen/wechatDatDecode
+- [ ] https://github.com/razor-1/localizer
 
 ## 0x03-Golang框架
 
@@ -852,6 +861,7 @@
 - [ ] https://github.com/prometheus/prometheus
 - [ ] https://github.com/go-yaml/yaml/tree/v3
 - [ ] https://github.com/labulaka521/crocodile
+- [ ] https://github.com/hidez8891/shm
 
 ## 0x04-Golang安全
 
@@ -1153,7 +1163,7 @@
 - [ ] https://github.com/Shivangx01b/CorsMe | 跨源资源共享错误配置扫描程序 | 105
 - [ ] https://github.com/Shivangx01b/BountyIt | 查找xss、lfi、rce、ssti等漏洞 | 33
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
-- [ ] https://github.com/chennqqi/godnslog | 精美的dns＆http日志服务器 | 107
+- [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 142
 - [ ] https://github.com/hahwul/dalfox | 基于go的参数分析和XSS扫描工具 | 578
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
@@ -1531,6 +1541,7 @@
 - [ ] https://github.com/ryandamour/crlfmap
 - [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/ethicalhackingplayground/Zin
+- [ ] https://github.com/zricethezav/gitleaks
 
 ## 0x05-Golang逆向
 
