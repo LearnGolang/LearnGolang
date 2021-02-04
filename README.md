@@ -1542,6 +1542,7 @@
 - [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/zricethezav/gitleaks
+- [ ] https://github.com/guanguans/id-validator
 
 ## 0x05-Golang逆向
 
