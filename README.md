@@ -909,7 +909,7 @@
 - [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
-- [ ] https://github.com/ody5sey/Noah | 网页标题获取工具 | 0
+- [ ] https://github.com/ody5sey/Noah | 网页标题获取工具 | 1
 - [ ] https://github.com/scanterog/crawler | 网站内域名爬虫 | 0
 - [ ] https://github.com/gwen001/github-subdomains| 在GitHub上找到子域 | 138
 - [ ] https://github.com/incogbyte/shosubgo | 通过shodan接口搜索子域 | 80
@@ -1038,7 +1038,7 @@
 - [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
 - [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 - [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
-- [ ] https://github.com/CTF-MissFeng/nmaps
+- [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
 - [ ] https://github.com/CTF-MissFeng/NmapTools
 - [ ] https://github.com/timest/goscan
 - [ ] https://github.com/lavalamp-/ipv666
@@ -1054,6 +1054,7 @@
 - [ ] https://github.com/dtx/go-portscan
 - [ ] https://github.com/ancientlore/portscan
 - [ ] https://github.com/DaikiYamakawa/go-portscan
+- [ ] https://github.com/uknowsec/TailorScan
 - [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
 - [ ] https://github.com/dozyio/go-port-scanner
 - [ ] https://github.com/Ullaakut/nmap
@@ -1082,6 +1083,11 @@
 - [ ] https://github.com/AlexsJones/schism
 - [ ] https://github.com/viiftw/glance
 - [ ] https://github.com/pojntfx/liwasc
+- [ ] https://github.com/aeverj/pscan
+-  [ ] https://launchpad.net/gommap
+-  [ ] https://github.com/RickGray/vscan-go
+-  [ ] https://github.com/loong716/PortScan
+-  [ ] https://github.com/jboursiquot/portscan
 -  [ ] https://github.com/vus520/go-scan
 -  [ ] https://github.com/ElCap1tan/gort
 -  [ ] https://github.com/zs5460/portscan
@@ -1101,11 +1107,6 @@
 - [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 - [ ] https://github.com/Pingze-github/portScanner
-- [ ] https://github.com/aeverj/pscan
-- [ ] https://launchpad.net/gommap
-- [ ] https://github.com/RickGray/vscan-go
-- [ ] https://github.com/loong716/PortScan
-- [ ] https://github.com/jboursiquot/portscan
 
 四、路径扫描
 
@@ -1236,7 +1237,6 @@
 - [ ] https://github.com/s-index/go-cve-search
 - [ ] https://github.com/r0lh/vubase
 - [ ] https://github.com/dreddsa5dies/urlScrub
-- [ ] https://github.com/uknowsec/TailorScan
 - [ ] https://github.com/botherder/kraken
 - [ ] https://github.com/devanshbatham/Gorecon
 - [ ] https://github.com/rverton/webanalyze
