@@ -539,6 +539,7 @@
 - [ ] https://github.com/facebook/ent
 - [ ] https://github.com/liuggchen/wechatDatDecode
 - [ ] https://github.com/razor-1/localizer
+- [ ] https://github.com/cenkalti/backoff
 
 ## 0x03-Golang框架
 
@@ -1544,6 +1545,7 @@
 - [ ] https://github.com/zricethezav/gitleaks
 - [ ] https://github.com/guanguans/id-validator
 - [ ] https://github.com/tiagorlampert/CHAOS
+- [ ] https://github.com/offftherecord/wmsg
 
 ## 0x05-Golang逆向
 
