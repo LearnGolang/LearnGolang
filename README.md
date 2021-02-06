@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Golang》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月6日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月7日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -185,6 +185,7 @@
 - [ ] [《Hands On Go Programming》](https://github.com/PacktPublishing/Hands-On-Go-Programming)
 - [ ] [《Head First Go》]()
 - [ ] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [ ] [《Learning Go》](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/)
 - [ ] [《Learning Go Programming》]()
 - [x] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《Network Programming With Go》]()
@@ -286,6 +287,15 @@
 五、量化投资
 
 - [ ] https://github.com/achannarasappa/ticker
+- [ ] https://github.com/mop-tracker/mop
+- [ ] https://github.com/doneland/yquotes
+- [ ] https://github.com/nzai/stockrecorder
+- [ ] https://github.com/thetruetrade/gotrade
+- [ ] https://github.com/a7a2/bzza.com
+- [ ] https://github.com/nmapx/revolut-stocks-list
+- [ ] https://github.com/miaolz123/stockdb
+- [ ] https://github.com/ksred/go-stock-notifier
+- [ ] https://github.com/buth/stocker
 
 六、优秀项目
 
@@ -523,7 +533,6 @@
 - [ ] https://github.com/sourcegraph/codenotify
 - [ ] https://github.com/master-of-servers/mose
 - [ ] https://github.com/AsynkronIT/protoactor-go
-- [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/gwen001/github-regexp
 - [ ] https://github.com/cloudskiff/driftctl
 - [ ] https://github.com/evilsocket/arc
@@ -544,6 +553,8 @@
 - [ ] https://github.com/gdamore/tcell
 - [ ] https://github.com/timtadh/lexmachine
 - [ ] https://github.com/dgraph-io/ristretto
+- [ ] https://github.com/mitchellh/gon
+- [ ] https://github.com/Clivern/Walrus
 
 ## 0x03-Golang框架
 
@@ -867,6 +878,7 @@
 - [ ] https://github.com/go-yaml/yaml/tree/v3
 - [ ] https://github.com/labulaka521/crocodile
 - [ ] https://github.com/hidez8891/shm
+- [ ] https://github.com/mikefarah/yq
 
 ## 0x04-Golang安全
 
@@ -1200,7 +1212,7 @@
 - [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
 - [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
 - [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 872
-- [ ] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 757
+- [x] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 786
 - [ ] https://github.com/irealing/banner | Web端口扫描工具 | 2
 - [ ] https://github.com/lovetrap/SafeScan | 关于扫描器的想法和实现 | 5
 - [ ] https://github.com/45253321/gogoscan | golang编写的扫描器 | 0
@@ -1397,6 +1409,7 @@
 - [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/evilsocket/xray
+- [ ] https://github.com/honeytrap/honeytrap
 
 十一、应急响应
 
@@ -1524,7 +1537,6 @@
 - [ ] https://github.com/jhchabran/gistfs
 - [ ] https://github.com/panther-labs/panther
 - [ ] https://github.com/maxlandon/wiregost
-- [ ] https://github.com/honeytrap/honeytrap
 - [ ] https://github.com/fabpot/local-php-security-checker
 - [ ] https://github.com/pkg/browser
 - [ ] https://github.com/XTLS/Xray-core
@@ -1550,6 +1562,7 @@
 - [ ] https://github.com/guanguans/id-validator
 - [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/offftherecord/wmsg
+- [ ] https://github.com/owenrumney/squealer
 
 ## 0x05-Golang逆向
 
