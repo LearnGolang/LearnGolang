@@ -556,6 +556,8 @@
 - [ ] https://github.com/mitchellh/gon
 - [ ] https://github.com/Clivern/Walrus
 - [ ] https://github.com/progrium/macdriver
+- [ ] https://github.com/nikoksr/notify
+- [ ] https://github.com/hyperledger/fabric
 
 ## 0x03-Golang框架
 
@@ -881,6 +883,7 @@
 - [ ] https://github.com/hidez8891/shm
 - [ ] https://github.com/mikefarah/yq
 - [ ] https://github.com/asaskevich/govalidator
+- [ ] https://github.com/easy-bus/bus
 
 ## 0x04-Golang安全
 
@@ -1602,16 +1605,13 @@
 四、Go加密发布
 
 - [ ] https://github.com/halfrost
-
 - [ ] https://github.com/burrowers/garble
-
-  https://github.com/flew-software/filecrypt
-
+- [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
 
 ## 0x06-Golang老师
 
-排名不分先后，记录自己在学习Go语言过程中遇到的这些优秀的Golang老师们。感谢感谢！
+排名不分先后，记录自己在学习Go语言过程中遇到的优秀老师前辈们。感谢感谢！
 
 一、Go教程资源
 
