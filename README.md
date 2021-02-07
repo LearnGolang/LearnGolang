@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月7日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月8日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -33,6 +33,7 @@
 - [x] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
+- [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 - [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
@@ -50,7 +51,6 @@
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
 - [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
 - [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
-- [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Mastering Go 中文》](https://github.com/hantmac/Mastering_Go_ZH_CN)@hantmac译
 - [ ] [《Mastering_Go_Second_Edition 中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac译
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
@@ -194,6 +194,7 @@
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《The Way To Go》]()
 - [ ] [《Production Go》]()
+- [ ] [《ultimate go notebook》]()
 - [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
 - [ ] [《Get Programming with Go》]()
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
@@ -204,6 +205,7 @@
 - [ ] [《Spaceship Go A Journey to the Standard Library》](https://blasrodri.github.io/spaceship-go-gh-pages/)
 - [ ] [《The Go Programming Language》](http://www.gopl.io/)
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [ ] [《Nonsequential and Distributed Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 
 七、论坛版块
@@ -567,6 +569,8 @@
 - [ ] https://github.com/zricethezav/gitleaks
 - [ ] https://github.com/cyanly/gotrade
 - [ ] https://github.com/helm/charts
+- [ ] https://github.com/boyter/scc
+- [ ] https://github.com/rs/cors
 
 ## 0x03-Golang框架
 
@@ -754,6 +758,7 @@
 - [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/lxn/walk
 - [ ] https://github.com/lxn/win
+- [ ] https://github.com/go-vgo/robotgo
 
 二十、RSS框架
 
