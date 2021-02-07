@@ -537,7 +537,6 @@
 - [ ] https://github.com/gwen001/github-regexp
 - [ ] https://github.com/cloudskiff/driftctl
 - [ ] https://github.com/evilsocket/arc
-- [ ] https://github.com/evilsocket/ditto
 - [ ] https://github.com/antlr/antlr4
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/akyoto/asm
@@ -556,6 +555,7 @@
 - [ ] https://github.com/dgraph-io/ristretto
 - [ ] https://github.com/mitchellh/gon
 - [ ] https://github.com/Clivern/Walrus
+- [ ] https://github.com/progrium/macdriver
 
 ## 0x03-Golang框架
 
@@ -880,6 +880,7 @@
 - [ ] https://github.com/labulaka521/crocodile
 - [ ] https://github.com/hidez8891/shm
 - [ ] https://github.com/mikefarah/yq
+- [ ] https://github.com/asaskevich/govalidator
 
 ## 0x04-Golang安全
 
@@ -1321,7 +1322,6 @@
 - [ ] https://github.com/esrrhs/pingtunnel
 - [ ] https://github.com/whitehatnote/BlueShell
 - [ ] https://github.com/averagesecurityguy/c2
-- [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/e3prom/ruse
 - [ ] https://github.com/google/martian
 - [ ] https://github.com/stripe/smokescreen
@@ -1416,11 +1416,13 @@
 
 - [ ] https://github.com
 
-十二、漏洞赏金
+十二、移动安全
+
+十三、漏洞赏金
 
 - [ ] https://github.com/sw33tLie/bbscope
 
-十三、其他项目
+十四、其他项目
 
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 1
 - [ ] https://github.com/gcla/termshark
@@ -1564,6 +1566,7 @@
 - [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/offftherecord/wmsg
 - [ ] https://github.com/owenrumney/squealer
+- [ ] https://github.com/iann0036/iamlive
 
 ## 0x05-Golang逆向
 
