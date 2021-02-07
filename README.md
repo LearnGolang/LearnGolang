@@ -565,6 +565,8 @@
 - [ ] https://github.com/dwisiswant0/hinject
 - [ ] https://github.com/wasmerio/wasmer-go
 - [ ] https://github.com/zricethezav/gitleaks
+- [ ] https://github.com/cyanly/gotrade
+- [ ] https://github.com/helm/charts
 
 ## 0x03-Golang框架
 
@@ -1523,7 +1525,6 @@
 - [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/esrrhs/fastreplace
 - [ ] https://github.com/anasbousselham/fortiscan
-- [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/creekorful/trandoshan
 - [ ] https://github.com/lc/subjs
@@ -1578,6 +1579,7 @@
 - [ ] https://github.com/offftherecord/wmsg
 - [ ] https://github.com/owenrumney/squealer
 - [ ] https://github.com/iann0036/iamlive
+- [ ] https://github.com/xwb1989/sqlparser
 
 ## 0x05-Golang逆向
 
