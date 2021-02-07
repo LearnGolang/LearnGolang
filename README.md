@@ -562,6 +562,9 @@
 - [ ] https://github.com/kubernetes/kubectl
 - [ ] https://github.com/Neo23x0/signature-base
 - [ ] https://github.com/dwisiswant0/wadl-dumper
+- [ ] https://github.com/dwisiswant0/hinject
+- [ ] https://github.com/wasmerio/wasmer-go
+- [ ] https://github.com/zricethezav/gitleaks
 
 ## 0x03-Golang框架
 
@@ -622,6 +625,7 @@
 -  MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
+- [ ] https://github.com/jmoiron/sqlx
 -  MongoDB
 - [ ] https://github.com/mongodb/mongo-go-driver
 - [ ] https://github.com/qiniu/qmgo
