@@ -271,6 +271,7 @@
 二、娱乐游戏
 
 - [ ] https://github.com/loig/ld47
+- [ ] https://github.com/Humpheh/goboy
 - [ ] https://github.com/duanhf2012/origin
 - [ ] https://github.com/umarquez/0ms2-game
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
@@ -558,6 +559,9 @@
 - [ ] https://github.com/progrium/macdriver
 - [ ] https://github.com/nikoksr/notify
 - [ ] https://github.com/hyperledger/fabric
+- [ ] https://github.com/kubernetes/kubectl
+- [ ] https://github.com/Neo23x0/signature-base
+- [ ] https://github.com/dwisiswant0/wadl-dumper
 
 ## 0x03-Golang框架
 
@@ -1193,14 +1197,14 @@
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
 - [ ] https://github.com/drsigned/sigurlx
 - [ ] https://github.com/drsigned/sigurls
-- [ ] https://github.com/noobexploiter/headerssrfXD
-- [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/dowdyph0/transgo
-- [ ] https://github.com/KathanP19/Gxss
-- [ ] https://github.com/jweny/gosqlmap
-- [ ] https://github.com/rverton/xssmap
-- [ ] https://github.com/raz-varren/xsshell
-- [ ] https://github.com/blackbinn/wprecon
+-  [ ] https://github.com/KathanP19/Gxss
+-  [ ] https://github.com/jweny/gosqlmap
+-  [ ] https://github.com/rverton/xssmap
+-  [ ] https://github.com/raz-varren/xsshell
+-  [ ] https://github.com/blackbinn/wprecon
+- [ ] https://github.com/noobexploiter/headerssrfXD
+- [ ] https://github.com/ethicalhackingplayground/bxss
 
 六、漏洞扫描
 
