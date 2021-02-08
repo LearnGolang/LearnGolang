@@ -1158,7 +1158,7 @@
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
 - [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
-- [ ] https://github.com/aeverj/weblive
+- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 45
 - [ ] https://github.com/dzonerzy/goWAPT | 瑞士军刀wfuzz的弟弟 | 285
 - [ ] https://github.com/liamg/scout | 发现Web未公开的文件目录 | 209
 - [ ] https://github.com/hihebark/gds | 在网站上搜索隐藏的路径 | 6
@@ -1268,6 +1268,7 @@
 - [ ] https://github.com/markwh245/rapt0r
 - [ ] https://github.com/zmap/zgrab2
 - [ ] https://github.com/ATpiu/asset-scan
+- [ ] https://github.com/mumu0215/GetTitle
 - [ ] https://github.com/jpillora/icmpscan
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/jm33-m0/mec-ng
