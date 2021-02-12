@@ -575,6 +575,7 @@
 - [ ] https://github.com/disintegration/imaging
 - [ ] https://github.com/3xxx/engineercms
 - [ ] https://github.com/goreleaser/goreleaser
+- [ ] https://github.com/benbjohnson/immutable
 - [ ] https://github.com/visma-prodsec/confused
 
 ## 0x03-Golang框架
@@ -905,6 +906,7 @@
 - [ ] https://github.com/asaskevich/govalidator
 - [ ] https://github.com/easy-bus/bus
 - [ ] https://github.com/tidwall/gjson
+- [ ] https://github.com/benbjohnson/litestream
 
 ## 0x04-Golang安全
 
@@ -1594,6 +1596,7 @@
 - [ ] https://github.com/xwb1989/sqlparser
 - [ ] https://github.com/abserari/ip-arp
 - [ ] https://github.com/dwisiswant0/nodep
+- [ ] https://github.com/gustavorobertux/goshock
 - [ ] https://github.com/chriskaliX/drdos-framework
 
 ## 0x05-Golang逆向
