@@ -1294,6 +1294,7 @@
 - [ ] https://github.com/wgpsec/AstaGo
 - [ ] https://github.com/blackcrw/wprecon
 - [ ] https://github.com/cyal1/host_scan
+- [ ] https://github.com/1ight-2020/Struts2Scanner
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
