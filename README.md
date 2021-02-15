@@ -571,7 +571,6 @@
 - [ ] https://github.com/helm/charts
 - [ ] https://github.com/boyter/scc
 - [ ] https://github.com/rs/cors
-- [ ] https://github.com/inlets/inlets
 - [ ] https://github.com/disintegration/imaging
 - [ ] https://github.com/3xxx/engineercms
 - [ ] https://github.com/goreleaser/goreleaser
