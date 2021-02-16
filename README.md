@@ -581,6 +581,7 @@
 - [ ] https://github.com/deepfence/SecretScanner
 - [ ] https://github.com/makeworld-the-better-one/dither
 - [ ] https://github.com/go-gitea/gitea
+- [ ] https://github.com/restic/restic
 
 ## 0x03-Golang框架
 
