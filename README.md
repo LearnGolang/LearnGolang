@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月16日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月17日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -280,6 +280,7 @@
 
 三、爬虫项目
 
+- [ ] https://github.com/hetianyi/digger
 - [ ] https://github.com/jaeles-project/gospider
 
 四、图形项目
@@ -582,6 +583,7 @@
 - [ ] https://github.com/makeworld-the-better-one/dither
 - [ ] https://github.com/go-gitea/gitea
 - [ ] https://github.com/restic/restic
+- [ ] https://github.com/hahwul/gitls
 
 ## 0x03-Golang框架
 
@@ -913,6 +915,7 @@
 - [ ] https://github.com/tidwall/gjson
 - [ ] https://github.com/ChimeraCoder/gojson
 - [ ] https://github.com/benbjohnson/litestream
+- [ ] https://github.com/go-logr/logr
 
 ## 0x04-Golang安全
 
@@ -1457,6 +1460,8 @@
 
 十二、移动安全
 
+- [ ] https://github.com/ndelphit/apkurlgrep
+
 十三、漏洞赏金
 
 - [ ] https://github.com/sw33tLie/bbscope
@@ -1611,6 +1616,7 @@
 - [ ] https://github.com/gustavorobertux/goshock
 - [ ] https://github.com/chriskaliX/drdos-framework
 - [ ] https://github.com/evilsocket/shieldwall
+- [ ] https://github.com/liamg/traitor
 
 ## 0x05-Golang逆向
 
