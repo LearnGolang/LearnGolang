@@ -14,14 +14,14 @@
 
 ## 0x01-Golang资源
 
-一、基础入门
+一、基础书籍
 
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
-- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#50%
+- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#80%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
@@ -80,9 +80,6 @@
 - [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
 - [ ] [《Go-Learning-With-Hack》](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [ ] [《Golang学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
-- [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
-
-二、高级进阶
 
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
@@ -106,8 +103,9 @@
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
+- [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
 
-三、视频教程
+二、视频教程
 
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
@@ -127,7 +125,7 @@
 - [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
-四、算法学习
+三、算法学习
 
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
@@ -151,7 +149,7 @@
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
 - [ ] https://github.com/hbollon/go-edlib
 
-五、Web开发
+四、Web开发
 
 - [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
@@ -159,7 +157,7 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-六、英文书籍
+五、英文书籍
 
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
@@ -208,7 +206,7 @@
 - [ ] [《Nonsequential and Distributed Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 
-七、论坛版块
+六、论坛版块
 
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
@@ -223,7 +221,7 @@
 - [ ] [golangschool](https://www.golangschool.com)
 - [ ] https://learnku.com/go
 
-八、其他资源
+七、其他资源
 
 - [ ] [go-awesome](https://github.com/shockerli/go-awesome)
 - [ ] [go-study-index](https://github.com/unknwon/go-study-index)
