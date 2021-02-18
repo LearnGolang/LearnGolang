@@ -583,6 +583,7 @@
 - [ ] https://github.com/hahwul/gitls
 - [ ] https://github.com/justinas/nosurf
 - [ ] https://github.com/twpayne/chezmoi
+- [ ] https://github.com/hashicorp/terraform
 
 ## 0x03-Golang框架
 
