@@ -239,6 +239,7 @@
 - [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
 - [ ] https://github.com/TIGERB/easy-tips
+- [ ] https://github.com/preytaren/go-doc-zh
 - [ ] https://github.com/lifei6671/interview-go
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] https://github.com/unixpickle/num-analysis
