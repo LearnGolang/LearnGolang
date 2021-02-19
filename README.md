@@ -57,8 +57,7 @@
 - [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise译
 - [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
-- [ ] [《Mastering Go 中文》](https://github.com/hantmac/Mastering_Go_ZH_CN)@hantmac译
-- [ ] [《Mastering_Go_Second_Edition 中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
+- [ ] [《Mastering_Go_中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac译
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)@谢孟军
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)@编程帮
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
@@ -87,6 +86,8 @@
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 - [ ] [《365天深入理解Go语言》](https://github.com/0e0w/365Golang)@0e0w
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
+- [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
+- [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
 - [ ] [《Go语言编码规范》](https://github.com/shockerli/go-code-guide)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
@@ -102,6 +103,7 @@
 - [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
+- [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
 
 二、视频教程
 
@@ -122,6 +124,7 @@
 - [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
 - [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
+- [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 
 三、算法学习
 
@@ -141,17 +144,16 @@
 - [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
 - [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
-- [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)
-- [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
-- [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
-- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
+- [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)@JKlee
+- [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
+- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
 
 四、Web开发
 
 - [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
-- [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@unknwon
+- [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
 五、英文书籍
@@ -159,6 +161,7 @@
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
+- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
@@ -170,7 +173,6 @@
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
-- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
 - [ ] [《Go In Practice》]()
 - [ ] [《Go Recipes》]()
@@ -206,7 +208,6 @@
 六、论坛版块
 
 - [ ] [Go夜读](https://github.com/talkgo/night)
-- [ ] [Go学习之路](https://github.com/yangwenmai/learning-golang)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
 - [ ] [GopherChina](https://gopherchina.org/)
@@ -220,38 +221,35 @@
 
 七、其他资源
 
-- [ ] [go-awesome](https://github.com/shockerli/go-awesome)
-- [ ] [go-study-index](https://github.com/unknwon/go-study-index)
-- [ ] [gyuho/learn#go](https://github.com/gyuho/learn#go)
-- [ ] [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
-- [ ] [golang-design](https://github.com/golang-design/history)
-- [ ] [Go语言招聘](https://gocn.vip/jobs)
-- [ ] [Go 知识图谱](https://github.com/gocn/knowledge)
-- [ ] [Go语言库示例](https://github.com/pingyeaa/golang-examples)
-- [ ] [Gopher核心必备知识](https://github.com/pingyeaa/go-home)
-- [ ] [dive-go-opensource](https://github.com/polaris1119/dive-go-opensource)
-- [ ] [play-with-go](https://github.com/play-with-go/play-with-go)
 - [ ] https://github.com/dariubs/GoBooks
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
-- [ ] [golang-study-base-master](https://github.com/carolxiong/golang-study-base-master)
-- [ ] [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 - [ ] https://mojotv.cn/404#Golang
+- [ ] [GitHub-Chinese-Top-Charts#Go](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
+- [ ] https://github.com/gyuho/learn#go
+- [ ] https://github.com/gocn/knowledge
+- [ ] https://github.com/pingyeaa/go-home
 - [ ] https://github.com/TIGERB/easy-tips
+- [ ] https://github.com/kevwan/why-golang
 - [ ] https://github.com/preytaren/go-doc-zh
 - [ ] https://github.com/lifei6671/interview-go
+- [ ] https://github.com/golang-design/history
+- [ ] https://github.com/unknwon/go-study-index
 - [ ] https://github.com/hwholiday/learning_tools
+- [ ] https://github.com/play-with-go/play-with-go
 - [ ] https://github.com/unixpickle/num-analysis
-- [ ] https://github.com/study-core/go1.14.6-analysis
-- [ ] [GitHub-Chinese-Top-Charts#Go](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
-- [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
-- [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
-- [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
-- [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
-- [ ] https://github.com/kevwan/why-golang
-- [ ] https://github.com/bjmayor/GoPlayWithCompiler
 - [ ] https://github.com/eastmountyxz/Go-learning
+- [ ] https://github.com/pingyeaa/golang-examples
+- [ ] https://github.com/enocom/gopher-reading-list
+- [ ] https://github.com/study-core/go1.14.6-analysis
+- [ ] https://github.com/enocom/gopher-reading-list
+- [ ] https://github.com/yangwenmai/learning-golang
+- [ ] https://github.com/bjmayor/GoPlayWithCompiler
+- [ ] https://github.com/polaris1119/dive-go-opensource
 - [ ] https://github.com/zboya/golang_runtime_reading
 - [ ] https://github.com/lukexwang/GoConcurrencyPatterns
+- [ ] https://github.com/Alikhll/golang-developer-roadmap
+- [ ] https://github.com/carolxiong/golang-study-base-master
+- [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang项目
 
@@ -588,6 +586,7 @@
 ## 0x03-Golang框架
 
 - [ ] https://github.com/avelino/awesome-go
+- [ ] https://github.com/shockerli/go-awesome
 - [ ] https://github.com/jobbole/awesome-go-cn
 - [ ] https://github.com/hyper0x/awesome-go-China
 - [ ] https://github.com/yinggaozhen/awesome-go-cn
@@ -658,7 +657,8 @@
 
 五、Web框架
 
-- [ ] https://github.com/topics/web?l=go
+- https://github.com/topics/web?l=go
+
 - [ ] https://github.com/astaxie/beego
 - [ ] https://github.com/gohugoio/hugo
 - [ ] https://github.com/gin-gonic/gin
@@ -674,6 +674,7 @@
 - [ ] https://echo.labstack.com
 - [ ] https://github.com/savsgio/atreugo
 - [ ] https://github.com/tal-tech/go-zero
+- [ ] https://github.com/karldoenitz/Tigo
 - [ ] https://github.com/gogf/gf
 
 六、爬虫框架
@@ -935,7 +936,6 @@
 -  https://github.com/topics/reconnaissance?l=go
 -  https://github.com/topics/information-gathering?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
--  扫描、漏洞
 - [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
 - [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
 - [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
