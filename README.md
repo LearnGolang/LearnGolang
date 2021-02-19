@@ -116,7 +116,9 @@
 - [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
 - [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
 - [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹
+- [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
 - [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
+- [ ] [《21周搞定Go语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
 - [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
 - [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
