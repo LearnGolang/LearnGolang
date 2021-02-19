@@ -21,7 +21,7 @@
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
-- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#80%
+- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
@@ -33,6 +33,13 @@
 - [x] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
+- [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
+- [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
+- [ ] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
+- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
+- [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
+- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
+- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
@@ -41,40 +48,23 @@
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 - [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
-- [ ] [《Go语言编码规范》](https://github.com/shockerli/go-code-guide)
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
+- [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
+- [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
+- [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
 - [ ] [《Go by Example 中文》](https://gobyexample-cn.github.io) @everyx译
 - [ ] [《Black Hat Go 中文》](https://github.com/YYRise/black-hat-go)@YYRise译
 - [ ] [《Go语言高性能编程》](https://github.com/geektutu/high-performance-go)@geektutu
 - [ ] [《Go语言简明教程》](https://geektutu.com/post/quick-golang.html)@geektutu
-- [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
-- [ ] [《快学Go语言》](https://zhuanlan.zhihu.com/quickgo)@老钱
-- [ ] [《Go命令教程》](https://github.com/hyper0x/go_command_tutorial)@郝林
 - [ ] [《Mastering Go 中文》](https://github.com/hantmac/Mastering_Go_ZH_CN)@hantmac译
-- [ ] [《Mastering_Go_Second_Edition 中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac译
-- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
-- [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
-- [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
-- [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
-- [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
-- [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
-- [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
-- [ ] [《TopGoer教程》](http://www.topgoer.com)
-- [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
-- [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
-- [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
+- [ ] [《Mastering_Go_Second_Edition 中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)@谢孟军
-- [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
-- [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)
-- [ ] [《快速上手Golang》](https://github.com/jackhu1990/golangman)
+- [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)@编程帮
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)@Maxsu
-- [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)
-- [ ] [《Golang标准库中文版》](https://github.com/jemygraw/GoStandardLibrary-Chinese)
-- [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
-- [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
-- [ ] [《Golang修养之路》](https://github.com/aceld/golang)@aceld
+- [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)@webtao
+- [ ] [《Golang标准库中文版》](https://github.com/jemygraw/GoStandardLibrary-Chinese)@金鑫
 - [ ] [《Go语言学习与理解》](https://github.com/cyent/golang)@cyent
 - [ ] [《学习Go语言》](https://github.com/mikespook/Learning-Go-zh-cn)@mikespook
 - [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
@@ -82,13 +72,6 @@
 - [ ] [《Golang学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
-- [ ] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
-- [ ] [《Go专家编程》](http://books.studygolang.com/GoExpertProgramming) @任洪彩
-- [ ] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
-- [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
-- [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
-- [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
-- [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)@xxjwxc
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)@田浩
@@ -102,7 +85,23 @@
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
-- [ ] [《365天深入理解Golang》](https://github.com/0e0w/365Golang)@0e0w
+- [ ] [《365天深入理解Go语言》](https://github.com/0e0w/365Golang)@0e0w
+- [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
+- [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
+- [ ] [《Go语言编码规范》](https://github.com/shockerli/go-code-guide)
+- [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
+- [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
+- [ ] [《通过测试学习Go语言》](http://books.studygolang.com/learn-go-with-tests)
+- [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
+- [ ] [《快速上手Golang》](https://github.com/jackhu1990/golangman)
+- [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
+- [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
+- [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
+- [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
+- [ ] [《TopGoer教程》](http://www.topgoer.com)
+- [ ] [《Go开发者路线图》](https://github.com/Quorafind/golang-developer-roadmap-cn)
+- [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
+- [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 
 二、视频教程
 
@@ -126,14 +125,14 @@
 
 三、算法学习
 
+- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
+- [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
+- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
-- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
-- [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
-- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
 - [ ] [《LeetCode-Go-Week》](https://github.com/wuqinqiang/LeetCode-Go-Week)@wuqinqiang
 - [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
@@ -143,10 +142,9 @@
 - [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
 - [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)
-- [ ] [《Golang随笔》](https://github.com/sevenelevenlee/go-notes)
+- [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)
-- [ ] https://github.com/hbollon/go-edlib
 
 四、Web开发
 
@@ -921,6 +919,7 @@
 - [ ] https://github.com/go-resty/resty
 - [ ] https://github.com/getlantern/systray
 - [ ] https://github.com/redcode-labs/Neurax
+- [ ] https://github.com/hbollon/go-edlib
 
 ## 0x04-Golang安全
 
