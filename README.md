@@ -584,6 +584,7 @@
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hashicorp/terraform
 - [ ] https://github.com/photoprism/photoprism
+- [ ] https://github.com/russross/blackfriday
 
 ## 0x03-Golang框架
 
@@ -923,6 +924,7 @@
 - [ ] https://github.com/getlantern/systray
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/hbollon/go-edlib
+- [ ] https://github.com/mjwhitta/win
 
 ## 0x04-Golang安全
 
@@ -1627,6 +1629,7 @@
 - [ ] https://github.com/evilsocket/shieldwall
 - [ ] https://github.com/liamg/traitor
 - [ ] https://github.com/brompwnie/botb
+- [ ] https://github.com/dwisiswant0/galer
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 ## 0x05-Golang逆向
