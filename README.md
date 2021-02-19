@@ -1627,6 +1627,7 @@
 - [ ] https://github.com/evilsocket/shieldwall
 - [ ] https://github.com/liamg/traitor
 - [ ] https://github.com/brompwnie/botb
+- [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 ## 0x05-Golang逆向
 
