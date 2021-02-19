@@ -585,6 +585,7 @@
 - [ ] https://github.com/justinas/nosurf
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hashicorp/terraform
+- [ ] https://github.com/photoprism/photoprism
 
 ## 0x03-Golang框架
 
@@ -919,6 +920,7 @@
 - [ ] https://github.com/go-logr/logr
 - [ ] https://github.com/go-resty/resty
 - [ ] https://github.com/getlantern/systray
+- [ ] https://github.com/redcode-labs/Neurax
 
 ## 0x04-Golang安全
 
@@ -1281,6 +1283,7 @@
 - [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 - [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
 - [ ] https://github.com/virink/xray-weblisten-ui
+- [ ] https://github.com/broken5/bscan
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/kjyc1/cat-8080-brute
 - [ ] https://github.com/markwh245/rapt0r
@@ -1306,6 +1309,7 @@
 - [ ] https://github.com/blackcrw/wprecon
 - [ ] https://github.com/cyal1/host_scan
 - [ ] https://github.com/1ight-2020/Struts2Scanner
+- [ ] https://github.com/deepsecurity-pe/GoGhost
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
@@ -1406,6 +1410,7 @@
 - [ ] https://github.com/maskedeken/gost-plugin
 - [ ] https://github.com/haxii/fastproxy
 - [ ] https://github.com/chroblert/JCRandomProxy
+- [ ] https://github.com/mthbernardes/GTRS
 
 九、病毒免杀
 
