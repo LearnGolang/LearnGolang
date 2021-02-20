@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月19日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月20日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang项目](https://github.com/0e0w/LearnGolang#0x02-golang%E9%A1%B9%E7%9B%AE)
@@ -837,7 +837,6 @@
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/thinkgos/http-middlewares
-- [ ] https://github.com/muraenateam/muraena
 - [ ] https://github.com/allegro/bigcache
 - [ ] https://github.com/eiannone/keyboard
 - [ ] https://github.com/bojanz/address
@@ -1239,6 +1238,7 @@
 -  [ ] https://github.com/rverton/xssmap
 -  [ ] https://github.com/raz-varren/xsshell
 -  [ ] https://github.com/blackbinn/wprecon
+-  [ ] https://github.com/ryandamour/ssrfuzz
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/bxss
 
@@ -1401,6 +1401,7 @@
 - [ ] https://github.com/dushixiang/4dnat
 - [ ] https://github.com/lesnuages/hershell
 - [ ] https://github.com/redcode-labs/GoSH
+- [ ] https://github.com/muraenateam/muraena
 - [ ] https://github.com/Sandertv/gophertunnel
 - [ ] https://github.com/crowdsecurity/crowdsec
 - [ ] https://github.com/projectdiscovery/proxify
