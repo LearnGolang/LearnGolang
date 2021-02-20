@@ -586,6 +586,8 @@
 - [ ] https://github.com/hashicorp/terraform
 - [ ] https://github.com/photoprism/photoprism
 - [ ] https://github.com/russross/blackfriday
+- [ ] https://github.com/hunterhug/gomap
+- [ ] https://github.com/hunterhug/gosession
 
 ## 0x03-Golang框架
 
@@ -925,6 +927,9 @@
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/hbollon/go-edlib
 - [ ] https://github.com/mjwhitta/win
+- [ ] https://github.com/hunterhug/rlock
+- [ ] https://github.com/akitasoftware/akita-cli
+- [ ] https://github.com/hunterhug/marmot
 
 ## 0x04-Golang安全
 
@@ -1632,6 +1637,7 @@
 - [ ] https://github.com/liamg/traitor
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/dwisiswant0/galer
+- [ ] https://github.com/Jrohy/trojan
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 ## 0x05-Golang逆向
