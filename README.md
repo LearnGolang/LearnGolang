@@ -23,6 +23,7 @@
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
+- [x] [《Go语言实战》]()@刘燕燕译#10%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
