@@ -275,6 +275,7 @@
 二、请求响应
 
 - https://github.com/topics/request?l=go
+- [ ] https://golang.org/pkg/net/http
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
@@ -311,6 +312,7 @@
 三、配置文件
 
 - JSON
+- [ ] https://golang.org/pkg/encoding/json
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/lqiz/amoeba
@@ -326,8 +328,9 @@
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
 
-四、文本处理
+四、文本文件
 
+- [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
 
 五、电子表格
