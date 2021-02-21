@@ -319,6 +319,7 @@
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/lqiz/amoeba
 - [ ] https://github.com/Jeffail/gabs
+- [ ] https://github.com/layeh/gopher-json
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://github.com/go-yaml/yaml
@@ -374,6 +375,7 @@
 - [ ] https://github.com/gookit/slog
 - [ ] https://github.com/foomo/logfrog
 - [ ] https://github.com/bp0lr/go-logger
+- [ ] https://github.com/chzyer/logex
 
 八、错误处理
 
