@@ -331,8 +331,8 @@
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
 - Others
-
 - [ ] https://github.com/alash3al/re-txt
+- [ ] https://github.com/thedevsaddam/gojsonq
 
 四、文本文件
 
@@ -353,6 +353,8 @@
 -  MongoDB
 -  [ ] https://github.com/mongodb/mongo-go-driver
 -  [ ] https://github.com/qiniu/qmgo
+-  [ ] PostgreSQL
+-  https://github.com/sosedoff/pgweb
 -  Others
 -  [ ] https://github.com/jackc/pgx
 -  [ ] https://github.com/boltdb/bolt
@@ -382,7 +384,6 @@
 九、单元测试
 
 - [ ] https://github.com/h2non/gock
-
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -456,6 +457,7 @@
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/karldoenitz/Tigo
 - [ ] https://github.com/System-Glitch/goyave
+- [ ] https://github.com/buildkite/terminal-to-html
 
 十六、中间件框架
 
@@ -525,7 +527,6 @@
 - [ ] https://gitea.com/xorm/xorm
 - [ ] https://github.com/hodgesds/perf-utils
 - [ ] https://github.com/snowlyg/gotransformer
-- [ ] https://github.com/urfave/cli
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/go-kratos/kratos
@@ -609,7 +610,6 @@
 - [ ] https://github.com/go-yaml/yaml/tree/v3
 - [ ] https://github.com/labulaka521/crocodile
 - [ ] https://github.com/hidez8891/shm
-- [ ] https://github.com/mikefarah/yq
 - [ ] https://github.com/asaskevich/govalidator
 - [ ] https://github.com/easy-bus/bus
 - [ ] https://github.com/tidwall/gjson
