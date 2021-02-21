@@ -119,6 +119,7 @@
 - [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹
 - [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
 - [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
+- [ ] [《Go Web开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
 - [ ] [《21周搞定Go语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
 - [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
 - [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
@@ -126,8 +127,8 @@
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
 - [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
 - [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
-- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 三、算法学习
 
@@ -252,6 +253,7 @@
 - [ ] https://github.com/lukexwang/GoConcurrencyPatterns
 - [ ] https://github.com/Alikhll/golang-developer-roadmap
 - [ ] https://github.com/carolxiong/golang-study-base-master
+- [ ] https://github.com/Junedayday/code_reading
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang框架
@@ -270,13 +272,13 @@
 - [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/fatih/color
 - [ ] https://github.com/urfave/c
-- [ ] https://github.com/schollz/progressbar | 进度条
+- [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 
 二、请求响应
 
 - https://github.com/topics/request?l=go
 - [ ] https://golang.org/pkg/net/http
-- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库
+- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
 - [ ] https://github.com/idoubi/goz
