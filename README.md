@@ -318,6 +318,7 @@
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/lqiz/amoeba
+- [ ] https://github.com/Jeffail/gabs
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://github.com/go-yaml/yaml
@@ -329,6 +330,9 @@
 - INI
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
+- Others
+
+- [ ] https://github.com/alash3al/re-txt
 
 四、文本文件
 
@@ -349,7 +353,7 @@
 -  MongoDB
 -  [ ] https://github.com/mongodb/mongo-go-driver
 -  [ ] https://github.com/qiniu/qmgo
--  其他待分类
+-  Others
 -  [ ] https://github.com/jackc/pgx
 -  [ ] https://github.com/boltdb/bolt
 -  [ ] https://github.com/ideawu/ssdb
@@ -384,8 +388,18 @@
 十、协程任务
 
 - [ ] https://github.com/panjf2000/ants
+- [ ] https://github.com/Jeffail/tunny
 - [ ] https://github.com/alitto/pond
+- [ ] https://github.com/oklog/run
+- [ ] https://github.com/xxjwxc/gowp
 - [ ] https://github.com/dean2021/hackpool
+- [ ] https://github.com/sugtex/gribbon
+- [ ] https://github.com/sugtex/moles
+- [ ] https://github.com/letsfire/factory
+- [ ] https://github.com/ivpusic/grpool
+- [ ] https://github.com/go-playground/pool
+- [ ] https://github.com/gammazero/workerpool
+- [ ] https://github.com/wazsmwazsm/mortar
 
 十一、发送邮件
 
@@ -610,6 +624,7 @@
 - [ ] https://github.com/hunterhug/rlock
 - [ ] https://github.com/akitasoftware/akita-cli
 - [ ] https://github.com/hunterhug/marmot
+- [ ] https://github.com/thoas/go-funk
 
 ## 0x03-Golang项目
 
