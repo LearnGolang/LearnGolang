@@ -272,6 +272,9 @@
 - [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/fatih/color
 - [ ] https://github.com/urfave/c
+- [ ] https://github.com/logrusorgru/aurora
+- [ ] https://github.com/mattn/go-colorable
+- [ ] https://github.com/mgutz/ansi
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 
 二、请求响应
@@ -322,6 +325,7 @@
 - [ ] https://github.com/layeh/gopher-json
 - YAML
 - [ ] https://gopkg.in/yaml.v2
+- [ ] https://gopkg.in/yaml.v3
 - [ ] https://github.com/go-yaml/yaml
 - [ ] https://github.com/kylelemons/go-gypsy
 - [ ] https://github.com/ghodss/yaml
@@ -334,6 +338,7 @@
 - Others
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/thedevsaddam/gojsonq
+- [ ] https://github.com/ugorji/go
 
 四、文本文件
 
@@ -352,6 +357,8 @@
 -  [ ] https://github.com/pingcap/tidb
 -  [ ] https://github.com/jmoiron/sqlx
 -  MongoDB
+-  [ ] https://gopkg.in/mgo.v2
+-  [ ] https://github.com/Cgboal/SonarSearch
 -  [ ] https://github.com/mongodb/mongo-go-driver
 -  [ ] https://github.com/qiniu/qmgo
 -  [ ] PostgreSQL
@@ -364,6 +371,7 @@
 -  [ ] https://github.com/syndtr/goleveldb
 -  [ ] https://github.com/didiyudha/sse-redis
 -  [ ] https://github.com/shenghui0779/yiigo
+-  [ ] https://github.com/denisenkom/go-mssqldb
 
 七、日志处理
 
@@ -403,6 +411,7 @@
 - [ ] https://github.com/go-playground/pool
 - [ ] https://github.com/gammazero/workerpool
 - [ ] https://github.com/wazsmwazsm/mortar
+- [ ] https://github.com/modern-go/concurrent
 
 十一、发送邮件
 
@@ -627,6 +636,7 @@
 - [ ] https://github.com/akitasoftware/akita-cli
 - [ ] https://github.com/hunterhug/marmot
 - [ ] https://github.com/thoas/go-funk
+- [ ] https://github.com/mjibson/esc
 
 ## 0x03-Golang项目
 
@@ -1600,7 +1610,6 @@
 - [ ] https://github.com/cckuailong/HackChrome
 - [ ] https://github.com/signalsciences/waf-testing-framework
 - [ ] https://github.com/raviqqe/muffet | Go中的快速网站链接检查器 | 1.7k
-- [ ] https://github.com/rakyll/statik
 - [ ] https://github.com/C4o/Juggler
 - [ ] https://github.com/utkusen/urlhunter
 - [ ] https://github.com/fesiong/cobweb
@@ -1679,6 +1688,8 @@
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/dwisiswant0/galer
 - [ ] https://github.com/Jrohy/trojan
+- [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
+- [ ] https://github.com/yuin/gopher-lua
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 ## 0x05-Golang逆向
