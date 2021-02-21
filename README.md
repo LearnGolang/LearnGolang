@@ -399,6 +399,7 @@
 - [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/lxn/walk
 - [ ] https://github.com/lxn/win
+- [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
 十三、时间日期
@@ -943,6 +944,13 @@
 - [ ] https://github.com/hunterhug/gomap
 - [ ] https://github.com/hunterhug/gosession
 - [ ] https://github.com/tailscale/tailscale
+- [ ] https://github.com/nickw8/vimkatas
+- [ ] https://github.com/Palexer/mdconv
+- [ ] https://github.com/pyroscope-io/pyroscope
+- [ ] https://github.com/FiloSottile/age
+- [ ] https://github.com/dapr/dapr
+- [ ] https://github.com/huaxr/rx
+- [ ] https://github.com/moulco/moul
 
 ## 0x04-Golang安全
 
@@ -1214,6 +1222,7 @@
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
+- [ ] https://github.com/M4DM0e/DirDar
 - [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/vlad-s/gofuzzyourself
 - [ ] https://github.com/sueesmar/pluzz
@@ -1458,7 +1467,6 @@
 - [ ] https://github.com/Binject/backdoorfactory
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
-- [ ] https://github.com/EgeBalci/amber
 - [ ] https://github.com/optiv/ScareCrow
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/Hangingsword/HouQing
