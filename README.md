@@ -638,6 +638,8 @@
 - [ ] https://github.com/hunterhug/marmot
 - [ ] https://github.com/thoas/go-funk
 - [ ] https://github.com/mjibson/esc
+- [ ] https://github.com/gosnmp/gosnmp
+- [ ] https://github.com/gen2brain/go-unarr
 
 ## 0x03-Golang项目
 
@@ -978,9 +980,9 @@
 - [ ] https://github.com/Palexer/mdconv
 - [ ] https://github.com/pyroscope-io/pyroscope
 - [ ] https://github.com/FiloSottile/age
-- [ ] https://github.com/dapr/dapr
 - [ ] https://github.com/huaxr/rx
 - [ ] https://github.com/moulco/moul
+- [ ] https://github.com/kitabisa/mubeng
 
 ## 0x04-Golang安全
 
