@@ -412,6 +412,7 @@
 - [ ] https://github.com/gammazero/workerpool
 - [ ] https://github.com/wazsmwazsm/mortar
 - [ ] https://github.com/modern-go/concurrent
+- [ ] https://github.com/sherifabdlnaby/gpool
 - [ ] https://github.com/qianguozheng/go-workerpool
 
 十一、发送邮件
@@ -641,6 +642,9 @@
 - [ ] https://github.com/gosnmp/gosnmp
 - [ ] https://github.com/gen2brain/go-unarr
 - [ ] https://github.com/dwisiswant0/discat
+- [ ] https://github.com/caibirdme/yql
+- [ ] https://github.com/rbrahul/gofp
+- [ ] https://github.com/znly/strobfus
 
 ## 0x03-Golang项目
 
@@ -984,6 +988,8 @@
 - [ ] https://github.com/huaxr/rx
 - [ ] https://github.com/moulco/moul
 - [ ] https://github.com/kitabisa/mubeng
+- [ ] https://github.com/thinkeridea/go-extend
+- [ ] https://github.com/axiaoxin-com/logging
 
 ## 0x04-Golang安全
 
@@ -1694,6 +1700,7 @@
 - [ ] https://github.com/Jrohy/trojan
 - [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
 - [ ] https://github.com/yuin/gopher-lua
+- [ ] https://github.com/TRYblog/go-Tubi
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 ## 0x05-Golang逆向
