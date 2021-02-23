@@ -284,6 +284,7 @@
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
 - [ ] https://github.com/julienschmidt/httprouter
 - [ ] https://github.com/valyala/fasthttp
+- [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/idoubi/goz
 - [ ] https://github.com/guonaihong/gout
 - [ ] https://github.com/mozillazg/request
@@ -312,7 +313,9 @@
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/levigross/grequests
 - [ ] https://github.com/Greyh4t/zhttp
+- [ ] https://github.com/moul/http2curl
 - [ ] https://github.com/vmihailenco/treemux
+- [ ] https://github.com/grokify/html-strip-tags-go
 
 三、配置文件
 
@@ -418,9 +421,11 @@
 
 十一、发送邮件
 
-- [ ] https://github.com/jordan-wright/email
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/go-gomail/gomail
+- [ ] https://github.com/jordan-wright/email
+- [ ] https://github.com/domodwyer/mailyak
+- [ ] https://github.com/nikoksr/notify
 
 十二、图形框架
 
@@ -442,12 +447,9 @@
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
 - [ ] https://github.com/zhshch2002/gospider
-- [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/PuerkitoBio/gocrawl
-- [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/el10savio/GoCrawler
-- [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/china-muwenbo/gospider
 
 十五、Web框架
@@ -557,7 +559,6 @@
 - [ ] https://github.com/BlackCodes/logbud
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/redcode-labs/Neurax
-- [ ] https://github.com/anaskhan96/soup
 - [ ] https://github.com/intel-go/nff-go
 - [ ] https://github.com/mailhog/MailHog
 - [ ] https://github.com/malfunkt/hyperfox
@@ -646,7 +647,12 @@
 - [ ] https://github.com/caibirdme/yql
 - [ ] https://github.com/rbrahul/gofp
 - [ ] https://github.com/znly/strobfus
+- [ ] https://github.com/golang/snappy
+- [ ] https://github.com/gorilla/websocket
+- [ ] https://github.com/andybalholm/cascadia
 - [ ] https://github.com/GoAdminGroup/go-admin
+- [ ] https://github.com/olekukonko/tablewriter
+- [ ] https://github.com/ns3777k/go-shodan
 
 ## 0x03-Golang项目
 
@@ -951,7 +957,6 @@
 - [ ] https://github.com/mitchellh/gon
 - [ ] https://github.com/Clivern/Walrus
 - [ ] https://github.com/progrium/macdriver
-- [ ] https://github.com/nikoksr/notify
 - [ ] https://github.com/hyperledger/fabric
 - [ ] https://github.com/kubernetes/kubectl
 - [ ] https://github.com/Neo23x0/signature-base
