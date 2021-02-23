@@ -23,7 +23,7 @@
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
-- [x] [《Go语言实战》]()@刘燕燕译#10%
+- [x] [《Go语言实战》]()@刘燕燕译#20%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
@@ -322,6 +322,7 @@
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/lqiz/amoeba
 - [ ] https://github.com/Jeffail/gabs
+- [ ] https://github.com/tidwall/pjson
 - [ ] https://github.com/layeh/gopher-json
 - YAML
 - [ ] https://gopkg.in/yaml.v2
@@ -645,6 +646,7 @@
 - [ ] https://github.com/caibirdme/yql
 - [ ] https://github.com/rbrahul/gofp
 - [ ] https://github.com/znly/strobfus
+- [ ] https://github.com/GoAdminGroup/go-admin
 
 ## 0x03-Golang项目
 
@@ -990,6 +992,9 @@
 - [ ] https://github.com/kitabisa/mubeng
 - [ ] https://github.com/thinkeridea/go-extend
 - [ ] https://github.com/axiaoxin-com/logging
+- [ ] https://github.com/containers/podman
+- [ ] https://github.com/hashicorp/vault
+- [ ] https://github.com/link1st/go-stress-testing | Go实现的压测工具 | 957
 
 ## 0x04-Golang安全
 
@@ -1483,6 +1488,7 @@
 - [ ] https://github.com/haxii/fastproxy
 - [ ] https://github.com/chroblert/JCRandomProxy
 - [ ] https://github.com/mthbernardes/GTRS
+- [ ] https://github.com/txthinking/brook
 
 九、病毒免杀
 
@@ -1522,6 +1528,7 @@
 - [ ] https://github.com/sergi/go-diff
 - [ ] https://github.com/ZupIT/horusec
 - [ ] https://github.com/securego/gosec
+- [ ] https://github.com/xfhg/intercept
 - [ ] https://github.com/William-Yeh/fswatch
 - [ ] https://github.com/americanexpress/earlybird
 
