@@ -360,6 +360,7 @@
 -  [ ] https://github.com/go-sql-driver/mysql
 -  [ ] https://github.com/pingcap/tidb
 -  [ ] https://github.com/jmoiron/sqlx
+-  [ ] https://github.com/XiaoMi/Gaea
 -  MongoDB
 -  [ ] https://gopkg.in/mgo.v2
 -  [ ] https://github.com/Cgboal/SonarSearch
@@ -1000,6 +1001,8 @@
 - [ ] https://github.com/containers/podman
 - [ ] https://github.com/hashicorp/vault
 - [ ] https://github.com/link1st/go-stress-testing | Go实现的压测工具 | 957
+- [ ] https://github.com/stashapp/stash
+- [ ] https://github.com/nickname32/discordhook
 
 ## 0x04-Golang安全
 
@@ -1413,6 +1416,7 @@
 七、内网渗透
 
 - [ ] https://github.com/kgretzky/evilginx2
+- [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
 
 八、代理隧道
 
