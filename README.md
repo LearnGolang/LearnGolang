@@ -655,6 +655,7 @@
 - [ ] https://github.com/olekukonko/tablewriter
 - [ ] https://github.com/ns3777k/go-shodan
 - [ ] https://github.com/itchyny/gojq
+- [ ] https://github.com/fzipp/gofind
 
 ## 0x03-Golang项目
 
