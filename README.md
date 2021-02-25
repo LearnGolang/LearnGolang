@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月24日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月25日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -241,6 +241,7 @@
 - [ ] https://github.com/hwholiday/learning_tools
 - [ ] https://github.com/play-with-go/play-with-go
 - [ ] https://github.com/unixpickle/num-analysis
+- [ ] https://github.com/xiaobaiTech/golangFamily
 - [ ] https://github.com/eastmountyxz/Go-learning
 - [ ] https://github.com/pingyeaa/golang-examples
 - [ ] https://github.com/enocom/gopher-reading-list
@@ -656,6 +657,9 @@
 - [ ] https://github.com/ns3777k/go-shodan
 - [ ] https://github.com/itchyny/gojq
 - [ ] https://github.com/fzipp/gofind
+- [ ] https://github.com/h2non/bimg
+- [ ] https://github.com/microsoft/onefuzz
+- [ ] https://github.com/nfnt/resize
 
 ## 0x03-Golang项目
 
@@ -1005,6 +1009,10 @@
 - [ ] https://github.com/link1st/go-stress-testing | Go实现的压测工具 | 957
 - [ ] https://github.com/stashapp/stash
 - [ ] https://github.com/nickname32/discordhook
+- [ ] https://github.com/ossf/scorecard
+- [ ] https://github.com/zntrio/typogenerator
+- [ ] https://github.com/hgascon/pulsar
+- [ ] https://github.com/xitongsys/pangolin
 
 ## 0x04-Golang安全
 
@@ -1396,6 +1404,7 @@
 - [ ] https://github.com/cyal1/host_scan
 - [ ] https://github.com/1ight-2020/Struts2Scanner
 - [ ] https://github.com/deepsecurity-pe/GoGhost
+- [ ] https://github.com/six2dez/reconftw
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
@@ -1720,6 +1729,7 @@
 - [ ] https://github.com/yuin/gopher-lua
 - [ ] https://github.com/TRYblog/go-Tubi
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
+- [ ] https://github.com/malfunkt/iprange
 
 ## 0x05-Golang逆向
 
