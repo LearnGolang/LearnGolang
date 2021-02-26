@@ -398,6 +398,7 @@
 九、单元测试
 
 - [ ] https://github.com/h2non/gock
+- [ ] https://github.com/pinterest/bender
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -475,6 +476,7 @@
 - [ ] https://github.com/karldoenitz/Tigo
 - [ ] https://github.com/System-Glitch/goyave
 - [ ] https://github.com/buildkite/terminal-to-html
+- [ ] https://github.com/gin-gonic/examples
 
 十六、中间件框架
 
@@ -661,6 +663,7 @@
 - [ ] https://github.com/nfnt/resize
 - [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/ropnop/go-clr
+- [ ] https://github.com/changkun/midgard
 
 ## 0x03-Golang项目
 
@@ -734,7 +737,6 @@
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
 - [ ] https://github.com/lanyi1998/DNSlog-GO
-- [ ] https://github.com/spf13/viper
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/hashicorp/boundary
@@ -1014,6 +1016,9 @@
 - [ ] https://github.com/zntrio/typogenerator
 - [ ] https://github.com/hgascon/pulsar
 - [ ] https://github.com/xitongsys/pangolin
+- [ ] https://github.com/lifei6671/mindoc
+- [ ] https://github.com/wasmerio/wasmer-go
+- [ ] https://github.com/pyroscope-io/pyroscope
 
 ## 0x04-Golang安全
 
@@ -1433,6 +1438,8 @@
 - [ ] https://github.com/TerminalJockey/CreepingVine
 - [ ] https://github.com/TerminalJockey/Skiddify
 - [ ] https://github.com/TerminalJockey/GShell
+- [ ] https://github.com/dennis-tra/pcp
+- [ ] https://github.com/grines/goc2
 
 八、代理隧道
 
@@ -1736,6 +1743,7 @@
 - [ ] https://github.com/TRYblog/go-Tubi
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 - [ ] https://github.com/malfunkt/iprange
+- [ ] https://github.com/EmYiQing/go-wafw00f
 
 ## 0x05-Golang逆向
 
