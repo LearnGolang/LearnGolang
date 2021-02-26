@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年2月25日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年2月26日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -304,11 +304,9 @@
 - [ ] https://github.com/asmcos/requests
 - [ ] https://github.com/celrenheit/lion
 - [ ] https://github.com/alexedwards/scs
-- [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/parnurzeal/gorequest
 - [ ] https://github.com/mssola/user_agent
-- [ ] https://github.com/zhshch2002/goreq
 - [ ] https://github.com/google/go-safeweb
 - [ ] https://github.com/patrickhener/goshs
 - [ ] https://github.com/PuerkitoBio/goquery
@@ -660,6 +658,8 @@
 - [ ] https://github.com/h2non/bimg
 - [ ] https://github.com/microsoft/onefuzz
 - [ ] https://github.com/nfnt/resize
+- [ ] https://github.com/traefik/yaegi
+- [ ] https://github.com/ropnop/go-clr
 
 ## 0x03-Golang项目
 
@@ -1428,6 +1428,10 @@
 
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
+- [ ] https://github.com/TerminalJockey/Kudzu
+- [ ] https://github.com/TerminalJockey/CreepingVine
+- [ ] https://github.com/TerminalJockey/Skiddify
+- [ ] https://github.com/TerminalJockey/GShell
 
 八、代理隧道
 
@@ -1509,6 +1513,7 @@
 - [ ] https://github.com/chroblert/JCRandomProxy
 - [ ] https://github.com/mthbernardes/GTRS
 - [ ] https://github.com/txthinking/brook
+- [ ] https://github.com/TerminalJockey/Gimic
 
 九、病毒免杀
 
