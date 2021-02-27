@@ -73,6 +73,7 @@
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
+- [ ] [《The Uber Go Style Guide》](https://github.com/uber-go/guide)@Uber
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)@xxjwxc
 - [ ] [《Go语言最佳实践》](https://github.com/llitfkitfk/go-best-practice)@田浩
 - [ ] [《Go语言设计模式》](https://github.com/senghoo/golang-design-pattern)@senghoo
@@ -151,6 +152,7 @@
 - [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)@JKlee
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
+- [ ] https://github.com/Allenxuxu/leetcode-in-go
 
 四、Web开发
 
@@ -665,6 +667,9 @@
 - [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/ropnop/go-clr
 - [ ] https://github.com/changkun/midgard
+- [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/Allenxuxu/ringbuffer
+- [ ] https://github.com/Allenxuxu/eviop
 
 ## 0x03-Golang项目
 
@@ -932,7 +937,6 @@
 - [ ] https://github.com/pa-m/sklearn
 - [ ] https://github.com/electricbubble/gwda
 - [ ] https://github.com/envoyproxy/protoc-gen-validate
-- [ ] https://github.com/Allenxuxu/gev
 - [ ] https://github.com/pierrec/lz4
 - [ ] https://github.com/lampnick/doctron
 - [ ] https://github.com/gijit/gi
@@ -1021,6 +1025,7 @@
 - [ ] https://github.com/lifei6671/mindoc
 - [ ] https://github.com/wasmerio/wasmer-go
 - [ ] https://github.com/pyroscope-io/pyroscope
+- [ ] https://github.com/Allenxuxu/microservices
 
 ## 0x04-Golang安全
 
