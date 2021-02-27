@@ -1328,6 +1328,7 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/EgeBalci/zippo
 - [ ] https://github.com/drsigned/sigurlx
 - [ ] https://github.com/drsigned/sigurls
 - [ ] https://github.com/dowdyph0/transgo
