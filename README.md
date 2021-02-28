@@ -481,6 +481,7 @@
 - [ ] https://github.com/tal-tech/go-zero
 - [ ] https://github.com/karldoenitz/Tigo
 - [ ] https://github.com/System-Glitch/goyave
+- [ ] https://github.com/xinliangnote/go-gin-api
 - [ ] https://github.com/buildkite/terminal-to-html
 - [ ] https://github.com/gin-gonic/examples
 
