@@ -394,6 +394,7 @@
 
 八、错误处理
 
+- [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
 - [ ] https://github.com/cockroachdb/errors
@@ -402,6 +403,7 @@
 
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/fortio/fortio
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -672,6 +674,9 @@
 - [ ] https://github.com/Allenxuxu/ringbuffer
 - [ ] https://github.com/Allenxuxu/eviop
 - [ ] https://github.com/hajimehoshi/ebiten
+- [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/jhump/protoreflect
+- [ ] https://github.com/storyicon/gos
 
 ## 0x03-Golang项目
 
@@ -1028,6 +1033,10 @@
 - [ ] https://github.com/wasmerio/wasmer-go
 - [ ] https://github.com/pyroscope-io/pyroscope
 - [ ] https://github.com/Allenxuxu/microservices
+- [ ] https://github.com/zyedidia/micro
+- [ ] https://github.com/brittonhayes/pillager
+- [ ] https://github.com/matsuyoshi30/germanium
+- [ ] https://github.com/goava/di
 
 ## 0x04-Golang安全
 
