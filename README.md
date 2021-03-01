@@ -256,6 +256,8 @@
 - [ ] https://github.com/lukexwang/GoConcurrencyPatterns
 - [ ] https://github.com/Alikhll/golang-developer-roadmap
 - [ ] https://github.com/carolxiong/golang-study-base-master
+- [ ] https://github.com/GoesToEleven/GolangTraining
+- [ ] https://github.com/ardanlabs/gotraining
 - [ ] https://github.com/Junedayday/code_reading
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
@@ -680,6 +682,7 @@
 - [ ] https://github.com/jhump/protoreflect
 - [ ] https://github.com/storyicon/gos
 - [ ] https://github.com/AaronJan/Hunch
+- [ ] https://github.com/Knetic/govaluate
 
 ## 0x03-Golang项目
 
@@ -1042,6 +1045,7 @@
 - [ ] https://github.com/goava/di
 - [ ] https://github.com/moovweb/gvm
 - [ ] https://github.com/yinheli/sshw
+- [ ] https://github.com/photoprism/photoprism
 
 ## 0x04-Golang安全
 
