@@ -1127,6 +1127,8 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/canc3s/cDomain
+- [ ] https://github.com/canc3s/cSubsidiary
 - [ ] https://github.com/drsigned/sigsubs
 - [ ] https://github.com/mhmdiaa/second-order
 - [ ] https://github.com/anshumanbh/tko-subs
@@ -1547,6 +1549,7 @@
 - [ ] https://github.com/mthbernardes/GTRS
 - [ ] https://github.com/txthinking/brook
 - [ ] https://github.com/TerminalJockey/Gimic
+- [ ] https://github.com/ghostunnel/ghostunnel
 
 九、病毒免杀
 
