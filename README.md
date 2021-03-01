@@ -1361,6 +1361,7 @@
 -  [ ] https://github.com/ryandamour/ssrfuzz
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/bxss
+- [ ] https://github.com/neex/1u.ms
 
 六、漏洞扫描
 
