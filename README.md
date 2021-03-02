@@ -1050,6 +1050,9 @@
 - [ ] https://github.com/Jeffail/benthos
 - [ ] https://github.com/flopp/go-findfont
 - [ ] https://github.com/levidurfee/gowafp
+- [ ] https://github.com/apex/up
+- [ ] https://github.com/seqsense/s3sync
+- [ ] https://github.com/mdlayher/waveform
 
 ## 0x04-Golang安全
 
