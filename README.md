@@ -1107,7 +1107,6 @@
 - [ ] https://github.com/pwn1sher/CertShooter | 通过CertSpotter 搜索子域 | 1
 - [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域 | 126
 - [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
-- [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
 - [ ] https://github.com/subfinder/goaltdns | 用golang编写的置换生成工具 | 103
 - [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1k
 - [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域 | 3
@@ -1116,16 +1115,11 @@
 - [ ] https://github.com/projectdiscovery/dnsprobe | 查询DNS的工具 | 185
 - [ ] https://github.com/iepathos/brutall | 开源的跨平台多工具子域爆破攻击者 | 1
 - [ ] https://github.com/anshumanbh/brutesubs | 配合Docker进行域名爆破 | 226
-- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
-- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
 - [ ] https://github.com/bobesa/go-domain-util | 检查url是否包含子域 | 41
 - [ ] https://github.com/fengdingbo/subdomain-scanner | 使用Golang编写的子域名检测程 | 5
 - [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain | 扫描实时子域 | 1
-- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
-- [ ] https://github.com/51gn3d/stko | 子域接管发现工具 | 2
 - [ ] https://github.com/mosunit/SubdomainEnumerator | 使用多种工具进行子域枚举| 1
 - [ ] https://github.com/mcrouse911/subdomainfinder | 子域名查找器 | 0
-- [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
 - [ ] https://github.com/minix357/subsearch | 小型并发子域枚举工具 | 2
 - [ ] https://github.com/dryvenn/crawler | 简单的网页爬虫子域搜寻器 | 0
 - [ ] https://github.com/z3dc0ps/altsub-pro | 查找子域名的存活状态 | 1
@@ -1474,6 +1468,7 @@
 
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
+- [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
 - [ ] https://github.com/TerminalJockey/Kudzu
 - [ ] https://github.com/TerminalJockey/CreepingVine
 - [ ] https://github.com/TerminalJockey/Skiddify
@@ -1626,10 +1621,15 @@
 十三、漏洞赏金
 
 - [ ] https://github.com/sw33tLie/bbscope
+- [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
+- [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
+- [ ] https://github.com/51gn3d/stko | 子域接管发现工具 | 2
+- [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
+- [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
+- [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
 
 十四、其他项目
 
-- [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 1
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
