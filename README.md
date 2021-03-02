@@ -23,7 +23,7 @@
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
-- [x] [《Go语言实战》]()@刘燕燕译#20%
+- [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
@@ -176,7 +176,6 @@
 - [ ] [《go-internals》](https://github.com/teh-cmc/go-internals)
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《Go Cookbook》]()
-- [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《gostart》](https://github.com/alco/gostart)
 - [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
@@ -1175,7 +1174,7 @@
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 
-二、密码破解
+二、密码爆破
 
 -  https://github.com/topics/bruteforce?l=go
 -  https://github.com/topics/brute-force?l=go
