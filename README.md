@@ -284,39 +284,36 @@
 二、请求响应
 
 - https://github.com/topics/request?l=go
-- [ ] https://golang.org/pkg/net/http
+- [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
-- [ ] https://github.com/julienschmidt/httprouter
-- [ ] https://github.com/valyala/fasthttp
-- [ ] https://github.com/anaskhan96/soup
-- [ ] https://github.com/idoubi/goz
-- [ ] https://github.com/guonaihong/gout
-- [ ] https://github.com/mozillazg/request
-- [ ] https://github.com/timakin/bodyclose
-- [ ] https://github.com/kirinlabs/HttpRequest
-- [ ] https://github.com/monaco-io/request
-- [ ] https://github.com/nahid/gohttp
-- [ ] https://github.com/blackarrowsec/pivotnacci
-- [ ] https://github.com/DavidCai1993/request
-- [ ] https://github.com/zhshch2002/goreq
-- [ ] https://github.com/telanflow/quick
-- [ ] https://github.com/gorilla/mux
-- [ ] https://github.com/imroc/req
-- [ ] https://github.com/aceld/zinx
-- [ ] https://github.com/gookit/rux
-- [ ] https://github.com/asmcos/requests
-- [ ] https://github.com/celrenheit/lion
-- [ ] https://github.com/alexedwards/scs
+- [ ] https://github.com/julienschmidt/httprouter | 轻量级高性能HTTP请求路由器 | 12.4k
+- [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 14.5k
+- [ ] https://github.com/imroc/req | 一个用于人类的HTTP请求库 | 1.7k
+- [ ] https://github.com/anaskhan96/soup | Go中的网页抓取工具 | 1.6k
+- [ ] https://github.com/idoubi/goz | 一个很棒的HTTP请求库 | 184
+- [ ] https://github.com/guonaihong/gout | HTTP领域的瑞士军刀 | 741
+- [ ] https://github.com/mozillazg/request | 友好的HTTP请求库 | 394
+- [ ] https://github.com/timakin/bodyclose | 检查HTTP响应是否正确关闭 | 181
+- [ ] https://github.com/kirinlabs/HttpRequest | 一个简化的HTTP客户端 | 104
+- [ ] https://github.com/zhshch2002/goreq | 一个优雅并简洁的HTTP请求库 | 16
+- [ ] https://github.com/telanflow/quick | 简洁高效的HTTP请求库 | 4
+- [ ] https://github.com/gorilla/mux | 执行HTTP请求的路由和分发 | 13.9k
+- [ ] https://github.com/aceld/zinx | 基于Golang轻量级TCP并发服务器框架 | 3.2k
+- [ ] https://github.com/asmcos/requests | Golang HTTP客户端库 | 489
+- [ ] https://github.com/alexedwards/scs | Go的HTTP会话管理 | 839
+- [ ] https://github.com/parnurzeal/gorequest | 简化的HTTP客户端 | 2.8k
+- [ ] https://github.com/celrenheit/lion |现代可扩展模块化的HTTP路由器 | 749
+- [ ] https://github.com/mssola/user_agent | 解析HTTP的User Agent |  574
+- [ ] https://github.com/google/go-safeweb | 默认安全的HTTP服务器 | 362
+- [ ] https://github.com/levigross/grequests | 著名Requests库的Go克隆 | 1.7k
+- [ ] https://github.com/Greyh4t/zhttp | 对HTTP标准库的封装 | 9
+- [ ] https://github.com/moul/http2curl | 将HTTP请求转换为CURL | 272
+- [ ] https://github.com/vmihailenco/treemux | 快速灵活的HTTP路由器 | 164
+- [ ] https://github.com/monaco-io/request | HTTP请求和HTTP客户端 | 98
+- [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp
-- [ ] https://github.com/parnurzeal/gorequest
-- [ ] https://github.com/mssola/user_agent
-- [ ] https://github.com/google/go-safeweb
-- [ ] https://github.com/patrickhener/goshs
+- [ ] https://github.com/DavidCai1993/request
 - [ ] https://github.com/PuerkitoBio/goquery
-- [ ] https://github.com/levigross/grequests
-- [ ] https://github.com/Greyh4t/zhttp
-- [ ] https://github.com/moul/http2curl
-- [ ] https://github.com/vmihailenco/treemux
 - [ ] https://github.com/grokify/html-strip-tags-go
 
 三、配置文件
@@ -487,6 +484,8 @@
 - [ ] https://github.com/xinliangnote/go-gin-api
 - [ ] https://github.com/buildkite/terminal-to-html
 - [ ] https://github.com/gin-gonic/examples
+- [ ] https://github.com/gookit/rux
+- [ ] https://github.com/patrickhener/goshs
 
 十六、中间件框架
 
@@ -1559,6 +1558,7 @@
 - [ ] https://github.com/txthinking/brook
 - [ ] https://github.com/TerminalJockey/Gimic
 - [ ] https://github.com/ghostunnel/ghostunnel
+- [ ] https://github.com/blackarrowsec/pivotnacci
 
 九、病毒免杀
 
