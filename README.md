@@ -431,6 +431,7 @@
 
 十一、发送邮件
 
+- [ ] gopkg.in/gomail.v2
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/go-gomail/gomail
 - [ ] https://github.com/jordan-wright/email
@@ -684,6 +685,7 @@
 - [ ] https://github.com/AaronJan/Hunch
 - [ ] https://github.com/Knetic/govaluate
 - [ ] https://github.com/sevlyar/go-daemon
+- [ ] https://github.com/gin-contrib/httpsign
 
 ## 0x03-Golang项目
 
@@ -969,7 +971,6 @@
 - [ ] https://github.com/cloudskiff/driftctl
 - [ ] https://github.com/evilsocket/arc
 - [ ] https://github.com/antlr/antlr4
-- [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/akyoto/asm
 - [ ] https://github.com/labulaka521/yuque_sync
 - [ ] https://github.com/DominicBreuker/pspy
@@ -1053,6 +1054,7 @@
 - [ ] https://github.com/apex/up
 - [ ] https://github.com/seqsense/s3sync
 - [ ] https://github.com/mdlayher/waveform
+- [ ] https://github.com/ayoisaiah/f2
 
 ## 0x04-Golang安全
 
