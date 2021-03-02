@@ -14,6 +14,12 @@
 
 ## 0x01-Golang资源
 
+- https://github.com/avelino/awesome-go
+- https://github.com/shockerli/go-awesome
+- https://github.com/jobbole/awesome-go-cn
+- https://github.com/hyper0x/awesome-go-China
+- https://github.com/yinggaozhen/awesome-go-cn
+
 一、基础书籍
 
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
@@ -262,13 +268,8 @@
 
 ## 0x02-Golang框架
 
-- [ ] https://github.com/avelino/awesome-go
-- [ ] https://github.com/shockerli/go-awesome
-- [ ] https://github.com/jobbole/awesome-go-cn
-- [ ] https://github.com/hyper0x/awesome-go-China
-- [ ] https://github.com/yinggaozhen/awesome-go-cn
-- [ ] https://github.com/topics/golang-library
-- [ ] https://github.com/topics/golang-application
+- https://github.com/topics/golang-library
+- https://github.com/topics/golang-application
 
 一、命令控制
 
@@ -687,10 +688,8 @@
 
 ## 0x03-Golang项目
 
-〇、项目搜索
-
-- [ ] https://github.com/trending/go
-- [ ] https://github.com/topics/tool?l=go
+- https://github.com/trending/go
+- https://github.com/topics/tool?l=go
 
 一、CMS网站
 
@@ -1056,8 +1055,6 @@
 
 ## 0x04-Golang安全
 
-〇、HackWithGo
-
 -  https://github.com/topics/poc?l=go
 -  https://github.com/topics/cve?l=go
 -  https://github.com/topics/recon?l=go
@@ -1068,17 +1065,17 @@
 -  https://github.com/topics/reconnaissance?l=go
 -  https://github.com/topics/information-gathering?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
-- [ ] [Hacking-with-Go ](https://github.com/parsiya/Hacking-with-Go)@parsiya
-- [ ] [My Go Security Projects](https://github.com/parsiya/Go-Security) @parsiya
-- [ ] [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) @AV1080p
-- [ ] [goHackTools](https://github.com/dreddsa5dies/goHackTools) @dreddsa5dies
-- [ ] [hackerrankGo ](https://github.com/dreddsa5dies/hackerrankGo)@dreddsa5dies
-- [ ] [1000GoExamples](https://github.com/dreddsa5dies/1000GoExamples) @dreddsa5dies
-- [ ] [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists#go)@taielab
-- [ ] [awesome-go-security](https://github.com/Binject/awesome-go-security)@Binject
-- [ ] [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [ ] [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-- [ ] [A collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
+- [ ] https://github.com/parsiya/Hacking-with-Go
+- [ ] https://github.com/parsiya/Go-Security
+- [ ] https://github.com/tomnomnom/hacks
+- [ ] https://github.com/AV1080p/Hacking-With-Golang
+- [ ] https://github.com/dreddsa5dies/goHackTools
+- [ ] https://github.com/dreddsa5dies/hackerrankGo
+- [ ] https://github.com/dreddsa5dies/1000GoExamples
+- [ ] https://github.com/taielab/awesome-hacking-lists#go
+- [ ] https://github.com/Binject/awesome-go-security
+- [ ] https://github.com/Hack-with-Github/Awesome-Hacking
+- [ ] https://github.com/hahwul/WebHackersWeapons
 
 一、域名扫描
 
@@ -1796,11 +1793,11 @@
 - [ ] https://github.com/goretk/redress
 - [ ] https://github.com/goretk/gore
 - [ ] https://github.com/0xjiayu/go_parser
-- [ ] https://www.anquanke.com/member/122079
-- [ ] https://github.com/CarveSystems/gostringsr2
-- [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 - [ ] https://github.com/lunixbochs/usercorn
 - [ ] https://github.com/e-m-b-a/emba
+- [ ] https://github.com/CarveSystems/gostringsr2
+- [ ] https://www.anquanke.com/member/122079
+- [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
 二、逆向Go程序
 
@@ -1828,7 +1825,7 @@
 
 ## 0x06-Golang老师
 
-排名不分先后，记录自己在学习Go语言过程中遇到的优秀老师前辈们。感谢感谢！
+此处排名不分先后，向自己在学习Go语言过程中遇到的优秀老师致敬。感谢感谢！
 
 一、Go教程资源
 
