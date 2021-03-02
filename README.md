@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月1日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月2日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -683,6 +683,7 @@
 - [ ] https://github.com/storyicon/gos
 - [ ] https://github.com/AaronJan/Hunch
 - [ ] https://github.com/Knetic/govaluate
+- [ ] https://github.com/sevlyar/go-daemon
 
 ## 0x03-Golang项目
 
@@ -1046,6 +1047,9 @@
 - [ ] https://github.com/moovweb/gvm
 - [ ] https://github.com/yinheli/sshw
 - [ ] https://github.com/photoprism/photoprism
+- [ ] https://github.com/Jeffail/benthos
+- [ ] https://github.com/flopp/go-findfont
+- [ ] https://github.com/levidurfee/gowafp
 
 ## 0x04-Golang安全
 
@@ -1442,6 +1446,7 @@
 - [ ] https://github.com/1ight-2020/Struts2Scanner
 - [ ] https://github.com/deepsecurity-pe/GoGhost
 - [ ] https://github.com/six2dez/reconftw
+- [ ] https://github.com/stanford-esrg/lzr
 -  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
@@ -1471,6 +1476,7 @@
 - [ ] https://github.com/TerminalJockey/GShell
 - [ ] https://github.com/dennis-tra/pcp
 - [ ] https://github.com/grines/goc2
+- [ ] https://github.com/S4R1N/Tritium
 
 八、代理隧道
 
