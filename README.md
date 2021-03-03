@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月2日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月3日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -170,6 +170,7 @@
 
 五、英文书籍
 
+- [ ] [《Take your first steps with Go》](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
@@ -1576,6 +1577,7 @@
 - [ ] https://github.com/EddieIvan01/gld
 - [ ] https://github.com/Ne0nd0g/go-shellcode
 - [ ] https://github.com/hack2fun/BypassAV
+- [ ] https://github.com/pureqh/bypassAV
 - [ ] https://github.com/Binject/backdoorfactory
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
