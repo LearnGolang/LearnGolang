@@ -595,6 +595,7 @@
 - [ ] https://github.com/go-kit/kit
 - [ ] https://github.com/kubernetes/klog
 - [ ] https://github.com/xlab/treeprint
+- [ ] https://github.com/influxdata/influxdb
 - [ ] https://github.com/influxdata/influxdb-client-go
 - [ ] https://github.com/zmap/zcrypto
 - [ ] https://github.com/rmb122/rogue_mysql_server
@@ -686,6 +687,7 @@
 - [ ] https://github.com/Knetic/govaluate
 - [ ] https://github.com/sevlyar/go-daemon
 - [ ] https://github.com/gin-contrib/httpsign
+- [ ] https://github.com/evilsocket/ftrace
 
 ## 0x03-Golang项目
 
@@ -1053,6 +1055,11 @@
 - [ ] https://github.com/seqsense/s3sync
 - [ ] https://github.com/mdlayher/waveform
 - [ ] https://github.com/ayoisaiah/f2
+- [ ] https://github.com/visma-prodsec/confused
+- [ ] https://github.com/grafana/grizzly
+- [ ] https://github.com/chriswalz/bit
+- [ ] https://github.com/kitabisa/mubeng
+- [ ] https://github.com/cookieY/Yearning
 
 ## 0x04-Golang安全
 
@@ -1786,6 +1793,7 @@
 - [ ] https://github.com/malfunkt/iprange
 - [ ] https://github.com/EmYiQing/go-wafw00f
 - [ ] https://github.com/canc3s/cSubsidiary
+- [ ] https://github.com/sensepost/ruler
 
 ## 0x05-Golang逆向
 
