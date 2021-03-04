@@ -688,6 +688,7 @@
 - [ ] https://github.com/sevlyar/go-daemon
 - [ ] https://github.com/gin-contrib/httpsign
 - [ ] https://github.com/evilsocket/ftrace
+- [ ] https://github.com/gabriel-vasile/mimetype
 
 ## 0x03-Golang项目
 
@@ -1063,6 +1064,8 @@
 - [ ] https://github.com/shirou/gopsutil
 - [ ] https://github.com/miguelpragier/handy
 - [ ] https://github.com/evolbioinfo/gotree
+- [ ] https://github.com/benjojo/sping
+- [ ] https://github.com/phuslu/log
 
 ## 0x04-Golang安全
 
