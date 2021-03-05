@@ -282,6 +282,8 @@
 - [ ] https://github.com/mattn/go-colorable
 - [ ] https://github.com/mgutz/ansi
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
+- [ ] https://github.com/charmbracelet/bubbles
+- [ ] https://github.com/charmbracelet/bubbletea
 
 二、请求响应
 
@@ -328,6 +330,7 @@
 - [ ] https://github.com/Jeffail/gabs
 - [ ] https://github.com/tidwall/pjson
 - [ ] https://github.com/layeh/gopher-json
+- [ ] https://github.com/simeji/jid
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -1070,6 +1073,8 @@
 - [ ] https://github.com/mazen160/go-random
 - [ ] https://github.com/chrislusf/seaweedfs
 - [ ] https://github.com/LockGit/gochat
+- [ ] https://github.com/mdlayher/consrv
+- [ ] https://github.com/gwuhaolin/livego
 
 ## 0x04-Golang安全
 
@@ -1477,6 +1482,7 @@
 - [ ] https://github.com/anasbousselham/fortiscan
 - [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
 - [ ] https://github.com/1ight-2020/RuijieRCE
+- [ ] https://github.com/GreyOrder/CVE-2021-21978
 
 七、内网渗透
 
