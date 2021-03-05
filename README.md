@@ -1069,6 +1069,7 @@
 - [ ] https://github.com/ZZMarquis/gm
 - [ ] https://github.com/mazen160/go-random
 - [ ] https://github.com/chrislusf/seaweedfs
+- [ ] https://github.com/LockGit/gochat
 
 ## 0x04-Golang安全
 
