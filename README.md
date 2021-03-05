@@ -1067,6 +1067,8 @@
 - [ ] https://github.com/benjojo/sping
 - [ ] https://github.com/phuslu/log
 - [ ] https://github.com/ZZMarquis/gm
+- [ ] https://github.com/mazen160/go-random
+- [ ] https://github.com/chrislusf/seaweedfs
 
 ## 0x04-Golang安全
 
@@ -1456,7 +1458,6 @@
 - [ ] https://github.com/deepsecurity-pe/GoGhost
 - [ ] https://github.com/six2dez/reconftw
 - [ ] https://github.com/stanford-esrg/lzr
--  CVE漏洞扫描
 - [ ] https://github.com/canc3s/shiro
 - [ ] https://github.com/sw33tLie/sns
 - [ ] https://github.com/x51/STS2G
@@ -1474,6 +1475,7 @@
 - [ ] https://github.com/BurnyMcDull/CVE-2017-7921
 - [ ] https://github.com/anasbousselham/fortiscan
 - [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
+- [ ] https://github.com/1ight-2020/RuijieRCE
 
 七、内网渗透
 
@@ -1802,6 +1804,7 @@
 - [ ] https://github.com/canc3s/cSubsidiary
 - [ ] https://github.com/sensepost/ruler
 - [ ] https://github.com/mlcsec/headi
+- [ ] https://github.com/neex/http2smugl
 
 ## 0x05-Golang逆向
 
