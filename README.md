@@ -692,6 +692,8 @@
 - [ ] https://github.com/gin-contrib/httpsign
 - [ ] https://github.com/evilsocket/ftrace
 - [ ] https://github.com/gabriel-vasile/mimetype
+- [ ] https://github.com/segmentio/encoding
+- [ ] https://github.com/prometheus/client_golang
 
 ## 0x03-Golang项目
 
@@ -1853,6 +1855,10 @@
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
+
+五、其他项目
+
+- [ ] https://github.com/minio/c2goasm
 
 ## 0x06-Golang老师
 
