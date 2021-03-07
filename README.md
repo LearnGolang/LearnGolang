@@ -1651,6 +1651,7 @@
 十二、移动安全
 
 - [ ] https://github.com/ndelphit/apkurlgrep
+- [ ] https://github.com/togettoyou/super-signature
 
 十三、漏洞赏金
 
