@@ -123,7 +123,7 @@
 - [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马
 - [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
 - [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
-- [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹
+- [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
 - [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
 - [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
 - [ ] [《Go Web开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
@@ -372,8 +372,9 @@
 -  [ ] https://github.com/Cgboal/SonarSearch
 -  [ ] https://github.com/mongodb/mongo-go-driver
 -  [ ] https://github.com/qiniu/qmgo
--  [ ] PostgreSQL
--  https://github.com/sosedoff/pgweb
+-  [ ] https://github.com/256dpi/lungo
+-  PostgreSQL
+-  [ ] https://github.com/sosedoff/pgweb
 -  Others
 -  [ ] https://github.com/jackc/pgx
 -  [ ] https://github.com/boltdb/bolt
@@ -1083,6 +1084,7 @@
 - [ ] https://github.com/markphelps/flipt
 - [ ] https://github.com/AdguardTeam/AdGuardHome
 - [ ] https://github.com/gokcehan/lf
+- [ ] https://github.com/gdamore/tcell
 
 ## 0x04-Golang安全
 
@@ -1778,7 +1780,6 @@
 - [ ] https://github.com/XTLS/Xray-core
 - [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/ArmyCyberInstitute/cmgr
-- [ ] https://github.com/securego/gosec
 - [ ] https://github.com/drsigned/substko
 - [ ] https://github.com/drsigned/bypass403
 - [ ] https://github.com/drsigned/corsmisc
