@@ -168,7 +168,7 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-五、英文书籍
+五、英文资源
 
 - [ ] [《Take your first steps with Go》](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -209,13 +209,16 @@
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
 - [ ] [《Get Programming with Go》]()
-- [ ] [《The Ultimate Go Study Guide》](https://github.com/hoanhan101/ultimate-go)
 - [ ] [《Network Programming With Go》](https://jan.newmarch.name/go/)
 - [ ] [《Spaceship Go A Journey to the Standard Library》](https://blasrodri.github.io/spaceship-go-gh-pages/)
 - [ ] [《The Go Programming Language》](http://www.gopl.io/)
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 - [ ] [《Nonsequential and Distributed Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
+- [ ] https://github.com/quii/learn-go-with-tests
+- [ ] https://github.com/hoanhan101/ultimate-go
+- [ ] https://github.com/ardanlabs/gotraining
+- [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
 
 六、论坛版块
 
@@ -263,7 +266,6 @@
 - [ ] https://github.com/Alikhll/golang-developer-roadmap
 - [ ] https://github.com/carolxiong/golang-study-base-master
 - [ ] https://github.com/GoesToEleven/GolangTraining
-- [ ] https://github.com/ardanlabs/gotraining
 - [ ] https://github.com/Junedayday/code_reading
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
