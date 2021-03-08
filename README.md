@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月7日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月8日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -699,6 +699,7 @@
 - [ ] https://github.com/segmentio/encoding
 - [ ] https://github.com/prometheus/client_golang
 - [ ] https://github.com/nytimes/gziphandler
+- [ ] https://github.com/crewjam/saml
 
 ## 0x03-Golang项目
 
@@ -1087,6 +1088,8 @@
 - [ ] https://github.com/AdguardTeam/AdGuardHome
 - [ ] https://github.com/gokcehan/lf
 - [ ] https://github.com/gdamore/tcell
+- [ ] https://github.com/nurdism/neko
+- [ ] https://github.com/simonmittag/j8a
 
 ## 0x04-Golang安全
 
@@ -1289,6 +1292,10 @@
 
 - [ ] https://github.com/lcvvvv/kscan
 - [ ] https://github.com/broken5/bscan
+- [ ] https://github.com/ShiHuang-ESec/EHole
+- [ ] https://github.com/EdgeSecurityTeam/EHole
+- [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
+- [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 
 四、漏洞扫描
 
@@ -1351,7 +1358,6 @@
 -  [ ] https://github.com/botherder/kraken
 -  [ ] https://github.com/devanshbatham/Gorecon
 -  [ ] https://github.com/rverton/webanalyze
--  [ ] https://github.com/ShiHuang-ESec/EHole
 -  [ ] https://github.com/TeraSecTeam/ary
 -  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/thunderbarca/Noah
@@ -1446,8 +1452,6 @@
 - [ ] https://github.com/hakluke/hakrawler | 快速的Web搜寻器 | 1.6k
 - [ ] https://github.com/projectdiscovery/nuclei | 扫描的快速工具 | 1.6k
 - [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
-- [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
-- [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
 - [ ] https://github.com/M4DM0e/DirDar
@@ -1828,6 +1832,7 @@
 - [ ] https://github.com/sensepost/ruler
 - [ ] https://github.com/mlcsec/headi
 - [ ] https://github.com/neex/http2smugl
+- [ ] https://github.com/sjatsh/unwxapkg
 
 ## 0x05-Golang逆向
 
