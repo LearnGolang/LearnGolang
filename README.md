@@ -198,7 +198,7 @@
 - [ ] [《Learning Go》](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/)
 - [ ] [《Learning Go Programming》]()
 - [x] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
-- [ ] [《Network Programming With Go》]()
+- [ ] [《Network Programming With Go》](https://nostarch.com/networkprogrammingwithgo)
 - [ ] [《Introducing Go》]()
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《The Way To Go》]()
@@ -700,6 +700,7 @@
 - [ ] https://github.com/prometheus/client_golang
 - [ ] https://github.com/nytimes/gziphandler
 - [ ] https://github.com/crewjam/saml
+- [ ] https://github.com/neilotoole/sq
 
 ## 0x03-Golang项目
 
@@ -777,7 +778,6 @@
 - [ ] https://github.com/hashicorp/boundary
 - [ ] https://github.com/ReactiveX/RxGo
 - [ ] https://github.com/cookieY/Yearning
-- [ ] https://github.com/didi/nightingale
 - [ ] https://github.com/infinitbyte/gopa
 - [ ] https://github.com/bouk/babelfish
 - [ ] https://github.com/magma/magma
@@ -1090,6 +1090,9 @@
 - [ ] https://github.com/gdamore/tcell
 - [ ] https://github.com/nurdism/neko
 - [ ] https://github.com/simonmittag/j8a
+- [ ] https://github.com/kyleconroy/sqlc
+- [ ] https://github.com/matsuyoshi30/song2
+- [ ] https://github.com/MetalBlueberry/chkb
 
 ## 0x04-Golang安全
 
