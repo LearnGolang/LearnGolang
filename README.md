@@ -286,6 +286,7 @@
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
+- [ ] https://github.com/spf13/cobra
 
 二、请求响应
 
@@ -433,6 +434,7 @@
 - [ ] https://github.com/marusama/cyclicbarrier
 - [ ] https://github.com/qianguozheng/go-workerpool
 - [ ] https://github.com/mdlayher/schedgroup
+- [ ] https://github.com/benmanns/goworker
 
 十一、发送邮件
 
@@ -586,7 +588,6 @@
 - [ ] https://github.com/icodeface/grdp
 - [ ] https://github.com/Madnikulin50/gordp
 - [ ] https://github.com/admpub/email-verifier
-- [ ] https://github.com/spf13/cobra
 - [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/signintech/gopdf
