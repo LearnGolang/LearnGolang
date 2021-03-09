@@ -1540,6 +1540,8 @@
 - [ ] https://github.com/insightglacier/go_meterpreter
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/BelodedAleksey/win_hack
+- [ ] https://github.com/BelodedAleksey/DLL_Injection
+- [ ] https://github.com/saulpanders/payloadTests
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 
