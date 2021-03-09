@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月8日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月9日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -387,6 +387,7 @@
 -  [ ] https://github.com/didiyudha/sse-redis
 -  [ ] https://github.com/shenghui0779/yiigo
 -  [ ] https://github.com/denisenkom/go-mssqldb
+-  [ ] https://github.com/rubenv/sql-migrate
 
 七、日志处理
 
@@ -702,6 +703,7 @@
 - [ ] https://github.com/nytimes/gziphandler
 - [ ] https://github.com/crewjam/saml
 - [ ] https://github.com/neilotoole/sq
+- [ ] https://github.com/bilibili/gengine
 
 ## 0x03-Golang项目
 
@@ -1035,7 +1037,6 @@
 - [ ] https://github.com/nickw8/vimkatas
 - [ ] https://github.com/Palexer/mdconv
 - [ ] https://github.com/pyroscope-io/pyroscope
-- [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/huaxr/rx
 - [ ] https://github.com/moulco/moul
 - [ ] https://github.com/kitabisa/mubeng
@@ -1392,6 +1393,8 @@
 -  [ ] https://github.com/brompwnie/CVE-2019-5418-Scanner
 -  [ ] https://github.com/1ight-2020/RuijieRCE
 -  [ ] https://github.com/GreyOrder/CVE-2021-21978
+-  [ ] https://github.com/GreyOrder/CVE-2021-26855
+-  [ ] https://github.com/dwisiswant0/proxylogscan
 
 五、密码爆破
 
@@ -1620,6 +1623,7 @@
 - [ ] https://github.com/Hangingsword/HouQing
 - [ ] https://github.com/insightglacier/go_meterpreter
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
+- [ ] https://github.com/BelodedAleksey/win_hack
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 
@@ -1635,6 +1639,7 @@
 - [ ] https://github.com/dennis-tra/pcp
 - [ ] https://github.com/grines/goc2
 - [ ] https://github.com/S4R1N/Tritium
+- [ ] https://github.com/S4R1N/Hitman
 
 十一、社工钓鱼
 
@@ -1837,6 +1842,7 @@
 - [ ] https://github.com/mlcsec/headi
 - [ ] https://github.com/neex/http2smugl
 - [ ] https://github.com/sjatsh/unwxapkg
+- [ ] https://github.com/x3419/TorgoBot
 
 ## 0x05-Golang逆向
 
@@ -1848,6 +1854,7 @@
 - [ ] https://github.com/0xjiayu/go_parser
 - [ ] https://github.com/lunixbochs/usercorn
 - [ ] https://github.com/e-m-b-a/emba
+- [ ] https://github.com/myrtus0x0/SMAT
 - [ ] https://github.com/CarveSystems/gostringsr2
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
