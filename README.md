@@ -1511,91 +1511,7 @@
 - [ ] https://github.com/ethicalhackingplayground/bxss
 - [ ] https://github.com/neex/1u.ms
 
-八、代理隧道
-
--  https://github.com/topics/proxy?l=go
--  https://github.com/topics/tunnel?l=go
--  https://github.com/topics/reverse-proxy?l=go
-- [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
-- [ ] https://github.com/uknowsec/frpModify
-- [ ] https://github.com/Dliv3/Venom
-- [ ] https://github.com/Ne0nd0g/merlin
-- [ ] https://github.com/danielan/lonely-shell
-- [ ] https://github.com/sysdream/ligolo
-- [ ] https://github.com/sysdream/hershell
-- [ ] https://github.com/sysdream/chashell
-- [ ] https://github.com/cw1997/NATBypass
-- [ ] https://github.com/ph4ntonn/go-socks5
-- [ ] https://github.com/ph4ntonn/Stowaway
-- [ ] https://github.com/LubyRuffy/tcptunnel
-- [ ] https://github.com/FireFart/goshell
-- [ ] https://github.com/ypcd/gstunnel
-- [ ] https://github.com/ginuerzh/gost
-- [ ] https://github.com/EddieIvan01/iox
-- [ ] https://github.com/ring04h/s5.go
-- [ ] https://github.com/Ridter/DomainHiding
-- [ ] https://github.com/imgproxy/imgproxy
-- [ ] https://github.com/knownsec/Portforward
-- [ ] https://github.com/TNK-Studio/gortal
-- [ ] https://github.com/drk1wi/Modlishka
-- [ ] https://github.com/ehang-io/nps
-- [ ] https://github.com/Dreamacro/clash
-- [ ] https://github.com/jpillora/chisel
-- [ ] https://github.com/gwuhaolin/lightsocks
-- [ ] https://github.com/xct/xc
-- [ ] https://github.com/snail007/goproxy
-- [ ] https://github.com/staaldraad/turner
-- [ ] https://github.com/esrrhs/pingtunnel
-- [ ] https://github.com/whitehatnote/BlueShell
-- [ ] https://github.com/averagesecurityguy/c2
-- [ ] https://github.com/e3prom/ruse
-- [ ] https://github.com/google/martian
-- [ ] https://github.com/stripe/smokescreen
--  [ ] https://github.com/BitTheByte/Eagle
--  [ ] https://github.com/FunnyWolf/TFirewall
--  [ ] https://github.com/rhaidiz/broxy
--  [ ] https://github.com/p4gefau1t/trojan-go
--  [ ] https://github.com/AdguardTeam/dnsproxy
-- [ ] https://github.com/inconshreveable/ngrok
-- [ ] https://github.com/rabbitmask/Netstat
-- [x] https://github.com/WangYihang/Platypus
-- [ ] https://github.com/wrfly/gus-proxy
-- [ ] https://github.com/danielan/lonely-shell
--  [ ] https://github.com/crabkun/switcher
--  [ ] https://github.com/rancher/remotedialer
-- [ ] https://github.com/HTFTIMEONE/proxyPool
-- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
-- [ ] https://github.com/TheKingOfDuck/ReverseGoShell
-- [ ] https://github.com/mauri870/powershell-reverse-http
-- [ ] https://github.com/thinkgos/jocasta
-- [ ] https://github.com/yinqiwen/gsnova
-- [ ] https://github.com/canc3s/gnc
-- [ ] https://github.com/lu4p/ToRat
-- [ ] https://github.com/inlets/inlets
-- [ ] https://github.com/Lz1y/NatSocks
-- [ ] https://github.com/dushixiang/4dnat
-- [ ] https://github.com/lesnuages/hershell
-- [ ] https://github.com/redcode-labs/GoSH
-- [ ] https://github.com/muraenateam/muraena
-- [ ] https://github.com/Sandertv/gophertunnel
-- [ ] https://github.com/crowdsecurity/crowdsec
-- [ ] https://github.com/projectdiscovery/proxify
-- [ ] https://github.com/unixpickle/reverseproxy
-- [ ] https://github.com/slemire/reversetroll
-- [ ] https://github.com/pry0cc/soxy
-- [ ] https://github.com/ice-ice/dnstunnel
-- [ ] https://github.com/TeaWeb/build
-- [ ] https://github.com/projectdiscovery/proxify
-- [ ] https://github.com/maskedeken/gost-plugin
-- [ ] https://github.com/haxii/fastproxy
-- [ ] https://github.com/chroblert/JCRandomProxy
-- [ ] https://github.com/mthbernardes/GTRS
-- [ ] https://github.com/txthinking/brook
-- [ ] https://github.com/TerminalJockey/Gimic
-- [ ] https://github.com/ghostunnel/ghostunnel
-- [ ] https://github.com/blackarrowsec/pivotnacci
-
-九、病毒免杀
+八、病毒免杀
 
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/EgeBalci/sgn
@@ -1626,6 +1542,90 @@
 - [ ] https://github.com/BelodedAleksey/win_hack
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
+
+九、代理隧道
+
+-  https://github.com/topics/proxy?l=go
+-  https://github.com/topics/tunnel?l=go
+-  https://github.com/topics/reverse-proxy?l=go
+-  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
+-  [ ] https://github.com/uknowsec/frpModify
+-  [ ] https://github.com/Dliv3/Venom
+-  [ ] https://github.com/Ne0nd0g/merlin
+-  [ ] https://github.com/danielan/lonely-shell
+-  [ ] https://github.com/sysdream/ligolo
+-  [ ] https://github.com/sysdream/hershell
+-  [ ] https://github.com/sysdream/chashell
+-  [ ] https://github.com/cw1997/NATBypass
+-  [ ] https://github.com/ph4ntonn/go-socks5
+-  [ ] https://github.com/ph4ntonn/Stowaway
+-  [ ] https://github.com/LubyRuffy/tcptunnel
+-  [ ] https://github.com/FireFart/goshell
+-  [ ] https://github.com/ypcd/gstunnel
+-  [ ] https://github.com/ginuerzh/gost
+-  [ ] https://github.com/EddieIvan01/iox
+-  [ ] https://github.com/ring04h/s5.go
+-  [ ] https://github.com/Ridter/DomainHiding
+-  [ ] https://github.com/imgproxy/imgproxy
+-  [ ] https://github.com/knownsec/Portforward
+-  [ ] https://github.com/TNK-Studio/gortal
+-  [ ] https://github.com/drk1wi/Modlishka
+-  [ ] https://github.com/ehang-io/nps
+-  [ ] https://github.com/Dreamacro/clash
+-  [ ] https://github.com/jpillora/chisel
+-  [ ] https://github.com/gwuhaolin/lightsocks
+-  [ ] https://github.com/xct/xc
+-  [ ] https://github.com/snail007/goproxy
+-  [ ] https://github.com/staaldraad/turner
+-  [ ] https://github.com/esrrhs/pingtunnel
+-  [ ] https://github.com/whitehatnote/BlueShell
+-  [ ] https://github.com/averagesecurityguy/c2
+-  [ ] https://github.com/e3prom/ruse
+-  [ ] https://github.com/google/martian
+-  [ ] https://github.com/stripe/smokescreen
+-  [ ] https://github.com/BitTheByte/Eagle
+-  [ ] https://github.com/FunnyWolf/TFirewall
+-  [ ] https://github.com/rhaidiz/broxy
+-  [ ] https://github.com/p4gefau1t/trojan-go
+-  [ ] https://github.com/AdguardTeam/dnsproxy
+-  [ ] https://github.com/inconshreveable/ngrok
+-  [ ] https://github.com/rabbitmask/Netstat
+-  [x] https://github.com/WangYihang/Platypus
+-  [ ] https://github.com/wrfly/gus-proxy
+-  [ ] https://github.com/danielan/lonely-shell
+-  [ ] https://github.com/crabkun/switcher
+-  [ ] https://github.com/rancher/remotedialer
+-  [ ] https://github.com/HTFTIMEONE/proxyPool
+-  [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
+-  [ ] https://github.com/TheKingOfDuck/ReverseGoShell
+-  [ ] https://github.com/mauri870/powershell-reverse-http
+-  [ ] https://github.com/thinkgos/jocasta
+-  [ ] https://github.com/yinqiwen/gsnova
+-  [ ] https://github.com/canc3s/gnc
+-  [ ] https://github.com/lu4p/ToRat
+-  [ ] https://github.com/inlets/inlets
+-  [ ] https://github.com/Lz1y/NatSocks
+-  [ ] https://github.com/dushixiang/4dnat
+-  [ ] https://github.com/lesnuages/hershell
+-  [ ] https://github.com/redcode-labs/GoSH
+-  [ ] https://github.com/muraenateam/muraena
+-  [ ] https://github.com/Sandertv/gophertunnel
+-  [ ] https://github.com/crowdsecurity/crowdsec
+-  [ ] https://github.com/projectdiscovery/proxify
+-  [ ] https://github.com/unixpickle/reverseproxy
+-  [ ] https://github.com/slemire/reversetroll
+-  [ ] https://github.com/pry0cc/soxy
+-  [ ] https://github.com/ice-ice/dnstunnel
+-  [ ] https://github.com/TeaWeb/build
+-  [ ] https://github.com/projectdiscovery/proxify
+-  [ ] https://github.com/maskedeken/gost-plugin
+-  [ ] https://github.com/haxii/fastproxy
+-  [ ] https://github.com/chroblert/JCRandomProxy
+-  [ ] https://github.com/mthbernardes/GTRS
+-  [ ] https://github.com/txthinking/brook
+-  [ ] https://github.com/TerminalJockey/Gimic
+-  [ ] https://github.com/ghostunnel/ghostunnel
+-  [ ] https://github.com/blackarrowsec/pivotnacci
 
 十、内网渗透
 
