@@ -704,6 +704,8 @@
 - [ ] https://github.com/crewjam/saml
 - [ ] https://github.com/neilotoole/sq
 - [ ] https://github.com/bilibili/gengine
+- [ ] https://github.com/eyebluecn/tank
+- [ ] https://github.com/flike/idgo
 
 ## 0x03-Golang项目
 
@@ -1544,6 +1546,7 @@
 - [ ] https://github.com/saulpanders/payloadTests
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
+- [ ] https://github.com/timwhitez/Doge-Assembly
 
 九、代理隧道
 
@@ -1845,6 +1848,7 @@
 - [ ] https://github.com/neex/http2smugl
 - [ ] https://github.com/sjatsh/unwxapkg
 - [ ] https://github.com/x3419/TorgoBot
+- [ ] https://github.com/minio/c2goasm
 
 ## 0x05-Golang逆向
 
