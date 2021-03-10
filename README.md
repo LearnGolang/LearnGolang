@@ -267,6 +267,7 @@
 - [ ] https://github.com/carolxiong/golang-study-base-master
 - [ ] https://github.com/GoesToEleven/GolangTraining
 - [ ] https://github.com/Junedayday/code_reading
+- [ ] https://github.com/thinkgos/golang-design-pattern
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang框架
@@ -401,6 +402,7 @@
 - [ ] https://github.com/foomo/logfrog
 - [ ] https://github.com/bp0lr/go-logger
 - [ ] https://github.com/chzyer/logex
+- [ ] https://github.com/hashicorp/go-multierror
 
 八、错误处理
 
