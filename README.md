@@ -707,6 +707,7 @@
 - [ ] https://github.com/bilibili/gengine
 - [ ] https://github.com/eyebluecn/tank
 - [ ] https://github.com/flike/idgo
+- [ ] https://github.com/bspaans/jit-compiler
 
 ## 0x03-Golang项目
 
@@ -1098,6 +1099,7 @@
 - [ ] https://github.com/kyleconroy/sqlc
 - [ ] https://github.com/matsuyoshi30/song2
 - [ ] https://github.com/MetalBlueberry/chkb
+- [ ] https://github.com/theparanoids/ashirt-server
 
 ## 0x04-Golang安全
 
