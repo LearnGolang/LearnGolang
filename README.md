@@ -1179,6 +1179,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/canc3s/cIPR
 - [ ] https://github.com/canc3s/cDomain
 - [ ] https://github.com/canc3s/cSubsidiary
 - [ ] https://github.com/drsigned/sigsubs
