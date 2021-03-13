@@ -1776,7 +1776,6 @@
 - [ ] https://github.com/kerbyj/ctfengine
 - [ ] https://github.com/EgeBalci/amber
 - [ ] https://github.com/virink/VulWarning
-- [ ] https://github.com/chroblert/JCRandomProxy
 - [ ] https://github.com/tomsteele/pen-utils
 - [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/esrrhs/fastreplace
