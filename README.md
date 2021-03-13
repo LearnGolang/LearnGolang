@@ -577,14 +577,12 @@
 - [ ] https://github.com/c-bata/go-prompt
 - [ ] https://github.com/cespare/xxhash
 - [ ] https://github.com/foxcpp/maddy
-- [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/thinkgos/http-middlewares
 - [ ] https://github.com/allegro/bigcache
 - [ ] https://github.com/eiannone/keyboard
 - [ ] https://github.com/bojanz/address
 - [ ] https://github.com/silenceper/pool
 - [ ] https://github.com/BlackCodes/logbud
-- [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/intel-go/nff-go
 - [ ] https://github.com/mailhog/MailHog
@@ -1103,6 +1101,7 @@
 - [ ] https://github.com/theparanoids/ashirt-server
 - [ ] https://github.com/hashicorp/waypoint
 - [ ] https://github.com/authelia/authelia
+- [ ] https://github.com/temporalio/temporal
 
 ## 0x04-Golang安全
 
@@ -1180,6 +1179,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/canc3s/cIPR
 - [ ] https://github.com/canc3s/cDomain
 - [ ] https://github.com/canc3s/cSubsidiary
@@ -1624,7 +1624,6 @@
 -  [ ] https://github.com/muraenateam/muraena
 -  [ ] https://github.com/Sandertv/gophertunnel
 -  [ ] https://github.com/crowdsecurity/crowdsec
--  [ ] https://github.com/projectdiscovery/proxify
 -  [ ] https://github.com/unixpickle/reverseproxy
 -  [ ] https://github.com/slemire/reversetroll
 -  [ ] https://github.com/pry0cc/soxy
@@ -1810,7 +1809,6 @@
 - [ ] https://github.com/fabpot/local-php-security-checker
 - [ ] https://github.com/pkg/browser
 - [ ] https://github.com/XTLS/Xray-core
-- [ ] https://github.com/projectdiscovery/proxify
 - [ ] https://github.com/ArmyCyberInstitute/cmgr
 - [ ] https://github.com/drsigned/substko
 - [ ] https://github.com/drsigned/bypass403
