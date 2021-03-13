@@ -1898,6 +1898,7 @@
 五、其他项目
 
 - [ ] https://github.com/minio/c2goasm
+- [ ] https://github.com/akavel/rsrc
 
 ## 0x06-Golang老师
 
