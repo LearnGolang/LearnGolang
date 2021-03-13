@@ -1653,6 +1653,7 @@
 - [ ] https://github.com/grines/goc2
 - [ ] https://github.com/S4R1N/Tritium
 - [ ] https://github.com/S4R1N/Hitman
+- [ ] https://github.com/schollz/croc
 
 十一、社工钓鱼
 
@@ -1710,7 +1711,6 @@
 - [ ] https://github.com/omaidf/FaizEye
 - [ ] https://github.com/jpillora/renamer
 - [ ] https://github.com/jpillora/go-tcp-proxy
-- [ ] https://github.com/schollz/croc
 - [ ] https://github.com/juju/utils
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/dreadl0ck/netcap
