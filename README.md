@@ -1103,6 +1103,7 @@
 - [ ] https://github.com/authelia/authelia
 - [ ] https://github.com/temporalio/temporal
 - [ ] https://github.com/benhoyt/countwords
+- [ ] https://github.com/caarlos0/svu
 
 ## 0x04-Golang安全
 
