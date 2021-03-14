@@ -320,7 +320,7 @@
 - [ ] https://github.com/monaco-io/request | HTTP请求和HTTP客户端 | 98
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
-- [ ] https://github.com/projectdiscovery/rawhttp
+- [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/DavidCai1993/request
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/grokify/html-strip-tags-go
@@ -391,6 +391,7 @@
 -  [ ] https://github.com/shenghui0779/yiigo
 -  [ ] https://github.com/denisenkom/go-mssqldb
 -  [ ] https://github.com/rubenv/sql-migrate
+-  [ ] https://github.com/syndtr/goleveldb
 
 七、日志处理
 
@@ -404,6 +405,7 @@
 - [ ] https://github.com/bp0lr/go-logger
 - [ ] https://github.com/chzyer/logex
 - [ ] https://github.com/hashicorp/go-multierror
+- [ ] https://github.com/projectdiscovery/gologger
 
 八、错误处理
 
@@ -417,6 +419,7 @@
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/pinterest/bender
 - [ ] https://github.com/fortio/fortio
+- [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -440,6 +443,7 @@
 - [ ] https://github.com/qianguozheng/go-workerpool
 - [ ] https://github.com/mdlayher/schedgroup
 - [ ] https://github.com/benmanns/goworker
+- [ ] https://github.com/remeh/sizedwaitgroup
 
 十一、发送邮件
 
@@ -592,7 +596,6 @@
 - [ ] https://github.com/Madnikulin50/gordp
 - [ ] https://github.com/admpub/email-verifier
 - [ ] https://github.com/traefik/yaegi
-- [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/signintech/gopdf
 - [ ] https://github.com/gogf/focus
 - [ ] https://github.com/blugelabs/bluge
@@ -709,6 +712,7 @@
 - [ ] https://github.com/eyebluecn/tank
 - [ ] https://github.com/flike/idgo
 - [ ] https://github.com/bspaans/jit-compiler
+- [ ] https://github.com/spf13/cast
 
 ## 0x03-Golang项目
 
