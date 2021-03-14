@@ -1641,6 +1641,7 @@
 -  [ ] https://github.com/TerminalJockey/Gimic
 -  [ ] https://github.com/ghostunnel/ghostunnel
 -  [ ] https://github.com/blackarrowsec/pivotnacci
+-  [ ] https://github.com/nodauf/Girsh
 
 十、内网渗透
 
