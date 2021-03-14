@@ -392,6 +392,7 @@
 -  [ ] https://github.com/denisenkom/go-mssqldb
 -  [ ] https://github.com/rubenv/sql-migrate
 -  [ ] https://github.com/syndtr/goleveldb
+-  [ ] https://github.com/kashav/fsql
 
 七、日志处理
 
@@ -445,7 +446,7 @@
 - [ ] https://github.com/benmanns/goworker
 - [ ] https://github.com/remeh/sizedwaitgroup
 
-十一、发送邮件
+十一、电子邮件
 
 - [ ] gopkg.in/gomail.v2
 - [ ] https://github.com/foxcpp/maddy
@@ -453,6 +454,7 @@
 - [ ] https://github.com/jordan-wright/email
 - [ ] https://github.com/domodwyer/mailyak
 - [ ] https://github.com/nikoksr/notify
+- [ ] https://github.com/davidbanham/marcel
 
 十二、图形框架
 
@@ -714,6 +716,7 @@
 - [ ] https://github.com/spf13/cast
 - [ ] https://github.com/bspaans/jit-compiler
 - [ ] https://github.com/chromedp/chromedp
+- [ ] https://github.com/inetaf/netaddr
 
 ## 0x03-Golang项目
 
