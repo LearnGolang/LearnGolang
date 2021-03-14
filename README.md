@@ -319,6 +319,7 @@
 - [ ] https://github.com/vmihailenco/treemux | 快速灵活的HTTP路由器 | 164
 - [ ] https://github.com/monaco-io/request | HTTP请求和HTTP客户端 | 98
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
+- [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp
 - [ ] https://github.com/DavidCai1993/request
 - [ ] https://github.com/PuerkitoBio/goquery
