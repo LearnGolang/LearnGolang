@@ -720,6 +720,7 @@
 - [ ] https://github.com/inetaf/netaddr
 - [ ] https://github.com/jmattheis/goverter
 - [ ] https://github.com/briandowns/sky-island
+- [ ] https://github.com/panjf2000/gnet
 
 ## 0x03-Golang项目
 
@@ -1877,6 +1878,7 @@
 - [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/nodauf/Go-RouterSocks
 - [ ] https://github.com/deepfence/SecretScanner
+- [ ] https://github.com/rancher/security-scan
 
 ## 0x05-Golang逆向
 
