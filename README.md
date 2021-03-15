@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月15日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月16日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -278,16 +278,17 @@
 一、命令控制
 
 - [ ] https://github.com/urfave/cli
-- [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/fatih/color
 - [ ] https://github.com/urfave/c
+- [ ] https://github.com/spf13/cobra
+- [ ] https://github.com/mgutz/ansi
+- [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/logrusorgru/aurora
 - [ ] https://github.com/mattn/go-colorable
-- [ ] https://github.com/mgutz/ansi
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
-- [ ] https://github.com/spf13/cobra
+- [ ] https://github.com/briandowns/spinner
 
 二、请求响应
 
@@ -717,6 +718,8 @@
 - [ ] https://github.com/bspaans/jit-compiler
 - [ ] https://github.com/chromedp/chromedp
 - [ ] https://github.com/inetaf/netaddr
+- [ ] https://github.com/jmattheis/goverter
+- [ ] https://github.com/briandowns/sky-island
 
 ## 0x03-Golang项目
 
@@ -1116,6 +1119,8 @@
 - [ ] https://github.com/google/gops
 - [ ] https://github.com/dropbox/kglb
 - [ ] https://github.com/authelia/authelia
+- [ ] https://github.com/briandowns/super-hacker
+- [ ] https://github.com/visma-prodsec/confused
 
 ## 0x04-Golang安全
 
@@ -1871,6 +1876,7 @@
 - [ ] https://github.com/x3419/TorgoBot
 - [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/nodauf/Go-RouterSocks
+- [ ] https://github.com/deepfence/SecretScanner
 
 ## 0x05-Golang逆向
 
