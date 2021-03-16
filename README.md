@@ -268,6 +268,7 @@
 - [ ] https://github.com/GoesToEleven/GolangTraining
 - [ ] https://github.com/Junedayday/code_reading
 - [ ] https://github.com/thinkgos/golang-design-pattern
+- [ ] https://github.com/gocn/cool-go
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang框架
@@ -508,6 +509,7 @@
 - [ ] https://github.com/buildkite/terminal-to-html
 - [ ] https://github.com/gin-gonic/examples
 - [ ] https://github.com/gookit/rux
+- [ ] https://github.com/vicanso/elton
 - [ ] https://github.com/patrickhener/goshs
 
 十六、中间件框架
@@ -1123,6 +1125,8 @@
 - [ ] https://github.com/briandowns/super-hacker
 - [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/google/wire
+- [ ] https://github.com/dropbox/kglb
+- [ ] https://github.com/giorgisio/goav
 
 ## 0x04-Golang安全
 
