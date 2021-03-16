@@ -290,6 +290,7 @@
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
+- [ ] https://github.com/mgutz/ansi
 
 二、请求响应
 
@@ -353,6 +354,7 @@
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
 - Others
+- [ ] https://github.com/antlr/antlr4
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/thedevsaddam/gojsonq
 - [ ] https://github.com/ugorji/go
@@ -423,6 +425,7 @@
 - [ ] https://github.com/pinterest/bender
 - [ ] https://github.com/fortio/fortio
 - [ ] https://github.com/stretchr/testify
+- [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -450,7 +453,7 @@
 
 十一、电子邮件
 
-- [ ] gopkg.in/gomail.v2
+- [ ] https://gopkg.in/gomail.v2
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/go-gomail/gomail
 - [ ] https://github.com/jordan-wright/email
@@ -622,7 +625,6 @@
 - [ ] https://github.com/jasonlvhit/gocron
 - [ ] https://github.com/mitchellh/mapstructure
 - [ ] https://github.com/onsi/gomega
-- [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/apuigsech/seekret
 - [ ] https://github.com/tidwall/redcon
 - [ ] https://github.com/gookit/color
@@ -723,6 +725,9 @@
 - [ ] https://github.com/jmattheis/goverter
 - [ ] https://github.com/briandowns/sky-island
 - [ ] https://github.com/panjf2000/gnet
+- [ ] https://github.com/gogo/protobuf
+- [ ] https://github.com/golang/protobuf
+- [ ] https://github.com/google/cel-go
 
 ## 0x03-Golang项目
 
@@ -849,7 +854,6 @@
 - [ ] https://github.com/amacneil/dbmate
 - [ ] https://github.com/elvin-du/tinyscript
 - [ ] https://github.com/onsi/gomega
-- [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/cockroachdb/crlfmt
 - [ ] https://github.com/mvdan/gofumpt
 - [ ] https://github.com/google/go-licenses
@@ -1004,7 +1008,6 @@
 - [ ] https://github.com/gwen001/github-regexp
 - [ ] https://github.com/cloudskiff/driftctl
 - [ ] https://github.com/evilsocket/arc
-- [ ] https://github.com/antlr/antlr4
 - [ ] https://github.com/akyoto/asm
 - [ ] https://github.com/labulaka521/yuque_sync
 - [ ] https://github.com/DominicBreuker/pspy
