@@ -1122,6 +1122,7 @@
 - [ ] https://github.com/authelia/authelia
 - [ ] https://github.com/briandowns/super-hacker
 - [ ] https://github.com/visma-prodsec/confused
+- [ ] https://github.com/google/wire
 
 ## 0x04-Golang安全
 
@@ -1575,6 +1576,7 @@
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 - [ ] https://github.com/timwhitez/Doge-Assembly
+- [ ] https://github.com/sh4hin/GoPurple
 
 九、代理隧道
 
@@ -1675,6 +1677,7 @@
 - [ ] https://github.com/S4R1N/Tritium
 - [ ] https://github.com/S4R1N/Hitman
 - [ ] https://github.com/schollz/croc
+- [ ] https://github.com/bitepeng/b0pass
 
 十一、社工钓鱼
 
