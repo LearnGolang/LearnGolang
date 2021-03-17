@@ -268,6 +268,7 @@
 - [ ] https://github.com/GoesToEleven/GolangTraining
 - [ ] https://github.com/Junedayday/code_reading
 - [ ] https://github.com/thinkgos/golang-design-pattern
+- [ ] https://github.com/xiaowei520/go_interview
 - [ ] https://github.com/gocn/cool-go
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
