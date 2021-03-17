@@ -1891,6 +1891,7 @@
 - [ ] https://github.com/deepfence/SecretScanner
 - [ ] https://github.com/rancher/security-scan
 - [ ] https://github.com/dwisiswant0/go-dork
+- [ ] https://github.com/SpectralOps/netz
 
 ## 0x05-Golang逆向
 
