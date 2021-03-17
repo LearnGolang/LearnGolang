@@ -1585,6 +1585,7 @@
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 - [ ] https://github.com/timwhitez/Doge-Assembly
 - [ ] https://github.com/sh4hin/GoPurple
+- [ ] https://github.com/ffuf/pencode
 
 九、代理隧道
 
