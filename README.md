@@ -343,6 +343,7 @@
 - [ ] https://github.com/layeh/gopher-json
 - [ ] https://golang.org/pkg/encoding/json
 - [ ] https://github.com/Andrew-M-C/go.jsonvalue
+- [ ] https://github.com/tidwall/sjson
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -1140,6 +1141,8 @@
 - [ ] https://github.com/samuelkarp/runj
 - [ ] https://github.com/sigstore/cosign
 - [ ] https://github.com/NCSC-NL/taranis3
+- [ ] https://github.com/schollz/find3
+- [ ] https://github.com/spiral/roadrunner
 
 ## 0x04-Golang安全
 
