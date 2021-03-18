@@ -334,14 +334,15 @@
 三、配置文件
 
 - JSON
-- [ ] https://golang.org/pkg/encoding/json
-- [ ] https://github.com/json-iterator/go
-- [ ] https://github.com/buger/jsonparser
+- [ ] https://github.com/simeji/jid
 - [ ] https://github.com/lqiz/amoeba
 - [ ] https://github.com/Jeffail/gabs
 - [ ] https://github.com/tidwall/pjson
+- [ ] https://github.com/json-iterator/go
+- [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/layeh/gopher-json
-- [ ] https://github.com/simeji/jid
+- [ ] https://golang.org/pkg/encoding/json
+- [ ] https://github.com/Andrew-M-C/go.jsonvalue
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -378,6 +379,7 @@
 -  [ ] https://github.com/jmoiron/sqlx
 -  [ ] https://github.com/XiaoMi/Gaea
 -  [ ] https://github.com/flike/kingshard
+-  [ ] https://github.com/Andrew-M-C/go.mysqlx
 -  MongoDB
 -  [ ] https://gopkg.in/mgo.v2
 -  [ ] https://github.com/Cgboal/SonarSearch
@@ -419,6 +421,7 @@
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
+- [ ] https://github.com/joomcode/errorx
 - [ ] https://github.com/cockroachdb/errors
 
 九、单元测试
@@ -731,6 +734,7 @@
 - [ ] https://github.com/gogo/protobuf
 - [ ] https://github.com/golang/protobuf
 - [ ] https://github.com/google/cel-go
+- [ ] https://github.com/Andrew-M-C/go.emoji
 
 ## 0x03-Golang项目
 
@@ -1135,6 +1139,7 @@
 - [ ] https://github.com/giorgisio/goav
 - [ ] https://github.com/samuelkarp/runj
 - [ ] https://github.com/sigstore/cosign
+- [ ] https://github.com/NCSC-NL/taranis3
 
 ## 0x04-Golang安全
 
