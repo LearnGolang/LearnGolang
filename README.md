@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月17日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月18日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -423,10 +423,11 @@
 九、单元测试
 
 - [ ] https://github.com/h2non/gock
-- [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/fortio/fortio
 - [ ] https://github.com/stretchr/testify
-- [ ] https://github.com/onsi/ginkgo
+- [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/vmihailenco/go-cache-benchmark
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、协程任务
@@ -1556,6 +1557,7 @@
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/c26root/hb
+- [ ] https://github.com/ffuf/pencode
 - [ ] https://github.com/jax777/shellcode-launch
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
@@ -1575,6 +1577,7 @@
 - [ ] https://github.com/hack2fun/EventLogBypass
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 - [ ] https://github.com/optiv/ScareCrow
+- [ ] https://github.com/sh4hin/GoPurple
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/Hangingsword/HouQing
 - [ ] https://github.com/insightglacier/go_meterpreter
@@ -1585,8 +1588,7 @@
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 - [ ] https://github.com/timwhitez/Doge-Assembly
-- [ ] https://github.com/sh4hin/GoPurple
-- [ ] https://github.com/ffuf/pencode
+- [ ] https://github.com/redcode-labs/SNOWCRASH
 
 九、代理隧道
 
@@ -1894,6 +1896,8 @@
 - [ ] https://github.com/rancher/security-scan
 - [ ] https://github.com/dwisiswant0/go-dork
 - [ ] https://github.com/SpectralOps/netz
+- [ ] https://github.com/redcode-labs/UnChain
+- [ ] https://github.com/redcode-labs/Sammler
 
 ## 0x05-Golang逆向
 
@@ -1923,9 +1927,9 @@
 三、Go恶意软件
 
 - [ ] https://github.com/wille/cry
-- [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
+- [ ] https://github.com/redcode-labs/Coldfire
 
 四、Go加密发布
 
@@ -1936,8 +1940,10 @@
 
 五、其他项目
 
-- [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/akavel/rsrc
+- [ ] https://github.com/minio/c2goasm
+- [ ] https://github.com/system-pclub/GCatch
+- [ ] https://github.com/redcode-labs/Neurax
 
 ## 0x06-Golang老师
 
