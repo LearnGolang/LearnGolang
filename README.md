@@ -410,6 +410,7 @@
 - [ ] https://github.com/foomo/logfrog
 - [ ] https://github.com/bp0lr/go-logger
 - [ ] https://github.com/chzyer/logex
+- [ ] https://github.com/sigstore/rekor
 - [ ] https://github.com/hashicorp/go-multierror
 - [ ] https://github.com/projectdiscovery/gologger
 
@@ -1133,6 +1134,7 @@
 - [ ] https://github.com/dropbox/kglb
 - [ ] https://github.com/giorgisio/goav
 - [ ] https://github.com/samuelkarp/runj
+- [ ] https://github.com/sigstore/cosign
 
 ## 0x04-Golang安全
 
