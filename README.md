@@ -1150,6 +1150,8 @@
 - [ ] https://github.com/schollz/find3
 - [ ] https://github.com/spiral/roadrunner
 - [ ] https://github.com/hashicorp/consul
+- [ ] https://github.com/matryer/xbar
+- [ ] https://github.com/projectdiscovery/chaos-client
 
 ## 0x04-Golang安全
 
