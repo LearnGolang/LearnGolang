@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月20日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月21日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -388,6 +388,7 @@
 -  [ ] https://github.com/qiniu/qmgo
 -  [ ] https://github.com/256dpi/lungo
 -  PostgreSQL
+-  [ ] https://github.com/go-pg/pg
 -  [ ] https://github.com/sosedoff/pgweb
 -  Others
 -  [ ] https://github.com/jackc/pgx
@@ -740,6 +741,7 @@
 - [ ] https://github.com/rakyll/hey
 - [ ] https://github.com/duolabmeng6/goefun
 - [ ] https://github.com/twitchtv/twirp
+- [ ] https://github.com/mehrdadrad/mylg
 
 ## 0x03-Golang项目
 
@@ -807,7 +809,6 @@
 - [ ] https://github.com/ArturSS7/TukTuk
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/irealing/shorturl
-- [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/common-nighthawk/go-figure
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
@@ -1604,6 +1605,7 @@
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 - [ ] https://github.com/timwhitez/Doge-Assembly
 - [ ] https://github.com/redcode-labs/SNOWCRASH
+- [ ] https://github.com/C-Sto/BananaPhone
 
 九、代理隧道
 
@@ -1914,6 +1916,7 @@
 - [ ] https://github.com/redcode-labs/UnChain
 - [ ] https://github.com/redcode-labs/Sammler
 - [ ] https://github.com/kitabisa/ssb
+- [ ] https://github.com/fireeye/goauditparser
 
 ## 0x05-Golang逆向
 
