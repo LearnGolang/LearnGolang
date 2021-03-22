@@ -1152,6 +1152,7 @@
 - [ ] https://github.com/hashicorp/consul
 - [ ] https://github.com/matryer/xbar
 - [ ] https://github.com/projectdiscovery/chaos-client
+- [ ] https://github.com/earthly/earthly
 
 ## 0x04-Golang安全
 
