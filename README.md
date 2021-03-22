@@ -292,6 +292,8 @@
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
 - [ ] https://github.com/mgutz/ansi
+- [ ] https://github.com/alecthomas/kong
+- [ ] https://github.com/alecthomas/kingpin
 
 二、请求响应
 
@@ -337,13 +339,14 @@
 - [ ] https://github.com/simeji/jid
 - [ ] https://github.com/lqiz/amoeba
 - [ ] https://github.com/Jeffail/gabs
+- [ ] https://github.com/tidwall/sjson
 - [ ] https://github.com/tidwall/pjson
 - [ ] https://github.com/json-iterator/go
 - [ ] https://github.com/buger/jsonparser
 - [ ] https://github.com/layeh/gopher-json
 - [ ] https://golang.org/pkg/encoding/json
 - [ ] https://github.com/Andrew-M-C/go.jsonvalue
-- [ ] https://github.com/tidwall/sjson
+- [ ] https://github.com/alecthomas/jsonschema
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -743,6 +746,7 @@
 - [ ] https://github.com/duolabmeng6/goefun
 - [ ] https://github.com/twitchtv/twirp
 - [ ] https://github.com/mehrdadrad/mylg
+- [ ] https://github.com/lukechampine/fastxor
 
 ## 0x03-Golang项目
 
@@ -1922,6 +1926,7 @@
 - [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/fireeye/goauditparser
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
+- [ ] https://github.com/C-Sto/dnsfwd
 
 ## 0x05-Golang逆向
 
