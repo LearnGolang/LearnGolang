@@ -1161,6 +1161,7 @@
 - [ ] https://github.com/matryer/xbar
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/earthly/earthly
+- [ ] https://github.com/liamg/gifwrap
 
 ## 0x04-Golang安全
 
