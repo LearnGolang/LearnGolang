@@ -658,7 +658,7 @@
 - [ ] https://github.com/wuhan005/jkit
 - [ ] https://github.com/rclone/rclone
 - [ ] https://github.com/diamondburned/handy
-- [ ] https://github.com/jinzhu/copier
+- [ ] https://github.com/jinzhu/copier | 将值从一个struct复制到另一个struct | 1.7k
 - [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/radondb/radon
 - [ ] https://github.com/capnspacehook/taskmaster
