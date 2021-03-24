@@ -294,6 +294,9 @@
 - [ ] https://github.com/mgutz/ansi
 - [ ] https://github.com/alecthomas/kong
 - [ ] https://github.com/alecthomas/kingpin
+- [ ] https://github.com/msoap/yandex-weather-cli
+- [ ] https://github.com/schachmat/wego
+- [ ] https://github.com/genuinetools/weather
 
 二、请求响应
 
@@ -1615,6 +1618,7 @@
 - [ ] https://github.com/timwhitez/Doge-Assembly
 - [ ] https://github.com/redcode-labs/SNOWCRASH
 - [ ] https://github.com/C-Sto/BananaPhone
+- [ ] https://github.com/EatonChips/dllogram
 
 九、代理隧道
 
@@ -1928,6 +1932,8 @@
 - [ ] https://github.com/fireeye/goauditparser
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
 - [ ] https://github.com/C-Sto/dnsfwd
+- [ ] https://github.com/msoap/shell2http
+- [ ] https://github.com/Emoe/kxss
 
 ## 0x05-Golang逆向
 
