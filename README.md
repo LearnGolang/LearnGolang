@@ -1167,6 +1167,7 @@
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/americanexpress/earlybird
 - [ ] https://github.com/antonmedv/expr
+- [ ] https://github.com/beltran/gohive
 
 ## 0x04-Golang安全
 
@@ -1576,17 +1577,19 @@
 - [ ] https://github.com/drsigned/sigurlx
 - [ ] https://github.com/drsigned/sigurls
 - [ ] https://github.com/dowdyph0/transgo
--  [ ] https://github.com/KathanP19/Gxss
--  [ ] https://github.com/jweny/gosqlmap
--  [ ] https://github.com/rverton/xssmap
--  [ ] https://github.com/raz-varren/xsshell
--  [ ] https://github.com/blackbinn/wprecon
--  [ ] https://github.com/ryandamour/ssrfuzz
+- [ ] https://github.com/KathanP19/Gxss
+- [ ] https://github.com/jweny/gosqlmap
+- [ ] https://github.com/rverton/xssmap
+- [ ] https://github.com/raz-varren/xsshell
+- [ ] https://github.com/blackbinn/wprecon
+- [ ] https://github.com/ryandamour/ssrfuzz
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/bxss
 - [ ] https://github.com/neex/1u.ms
 
 八、病毒免杀
+
+- https://github.com/search?l=Go&q=shellcode
 
 - [ ] https://github.com/xct/morbol
 - [ ] https://github.com/EgeBalci/sgn
@@ -1598,7 +1601,6 @@
 - [ ] https://github.com/brimstone/go-shellcode
 - [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
-- [ ] https://github.com/ryhanson/phishery
 - [ ] https://github.com/0x9ef/golang-uacbypasser
 - [ ] https://github.com/timwhitez/Doge-Loader
 - [ ] https://github.com/Binject/shellcode
@@ -1612,10 +1614,8 @@
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 - [ ] https://github.com/optiv/ScareCrow
 - [ ] https://github.com/sh4hin/GoPurple
-- [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/Hangingsword/HouQing
 - [ ] https://github.com/insightglacier/go_meterpreter
-- [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/BelodedAleksey/win_hack
 - [ ] https://github.com/BelodedAleksey/DLL_Injection
 - [ ] https://github.com/saulpanders/payloadTests
@@ -1625,6 +1625,43 @@
 - [ ] https://github.com/redcode-labs/SNOWCRASH
 - [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/EatonChips/dllogram
+- [ ] https://github.com/TRYblog/des.hex-encodefile
+- [ ] https://github.com/EgeBalci/amber
+- [ ] https://github.com/e3prom/ruse
+- [ ] https://github.com/rluisr/coolink
+- [ ] https://github.com/MonaxGT/ProxyImperva
+- [ ] https://github.com/vyrus001/shellGo
+- [ ] https://github.com/timwhitez/go-shellcode-launcher
+- [ ] https://github.com/jamesbcook/shellcode-launcher
+- [ ] https://github.com/pench3r/Golang-Shellcode-Loader
+- [ ] https://github.com/s1egesystems/GoProcessInject0r
+- [ ] https://github.com/mumu0215/golang-shellcode-loader
+- [ ] https://github.com/vyrus001/needle
+- [ ] https://github.com/theRealestAEP/GoLang
+- [ ] https://github.com/cephurs/GOback
+- [ ] https://github.com/An0ny-m0us/DesertFox
+- [ ] https://github.com/mjwhitta/runsc
+- [ ] https://github.com/mu0gua/shellcode-remote-aes
+- [ ] https://github.com/listinvest/undonut
+- [ ] https://github.com/wahyuhadi/shellcode-aes
+- [ ] https://github.com/hcninja/scfmt
+- [ ] https://github.com/HildeTeamTNT/go-shellcode
+- [ ] https://github.com/wahyuhadi/kurawa
+- [ ] https://github.com/grantseltzer/goverlayfs
+- [ ] https://github.com/listinvest/runCLI
+- [ ] https://github.com/Mulvun/G0-Pr0cess-Inject0r
+- [ ] https://github.com/metaStor/Bypass_Go
+- [ ] https://github.com/mumu0215/dupe
+- [ ] https://github.com/mirtchovski/clamav
+- [ ] https://github.com/mattermost/mattermost-plugin-antivirus
+- [ ] https://github.com/saferwall/saferwall
+- [ ] https://github.com/diljith369/AVDeceiver
+- [ ] https://github.com/heikipikker/HERCULES
+- [ ] https://github.com/berti/antivir1
+- [ ] https://github.com/tintofchaos/antivirus-from-scratch
+- [ ] https://github.com/EricMarcantonio/go-reverse-shell
+- [ ] https://github.com/buffermet/sewers
+- [ ] https://github.com/scopelemanuele/machinista
 
 九、代理隧道
 
@@ -1785,6 +1822,9 @@
 - [ ] https://github.com/jpillora/renamer
 - [ ] https://github.com/jpillora/go-tcp-proxy
 - [ ] https://github.com/juju/utils
+- [ ] https://github.com/Emoe/kxss
+- [ ] https://github.com/kitabisa/ssb
+- [ ] https://github.com/C-Sto/dnsfwd
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/dreadl0ck/netcap
 - [ ] https://github.com/chenziyi920/file-scanMD5
@@ -1934,12 +1974,10 @@
 - [ ] https://github.com/SpectralOps/netz
 - [ ] https://github.com/redcode-labs/UnChain
 - [ ] https://github.com/redcode-labs/Sammler
-- [ ] https://github.com/kitabisa/ssb
+- [ ] https://github.com/msoap/shell2http
 - [ ] https://github.com/fireeye/goauditparser
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
-- [ ] https://github.com/C-Sto/dnsfwd
-- [ ] https://github.com/msoap/shell2http
-- [ ] https://github.com/Emoe/kxss
+- [ ] https://github.com/bluesentinelsec/OffensiveGoLang
 
 ## 0x05-Golang逆向
 
