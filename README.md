@@ -1166,6 +1166,7 @@
 - [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/projectdiscovery/chaos-client
 - [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/antonmedv/expr
 
 ## 0x04-Golang安全
 
