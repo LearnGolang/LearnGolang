@@ -4,7 +4,7 @@
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月24日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年3月25日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -395,6 +395,7 @@
 -  [ ] https://github.com/256dpi/lungo
 -  PostgreSQL
 -  [ ] https://github.com/go-pg/pg
+-  [ ] https://github.com/prest/prest
 -  [ ] https://github.com/sosedoff/pgweb
 -  Others
 -  [ ] https://github.com/jackc/pgx
@@ -751,6 +752,7 @@
 - [ ] https://github.com/mehrdadrad/mylg
 - [ ] https://github.com/lukechampine/fastxor
 - [ ] https://github.com/mvdan/gogrep
+- [ ] https://github.com/dean2021/noodles
 
 ## 0x03-Golang项目
 
@@ -933,7 +935,6 @@
 - [ ] https://github.com/gonum/plot
 - [ ] https://github.com/ethereum/go-ethereum
 - [ ] https://github.com/geohot/minikeyvalue
-- [ ] https://github.com/gocelery/gocelery
 - [ ] https://github.com/graphql-go/graphql
 - [ ] https://github.com/prometheus/node_exporter
 - [ ] https://github.com/golang/mobile
@@ -1147,9 +1148,11 @@
 - [ ] https://github.com/google/gops
 - [ ] https://github.com/dropbox/kglb
 - [ ] https://github.com/authelia/authelia
-- [ ] https://github.com/briandowns/super-hacker
-- [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/google/wire
+- [ ] https://github.com/earthly/earthly
+- [ ] https://github.com/liamg/gifwrap
+- [ ] https://github.com/heroiclabs/nakama
+- [ ] https://github.com/sahilm/fuzzy
 - [ ] https://github.com/dropbox/kglb
 - [ ] https://github.com/giorgisio/goav
 - [ ] https://github.com/samuelkarp/runj
@@ -1159,9 +1162,10 @@
 - [ ] https://github.com/spiral/roadrunner
 - [ ] https://github.com/hashicorp/consul
 - [ ] https://github.com/matryer/xbar
+- [ ] https://github.com/briandowns/super-hacker
+- [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/projectdiscovery/chaos-client
-- [ ] https://github.com/earthly/earthly
-- [ ] https://github.com/liamg/gifwrap
+- [ ] https://github.com/americanexpress/earlybird
 
 ## 0x04-Golang安全
 
