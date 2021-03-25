@@ -330,6 +330,7 @@
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
+- [ ] https://github.com/c26root/hb
 - [ ] https://github.com/DavidCai1993/request
 - [ ] https://github.com/PuerkitoBio/goquery
 - [ ] https://github.com/grokify/html-strip-tags-go
@@ -1423,7 +1424,6 @@
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
 -  [ ] https://github.com/mumu0215/FlamiePaw
 -  [ ] https://github.com/virink/xray-weblisten-ui
--  [ ] https://github.com/c26root/hb
 -  [ ] https://github.com/kjyc1/cat-8080-brute
 -  [ ] https://github.com/markwh245/rapt0r
 -  [ ] https://github.com/zmap/zgrab2
@@ -1590,12 +1590,10 @@
 八、病毒免杀
 
 - https://github.com/search?l=Go&q=shellcode
-
-- [ ] https://github.com/xct/morbol
 - [ ] https://github.com/EgeBalci/sgn
-- [ ] https://github.com/c26root/hb
-- [ ] https://github.com/ffuf/pencode
-- [ ] https://github.com/jax777/shellcode-launch
+- [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
+- [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
+- [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/brimstone/go-shellcode
