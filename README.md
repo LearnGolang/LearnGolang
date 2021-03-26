@@ -1171,6 +1171,7 @@
 - [ ] https://github.com/beltran/gohive
 - [ ] https://github.com/hashicorp/serf
 - [ ] https://github.com/byebyebruce/lockstepserver
+- [ ] https://github.com/RussellLuo/timingwheel
 
 ## 0x04-Golang安全
 
@@ -1662,6 +1663,8 @@
 - [ ] https://github.com/EricMarcantonio/go-reverse-shell
 - [ ] https://github.com/buffermet/sewers
 - [ ] https://github.com/scopelemanuele/machinista
+- [ ] https://github.com/tanc7/EXOCET-AV-Evasion
+- [ ] https://github.com/xct/morbol
 
 九、代理隧道
 
