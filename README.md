@@ -1765,6 +1765,7 @@
 - [ ] https://github.com/schollz/croc
 - [ ] https://github.com/bitepeng/b0pass
 - [ ] https://github.com/BishopFox/sliver
+- [ ] https://github.com/maxlandon/wiregost
 
 十一、社工钓鱼
 
@@ -1980,6 +1981,9 @@
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
 - [ ] https://github.com/bluesentinelsec/OffensiveGoLang
 - [ ] https://github.com/Tylous/Limelighter
+- [ ] https://github.com/0xrawsec/whids
+- [ ] https://github.com/rajveermalviya/go-wayland
+- [ ] https://github.com/mozilla/sops
 
 ## 0x05-Golang逆向
 
