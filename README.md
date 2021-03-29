@@ -97,6 +97,7 @@
 - [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
 - [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
+- [ ] [《开始使用 Go》](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)@微软
 - [ ] [《Go语言编码规范》](https://github.com/shockerli/go-code-guide)
 - [ ] [《神奇的Go语言》](https://wiki.jikexueyuan.com/project/magical-go/)
 - [ ] [《Go RPC 开发指南》](http://books.studygolang.com/go-rpc-programming-guide)
@@ -170,7 +171,6 @@
 
 五、英文资源
 
-- [ ] [《Take your first steps with Go》](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
@@ -269,6 +269,7 @@
 - [ ] https://github.com/Junedayday/code_reading
 - [ ] https://github.com/thinkgos/golang-design-pattern
 - [ ] https://github.com/xiaowei520/go_interview
+- [ ] https://github.com/code-review-checklists/go-concurrency
 - [ ] https://github.com/gocn/cool-go
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
@@ -1306,6 +1307,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/4dogs-cn/TXPortMap
 -  [ ] https://github.com/JustinTimperio/gomap
 -  [ ] https://github.com/CTF-MissFeng/NmapTools
 -  [ ] https://github.com/timest/goscan
