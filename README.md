@@ -1179,6 +1179,8 @@
 - [ ] https://github.com/jarcoal/httpmock
 - [ ] https://github.com/ldez/seihon
 - [ ] https://github.com/goplus/gop
+- [ ] https://github.com/chaosblade-io/chaosblade
+- [ ] https://github.com/decred/dcrd
 
 ## 0x04-Golang安全
 
