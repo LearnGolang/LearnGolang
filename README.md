@@ -1178,6 +1178,7 @@
 - [ ] https://github.com/vektra/mockery
 - [ ] https://github.com/jarcoal/httpmock
 - [ ] https://github.com/ldez/seihon
+- [ ] https://github.com/goplus/gop
 
 ## 0x04-Golang安全
 
