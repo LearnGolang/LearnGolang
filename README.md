@@ -1998,6 +1998,7 @@
 - [ ] https://github.com/rajveermalviya/go-wayland
 - [ ] https://github.com/mozilla/sops
 - [ ] https://github.com/optiv/Talon
+- [ ] https://github.com/flier/gohs
 
 ## 0x05-Golang逆向
 
