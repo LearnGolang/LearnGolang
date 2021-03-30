@@ -1119,7 +1119,6 @@
 - [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/grafana/grizzly
 - [ ] https://github.com/chriswalz/bit
-- [ ] https://github.com/kitabisa/mubeng
 - [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/shirou/gopsutil
 - [ ] https://github.com/miguelpragier/handy
@@ -1181,6 +1180,7 @@
 - [ ] https://github.com/goplus/gop
 - [ ] https://github.com/chaosblade-io/chaosblade
 - [ ] https://github.com/decred/dcrd
+- [ ] https://github.com/gookit/goutil
 
 ## 0x04-Golang安全
 
@@ -1258,6 +1258,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/0x2E/sf
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/canc3s/cIPR
 - [ ] https://github.com/canc3s/cDomain
@@ -1607,6 +1608,7 @@
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
+- [ ] https://github.com/timwhitez/Doge-sRDI
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/brimstone/go-shellcode
@@ -1999,6 +2001,7 @@
 - [ ] https://github.com/mozilla/sops
 - [ ] https://github.com/optiv/Talon
 - [ ] https://github.com/flier/gohs
+- [ ] https://github.com/kgoins/ldsview
 
 ## 0x05-Golang逆向
 
