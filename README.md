@@ -757,6 +757,7 @@
 - [ ] https://github.com/mvdan/gogrep
 - [ ] https://github.com/dean2021/noodles
 - [ ] https://github.com/jf-tech/omniparser
+- [ ] https://github.com/stacktitan/smb
 
 ## 0x03-Golang项目
 
@@ -1192,6 +1193,8 @@
 - [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/gravitl/netmaker
 - [ ] https://github.com/akavel/up
+- [ ] https://github.com/cronokirby/safenum
+- [ ] https://github.com/aj-code/3gsocks
 
 ## 0x04-Golang安全
 
@@ -1448,6 +1451,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/rootklt/snowball
 -  [ ] https://github.com/mumu0215/FlamiePaw
 -  [ ] https://github.com/virink/xray-weblisten-ui
 -  [ ] https://github.com/kjyc1/cat-8080-brute
