@@ -200,6 +200,7 @@
 - [x] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《Network Programming With Go》](https://nostarch.com/networkprogrammingwithgo)
 - [ ] [《Introducing Go》]()
+- [x] [《The Ultimate Go Notebook》](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg)
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
 - [ ] [《The Way To Go》]()
 - [ ] [《Production Go》]()
