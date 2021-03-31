@@ -1,10 +1,10 @@
 # LearnGolang
 
-本项目记录自己学习Golang的过程中遇到的一些优秀内容，包括Golang的相关学习资源及Golang的优秀项目代码等。尽可能的使用Golang，尽可能的使用Golang进行Hacking。学习Go语言，面向信仰编程。作者：[0e0w](https://github.com/0e0w/LearnGolang)。
+本项目记录自己学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源及优秀的项目代码等。尽可能的使用Go语言，尽可能的使用Go语言进行Hacking。学习Go语言，面向信仰编程。作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
 关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年3月31日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月1日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -1195,6 +1195,9 @@
 - [ ] https://github.com/akavel/up
 - [ ] https://github.com/cronokirby/safenum
 - [ ] https://github.com/aj-code/3gsocks
+- [ ] https://github.com/keys-pub/keys-ext
+- [ ] https://github.com/keys-pub/keys
+- [ ] https://github.com/mmcloughlin/mathfmt
 
 ## 0x04-Golang安全
 
@@ -2000,6 +2003,12 @@
 - [ ] https://github.com/sjatsh/unwxapkg
 - [ ] https://github.com/x3419/TorgoBot
 - [ ] https://github.com/minio/c2goasm
+- [ ] https://github.com/mozilla/sops
+- [ ] https://github.com/optiv/Talon
+- [ ] https://github.com/flier/gohs
+- [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/google/kctf
+- [ ] https://github.com/tomnomnom/gf
 - [ ] https://github.com/nodauf/Go-RouterSocks
 - [ ] https://github.com/deepfence/SecretScanner
 - [ ] https://github.com/rancher/security-scan
@@ -2014,11 +2023,7 @@
 - [ ] https://github.com/Tylous/Limelighter
 - [ ] https://github.com/0xrawsec/whids
 - [ ] https://github.com/rajveermalviya/go-wayland
-- [ ] https://github.com/mozilla/sops
-- [ ] https://github.com/optiv/Talon
-- [ ] https://github.com/flier/gohs
-- [ ] https://github.com/kgoins/ldsview
-- [ ] https://github.com/google/kctf
+- [ ] https://github.com/devanshbatham/Gorecon
 
 ## 0x05-Golang逆向
 
