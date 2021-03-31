@@ -1187,6 +1187,7 @@
 - [ ] https://github.com/xxxserxxx/gotop
 - [ ] https://github.com/golang/crypto
 - [ ] https://github.com/baetyl/baetyl
+- [ ] https://github.com/junegunn/fzf
 
 ## 0x04-Golang安全
 
