@@ -246,7 +246,7 @@
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/kevwan/why-golang
 - [ ] https://github.com/preytaren/go-doc-zh
-- [ ] https://github.com/lifei6671/interview-go
+- [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/golang-design/history
 - [ ] https://github.com/unknwon/go-study-index
 - [ ] https://github.com/hwholiday/learning_tools
@@ -755,6 +755,7 @@
 - [ ] https://github.com/lukechampine/fastxor
 - [ ] https://github.com/mvdan/gogrep
 - [ ] https://github.com/dean2021/noodles
+- [ ] https://github.com/jf-tech/omniparser
 
 ## 0x03-Golang项目
 
@@ -1189,6 +1190,7 @@
 - [ ] https://github.com/baetyl/baetyl
 - [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/gravitl/netmaker
+- [ ] https://github.com/akavel/up
 
 ## 0x04-Golang安全
 
@@ -1266,6 +1268,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/0x2E/sf
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/canc3s/cIPR
@@ -2010,6 +2013,7 @@
 - [ ] https://github.com/optiv/Talon
 - [ ] https://github.com/flier/gohs
 - [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/google/kctf
 
 ## 0x05-Golang逆向
 
