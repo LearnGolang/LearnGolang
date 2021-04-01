@@ -2,7 +2,7 @@
 
 本项目记录自己学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源及优秀的项目代码等。尽可能的使用Go语言，尽可能的使用Go语言进行Hacking。学习Go语言，面向信仰编程。作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
-关于Golang的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
+关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
 本项目创建于2020年8月10日，最近一次更新时间为2021年4月1日。
 
@@ -1198,6 +1198,7 @@
 - [ ] https://github.com/keys-pub/keys-ext
 - [ ] https://github.com/keys-pub/keys
 - [ ] https://github.com/mmcloughlin/mathfmt
+- [ ] https://github.com/distribworks/dkron
 
 ## 0x04-Golang安全
 
