@@ -443,6 +443,7 @@
 - [ ] https://github.com/fortio/fortio
 - [ ] https://github.com/stretchr/testify
 - [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/felixge/sprof
 - [ ] https://github.com/WillAbides/benchdiff
 - [ ] https://github.com/vmihailenco/go-cache-benchmark
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
@@ -2027,6 +2028,7 @@
 - [ ] https://github.com/0xrawsec/whids
 - [ ] https://github.com/rajveermalviya/go-wayland
 - [ ] https://github.com/devanshbatham/Gorecon
+- [ ] https://github.com/njcx/RuleCat
 
 ## 0x05-Golang逆向
 
