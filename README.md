@@ -2035,6 +2035,7 @@
 - [ ] https://github.com/rajveermalviya/go-wayland
 - [ ] https://github.com/devanshbatham/Gorecon
 - [ ] https://github.com/njcx/RuleCat
+- [ ] https://github.com/EdgeSecurityTeam/Eeyes
 
 ## 0x05-Golang逆向
 
