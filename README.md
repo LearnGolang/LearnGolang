@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月4日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月5日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -272,6 +272,7 @@
 - [ ] https://github.com/xiaowei520/go_interview
 - [ ] https://github.com/code-review-checklists/go-concurrency
 - [ ] https://github.com/gocn/cool-go
+- [ ] https://github.com/golang-design/Go-Questions
 - [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
 
 ## 0x02-Golang框架
@@ -1206,6 +1207,7 @@
 - [ ] https://github.com/bcicen/ctop
 - [ ] https://github.com/drep-project/DREP-Chain
 - [ ] https://github.com/Jguer/yay
+- [ ] https://github.com/ava-labs/avalanchego
 
 ## 0x04-Golang安全
 
@@ -1792,6 +1794,7 @@
 -  [ ] https://github.com/fanpei91/sandwich
 -  [ ] https://github.com/Dreamacro/clash
 -  [ ] https://github.com/xjasonlyu/tun2socks
+-  [ ] https://github.com/eaglexiang/eagle.tunnel.go
 
 十、内网渗透
 
@@ -2036,6 +2039,7 @@
 - [ ] https://github.com/devanshbatham/Gorecon
 - [ ] https://github.com/njcx/RuleCat
 - [ ] https://github.com/EdgeSecurityTeam/Eeyes
+- [ ] https://github.com/aquasecurity/starboard
 
 ## 0x05-Golang逆向
 
