@@ -237,6 +237,8 @@
 
 七、其他资源
 
+- [ ] https://github.com/gocn/cool-go
+- [ ] https://github.com/mvdan/corpus
 - [ ] https://github.com/dariubs/GoBooks
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
 - [ ] https://mojotv.cn/404#Golang
@@ -271,9 +273,8 @@
 - [ ] https://github.com/thinkgos/golang-design-pattern
 - [ ] https://github.com/xiaowei520/go_interview
 - [ ] https://github.com/code-review-checklists/go-concurrency
-- [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/golang-design/Go-Questions
-- [ ] [golang拾遗：为什么我们需要泛型](https://www.cnblogs.com/apocelipes/p/13832224.html)
+- [ ] https://www.cnblogs.com/apocelipes/p/13832224.html
 
 ## 0x02-Golang框架
 
@@ -762,6 +763,7 @@
 - [ ] https://github.com/dean2021/noodles
 - [ ] https://github.com/jf-tech/omniparser
 - [ ] https://github.com/stacktitan/smb
+- [ ] https://github.com/birchb1024/frangipanni
 
 ## 0x03-Golang项目
 
