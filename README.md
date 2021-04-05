@@ -301,6 +301,7 @@
 - [ ] https://github.com/msoap/yandex-weather-cli
 - [ ] https://github.com/schachmat/wego
 - [ ] https://github.com/genuinetools/weather
+- [ ] https://github.com/charmbracelet/lipgloss
 
 二、请求响应
 
@@ -763,7 +764,9 @@
 - [ ] https://github.com/dean2021/noodles
 - [ ] https://github.com/jf-tech/omniparser
 - [ ] https://github.com/stacktitan/smb
+- [ ] https://github.com/pterm/pterm
 - [ ] https://github.com/birchb1024/frangipanni
+- [ ] https://github.com/ThreeDotsLabs/watermill
 
 ## 0x03-Golang项目
 
@@ -1207,9 +1210,12 @@
 - [ ] https://github.com/distribworks/dkron
 - [ ] https://github.com/inetaf/netstack
 - [ ] https://github.com/bcicen/ctop
-- [ ] https://github.com/drep-project/DREP-Chain
 - [ ] https://github.com/Jguer/yay
+- [ ] https://github.com/aunum/gold
 - [ ] https://github.com/ava-labs/avalanchego
+- [ ] https://github.com/drep-project/DREP-Chain
+- [ ] https://github.com/slok/grafterm
+- [ ] https://github.com/adhocore/fast
 
 ## 0x04-Golang安全
 
