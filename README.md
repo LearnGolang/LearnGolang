@@ -1226,6 +1226,13 @@
 - [ ] https://github.com/miekg/pkcs11
 - [ ] https://github.com/adhocore/urlsh
 - [ ] https://github.com/werf/werf
+- [ ] https://github.com/gdamore/tcell
+- [ ] https://github.com/fzipp/canvas
+- [ ] https://github.com/ad-sho-loko/mille
+- [ ] https://github.com/fyne-io/fyne
+- [ ] https://github.com/nektos/act
+- [ ] https://github.com/junegunn/fzf
+- [ ] https://github.com/zhenghaoz/gorse
 
 ## 0x04-Golang安全
 
