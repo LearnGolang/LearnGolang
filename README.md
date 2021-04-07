@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月6日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月7日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -767,6 +767,7 @@
 - [ ] https://github.com/pterm/pterm
 - [ ] https://github.com/birchb1024/frangipanni
 - [ ] https://github.com/ThreeDotsLabs/watermill
+- [ ] https://github.com/projectdiscovery/wappalyzergo
 
 ## 0x03-Golang项目
 
@@ -1219,6 +1220,10 @@
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/docuowl/docuowl
 - [ ] https://github.com/hakluke/hakcron
+- [ ] https://github.com/mhchlib/mconfig
+- [ ] https://github.com/hashicorp/packer
+- [ ] https://github.com/claudiodangelis/qrcp
+- [ ] https://github.com/miekg/pkcs11
 
 ## 0x04-Golang安全
 
@@ -1648,6 +1653,7 @@
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
+- [ ] https://github.com/wonderkun/go-packer
 - [ ] https://github.com/timwhitez/Doge-sRDI
 - [ ] https://github.com/EgeBalci/HERCULES
 - [ ] https://github.com/petercunha/GoAT
