@@ -1224,6 +1224,8 @@
 - [ ] https://github.com/hashicorp/packer
 - [ ] https://github.com/claudiodangelis/qrcp
 - [ ] https://github.com/miekg/pkcs11
+- [ ] https://github.com/adhocore/urlsh
+- [ ] https://github.com/werf/werf
 
 ## 0x04-Golang安全
 
