@@ -1235,6 +1235,7 @@
 - [ ] https://github.com/zhenghaoz/gorse
 - [ ] https://github.com/liamg/sunder
 - [ ] https://github.com/adonovan/spaghetti
+- [ ] https://github.com/deletescape/goop
 
 ## 0x04-Golang安全
 
