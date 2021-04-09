@@ -1240,6 +1240,7 @@
 - [ ] https://github.com/bp0lr/gauplus
 - [ ] https://github.com/google/go-licenses
 - [ ] https://github.com/mitchellh/golicense
+- [ ] https://github.com/casbin/casbin
 
 ## 0x04-Golang安全
 
@@ -2074,6 +2075,7 @@
 - [ ] https://github.com/njcx/RuleCat
 - [ ] https://github.com/EdgeSecurityTeam/Eeyes
 - [ ] https://github.com/aquasecurity/starboard
+- [ ] https://github.com/Alaa-abdulridha/SerpScan
 
 ## 0x05-Golang逆向
 
