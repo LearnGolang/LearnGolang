@@ -2087,6 +2087,7 @@
 - [ ] https://github.com/nccgroup/ConMachi
 - [ ] https://github.com/kerbyj/goLazagne
 - [ ] https://github.com/assetnote/kiterunner
+- [ ] https://github.com/redcode-labs/SNOWCRASH
 
 ## 0x05-Golang逆向
 
