@@ -357,6 +357,7 @@
 - [ ] https://golang.org/pkg/encoding/json
 - [ ] https://github.com/Andrew-M-C/go.jsonvalue
 - [ ] https://github.com/alecthomas/jsonschema
+- [ ] https://github.com/tidwall/gjson
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -1245,6 +1246,9 @@
 - [ ] https://github.com/casbin/casbin
 - [ ] https://github.com/billziss-gh/hubfs
 - [ ] https://github.com/go-ego/riot
+- [ ] https://github.com/guitmz/gocave
+- [ ] https://github.com/alecthomas/mph
+- [ ] https://github.com/goplus/gop
 
 ## 0x04-Golang安全
 
@@ -2082,6 +2086,7 @@
 - [ ] https://github.com/Alaa-abdulridha/SerpScan
 - [ ] https://github.com/nccgroup/ConMachi
 - [ ] https://github.com/kerbyj/goLazagne
+- [ ] https://github.com/assetnote/kiterunner
 
 ## 0x05-Golang逆向
 
