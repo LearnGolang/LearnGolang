@@ -765,11 +765,12 @@
 - [ ] https://github.com/dean2021/noodles
 - [ ] https://github.com/jf-tech/omniparser
 - [ ] https://github.com/stacktitan/smb
+- [ ] https://github.com/gomidi/midi
 - [ ] https://github.com/pterm/pterm
 - [ ] https://github.com/birchb1024/frangipanni
 - [ ] https://github.com/ThreeDotsLabs/watermill
 - [ ] https://github.com/projectdiscovery/wappalyzergo
-- [ ] https://github.com/gomidi/midi
+- [ ] https://github.com/blevesearch/bleve
 
 ## 0x03-Golang项目
 
@@ -1243,6 +1244,7 @@
 - [ ] https://github.com/mitchellh/golicense
 - [ ] https://github.com/casbin/casbin
 - [ ] https://github.com/billziss-gh/hubfs
+- [ ] https://github.com/go-ego/riot
 
 ## 0x04-Golang安全
 
