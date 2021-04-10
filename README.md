@@ -2079,6 +2079,7 @@
 - [ ] https://github.com/aquasecurity/starboard
 - [ ] https://github.com/Alaa-abdulridha/SerpScan
 - [ ] https://github.com/nccgroup/ConMachi
+- [ ] https://github.com/kerbyj/goLazagne
 
 ## 0x05-Golang逆向
 
