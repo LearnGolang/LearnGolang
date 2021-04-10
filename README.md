@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月9日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月10日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -769,6 +769,7 @@
 - [ ] https://github.com/birchb1024/frangipanni
 - [ ] https://github.com/ThreeDotsLabs/watermill
 - [ ] https://github.com/projectdiscovery/wappalyzergo
+- [ ] https://github.com/gomidi/midi
 
 ## 0x03-Golang项目
 
@@ -1241,6 +1242,7 @@
 - [ ] https://github.com/google/go-licenses
 - [ ] https://github.com/mitchellh/golicense
 - [ ] https://github.com/casbin/casbin
+- [ ] https://github.com/billziss-gh/hubfs
 
 ## 0x04-Golang安全
 
@@ -2076,6 +2078,7 @@
 - [ ] https://github.com/EdgeSecurityTeam/Eeyes
 - [ ] https://github.com/aquasecurity/starboard
 - [ ] https://github.com/Alaa-abdulridha/SerpScan
+- [ ] https://github.com/nccgroup/ConMachi
 
 ## 0x05-Golang逆向
 
@@ -2110,9 +2113,10 @@
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 
-四、Go加密发布
+四、Go代码混淆
 
 - [ ] https://github.com/halfrost
+- [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
