@@ -1643,6 +1643,7 @@
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/0xsapra/fuzzparam
 -  [ ] https://github.com/j5s/Caesar
+-  [ ] https://github.com/jiaocoll/GoWebBanner
 
 七、Web安全
 
@@ -2096,6 +2097,7 @@
 - [ ] https://github.com/kerbyj/goLazagne
 - [ ] https://github.com/assetnote/kiterunner
 - [ ] https://github.com/redcode-labs/SNOWCRASH
+- [ ] https://github.com/KathanP19/protoscan
 
 ## 0x05-Golang逆向
 
