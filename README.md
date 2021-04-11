@@ -1253,6 +1253,9 @@
 - [ ] https://github.com/cheggaaa/pb
 - [ ] https://github.com/SixGenInc/Noctilucent
 - [ ] https://github.com/jesseduffield/lazydocker
+- [ ] https://github.com/pokemium/mettaur
+- [ ] https://github.com/google/wire
+- [ ] https://github.com/pgaskin/dictutil
 
 ## 0x04-Golang安全
 
@@ -1510,6 +1513,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/inbug-team/InScan
 -  [ ] https://github.com/rootklt/snowball
 -  [ ] https://github.com/mumu0215/FlamiePaw
 -  [ ] https://github.com/virink/xray-weblisten-ui
