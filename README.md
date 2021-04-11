@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月10日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月11日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -772,6 +772,7 @@
 - [ ] https://github.com/ThreeDotsLabs/watermill
 - [ ] https://github.com/projectdiscovery/wappalyzergo
 - [ ] https://github.com/blevesearch/bleve
+- [ ] https://github.com/eko/gocache
 
 ## 0x03-Golang项目
 
@@ -1249,6 +1250,9 @@
 - [ ] https://github.com/guitmz/gocave
 - [ ] https://github.com/alecthomas/mph
 - [ ] https://github.com/goplus/gop
+- [ ] https://github.com/cheggaaa/pb
+- [ ] https://github.com/SixGenInc/Noctilucent
+- [ ] https://github.com/jesseduffield/lazydocker
 
 ## 0x04-Golang安全
 
@@ -1452,6 +1456,7 @@
 -  [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
 -  [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 -  [ ] https://github.com/Pingze-github/portScanner
+-  [ ] https://github.com/KathanP19/protoscan
 
 三、资产扫描
 
@@ -1633,8 +1638,7 @@
 - [ ] https://github.com/Static-Flow/gofingerprint
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/0xsapra/fuzzparam
-- [ ] https://github.com/thunderbarca/Caesar
--  [ ] https://github.com/zhanglei/Caesar
+-  [ ] https://github.com/j5s/Caesar
 
 七、Web安全
 
