@@ -2100,13 +2100,13 @@
 - [ ] https://github.com/KathanP19/protoscan
 - [ ] https://github.com/Shopify/toxiproxy
 - [ ] https://github.com/charmbracelet/glow
+- [ ] https://github.com/Buzz2d0/Hyuga
 
 ## 0x05-Golang逆向
 
 一、使用Go逆向
 
 - [ ] https://github.com/zznop/sploit
-- [ ] https://github.com/goretk/redress
 - [ ] https://github.com/goretk/gore
 - [ ] https://github.com/0xjiayu/go_parser
 - [ ] https://github.com/lunixbochs/usercorn
