@@ -2099,6 +2099,7 @@
 - [ ] https://github.com/redcode-labs/SNOWCRASH
 - [ ] https://github.com/KathanP19/protoscan
 - [ ] https://github.com/Shopify/toxiproxy
+- [ ] https://github.com/charmbracelet/glow
 
 ## 0x05-Golang逆向
 
