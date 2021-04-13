@@ -1849,6 +1849,7 @@
 -  [ ] https://github.com/xjasonlyu/tun2socks
 -  [ ] https://github.com/eaglexiang/eagle.tunnel.go
 -  [ ] https://github.com/djhohnstein/cliProxy
+-  [ ] https://github.com/redcode-labs/GodSpeed
 
 十、内网渗透
 
@@ -2098,12 +2099,15 @@
 - [ ] https://github.com/nccgroup/ConMachi
 - [ ] https://github.com/kerbyj/goLazagne
 - [ ] https://github.com/assetnote/kiterunner
-- [ ] https://github.com/redcode-labs/SNOWCRASH
 - [ ] https://github.com/KathanP19/protoscan
 - [ ] https://github.com/Shopify/toxiproxy
 - [ ] https://github.com/charmbracelet/glow
 - [ ] https://github.com/Buzz2d0/Hyuga
 - [ ] https://github.com/BishopFox/smogcloud
+- [ ] https://github.com/redcode-labs/UnChain
+- [ ] https://github.com/redcode-labs/Neurax
+- [ ] https://github.com/redcode-labs/Coldfire
+- [ ] https://github.com/redcode-labs/Sammler
 
 ## 0x05-Golang逆向
 
