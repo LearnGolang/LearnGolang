@@ -46,6 +46,7 @@
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
+- [ ] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译
