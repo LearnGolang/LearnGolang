@@ -1690,6 +1690,7 @@
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
+- [ ] https://github.com/An0ny-m0us/DesertFox
 - [ ] https://github.com/wonderkun/go-packer
 - [ ] https://github.com/timwhitez/Doge-sRDI
 - [ ] https://github.com/EgeBalci/HERCULES
@@ -1735,7 +1736,6 @@
 - [ ] https://github.com/vyrus001/needle
 - [ ] https://github.com/theRealestAEP/GoLang
 - [ ] https://github.com/cephurs/GOback
-- [ ] https://github.com/An0ny-m0us/DesertFox
 - [ ] https://github.com/mjwhitta/runsc
 - [ ] https://github.com/mu0gua/shellcode-remote-aes
 - [ ] https://github.com/listinvest/undonut
