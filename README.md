@@ -774,6 +774,7 @@
 - [ ] https://github.com/projectdiscovery/wappalyzergo
 - [ ] https://github.com/blevesearch/bleve
 - [ ] https://github.com/eko/gocache
+- [ ] https://github.com/blackjack/webcam
 
 ## 0x03-Golang项目
 
@@ -1262,6 +1263,7 @@
 - [ ] https://github.com/josephspurrier/goversioninfo
 - [ ] https://github.com/alibaba/sentinel-golang
 - [ ] https://github.com/Allenxuxu/gev
+- [ ] https://github.com/gen0cide/gscript
 
 ## 0x04-Golang安全
 
