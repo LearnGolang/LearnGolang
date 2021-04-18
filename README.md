@@ -776,6 +776,7 @@
 - [ ] https://github.com/blevesearch/bleve
 - [ ] https://github.com/eko/gocache
 - [ ] https://github.com/blackjack/webcam
+- [ ] https://github.com/vugu/vugu
 
 ## 0x03-Golang项目
 
@@ -1265,6 +1266,7 @@
 - [ ] https://github.com/alibaba/sentinel-golang
 - [ ] https://github.com/Allenxuxu/gev
 - [ ] https://github.com/gen0cide/gscript
+- [ ] https://github.com/AlysonBee/GoVirtualFilesystem
 
 ## 0x04-Golang安全
 
