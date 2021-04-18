@@ -1267,6 +1267,7 @@
 - [ ] https://github.com/Allenxuxu/gev
 - [ ] https://github.com/gen0cide/gscript
 - [ ] https://github.com/AlysonBee/GoVirtualFilesystem
+- [ ] https://github.com/jaypipes/ghw
 
 ## 0x04-Golang安全
 
@@ -2119,6 +2120,7 @@
 - [ ] https://github.com/redcode-labs/Sammler
 - [ ] https://github.com/Sakurasan/scf-proxy
 - [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/Sndav/MultiHoneypot
 
 ## 0x05-Golang逆向
 
