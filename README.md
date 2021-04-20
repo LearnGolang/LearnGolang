@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月20日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月21日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -203,6 +203,7 @@
 - [ ] [《Introducing Go》]()
 - [x] [《The Ultimate Go Notebook》](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg)
 - [ ] [《The-Little-Go-Book》](https://github.com/karlseguin/the-little-go-book)
+- [ ] [《Go With The Domain》](https://threedots.tech/newsletter)
 - [ ] [《The Way To Go》]()
 - [ ] [《Production Go》]()
 - [ ] [《ultimate go notebook》]()
@@ -1270,6 +1271,7 @@
 - [ ] https://github.com/AlysonBee/GoVirtualFilesystem
 - [ ] https://github.com/jaypipes/ghw
 - [ ] https://github.com/RH12503/Triangula
+- [ ] https://github.com/sipt/shuttle
 
 ## 0x04-Golang安全
 
@@ -1618,6 +1620,7 @@
 - [ ] https://github.com/skarnecki/lockpick
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
+- [ ] https://github.com/djhohnstein/ghidorah
 
 六、路径扫描
 
