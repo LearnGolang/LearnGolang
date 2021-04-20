@@ -2161,6 +2161,7 @@
 - [ ] https://github.com/Sndav/MultiHoneypot
 - [ ] https://github.com/crow821/mayfly
 - [ ] https://github.com/tidwall/wal
+- [ ] https://github.com/madneal/gshark
 
 ## 0x05-Golang逆向
 
