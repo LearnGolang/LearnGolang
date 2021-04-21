@@ -1387,6 +1387,7 @@
 - [ ] https://github.com/jimen0/brute
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
+- [ ] https://github.com/netevert/dnsmorph
 
 二、端口扫描
 
@@ -1485,6 +1486,7 @@
 - [ ] https://github.com/EdgeSecurityTeam/EHole
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
+- [ ] https://github.com/zsdevX/DarkEye
 
 四、漏洞扫描
 
@@ -1865,6 +1867,7 @@
 -  [ ] https://github.com/eaglexiang/eagle.tunnel.go
 -  [ ] https://github.com/djhohnstein/cliProxy
 -  [ ] https://github.com/redcode-labs/GodSpeed
+-  [ ] https://github.com/muraenateam/muraena
 
 十、内网渗透
 
@@ -1884,15 +1887,11 @@
 - [ ] https://github.com/BishopFox/sliver
 - [ ] https://github.com/maxlandon/wiregost
 
-十一、社工钓鱼
+十一、蜜罐钓鱼
 
-- [ ] https://github.com/gophish/gophish
+- [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
+- [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
 - [ ] https://github.com/hacklcx/HFish
-- [ ] https://github.com/zsdevX/DarkEye
-- [ ] https://github.com/evilsocket/xray
-- [ ] https://github.com/honeytrap/honeytrap
-- [ ] https://github.com/muraenateam/muraena
-- [ ] https://github.com/netevert/dnsmorph
 - [ ] https://github.com/dsnezhkov/deepsea
 - [ ] https://github.com/dutchcoders/ares
 - [ ] https://github.com/cybercdh/kitphishr
