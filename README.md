@@ -543,6 +543,7 @@
 - [ ] https://github.com/patrickhener/goshs
 - [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
+- [ ] https://github.com/gphper/ginadmin
 - [ ] https://www.snowlyg.com/chapter/0
 
 十六、中间件框架
