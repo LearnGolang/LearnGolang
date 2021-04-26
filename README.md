@@ -28,13 +28,14 @@
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
+- [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
 - [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
+- [x] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#20%
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
-- [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%
 - [x] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
 - [ ] [《Go语言编程》](https://item.jd.com/11067810.html)@许式伟
 - [x] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
@@ -49,7 +50,6 @@
 - [ ] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
-- [ ] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
 - [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
