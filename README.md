@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年4月26日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年4月27日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -398,6 +398,8 @@
 -  [ ] https://github.com/XiaoMi/Gaea
 -  [ ] https://github.com/flike/kingshard
 -  [ ] https://github.com/Andrew-M-C/go.mysqlx
+-  [ ] https://github.com/cookieY/Yearning
+-  [ ] https://github.com/vitessio/vitess
 -  MongoDB
 -  [ ] https://gopkg.in/mgo.v2
 -  [ ] https://github.com/Cgboal/SonarSearch
@@ -541,10 +543,11 @@
 - [ ] https://github.com/gookit/rux
 - [ ] https://github.com/vicanso/elton
 - [ ] https://github.com/patrickhener/goshs
+- [ ] https://github.com/gphper/ginadmin
+- [ ] https://github.com/gotuna/gotuna
+- [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
-- [ ] https://github.com/gphper/ginadmin
-- [ ] https://www.snowlyg.com/chapter/0
 
 十六、中间件框架
 
@@ -898,7 +901,6 @@
 - [ ] https://github.com/project-flogo/core
 - [ ] https://github.com/uber-go/goleak
 - [ ] https://github.com/didi/nightingale
-- [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/pingcap/failpoint
 - [ ] https://github.com/naiba/nezha
 - [ ] https://github.com/melbahja/goph
@@ -948,7 +950,6 @@
 - [ ] https://github.com/Ripolak/minict
 - [ ] https://github.com/juicedata/juicefs
 - [ ] https://github.com/lu4p/chat-hotwire-go
-- [ ] https://github.com/photoprism/photoprism
 - [ ] https://github.com/github/hub
 - [ ] https://github.com/nuclio/nuclio
 - [ ] https://github.com/owncast/owncast
@@ -1102,7 +1103,6 @@
 - [ ] https://github.com/justinas/nosurf
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hashicorp/terraform
-- [ ] https://github.com/photoprism/photoprism
 - [ ] https://github.com/russross/blackfriday
 - [ ] https://github.com/hunterhug/gomap
 - [ ] https://github.com/hunterhug/gosession
@@ -1133,7 +1133,7 @@
 - [ ] https://github.com/goava/di
 - [ ] https://github.com/moovweb/gvm
 - [ ] https://github.com/yinheli/sshw
-- [ ] https://github.com/photoprism/photoprism
+- [ ] https://github.com/photoprism/photoprism | 个人照片管理系统 | 13k
 - [ ] https://github.com/Jeffail/benthos
 - [ ] https://github.com/flopp/go-findfont
 - [ ] https://github.com/levidurfee/gowafp
@@ -1212,7 +1212,6 @@
 - [ ] https://github.com/xxxserxxx/gotop
 - [ ] https://github.com/golang/crypto
 - [ ] https://github.com/baetyl/baetyl
-- [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/gravitl/netmaker
 - [ ] https://github.com/akavel/up
 - [ ] https://github.com/cronokirby/safenum
@@ -1273,6 +1272,8 @@
 - [ ] https://github.com/jaypipes/ghw
 - [ ] https://github.com/RH12503/Triangula
 - [ ] https://github.com/sipt/shuttle
+- [ ] https://github.com/chrislusf/gleam
+- [ ] https://github.com/lyft/clutch
 
 ## 0x04-Golang安全
 
@@ -1624,6 +1625,7 @@
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/djhohnstein/ghidorah
+- [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 120
 
 六、路径扫描
 
