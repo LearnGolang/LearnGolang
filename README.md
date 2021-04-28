@@ -278,6 +278,7 @@
 - [ ] https://github.com/golang-design/Go-Questions
 - [ ] https://www.cnblogs.com/apocelipes/p/13832224.html
 - [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
+- [ ] https://github.com/golang/vulndb
 
 ## 0x02-Golang框架
 
@@ -1874,6 +1875,7 @@
 -  [ ] https://github.com/muraenateam/muraena
 -  [ ] https://github.com/esrrhs/spp
 -  [ ] https://github.com/umputun/reproxy
+-  [ ] https://github.com/tavenli/port-forward
 
 十、内网渗透
 
