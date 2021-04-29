@@ -1534,6 +1534,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/CobaltZirs0n/RunExploit
 -  [ ] https://github.com/inbug-team/InScan
 -  [ ] https://github.com/rootklt/snowball
 -  [ ] https://github.com/mumu0215/FlamiePaw
@@ -1876,6 +1877,7 @@
 -  [ ] https://github.com/esrrhs/spp
 -  [ ] https://github.com/umputun/reproxy
 -  [ ] https://github.com/tavenli/port-forward
+-  [ ] https://github.com/hotnops/gtunnel
 
 十、内网渗透
 
