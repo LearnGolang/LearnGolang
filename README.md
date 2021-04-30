@@ -1518,6 +1518,7 @@
 -  https://github.com/topics/security-tools?l=go
 -  https://github.com/topics/security-scanner?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
+-  [ ] https://github.com/projectdiscovery/nuclei | 基于POC模板的漏洞扫描工具 | 3.9k
 -  [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
 -  [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
 -  [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
@@ -1667,7 +1668,6 @@
 - [ ] https://github.com/stefanoj3/dirstalk | dirbuster和dirb的现代替代品 | 181
 - [ ] https://github.com/Matir/webborer | Go编写的目录枚举工具 | 42
 - [ ] https://github.com/hakluke/hakrawler | 快速的Web搜寻器 | 1.6k
-- [ ] https://github.com/projectdiscovery/nuclei | 扫描的快速工具 | 1.6k
 - [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
