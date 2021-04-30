@@ -307,7 +307,23 @@
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
 
-二、请求响应
+二、日志处理
+
+- [ ] https://golang.org/pkg/log
+- [ ] https://github.com/uber-go/zap
+- [ ] https://github.com/go-clog/clog
+- [ ] https://github.com/rs/zerolog
+- [ ] https://github.com/sirupsen/logrus
+- [ ] https://github.com/imroc/log
+- [ ] https://github.com/gookit/slog
+- [ ] https://github.com/foomo/logfrog
+- [ ] https://github.com/bp0lr/go-logger
+- [ ] https://github.com/chzyer/logex
+- [ ] https://github.com/sigstore/rekor
+- [ ] https://github.com/hashicorp/go-multierror
+- [ ] https://github.com/projectdiscovery/gologger
+
+三、请求响应
 
 - https://github.com/topics/request?l=go
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
@@ -347,7 +363,7 @@
 - [ ] https://github.com/gonetx/httpit
 - [ ] https://github.com/projectdiscovery/simplehttpserver
 
-三、配置文件
+四、配置文件
 
 - JSON
 - [ ] https://github.com/simeji/jid
@@ -380,17 +396,17 @@
 - [ ] https://github.com/thedevsaddam/gojsonq
 - [ ] https://github.com/ugorji/go
 
-四、文本文件
+五、文本文件
 
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
 
-五、电子表格
+六、电子表格
 
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
 
-六、数据入库
+七、数据处理
 
 -  MySQL
 -  [ ] https://github.com/go-sql-driver/mysql
@@ -423,22 +439,6 @@
 -  [ ] https://github.com/rubenv/sql-migrate
 -  [ ] https://github.com/syndtr/goleveldb
 -  [ ] https://github.com/kashav/fsql
-
-七、日志处理
-
-- [ ] https://golang.org/pkg/log
-- [ ] https://github.com/uber-go/zap
-- [ ] https://github.com/go-clog/clog
-- [ ] https://github.com/rs/zerolog
-- [ ] https://github.com/sirupsen/logrus
-- [ ] https://github.com/imroc/log
-- [ ] https://github.com/gookit/slog
-- [ ] https://github.com/foomo/logfrog
-- [ ] https://github.com/bp0lr/go-logger
-- [ ] https://github.com/chzyer/logex
-- [ ] https://github.com/sigstore/rekor
-- [ ] https://github.com/hashicorp/go-multierror
-- [ ] https://github.com/projectdiscovery/gologger
 
 八、错误处理
 
