@@ -1292,6 +1292,7 @@
 - [ ] https://github.com/sipt/shuttle
 - [ ] https://github.com/chrislusf/gleam
 - [ ] https://github.com/lyft/clutch
+- [ ] https://github.com/vcqr/captcha
 
 ## 0x04-Golang安全
 
@@ -1426,6 +1427,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/lcvvvv/gonmap
 -  [ ] https://github.com/4dogs-cn/TXPortMap
 -  [ ] https://github.com/JustinTimperio/gomap
 -  [ ] https://github.com/CTF-MissFeng/NmapTools
