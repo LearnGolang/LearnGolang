@@ -306,14 +306,17 @@
 - [ ] https://github.com/schachmat/wego
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
+- [ ] https://github.com/labstack/gommon
 
 二、日志处理
 
-- [ ] https://golang.org/pkg/log
-- [ ] https://github.com/uber-go/zap
+- [ ] https://golang.org/pkg/log | Go语言官方日志库
+- [ ] https://github.com/sirupsen/logrus | 强大的Go日志第三分库 | 17.7k
+- [ ] https://github.com/uber-go/zap | uber出品的日志库 | 12.5k
+- [ ] https://github.com/rs/zerolog | 零分配JSON记录器 | 4.6k
+- [ ] https://github.com/oklog/oklog | 分布式无协调日志管理系统 | 2.9k
+- [ ] https://github.com/golang/glog | Go的分级执行日志 | 2.7k
 - [ ] https://github.com/go-clog/clog
-- [ ] https://github.com/rs/zerolog
-- [ ] https://github.com/sirupsen/logrus
 - [ ] https://github.com/imroc/log
 - [ ] https://github.com/gookit/slog
 - [ ] https://github.com/foomo/logfrog
@@ -322,6 +325,18 @@
 - [ ] https://github.com/sigstore/rekor
 - [ ] https://github.com/hashicorp/go-multierror
 - [ ] https://github.com/projectdiscovery/gologger
+- [ ] https://github.com/sanity-io/litter
+- [ ] https://github.com/apex/log
+- [ ] https://github.com/francoispqt/onelog
+- [ ] https://github.com/influxdata/go-syslog
+- [ ] https://github.com/phuslu/log
+- [ ] https://github.com/stern/stern
+- [ ] https://github.com/kataras/golog
+- [ ] https://github.com/cihub/seelog
+- [ ] https://github.com/YoungPioneers/blog4go
+- [ ] https://github.com/mkideal/log
+- [ ] https://github.com/ian-kent/go-log
+- [ ] https://github.com/ianberdin/l
 
 三、请求响应
 
@@ -547,6 +562,7 @@
 - [ ] https://github.com/patrickhener/goshs
 - [ ] https://github.com/gphper/ginadmin
 - [ ] https://github.com/gotuna/gotuna
+- [ ] https://github.com/teambition/gear
 - [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
