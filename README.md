@@ -307,6 +307,7 @@
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
 - [ ] https://github.com/labstack/gommon
+- [ ] https://github.com/jessevdk/go-flags
 
 二、日志处理
 
@@ -818,6 +819,7 @@
 二、娱乐游戏
 
 - [ ] https://github.com/loig/ld47
+- [ ] https://github.com/c0nrad/pr0n
 - [ ] https://github.com/Humpheh/goboy
 - [ ] https://github.com/duanhf2012/origin
 - [ ] https://github.com/umarquez/0ms2-game
@@ -1297,6 +1299,7 @@
 - [ ] https://github.com/vcqr/captcha
 - [ ] https://github.com/jhunters/bigqueue
 - [ ] https://github.com/oxequa/realize
+- [ ] https://github.com/taoshihan1991/go-fly
 
 ## 0x04-Golang安全
 
