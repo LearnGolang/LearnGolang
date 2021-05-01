@@ -293,7 +293,6 @@
 - [ ] https://github.com/urfave/c
 - [ ] https://github.com/spf13/cobra
 - [ ] https://github.com/mgutz/ansi
-- [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/logrusorgru/aurora
 - [ ] https://github.com/mattn/go-colorable
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
@@ -319,6 +318,7 @@
 - [ ] https://github.com/rs/zerolog | 零分配JSON记录器 | 4.6k
 - [ ] https://github.com/oklog/oklog | 分布式无协调日志管理系统 | 2.9k
 - [ ] https://github.com/golang/glog | Go的分级执行日志 | 2.7k
+- [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/imroc/log
 - [ ] https://github.com/gookit/slog
@@ -340,6 +340,11 @@
 - [ ] https://github.com/mkideal/log
 - [ ] https://github.com/ian-kent/go-log
 - [ ] https://github.com/ianberdin/l
+- [ ] https://github.com/natefinch/lumberjack
+- [ ] https://github.com/hpcloud/tail
+- [ ] https://github.com/cihub/seelog
+- [ ] https://github.com/apex/log
+- [ ] https://github.com/inconshreveable/log15
 
 三、请求响应
 
@@ -361,7 +366,7 @@
 - [ ] https://github.com/aceld/zinx | 基于Golang轻量级TCP并发服务器框架 | 3.2k
 - [ ] https://github.com/asmcos/requests | Golang HTTP客户端库 | 489
 - [ ] https://github.com/alexedwards/scs | Go的HTTP会话管理 | 839
-- [ ] https://github.com/parnurzeal/gorequest | 简化的HTTP客户端 | 2.8k
+- [ ] https://github.com/parnurzeal/gorequest | 简化的HTTP客户端 | 2.9k
 - [ ] https://github.com/celrenheit/lion |现代可扩展模块化的HTTP路由器 | 749
 - [ ] https://github.com/mssola/user_agent | 解析HTTP的User Agent |  574
 - [ ] https://github.com/google/go-safeweb | 默认安全的HTTP服务器 | 362
@@ -396,6 +401,11 @@
 - [ ] https://github.com/Andrew-M-C/go.jsonvalue
 - [ ] https://github.com/alecthomas/jsonschema
 - [ ] https://github.com/tidwall/gjson
+- [ ] https://github.com/ChimeraCoder/gojson
+- [ ] https://github.com/valyala/fastjson
+- [ ] https://github.com/Qntfy/kazaam
+- [ ] https://github.com/elgs/gojq
+- [ ] https://github.com/wI2L/jsondiff
 - YAML
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -617,7 +627,11 @@
 
 - [ ] https://github.com/miekg/dns
 
-二十三、其他框架
+二十三、机器学习
+
+- [ ] https://github.com/sjwhitworth/golearn
+
+二十四、其他框架
 
 - [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/xtaci/kcp-go
@@ -727,8 +741,6 @@
 - [ ] https://github.com/hidez8891/shm
 - [ ] https://github.com/asaskevich/govalidator
 - [ ] https://github.com/easy-bus/bus
-- [ ] https://github.com/tidwall/gjson
-- [ ] https://github.com/ChimeraCoder/gojson
 - [ ] https://github.com/benbjohnson/litestream
 - [ ] https://github.com/go-logr/logr
 - [ ] https://github.com/go-resty/resty
@@ -1444,6 +1456,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/v-byte-cpu/sx
 -  [ ] https://github.com/lcvvvv/gonmap
 -  [ ] https://github.com/4dogs-cn/TXPortMap
 -  [ ] https://github.com/JustinTimperio/gomap
@@ -2267,6 +2280,7 @@
 - [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/system-pclub/GCatch
 - [ ] https://github.com/redcode-labs/Neurax
+- [ ] https://github.com/zhangyoufu/lumina
 
 ## 0x06-Golang老师
 
