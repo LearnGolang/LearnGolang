@@ -826,6 +826,7 @@
 - [ ] https://github.com/vugu/vugu
 - [ ] https://github.com/olahol/melody
 - [ ] https://github.com/gmsec/micro
+- [ ] https://github.com/sf9v/gread
 
 ## 0x03-Golang项目
 
@@ -837,6 +838,7 @@
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
+- [ ] https://github.com/admpub/nging
 
 二、娱乐游戏
 
@@ -1322,6 +1324,7 @@
 - [ ] https://github.com/oxequa/realize
 - [ ] https://github.com/taoshihan1991/go-fly
 - [ ] https://github.com/dominikh/go-tools
+- [ ] https://github.com/ntt360/pmon2 | 进程管理工具 | 198
 
 ## 0x04-Golang安全
 
@@ -1529,6 +1532,7 @@
 -  [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
 -  [ ] https://github.com/Pingze-github/portScanner
 -  [ ] https://github.com/KathanP19/protoscan
+-  [ ] https://github.com/R4yGM/netscanner
 
 三、资产扫描
 
@@ -1636,6 +1640,7 @@
 -  [ ] https://github.com/GreyOrder/CVE-2021-21978
 -  [ ] https://github.com/GreyOrder/CVE-2021-26855
 -  [ ] https://github.com/dwisiswant0/proxylogscan
+-  [ ] https://github.com/brittonhayes/pillager
 
 五、密码爆破
 
@@ -2233,6 +2238,7 @@
 - [ ] https://github.com/ConsT27/GiveMeMail
 - [ ] https://github.com/Tabll/gemnasium-db
 - [ ] https://github.com/projectdiscovery/interactsh
+- [ ] https://github.com/sasdf/nyan
 
 ## 0x05-Golang逆向
 
