@@ -14,6 +14,7 @@
 
 ## 0x01-Golang资源
 
+- https://github.com/0e0w/LearnGolang
 - https://github.com/avelino/awesome-go
 - https://github.com/shockerli/go-awesome
 - https://github.com/jobbole/awesome-go-cn
@@ -405,6 +406,7 @@
 - [ ] https://github.com/goccy/go-yaml
 - [ ] https://github.com/mikefarah/yq
 - INI
+- [ ] https://github.com/go-ini/ini
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
 - Others
@@ -412,6 +414,13 @@
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/thedevsaddam/gojsonq
 - [ ] https://github.com/ugorji/go
+- [ ] https://github.com/spf13/viper
+- [ ] https://github.com/ilyakaznacheev/cleanenv
+- [ ] https://github.com/olebedev/config
+- [ ] https://github.com/gookit/config
+- [ ] https://github.com/hjson/hjson-go
+- [ ] https://github.com/joshbetz/config
+- [ ] https://github.com/One-com/gone/tree/master/jconf
 
 五、文本文件
 
@@ -1035,7 +1044,6 @@
 - [ ] https://github.com/robpike/ivy
 - [ ] https://github.com/shanghai-edu/multissh
 - [ ] https://github.com/linkedin/Burrow
-- [ ] https://github.com/spf13/viper
 - [ ] https://github.com/shengdoushi/base58
 - [ ] https://github.com/mmcloughlin/geohash
 - [ ] https://github.com/abadojack/whatlanggo
