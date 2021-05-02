@@ -1327,6 +1327,9 @@
 - [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/ntt360/pmon2 | 进程管理工具 | 198
 - [ ] https://github.com/Marten4n6/EvilOSX
+- [ ] https://github.com/chromedp/chromedp
+- [ ] https://github.com/rook/rook
+- [ ] https://github.com/stefanprodan/podinfo
 
 ## 0x04-Golang安全
 
@@ -1366,7 +1369,7 @@
 - [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 67
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 141
 - [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
@@ -1684,7 +1687,7 @@
 - [ ] https://github.com/lazytools/sshchecker
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/djhohnstein/ghidorah
-- [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 120
+- [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 231
 
 六、路径扫描
 
