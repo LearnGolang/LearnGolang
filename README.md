@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月2日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月3日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -309,6 +309,7 @@
 - [ ] https://github.com/labstack/gommon
 - [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/ozanh/ugo
+- [ ] https://github.com/maxlandon/readline
 
 二、日志处理
 
@@ -1548,6 +1549,7 @@
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/yl2chen/cidranger
 
 四、漏洞扫描
 
@@ -2244,6 +2246,7 @@
 - [ ] https://github.com/Tabll/gemnasium-db
 - [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/sasdf/nyan
+- [ ] https://github.com/NithinChintala/amalloc
 
 ## 0x05-Golang逆向
 
