@@ -279,7 +279,9 @@
 - [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
 - [ ] https://github.com/golang/vulndb
 
-## 0x02-Golang框架
+## 0x02-Golang标准
+
+## 0x03-Golang框架
 
 - https://github.com/topics/golang-library
 - https://github.com/topics/golang-application
@@ -289,12 +291,11 @@
 - https://github.com/topics/cli?l=go
 - https://github.com/topics/command-line?l=go
 
-- [ ] https://github.com/urfave/cli
-- [ ] https://github.com/fatih/color
-- [ ] https://github.com/urfave/c
-- [ ] https://github.com/spf13/cobra
-- [ ] https://github.com/mgutz/ansi
-- [ ] https://github.com/logrusorgru/aurora
+- [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 15.7k
+- [ ] https://github.com/fatih/color | 构建彩色的命令参数应用程序 | 4.2k
+- [ ] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 21.4k
+- [ ] https://github.com/mgutz/ansi | 创建彩色的字符串和代码 | 382
+- [ ] https://github.com/logrusorgru/aurora | Golang的最终ANSI颜色 | 1.1k
 - [ ] https://github.com/mattn/go-colorable
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/charmbracelet/bubbles
@@ -385,6 +386,7 @@
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
+- [ ] https://github.com/urfave/negroni
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/DavidCai1993/request
 - [ ] https://github.com/PuerkitoBio/goquery
@@ -392,7 +394,6 @@
 - [ ] https://github.com/kataras/compress
 - [ ] https://github.com/gonetx/httpit
 - [ ] https://github.com/projectdiscovery/simplehttpserver
-
 - DNS处理
 - [ ] https://github.com/miekg/dns
 
@@ -447,14 +448,21 @@
 
 五、文件处理
 
-- 文本文件
+- TXT文件
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
-- 电子表格
+- [ ] https://github.com/alash3al/re-txt
+- Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
-
-- others
+- Word文件
+- [ ] https://github.com/unidoc/unioffice
+- [ ] https://github.com/sajari/word2vec
+- [ ] https://github.com/mattn/docx2md
+- HTML文件
+- [ ] https://github.com/jaytaylor/html2text
+- [ ] https://github.com/yosssi/ace
+- Others
 
 六、数据处理
 
@@ -878,7 +886,7 @@
 - [ ] https://github.com/sf9v/gread
 - [ ] https://github.com/liip/sheriff
 
-## 0x03-Golang项目
+## 0x04-Golang项目
 
 - https://github.com/trending/go
 - https://github.com/topics/tool?l=go
@@ -1382,7 +1390,7 @@
 - [ ] https://github.com/mailchain/mailchain
 - [ ] https://github.com/HouzuoGuo/laitos
 
-## 0x04-Golang安全
+## 0x05-Golang安全
 
 -  https://github.com/topics/poc?l=go
 -  https://github.com/topics/cve?l=go
@@ -2299,7 +2307,7 @@
 - [ ] https://github.com/NithinChintala/amalloc
 - [ ] https://github.com/kha7iq/pingme
 
-## 0x05-Golang逆向
+## 0x06-Golang逆向
 
 一、Go代码混淆
 
@@ -2347,7 +2355,7 @@
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/zhangyoufu/lumina
 
-## 0x06-Golang老师
+## 0x07-Golang老师
 
 此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
