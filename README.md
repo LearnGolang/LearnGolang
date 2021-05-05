@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月4日。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月5日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
@@ -433,17 +433,17 @@
 - [ ] https://github.com/joshbetz/config
 - [ ] https://github.com/One-com/gone/tree/master/jconf
 
-五、文本文件
+五、文件处理
+
+- 文本文件
 
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
-
-六、电子表格
-
+- 电子表格
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
 
-七、数据处理
+六、数据处理
 
 -  MySQL
 -  [ ] https://github.com/go-sql-driver/mysql
@@ -478,13 +478,24 @@
 -  [ ] https://github.com/kashav/fsql
 -  [ ] https://github.com/zombiezen/go-sqlite
 
-八、错误处理
+七、错误处理
 
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
 - [ ] https://github.com/joomcode/errorx
 - [ ] https://github.com/cockroachdb/errors
+
+八、电子邮件
+
+- [ ] https://gopkg.in/gomail.v2
+- [ ] https://github.com/foxcpp/maddy
+- [ ] https://github.com/go-gomail/gomail
+- [ ] https://github.com/jordan-wright/email
+- [ ] https://github.com/domodwyer/mailyak
+- [ ] https://github.com/nikoksr/notify
+- [ ] https://github.com/davidbanham/marcel
+- [ ] https://github.com/matcornic/hermes
 
 九、单元测试
 
@@ -523,17 +534,7 @@
 - [ ] https://github.com/remeh/sizedwaitgroup
 - [ ] https://github.com/oklog/run
 
-十一、电子邮件
-
-- [ ] https://gopkg.in/gomail.v2
-- [ ] https://github.com/foxcpp/maddy
-- [ ] https://github.com/go-gomail/gomail
-- [ ] https://github.com/jordan-wright/email
-- [ ] https://github.com/domodwyer/mailyak
-- [ ] https://github.com/nikoksr/notify
-- [ ] https://github.com/davidbanham/marcel
-
-十二、图形框架
+十一、图形框架
 
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/ying32/govcl
@@ -544,12 +545,12 @@
 - [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
-十三、时间日期
+十二、时间日期
 
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
 
-十四、爬虫框架
+十三、爬虫框架
 
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
@@ -559,7 +560,7 @@
 - [ ] https://github.com/el10savio/GoCrawler
 - [ ] https://github.com/china-muwenbo/gospider
 
-十五、Web框架
+十四、Web框架
 
 - https://github.com/topics/web?l=go
 - [ ] https://github.com/astaxie/beego
