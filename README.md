@@ -306,7 +306,7 @@
 - [ ] https://github.com/schachmat/wego
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
-- [ ] https://github.com/labstack/gommon
+- [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
 - [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/ozanh/ugo
 - [ ] https://github.com/maxlandon/readline
@@ -491,76 +491,50 @@
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
 - https://github.com/topics/smtp?l=go
-
 - [ ] https://gopkg.in/gomail.v2
-- [ ] https://github.com/foxcpp/maddy
-- [ ] https://github.com/go-gomail/gomail
-- [ ] https://github.com/jordan-wright/email
-- [ ] https://github.com/domodwyer/mailyak
-- [ ] https://github.com/nikoksr/notify
-- [ ] https://github.com/davidbanham/marcel
-- [ ] https://github.com/matcornic/hermes
-- [ ] https://github.com/albertito/chasquid
-- [ ] https://github.com/aymerick/douceur
-- [ ]   https://github.com/jordan-wright/email
-- [ ]   https://github.com/AfterShip/email-verifier
-- [ ]   https://github.com/toorop/go-dkim
-- [ ]   https://github.com/go-email-validator/go-email-validato
-- [ ]   https://github.com/emersion/go-imap
-- [ ]   https://github.com/emersion/go-message
-- [ ]   https://github.com/vanng822/go-premailer
-- [ ]   https://github.com/xhit/go-simple-mail
-- [ ]   https://github.com/hectane/hectane
-- [ ]   https://github.com/mailchain/mailchain
-- [ ]   (https://github.com/mailgun/mailgun-go
-- [ ]   https://github.com/mailhog/MailHog
-- [ ]   https://github.com/sendgrid/sendgrid-go
-- [ ]   https://github.com/mailhog/smtp
-- [ ]   https://github.com/toorop/tmail
-- [ ]   https://github.com/xhit/go-simple-mail
-- [ ]   https://github.com/gopistolet/gopistolet
-- [ ]   https://github.com/matcornic/hermes
-- [ ]   https://github.com/flashmob/go-guerrilla
-- [ ]   https://github.com/inbucket/inbucket
-- [ ]   https://github.com/emersion/go-smtp
-- [ ]   https://github.com/emersion/hydroxide
-- [ ]   https://github.com/go-mail/mail
-- [ ]   https://github.com/toorop/tmail
-- [ ]   https://github.com/domodwyer/mailyak
-- [ ]   https://github.com/hectane/hectane
-- [ ]   https://github.com/HouzuoGuo/laitos
-- [ ]   https://github.com/networkimprov/mnm
-- [ ]   https://github.com/gleez/smtpd
-- [ ]   https://github.com/xhit/go-simple-mail
-- [ ]   https://github.com/nilslice/email
-- [ ]   https://github.com/alash3al/go-smtpsrv
-- [ ]   https://github.com/SchumacherFM/mailout
-- [ ]   https://github.com/JojiiOfficial/Matrix-EmailBridge
-- [ ]   https://github.com/chrj/smtpd
-- [ ]   https://github.com/smancke/mailck
-- [ ]   https://github.com/hqd8080/go-sendmail
-- [ ]   https://github.com/go-mailer/send
-- [ ]   https://github.com/ChinaArJun/forum
-- [ ]   https://github.com/lixuancn/mailservice
-- [ ]   https://github.com/labstack/gommon
-- [ ]   https://github.com/rykov/paperboy
-- [ ]   https://github.com/kha7iq/pingme
-- [ ]   https://github.com/jhillyerd/enmime
-- [ ]   https://github.com/domodwyer/mailyak
-- [ ]   https://github.com/AfterShip/email-verifier
-- [ ]   https://github.com/hectane/hectane
-- [ ]   https://github.com/networkimprov/mnm
-- [ ]   https://github.com/eXeC64/nanolist
-- [ ]   https://github.com/rodcorsi/mattermail
-- [ ]   https://github.com/xhit/go-simple-mail
-- [ ]   https://github.com/DusanKasan/parsemail
-- [ ]   https://github.com/mailhog/MailHog
-- [ ]   https://github.com/emersion/go-smtp
-- [ ]   https://github.com/emersion/hydroxide
-- [ ]   https://github.com/badoux/checkmail
-- [ ]   https://github.com/jhillyerd/enmime
-- [ ]   https://github.com/xhit/go-simple-mail
-- [ ]   https://github.com/muquit/mailsend-go
+- [ ] https://github.com/foxcpp/maddy |  可组合的多合一邮件服务器 | 2.3k
+- [ ] https://github.com/go-gomail/gomail | Go中发送电子邮件的最佳方法 | 3.2k
+- [ ] https://github.com/jordan-wright/email | 强大而灵活的Go电子邮件库 | 1.7k
+- [ ] https://github.com/domodwyer/mailyak | 优雅的SMTP电子邮件库 | 247
+- [ ] https://github.com/nikoksr/notify | 通知发送各种消息服务 | 789
+- [ ] https://github.com/davidbanham/marcel | 用于golang的电子邮件MIME艺术家 | 19 
+- [ ] https://github.com/matcornic/hermes | 用于发送交易电子邮件 | 2.3k
+- [ ] https://github.com/albertito/chasquid | 简单安全易操作性的电子邮件服务器 | 434
+- [ ]   https://github.com/emersion/go-imap | 用于客户端和服务器的IMAP库 | 1.2k
+- [ ]   https://github.com/emersion/go-message | Internet邮件格式的Go库 | 200
+- [ ]   https://github.com/vanng822/go-premailer | Golang中HTML邮件的内联样式 | 71
+- [x]   https://github.com/xhit/go-simple-mail | 批量发送电子邮件 | 133
+- [ ]   https://github.com/hectane/hectane | 用Go编写的轻量级SMTP客户端 | 205
+- [ ]   (https://github.com/mailgun/mailgun-go | 使用Mailgun API发送邮件 | 520
+- [ ]   https://github.com/mailhog/MailHog | 基于Web和API的SMTP测试 | 8.4k
+- [ ]   https://github.com/mailhog/mhsendmail | 通过MailHog发送邮件 | 176
+- [ ]   https://github.com/sendgrid/sendgrid-go| 通过SendGrid api批量发送邮件 | 724
+- [ ]   https://github.com/toorop/tmail | Golang的SMTP服务器 | 251
+- [ ]   https://github.com/gopistolet/gopistolet | 用Go编写的邮件服务器 46
+- [ ]   https://github.com/flashmob/go-guerrilla | Golang编写的迷你SMTP服务器 | 2k
+- [ ]   https://github.com/inbucket/inbucket | 一次性Webmail服务器 | 701
+- [ ]   https://github.com/emersion/go-smtp | 用Go编写的SMTP客户端和服务器库 | 668
+- [ ]   https://github.com/go-mail/mail | gomail的另一个优秀分支 | 342
+- [ ]   https://github.com/toorop/tmail | Golang SMTP服务器 | 251
+- [ ]   https://github.com/networkimprov/mnm | 构建电子邮件的合法替代品 | 177
+- [ ]   https://github.com/gleez/smtpd | 轻量级高性能ESMTP电子邮件服务器 | 176
+- [ ]   https://github.com/alash3al/go-smtpsrv | SMTP服务器的程序包 | 90
+- [ ]   https://github.com/rykov/paperboy | 使用GoLang构建电子邮件营销活动 | 413
+- [ ] https://github.com/jhillyerd/enmime | Go的MIME邮件编码和解码包 | 252
+- [ ] https://github.com/eXeC64/nanolist | 轻量级邮件列表管理器 | 154
+- [ ] https://github.com/rodcorsi/mattermail | 最重要的电子邮件集成 | 145
+- [ ] https://github.com/DusanKasan/parsemail | Golang的简单电子邮件解析 112
+- [ ] https://github.com/badoux/checkmail | 用于电子邮件验证的Golang软件包 | 573
+- [ ] https://github.com/muquit/mailsend-go | 通过SMTP协议发送邮件 | 90
+- [ ] https://github.com/AfterShip/email-verifier | 验证码电子邮件是否有效 | 222
+- [ ] https://github.com/go-email-validator/go-email-validator |  Golang电子邮件地址验证器 | 8
+- [ ]   https://github.com/JojiiOfficial/Matrix-EmailBridge | 接收和发送电子邮件 | 52
+- [ ]   https://github.com/chrj/smtpd | 转到SMTP服务器库 | 47
+- [ ]   https://github.com/smancke/mailck | 用于基于smtp的电子邮件验证 | 46
+- [ ]   https://github.com/hqd8080/go-sendmail | golang定时发送邮件 | 2
+- [ ]   https://github.com/go-mailer/send | Golang邮件发送 | 14
+- [ ]   https://github.com/ChinaArJun/forum | 一个简单的WEB邮件项目 | 4
+- [ ]   https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
 
 九、单元测试
 
@@ -743,7 +717,6 @@
 - [ ] https://github.com/BlackCodes/logbud
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/intel-go/nff-go
-- [ ] https://github.com/mailhog/MailHog
 - [ ] https://github.com/malfunkt/hyperfox
 - [ ] https://github.com/icodeface/grdp
 - [ ] https://github.com/Madnikulin50/gordp
@@ -1033,7 +1006,6 @@
 - [ ] https://github.com/ouqiang/gocron
 - [ ] https://github.com/zqjzqj/mtSecKill
 - [ ] https://github.com/tulir/gomuks
-- [ ] https://github.com/mailhog/MailHog
 - [ ] https://github.com/loov/goda
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/elastic/beats
@@ -1398,6 +1370,8 @@
 - [ ] https://github.com/rook/rook
 - [ ] https://github.com/stefanprodan/podinfo
 - [ ] https://github.com/shenwei356/rush
+- [ ] https://github.com/mailchain/mailchain
+- [ ] https://github.com/HouzuoGuo/laitos
 
 ## 0x04-Golang安全
 
@@ -2314,6 +2288,7 @@
 - [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/sasdf/nyan
 - [ ] https://github.com/NithinChintala/amalloc
+- [ ] https://github.com/kha7iq/pingme
 
 ## 0x05-Golang逆向
 
