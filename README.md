@@ -283,7 +283,16 @@
 
 ## 0x02-Golang标准
 
-待总结。
+- https://golang.org/pkg
+- https://studygolang.com/pkgdoc
+
+一、输入输出
+
+二、时间时期
+
+三、命令参数
+
+四、日志记录
 
 ## 0x03-Golang框架
 
@@ -299,8 +308,9 @@
 - [ ] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 21.4k
 - [ ] https://github.com/mgutz/ansi | 创建彩色的字符串和代码 | 382
 - [ ] https://github.com/logrusorgru/aurora | Golang的最终ANSI颜色 | 1.1k
-- [ ] https://github.com/mattn/go-colorable
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
+- [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
+- [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
@@ -311,10 +321,12 @@
 - [ ] https://github.com/schachmat/wego
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
-- [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
+- [ ] https://github.com/mattn/go-colorable
 - [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/ozanh/ugo
 - [ ] https://github.com/maxlandon/readline
+- [ ] https://github.com/maxlandon/gonsole
+- [ ] https://github.com/gizak/termui
 
 二、日志处理
 
@@ -723,7 +735,6 @@
 - [ ] https://github.com/hodgesds/perf-utils
 - [ ] https://github.com/snowlyg/gotransformer
 - [ ] https://github.com/buger/goreplay
-- [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/fcharlie/buna
 - [ ] https://github.com/c-bata/go-prompt
@@ -781,7 +792,6 @@
 - [ ] https://github.com/rclone/rclone
 - [ ] https://github.com/diamondburned/handy
 - [ ] https://github.com/jinzhu/copier | 将值从一个struct复制到另一个struct | 1.7k
-- [ ] https://github.com/tomnomnom/httprobe
 - [ ] https://github.com/radondb/radon
 - [ ] https://github.com/capnspacehook/taskmaster
 - [ ] https://github.com/vardius/gollback
@@ -887,6 +897,9 @@
 - [ ] https://github.com/gmsec/micro
 - [ ] https://github.com/sf9v/gread
 - [ ] https://github.com/liip/sheriff
+- [ ] https://github.com/mvdan/benchinit
+- [ ] https://github.com/kjellkvinge/gocover
+- [ ] https://github.com/sj14/astral
 
 ## 0x04-Golang项目
 
@@ -1391,6 +1404,9 @@
 - [ ] https://github.com/shenwei356/rush
 - [ ] https://github.com/mailchain/mailchain
 - [ ] https://github.com/HouzuoGuo/laitos
+- [ ] https://github.com/grafana/loki
+- [ ] https://github.com/esimov/facemask
+- [ ] https://github.com/adhocore/fast
 
 ## 0x05-Golang安全
 
@@ -2017,6 +2033,7 @@
 - [ ] https://github.com/bitepeng/b0pass
 - [ ] https://github.com/BishopFox/sliver
 - [ ] https://github.com/maxlandon/wiregost
+- [ ] https://github.com/WAY29/ptg
 
 十一、蜜罐钓鱼
 
