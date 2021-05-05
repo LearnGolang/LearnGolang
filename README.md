@@ -210,6 +210,8 @@
 - [ ] [《ultimate go notebook》]()
 - [ ] [《Go Systems Programming》](https://github.com/PacktPublishing/Go-Systems-Programming)
 - [ ] [《Get Programming with Go》]()
+- [ ] [《GUI Application Development in Go》](https://github.com/PacktPublishing/Hands-On-GUI-Application-Development-in-Go)
+- [ ] [《Building Cross-Platform GUI Applications with Fyne》](https://github.com/PacktPublishing/Building-Cross-Platform-GUI-Applications-with-Fyne)
 - [ ] [《Writing A Compiler In Go》](https://compilerbook.com/)
 - [ ] [《Writing An Interpreter In Go》](https://interpreterbook.com/)
 - [ ] [《Get Programming with Go》]()
@@ -327,6 +329,8 @@
 - [ ] https://github.com/maxlandon/readline
 - [ ] https://github.com/maxlandon/gonsole
 - [ ] https://github.com/gizak/termui
+- [ ] https://github.com/alecthomas/chroma
+- [ ] https://github.com/PierreKieffer/htui
 
 二、日志处理
 
@@ -366,6 +370,7 @@
 - [ ] https://github.com/cihub/seelog
 - [ ] https://github.com/apex/log
 - [ ] https://github.com/inconshreveable/log15
+- [ ] https://github.com/denji/oklog
 
 三、网络框架
 
@@ -432,6 +437,7 @@
 - [ ] https://github.com/Qntfy/kazaam
 - [ ] https://github.com/elgs/gojq
 - [ ] https://github.com/wI2L/jsondiff
+- [ ] https://github.com/cuelang/cue
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -512,6 +518,7 @@
 -  [ ] https://github.com/syndtr/goleveldb
 -  [ ] https://github.com/kashav/fsql
 -  [ ] https://github.com/zombiezen/go-sqlite
+-  [ ] https://github.com/xo/usql
 
 七、错误处理
 
@@ -865,7 +872,6 @@
 - [ ] https://github.com/flike/idgo
 - [ ] https://github.com/spf13/cast
 - [ ] https://github.com/bspaans/jit-compiler
-- [ ] https://github.com/chromedp/chromedp
 - [ ] https://github.com/inetaf/netaddr
 - [ ] https://github.com/jmattheis/goverter
 - [ ] https://github.com/briandowns/sky-island
@@ -900,6 +906,9 @@
 - [ ] https://github.com/mvdan/benchinit
 - [ ] https://github.com/kjellkvinge/gocover
 - [ ] https://github.com/sj14/astral
+- [ ] https://github.com/alecthomas/participle
+- [ ] https://github.com/buraksezer/consistent
+- [ ] https://github.com/esimov/triangle
 
 ## 0x04-Golang项目
 
@@ -948,7 +957,7 @@
 - [ ] https://github.com/ksred/go-stock-notifier
 - [ ] https://github.com/buth/stocker
 
-六、优秀项目
+六、其他项目
 
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
@@ -1407,6 +1416,9 @@
 - [ ] https://github.com/grafana/loki
 - [ ] https://github.com/esimov/facemask
 - [ ] https://github.com/adhocore/fast
+- [ ] https://github.com/agnivade/funnel
+- [ ] https://github.com/golang/gofrontend
+- [ ] https://github.com/grafov/hulk
 
 ## 0x05-Golang安全
 
@@ -1878,7 +1890,6 @@
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 - [ ] https://github.com/timwhitez/Doge-Assembly
 - [ ] https://github.com/redcode-labs/SNOWCRASH
-- [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/EatonChips/dllogram
 - [ ] https://github.com/TRYblog/des.hex-encodefile
 - [ ] https://github.com/EgeBalci/amber
@@ -2086,7 +2097,6 @@
 - [ ] https://github.com/securego/gosec
 - [ ] https://github.com/xfhg/intercept
 - [ ] https://github.com/William-Yeh/fswatch
-- [ ] https://github.com/adonovan/spaghetti
 - [ ] https://github.com/americanexpress/earlybird
 
 十三、应急响应
@@ -2238,7 +2248,6 @@
 - [ ] https://github.com/MiSecurity/x-patrol
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/unstppbl/gowap
-- [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/ryandamour/crlfmap
 - [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/ethicalhackingplayground/Zin
@@ -2325,6 +2334,8 @@
 - [ ] https://github.com/sasdf/nyan
 - [ ] https://github.com/NithinChintala/amalloc
 - [ ] https://github.com/kha7iq/pingme
+- [ ] https://github.com/C-Sto/BananaPhone
+- [ ] https://github.com/kgoins/ldsview
 
 ## 0x06-Golang逆向
 
