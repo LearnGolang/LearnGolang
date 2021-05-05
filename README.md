@@ -7,10 +7,12 @@
 本项目创建于2020年8月10日，最近一次更新时间为2021年5月5日。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
-- [0x02-Golang框架](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A1%86%E6%9E%B6)
-- [0x03-Golang项目](https://github.com/0e0w/LearnGolang#0x03-golang%E9%A1%B9%E7%9B%AE)
-- [0x04-Golang安全](https://github.com/0e0w/LearnGolang#0x04-golang%E5%AE%89%E5%85%A8)
-- [0x05-Golang逆向](https://github.com/0e0w/LearnGolang#0x05-golang%E9%80%86%E5%90%91)
+- [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
+- [0x03-Golang框架](https://github.com/0e0w/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
+- [0x04-Golang项目](https://github.com/0e0w/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
+- [0x05-Golang安全](https://github.com/0e0w/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
+- [0x06-Golang逆向](https://github.com/0e0w/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
+- [0x07-Golang老师](https://github.com/0e0w/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
 
 ## 0x01-Golang资源
 
@@ -281,13 +283,14 @@
 
 ## 0x02-Golang标准
 
+待总结。
+
 ## 0x03-Golang框架
 
 - https://github.com/topics/golang-library
 - https://github.com/topics/golang-application
 
 一、命令参数
-
 - https://github.com/topics/cli?l=go
 - https://github.com/topics/command-line?l=go
 
@@ -314,7 +317,6 @@
 - [ ] https://github.com/maxlandon/readline
 
 二、日志处理
-
 - https://github.com/topics/log?l=go
 - https://github.com/topics/logger?l=go
 - https://github.com/topics/logging?l=go
