@@ -488,6 +488,10 @@
 
 八、电子邮件
 
+- https://github.com/topics/mail?l=go
+- https://github.com/topics/email?l=go
+- https://github.com/topics/smtp?l=go
+
 - [ ] https://gopkg.in/gomail.v2
 - [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/go-gomail/gomail
@@ -496,6 +500,67 @@
 - [ ] https://github.com/nikoksr/notify
 - [ ] https://github.com/davidbanham/marcel
 - [ ] https://github.com/matcornic/hermes
+- [ ] https://github.com/albertito/chasquid
+- [ ] https://github.com/aymerick/douceur
+- [ ]   https://github.com/jordan-wright/email
+- [ ]   https://github.com/AfterShip/email-verifier
+- [ ]   https://github.com/toorop/go-dkim
+- [ ]   https://github.com/go-email-validator/go-email-validato
+- [ ]   https://github.com/emersion/go-imap
+- [ ]   https://github.com/emersion/go-message
+- [ ]   https://github.com/vanng822/go-premailer
+- [ ]   https://github.com/xhit/go-simple-mail
+- [ ]   https://github.com/hectane/hectane
+- [ ]   https://github.com/mailchain/mailchain
+- [ ]   (https://github.com/mailgun/mailgun-go
+- [ ]   https://github.com/mailhog/MailHog
+- [ ]   https://github.com/sendgrid/sendgrid-go
+- [ ]   https://github.com/mailhog/smtp
+- [ ]   https://github.com/toorop/tmail
+- [ ]   https://github.com/xhit/go-simple-mail
+- [ ]   https://github.com/gopistolet/gopistolet
+- [ ]   https://github.com/matcornic/hermes
+- [ ]   https://github.com/flashmob/go-guerrilla
+- [ ]   https://github.com/inbucket/inbucket
+- [ ]   https://github.com/emersion/go-smtp
+- [ ]   https://github.com/emersion/hydroxide
+- [ ]   https://github.com/go-mail/mail
+- [ ]   https://github.com/toorop/tmail
+- [ ]   https://github.com/domodwyer/mailyak
+- [ ]   https://github.com/hectane/hectane
+- [ ]   https://github.com/HouzuoGuo/laitos
+- [ ]   https://github.com/networkimprov/mnm
+- [ ]   https://github.com/gleez/smtpd
+- [ ]   https://github.com/xhit/go-simple-mail
+- [ ]   https://github.com/nilslice/email
+- [ ]   https://github.com/alash3al/go-smtpsrv
+- [ ]   https://github.com/SchumacherFM/mailout
+- [ ]   https://github.com/JojiiOfficial/Matrix-EmailBridge
+- [ ]   https://github.com/chrj/smtpd
+- [ ]   https://github.com/smancke/mailck
+- [ ]   https://github.com/hqd8080/go-sendmail
+- [ ]   https://github.com/go-mailer/send
+- [ ]   https://github.com/ChinaArJun/forum
+- [ ]   https://github.com/lixuancn/mailservice
+- [ ]   https://github.com/labstack/gommon
+- [ ]   https://github.com/rykov/paperboy
+- [ ]   https://github.com/kha7iq/pingme
+- [ ]   https://github.com/jhillyerd/enmime
+- [ ]   https://github.com/domodwyer/mailyak
+- [ ]   https://github.com/AfterShip/email-verifier
+- [ ]   https://github.com/hectane/hectane
+- [ ]   https://github.com/networkimprov/mnm
+- [ ]   https://github.com/eXeC64/nanolist
+- [ ]   https://github.com/rodcorsi/mattermail
+- [ ]   https://github.com/xhit/go-simple-mail
+- [ ]   https://github.com/DusanKasan/parsemail
+- [ ]   https://github.com/mailhog/MailHog
+- [ ]   https://github.com/emersion/go-smtp
+- [ ]   https://github.com/emersion/hydroxide
+- [ ]   https://github.com/badoux/checkmail
+- [ ]   https://github.com/jhillyerd/enmime
+- [ ]   https://github.com/xhit/go-simple-mail
+- [ ]   https://github.com/muquit/mailsend-go
 
 九、单元测试
 
@@ -670,7 +735,6 @@
 - [ ] https://github.com/fcharlie/buna
 - [ ] https://github.com/c-bata/go-prompt
 - [ ] https://github.com/cespare/xxhash
-- [ ] https://github.com/foxcpp/maddy
 - [ ] https://github.com/thinkgos/http-middlewares
 - [ ] https://github.com/allegro/bigcache
 - [ ] https://github.com/eiannone/keyboard
