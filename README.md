@@ -286,6 +286,9 @@
 
 一、命令参数
 
+- https://github.com/topics/cli?l=go
+- https://github.com/topics/command-line?l=go
+
 - [ ] https://github.com/urfave/cli
 - [ ] https://github.com/fatih/color
 - [ ] https://github.com/urfave/c
@@ -310,6 +313,10 @@
 - [ ] https://github.com/maxlandon/readline
 
 二、日志处理
+
+- https://github.com/topics/log?l=go
+- https://github.com/topics/logger?l=go
+- https://github.com/topics/logging?l=go
 
 - [ ] https://golang.org/pkg/log | Go语言官方日志库
 - [ ] https://github.com/sirupsen/logrus | 强大的Go日志第三分库 | 17.7k
@@ -345,8 +352,9 @@
 - [ ] https://github.com/apex/log
 - [ ] https://github.com/inconshreveable/log15
 
-三、请求响应
+三、网络框架
 
+- HTTP请求响应
 - https://github.com/topics/request?l=go
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
@@ -385,9 +393,13 @@
 - [ ] https://github.com/gonetx/httpit
 - [ ] https://github.com/projectdiscovery/simplehttpserver
 
+- DNS处理
+- [ ] https://github.com/miekg/dns
+
 四、配置文件
 
 - JSON
+- https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
 - [ ] https://github.com/lqiz/amoeba
 - [ ] https://github.com/Jeffail/gabs
@@ -406,6 +418,7 @@
 - [ ] https://github.com/elgs/gojq
 - [ ] https://github.com/wI2L/jsondiff
 - YAML
+- https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
 - [ ] https://github.com/go-yaml/yaml
@@ -415,6 +428,7 @@
 - [ ] https://github.com/goccy/go-yaml
 - [ ] https://github.com/mikefarah/yq
 - INI
+- https://github.com/topics/ini?l=go
 - [ ] https://github.com/go-ini/ini
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
@@ -439,6 +453,8 @@
 - 电子表格
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
+
+- others
 
 六、数据处理
 
@@ -488,9 +504,9 @@
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
 - https://github.com/topics/smtp?l=go
-- [ ] https://gopkg.in/gomail.v2
+- [ ] https://gopkg.in/gomail.v2 | 发送电子邮件的最佳方法
+- [ ] https://github.com/go-gomail/gomail | 发送电子邮件的最佳方法 | 3.2k
 - [ ] https://github.com/foxcpp/maddy |  可组合的多合一邮件服务器 | 2.3k
-- [ ] https://github.com/go-gomail/gomail | Go中发送电子邮件的最佳方法 | 3.2k
 - [ ] https://github.com/jordan-wright/email | 强大而灵活的Go电子邮件库 | 1.7k
 - [ ] https://github.com/domodwyer/mailyak | 优雅的SMTP电子邮件库 | 247
 - [ ] https://github.com/nikoksr/notify | 通知发送各种消息服务 | 789
@@ -581,22 +597,7 @@
 - [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
-十二、时间日期
-
-- [ ] https://github.com/jinzhu/now
-- [ ] https://github.com/rfyiamcool/timingwheel
-
-十三、爬虫框架
-
-- [ ] https://github.com/gocolly/colly
-- [ ] https://github.com/mvdan/xurls
-- [ ] https://github.com/zhshch2002/gospider
-- [ ] https://github.com/PuerkitoBio/gocrawl
-- [ ] https://github.com/crawlab-team/crawlab
-- [ ] https://github.com/el10savio/GoCrawler
-- [ ] https://github.com/china-muwenbo/gospider
-
-十四、Web框架
+十二、Web框架
 
 - https://github.com/topics/web?l=go
 - [ ] https://github.com/astaxie/beego
@@ -628,49 +629,60 @@
 - [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
 
-十六、中间件框架
+十三、爬虫框架
+
+- [ ] https://github.com/gocolly/colly
+- [ ] https://github.com/mvdan/xurls
+- [ ] https://github.com/zhshch2002/gospider
+- [ ] https://github.com/PuerkitoBio/gocrawl
+- [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/el10savio/GoCrawler
+- [ ] https://github.com/china-muwenbo/gospider
+
+十四、中间件框架
 
 - [ ] https://github.com/go-redis/redis
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
-十七、消息队列
+十五、消息队列
 
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/MasslessParticle/GoQ
 
-十八、Service Mesh
+十六、Service Mesh
 
 - [ ] https://github.com/istio/istio
 
-十九、RPC
+十七、RPC
 
 - [ ] https://github.com/smallnest/rpcx
 
 - [ ] https://github.com/grpc/grpc-go
 
-二十、图像处理
+十八、图像处理
 
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
-二十一、RSS框架
+十九、RSS框架
 
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 
-二十二、DNS框架
-
-- [ ] https://github.com/miekg/dns
-
-二十三、机器学习
+二十、机器学习
 
 - [ ] https://github.com/sjwhitworth/golearn
 
-二十四、其他框架
+十一、时间日期
+
+- [ ] https://github.com/jinzhu/now
+- [ ] https://github.com/rfyiamcool/timingwheel
+
+二十二、其他框架
 
 - [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/xtaci/kcp-go
@@ -871,7 +883,7 @@
 - https://github.com/trending/go
 - https://github.com/topics/tool?l=go
 
-一、CMS网站
+一、开源网站
 
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/ponzu-cms/ponzu
@@ -2289,7 +2301,25 @@
 
 ## 0x05-Golang逆向
 
-一、使用Go逆向
+一、Go代码混淆
+
+- [ ] https://github.com/halfrost
+- [ ] https://github.com/burrowers/garble
+- [ ] https://github.com/burrowers/garble
+- [ ] https://github.com/flew-software/filecrypt
+- [ ] https://github.com/unixpickle/gobfuscate
+
+二、逆向Go程序
+
+- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
+- [ ] https://github.com/felberj/gotools
+- [ ] https://github.com/goretk/redress
+- [ ] https://www.4hou.com/posts/8OJ2
+- [ ] https://bbs.pediy.com/thread-263921.htm
+- [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
+- [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+
+三、使用Go逆向
 
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/gore
@@ -2302,32 +2332,14 @@
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
-二、逆向Go程序
-
-- [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
-- [ ] https://github.com/felberj/gotools
-- [ ] https://github.com/goretk/redress
-- [ ] https://www.4hou.com/posts/8OJ2
-- [ ] https://bbs.pediy.com/thread-263921.htm
-- [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
-- [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
-
-三、Go恶意软件
+四、Go恶意软件
 
 - [ ] https://github.com/wille/cry
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 
-四、Go代码混淆
-
-- [ ] https://github.com/halfrost
-- [ ] https://github.com/burrowers/garble
-- [ ] https://github.com/burrowers/garble
-- [ ] https://github.com/flew-software/filecrypt
-- [ ] https://github.com/unixpickle/gobfuscate
-
-五、其他项目
+五、其他逆向项目
 
 - [ ] https://github.com/akavel/rsrc
 - [ ] https://github.com/minio/c2goasm
@@ -2337,7 +2349,7 @@
 
 ## 0x06-Golang老师
 
-此处排名不分先后，向自己在学习Go语言过程中遇到的优秀老师致敬。感谢感谢！
+此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
 一、Go教程资源
 
@@ -2352,7 +2364,7 @@
 - 韩茹-千锋教育金牌讲师，[@rubyhan](https://github.com/rubyhan1314)
 - 李文周-Go语言优秀讲师，[@Q1mi](https://www.liwenzhou.com/)
 
-二、Go开发参考
+二、Go语言参考
 
 - [https://github.com/netxfly](https://github.com/netxfly)
 - https://github.com/schollz
