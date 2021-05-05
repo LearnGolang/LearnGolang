@@ -1,6 +1,6 @@
 # LearnGolang
 
-本项目记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源及优秀的项目代码等。尽可能的使用Go语言，尽可能的理解Go语言进行Hacking。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
+本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
@@ -17,8 +17,6 @@
 - https://github.com/0e0w/LearnGolang
 - https://github.com/avelino/awesome-go
 - https://github.com/shockerli/go-awesome
-- https://github.com/jobbole/awesome-go-cn
-- https://github.com/hyper0x/awesome-go-China
 - https://github.com/yinggaozhen/awesome-go-cn
 
 一、基础书籍
