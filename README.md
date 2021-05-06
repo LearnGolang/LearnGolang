@@ -487,40 +487,46 @@
 
 六、数据处理
 
--  MySQL
--  [ ] https://github.com/go-sql-driver/mysql
--  [ ] https://github.com/pingcap/tidb
--  [ ] https://github.com/jmoiron/sqlx
--  [ ] https://github.com/XiaoMi/Gaea
--  [ ] https://github.com/flike/kingshard
--  [ ] https://github.com/Andrew-M-C/go.mysqlx
--  [ ] https://github.com/cookieY/Yearning
--  [ ] https://github.com/vitessio/vitess
--  [ ] https://github.com/xelabs/go-mysqlstack
--  MongoDB
--  [ ] https://gopkg.in/mgo.v2
--  [ ] https://github.com/Cgboal/SonarSearch
--  [ ] https://github.com/mongodb/mongo-go-driver
--  [ ] https://github.com/qiniu/qmgo
--  [ ] https://github.com/256dpi/lungo
--  PostgreSQL
--  [ ] https://github.com/go-pg/pg
--  [ ] https://github.com/prest/prest
--  [ ] https://github.com/sosedoff/pgweb
--  Others
--  [ ] https://github.com/jackc/pgx
--  [ ] https://github.com/boltdb/bolt
--  [ ] https://github.com/ideawu/ssdb
--  [ ] https://github.com/go-gorm/gorm
--  [ ] https://github.com/syndtr/goleveldb
--  [ ] https://github.com/didiyudha/sse-redis
--  [ ] https://github.com/shenghui0779/yiigo
--  [ ] https://github.com/denisenkom/go-mssqldb
--  [ ] https://github.com/rubenv/sql-migrate
--  [ ] https://github.com/syndtr/goleveldb
--  [ ] https://github.com/kashav/fsql
--  [ ] https://github.com/zombiezen/go-sqlite
--  [ ] https://github.com/xo/usql
+- MySQL
+- [ ] https://github.com/go-sql-driver/mysql
+- [ ] https://github.com/pingcap/tidb
+- [ ] https://github.com/jmoiron/sqlx
+- [ ] https://github.com/XiaoMi/Gaea
+- [ ] https://github.com/flike/kingshard
+- [ ] https://github.com/Andrew-M-C/go.mysqlx
+- [ ] https://github.com/cookieY/Yearning
+- [ ] https://github.com/vitessio/vitess
+- [ ] https://github.com/xelabs/go-mysqlstack
+
+- MongoDB
+- [ ] https://gopkg.in/mgo.v2
+- [ ] https://github.com/Cgboal/SonarSearch
+- [ ] https://github.com/mongodb/mongo-go-driver
+- [ ] https://github.com/qiniu/qmgo
+- [ ] https://github.com/256dpi/lungo
+
+- PostgreSQL
+- [ ] https://github.com/go-pg/pg
+- [ ] https://github.com/prest/prest
+- [ ] https://github.com/sosedoff/pgweb
+
+- Redis
+- [ ] https://github.com/go-redis/redis
+
+- Others
+- [ ] https://github.com/jackc/pgx
+- [ ] https://github.com/boltdb/bolt
+- [ ] https://github.com/ideawu/ssdb
+- [ ] https://github.com/go-gorm/gorm
+- [ ] https://github.com/syndtr/goleveldb
+- [ ] https://github.com/didiyudha/sse-redis
+- [ ] https://github.com/shenghui0779/yiigo
+- [ ] https://github.com/denisenkom/go-mssqldb
+- [ ] https://github.com/rubenv/sql-migrate
+- [ ] https://github.com/syndtr/goleveldb
+- [ ] https://github.com/kashav/fsql
+- [ ] https://github.com/zombiezen/go-sqlite
+- [ ] https://github.com/xo/usql
 
 七、错误处理
 
@@ -672,7 +678,6 @@
 
 十四、中间件框架
 
-- [ ] https://github.com/go-redis/redis
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
