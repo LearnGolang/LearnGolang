@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -415,6 +415,7 @@
 - [ ] https://github.com/projectdiscovery/simplehttpserver
 - DNS处理
 - [ ] https://github.com/miekg/dns
+- [ ] https://github.com/babolivier/go-doh-client
 
 四、配置文件
 
@@ -495,6 +496,7 @@
 -  [ ] https://github.com/Andrew-M-C/go.mysqlx
 -  [ ] https://github.com/cookieY/Yearning
 -  [ ] https://github.com/vitessio/vitess
+-  [ ] https://github.com/xelabs/go-mysqlstack
 -  MongoDB
 -  [ ] https://gopkg.in/mgo.v2
 -  [ ] https://github.com/Cgboal/SonarSearch
@@ -629,7 +631,7 @@
 十二、Web框架
 
 - https://github.com/topics/web?l=go
-- [ ] https://github.com/astaxie/beego
+- [ ] https://github.com/beego/beego
 - [ ] https://github.com/gohugoio/hugo
 - [ ] https://github.com/gin-gonic/gin
 - [ ] https://github.com/gofiber/fiber
@@ -909,6 +911,7 @@
 - [ ] https://github.com/alecthomas/participle
 - [ ] https://github.com/buraksezer/consistent
 - [ ] https://github.com/esimov/triangle
+- [ ] https://github.com/fullstorydev/grpchan
 
 ## 0x04-Golang项目
 
@@ -1419,6 +1422,9 @@
 - [ ] https://github.com/agnivade/funnel
 - [ ] https://github.com/golang/gofrontend
 - [ ] https://github.com/grafov/hulk
+- [ ] https://github.com/skanehira/docui
+- [ ] https://github.com/ipinfo/cli
+- [ ] https://github.com/infracost/infracost
 
 ## 0x05-Golang安全
 
