@@ -413,6 +413,7 @@
 - [ ] https://github.com/kataras/compress
 - [ ] https://github.com/gonetx/httpit
 - [ ] https://github.com/projectdiscovery/simplehttpserver
+- [ ] https://github.com/DonMcNamara/requestinator
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -497,22 +498,18 @@
 - [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/xelabs/go-mysqlstack
-
 - MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
 - [ ] https://github.com/mongodb/mongo-go-driver
 - [ ] https://github.com/qiniu/qmgo
 - [ ] https://github.com/256dpi/lungo
-
 - PostgreSQL
 - [ ] https://github.com/go-pg/pg
 - [ ] https://github.com/prest/prest
 - [ ] https://github.com/sosedoff/pgweb
-
 - Redis
 - [ ] https://github.com/go-redis/redis
-
 - Others
 - [ ] https://github.com/jackc/pgx
 - [ ] https://github.com/boltdb/bolt
@@ -527,6 +524,7 @@
 - [ ] https://github.com/kashav/fsql
 - [ ] https://github.com/zombiezen/go-sqlite
 - [ ] https://github.com/xo/usql
+- [ ] https://github.com/hantmac/fuckdb
 
 七、错误处理
 
@@ -917,6 +915,7 @@
 - [ ] https://github.com/buraksezer/consistent
 - [ ] https://github.com/esimov/triangle
 - [ ] https://github.com/fullstorydev/grpchan
+- [ ] https://github.com/birchb1024/frangipanni | 将文本转换为漂亮的树状结构 | 977
 
 ## 0x04-Golang项目
 
@@ -1430,6 +1429,11 @@
 - [ ] https://github.com/skanehira/docui
 - [ ] https://github.com/ipinfo/cli
 - [ ] https://github.com/infracost/infracost
+- [ ] https://github.com/nfnt/resize
+- [ ] https://github.com/soundcloud/roshi
+- [ ] https://github.com/VictoriaMetrics/VictoriaMetrics
+- [ ] https://github.com/falcosecurity/falcosidekick
+- [ ] https://github.com/gaowanliang/LightUploader
 
 ## 0x05-Golang安全
 
@@ -1469,7 +1473,7 @@
 - [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
-- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 141
+- [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 143
 - [ ] https://github.com/Freek3r/GoDigDomain | 用Go语言编写的域名爆破工具 | 4
 - [ ] https://github.com/tomnomnom/assetfinder| 查找可能与给定域相关的域和子域 | 930
 - [ ] https://github.com/QSoloX/whoisyou | 获取域列表并输出主机名和IP | 3
@@ -1546,6 +1550,7 @@
 - [ ] https://github.com/goodlandsecurity/subfinder
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 - [ ] https://github.com/netevert/dnsmorph
+- [ ] https://github.com/kmskrishna/gdn
 
 二、端口扫描
 
@@ -1810,7 +1815,7 @@
 - [ ] https://github.com/brem-hub/godirb | 快速的目录扫描工具 | 0
 - [ ] https://github.com/stefanoj3/dirstalk | dirbuster和dirb的现代替代品 | 181
 - [ ] https://github.com/Matir/webborer | Go编写的目录枚举工具 | 42
-- [ ] https://github.com/hakluke/hakrawler | 快速的Web搜寻器 | 1.6k
+- [ ] https://github.com/hakluke/hakrawler | 快速的Web搜寻器 | 1.9k
 - [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
@@ -2040,7 +2045,6 @@
 
 十、内网渗透
 
-- [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
 - [ ] https://github.com/TerminalJockey/Kudzu
@@ -2097,6 +2101,7 @@
 - [ ] https://github.com/flowchartsman/kraken
 - [ ] https://github.com/nu11secur1ty/evilginx-phishing-attack2
 - [ ] https://github.com/ajm113/brutaLog
+- [ ] https://github.com/kgretzky/evilginx2
 
 十二、代码审计
 
@@ -2109,10 +2114,11 @@
 - [ ] https://github.com/xfhg/intercept
 - [ ] https://github.com/William-Yeh/fswatch
 - [ ] https://github.com/americanexpress/earlybird
+- [ ] https://github.com/Hardw01f/Vulnerability-goapp | Go开发的易受攻击的Web应用程序 | 116
 
 十三、应急响应
 
-- [ ] https://github.com
+- [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
 
 十四、移动安全
 
