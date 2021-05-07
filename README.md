@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月7日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月8日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1440,6 +1440,8 @@
 - [ ] https://github.com/gaowanliang/LightUploader
 - [ ] https://github.com/rancher/kim
 - [ ] https://github.com/togettoyou/blockchain-real-estate
+- [ ] https://github.com/GoogleCloudPlatform/functions-framework-go
+- [ ] https://github.com/GoogleCloudPlatform/golang-samples
 
 ## 0x05-Golang安全
 
@@ -2140,6 +2142,7 @@
 - [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
+- [ ] https://github.com/edoardottt/lit-bb-hack-tools
 
 十六、其他项目
 
@@ -2371,10 +2374,30 @@
 
 二、Go授权许可
 
+- https://github.com/topics/license-management?l=go
+
 - [ ] https://github.com/furkansenharputlu/f-license
 - [ ] https://github.com/nishanths/license
 - [ ] https://github.com/tcnksm/license
 - [ ] https://github.com/src-d/go-license-detector
+- [ ] https://github.com/werbot/lime
+- [ ] https://github.com/k33nice/licenser
+- [ ] https://github.com/src-d/go-license-detector
+- [ ] https://github.com/go-enry/go-license-detector
+- [ ] https://github.com/google/licenseclassifier
+- [ ] https://github.com/frapposelli/wwhrd
+- [ ] https://github.com/boyter/lc
+- [ ] https://github.com/SaturnsVoid/SimpleLicensing
+- [ ] https://github.com/c4milo/licentia
+- [ ] https://github.com/Comcast/weasel
+- [ ] https://github.com/uw-labs/lichen
+- [ ] https://github.com/xakep666/licensevalidator
+- [ ] https://github.com/elastic/go-licence-detector
+- [ ] https://github.com/jcmturner/golick
+- [ ] https://github.com/eacp/gitgen
+- [ ] https://github.com/lispysnake/lispylicense
+- [ ] https://github.com/leaanthony/comply
+- [ ] https://github.com/prksu/license2l
 
 三、逆向Go程序
 
