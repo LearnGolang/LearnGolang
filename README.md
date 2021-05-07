@@ -2369,7 +2369,14 @@
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
 
-二、逆向Go程序
+二、Go授权许可
+
+- [ ] https://github.com/furkansenharputlu/f-license
+- [ ] https://github.com/nishanths/license
+- [ ] https://github.com/tcnksm/license
+- [ ] https://github.com/src-d/go-license-detector
+
+三、逆向Go程序
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
@@ -2379,7 +2386,7 @@
 - [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
-三、使用Go逆向
+四、使用Go逆向
 
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/gore
@@ -2392,14 +2399,14 @@
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
-四、Go恶意软件
+五、Go恶意软件
 
 - [ ] https://github.com/wille/cry
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 
-五、其他逆向项目
+六、其他逆向项目
 
 - [ ] https://github.com/akavel/rsrc
 - [ ] https://github.com/minio/c2goasm
