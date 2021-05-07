@@ -414,6 +414,7 @@
 - [ ] https://github.com/gonetx/httpit
 - [ ] https://github.com/projectdiscovery/simplehttpserver
 - [ ] https://github.com/DonMcNamara/requestinator
+- [ ] https://github.com/nodauf/Swego
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -916,6 +917,8 @@
 - [ ] https://github.com/esimov/triangle
 - [ ] https://github.com/fullstorydev/grpchan
 - [ ] https://github.com/birchb1024/frangipanni | 将文本转换为漂亮的树状结构 | 977
+- [ ] https://github.com/rsc/tmplfunc
+- [ ] https://github.com/mdempsky/maligned
 
 ## 0x04-Golang项目
 
@@ -1423,7 +1426,6 @@
 - [ ] https://github.com/HouzuoGuo/laitos
 - [ ] https://github.com/grafana/loki
 - [ ] https://github.com/esimov/facemask
-- [ ] https://github.com/adhocore/fast
 - [ ] https://github.com/agnivade/funnel
 - [ ] https://github.com/golang/gofrontend
 - [ ] https://github.com/grafov/hulk
@@ -1435,6 +1437,8 @@
 - [ ] https://github.com/VictoriaMetrics/VictoriaMetrics
 - [ ] https://github.com/falcosecurity/falcosidekick
 - [ ] https://github.com/gaowanliang/LightUploader
+- [ ] https://github.com/rancher/kim
+- [ ] https://github.com/togettoyou/blockchain-real-estate
 
 ## 0x05-Golang安全
 
@@ -1946,7 +1950,6 @@
 - [ ] https://github.com/scopelemanuele/machinista
 - [ ] https://github.com/tanc7/EXOCET-AV-Evasion
 - [ ] https://github.com/xct/morbol
-- [ ] https://github.com/sh4hin/GoPurple
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 
 九、代理隧道
