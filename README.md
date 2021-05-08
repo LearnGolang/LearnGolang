@@ -1442,6 +1442,7 @@
 - [ ] https://github.com/togettoyou/blockchain-real-estate
 - [ ] https://github.com/GoogleCloudPlatform/functions-framework-go
 - [ ] https://github.com/GoogleCloudPlatform/golang-samples
+- [ ] https://github.com/pldubouilh/gossa
 
 ## 0x05-Golang安全
 
@@ -1662,6 +1663,7 @@
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/yl2chen/cidranger
+- [ ] https://github.com/timwhitez/Doge-AliveCheck
 
 四、漏洞扫描
 
