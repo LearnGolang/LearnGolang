@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -920,6 +920,9 @@
 - [ ] https://github.com/birchb1024/frangipanni | 将文本转换为漂亮的树状结构 | 977
 - [ ] https://github.com/rsc/tmplfunc
 - [ ] https://github.com/mdempsky/maligned
+- [ ] https://github.com/goyek/goyek
+- [ ] https://github.com/r3labs/diff
+- [ ] https://github.com/wumansgy/goEncrypt
 
 ## 0x04-Golang项目
 
@@ -1443,6 +1446,10 @@
 - [ ] https://github.com/GoogleCloudPlatform/functions-framework-go
 - [ ] https://github.com/GoogleCloudPlatform/golang-samples
 - [ ] https://github.com/pldubouilh/gossa
+- [ ] https://github.com/rgburke/grv
+- [ ] https://github.com/ambientsound/pms
+- [ ] https://github.com/cheat/cheat
+- [ ] https://github.com/jsyzchen/pan
 
 ## 0x05-Golang安全
 
@@ -2363,6 +2370,7 @@
 - [ ] https://github.com/kha7iq/pingme
 - [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/kgoins/ldsview
+- [ ] https://github.com/sebastianwebber/cmdr
 
 ## 0x06-Golang逆向
 
