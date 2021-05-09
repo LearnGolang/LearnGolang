@@ -923,6 +923,7 @@
 - [ ] https://github.com/goyek/goyek
 - [ ] https://github.com/r3labs/diff
 - [ ] https://github.com/wumansgy/goEncrypt
+- [ ] https://github.com/kelseyhightower/envconfig
 
 ## 0x04-Golang项目
 
@@ -945,6 +946,7 @@
 - [ ] https://github.com/umarquez/0ms2-game
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 - [ ] https://github.com/anyaschukin/Gomoku
+- [ ] https://github.com/SoftbearStudios/mk48
 
 三、爬虫项目
 
@@ -1450,6 +1452,10 @@
 - [ ] https://github.com/ambientsound/pms
 - [ ] https://github.com/cheat/cheat
 - [ ] https://github.com/jsyzchen/pan
+- [ ] https://github.com/arl/statsviz
+- [ ] https://github.com/soolaugust/go-toolkit
+- [ ] https://github.com/fanux/sealos
+- [ ] https://github.com/audioo/iga
 
 ## 0x05-Golang安全
 
@@ -2058,6 +2064,7 @@
 -  [ ] https://github.com/umputun/reproxy
 -  [ ] https://github.com/tavenli/port-forward
 -  [ ] https://github.com/hotnops/gtunnel
+-  [ ] https://github.com/hashsecteam/scf-proxy
 
 十、内网渗透
 
