@@ -282,6 +282,7 @@
 - [ ] https://www.cnblogs.com/apocelipes/p/13832224.html
 - [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
 - [ ] https://github.com/golang/vulndb
+- [ ] https://github.com/egonelbre/gophers
 
 ## 0x02-Golang标准
 
@@ -1466,6 +1467,7 @@
 - [ ] https://github.com/moiot/moha
 - [ ] https://github.com/accuknox/KubeArmor
 - [ ] https://github.com/rencalo770/gengine
+- [ ] https://github.com/derailed/popeye
 
 ## 0x05-Golang安全
 
