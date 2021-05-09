@@ -419,6 +419,7 @@
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
+- [ ] https://github.com/m13253/dns-over-https
 
 四、配置文件
 
@@ -622,6 +623,7 @@
 - [ ] https://github.com/benmanns/goworker
 - [ ] https://github.com/remeh/sizedwaitgroup
 - [ ] https://github.com/oklog/run
+- [ ] https://github.com/hibiken/asynq
 
 十一、图形框架
 
@@ -915,7 +917,7 @@
 - [ ] https://github.com/sj14/astral
 - [ ] https://github.com/alecthomas/participle
 - [ ] https://github.com/buraksezer/consistent
-- [ ] https://github.com/esimov/triangle
+- [ ] https://github.com/esimov/triangle | 生成三角剖分图像的工具 | 1.7k
 - [ ] https://github.com/fullstorydev/grpchan
 - [ ] https://github.com/birchb1024/frangipanni | 将文本转换为漂亮的树状结构 | 977
 - [ ] https://github.com/rsc/tmplfunc
@@ -924,6 +926,7 @@
 - [ ] https://github.com/r3labs/diff
 - [ ] https://github.com/wumansgy/goEncrypt
 - [ ] https://github.com/kelseyhightower/envconfig
+- [ ] https://github.com/joshbohde/codel
 
 ## 0x04-Golang项目
 
@@ -1456,6 +1459,13 @@
 - [ ] https://github.com/soolaugust/go-toolkit
 - [ ] https://github.com/fanux/sealos
 - [ ] https://github.com/audioo/iga
+- [ ] https://github.com/milvus-io/milvus
+- [ ] https://github.com/wille/cry
+- [ ] https://github.com/makeworld-the-better-one/amfora
+- [ ] https://github.com/jensneuse/graphql-go-tools
+- [ ] https://github.com/moiot/moha
+- [ ] https://github.com/accuknox/KubeArmor
+- [ ] https://github.com/rencalo770/gengine
 
 ## 0x05-Golang安全
 
@@ -1668,7 +1678,7 @@
 
 三、资产扫描
 
-- [ ] https://github.com/lcvvvv/kscan
+- [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [ ] https://github.com/broken5/bscan
 - [ ] https://github.com/ShiHuang-ESec/EHole
 - [ ] https://github.com/EdgeSecurityTeam/EHole
@@ -2065,6 +2075,7 @@
 -  [ ] https://github.com/tavenli/port-forward
 -  [ ] https://github.com/hotnops/gtunnel
 -  [ ] https://github.com/hashsecteam/scf-proxy
+-  [ ] https://github.com/FunnyWolf/ligolo
 
 十、内网渗透
 
@@ -2339,7 +2350,7 @@
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
 - [ ] https://github.com/bluesentinelsec/OffensiveGoLang
 - [ ] https://github.com/Tylous/Limelighter
-- [ ] https://github.com/0xrawsec/whids
+- [ ] https://github.com/0xrawsec/whids | Windows下的开源EDR | 233
 - [ ] https://github.com/rajveermalviya/go-wayland
 - [ ] https://github.com/devanshbatham/Gorecon
 - [ ] https://github.com/njcx/RuleCat
