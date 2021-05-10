@@ -1470,6 +1470,11 @@
 - [ ] https://github.com/derailed/popeye
 - [ ] https://github.com/rapidloop/rtop
 - [ ] https://github.com/jesseduffield/lazygit
+- [ ] https://github.com/perlin-network/noise
+- [ ] https://github.com/russross/blackfriday
+- [ ] https://github.com/mimuret/dtap
+- [ ] https://github.com/blacktop/go-macho
+- [ ] https://github.com/mpolden/echoip
 
 ## 0x05-Golang安全
 
@@ -1522,7 +1527,7 @@
 - [ ] https://github.com/projectdiscovery/chaos-client | Chaos API收集子域 | 126
 - [ ] https://github.com/tismayil/rsdl | 使用ping方法进行子域名扫描
 - [ ] https://github.com/subfinder/goaltdns | 用golang编写的置换生成工具 | 103
-- [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1k
+- [ ] https://github.com/tomnomnom/httprobe | 获取域列表 | 1.4k
 - [ ] https://github.com/AnikHasibul/crtscan | 从证书透明性日志扫描子域 | 3
 - [ ] https://github.com/tomsteele/blacksheepwall | Go编写的主机名侦查工具 | 282
 - [ ] https://github.com/projectdiscovery/shuffledns | 使用bruteforce枚举有效的子域 | 376
