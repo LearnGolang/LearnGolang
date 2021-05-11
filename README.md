@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月11日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -240,7 +240,9 @@
 - [ ] [golangschool](https://www.golangschool.com)
 - [ ] https://learnku.com/go
 
-七、其他资源
+七、面试资料
+
+八、其他资源
 
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
@@ -928,6 +930,7 @@
 - [ ] https://github.com/wumansgy/goEncrypt
 - [ ] https://github.com/kelseyhightower/envconfig
 - [ ] https://github.com/joshbohde/codel
+- [ ] https://github.com/cockroachdb/apd
 
 ## 0x04-Golang项目
 
@@ -997,7 +1000,7 @@
 - [ ] https://github.com/screego/server
 - [ ] https://github.com/etcd-io/etcd
 - [ ] https://github.com/elliotchance/c2go
-- [ ] https://github.com/ArturSS7/TukTuk
+- [ ] https://github.com/ArturSS7/TukTuk | 捕获和记录不同类型的请求的工具 | 185
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/irealing/shorturl
 - [ ] https://github.com/common-nighthawk/go-figure
@@ -1475,6 +1478,9 @@
 - [ ] https://github.com/mimuret/dtap
 - [ ] https://github.com/blacktop/go-macho
 - [ ] https://github.com/mpolden/echoip
+- [ ] https://github.com/mbrt/gmailctl
+- [ ] https://github.com/bridgecrewio/yor
+- [ ] https://github.com/matryer/xbar
 
 ## 0x05-Golang安全
 
@@ -2398,6 +2404,7 @@
 - [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/kgoins/ldsview
 - [ ] https://github.com/sebastianwebber/cmdr
+- [ ] https://github.com/davrodpin/mole
 
 ## 0x06-Golang逆向
 
