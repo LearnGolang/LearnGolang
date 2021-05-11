@@ -1481,6 +1481,12 @@
 - [ ] https://github.com/mbrt/gmailctl
 - [ ] https://github.com/bridgecrewio/yor
 - [ ] https://github.com/matryer/xbar
+- [ ] https://github.com/chanify/chanify
+- [ ] https://github.com/rfyiamcool/go-shell
+- [ ] https://github.com/google/ko
+- [ ] https://github.com/liamg/aminal
+- [ ] https://github.com/ezeoleaf/GobotTweet
+- [ ] https://github.com/nakabonne/pbgopy
 
 ## 0x05-Golang安全
 
@@ -1598,6 +1604,7 @@
 - [ ] https://github.com/Redislabs-Solution-Architects/dnstracer
 - [ ] https://github.com/netevert/dnsmorph
 - [ ] https://github.com/kmskrishna/gdn
+- [ ] https://github.com/TRYblog/DomainScan
 
 二、端口扫描
 
