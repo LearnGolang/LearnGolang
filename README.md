@@ -1129,7 +1129,6 @@
 - [ ] https://github.com/mosuka/blast
 - [ ] https://github.com/senghoo/schgo
 - [ ] https://github.com/tebeka/selenium
-- [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/spf13/afero
 - [ ] https://github.com/philippgille/gokv
 - [ ] https://github.com/jitsucom/eventnative
@@ -1488,6 +1487,8 @@
 - [ ] https://github.com/ezeoleaf/GobotTweet
 - [ ] https://github.com/nakabonne/pbgopy
 - [ ] https://github.com/mmcloughlin/profile
+- [ ] https://github.com/luraproject/lura
+- [ ] https://github.com/shima-park/agollo
 
 ## 0x05-Golang安全
 
@@ -2421,7 +2422,6 @@
 一、Go代码混淆
 
 - [ ] https://github.com/halfrost
-- [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
