@@ -336,6 +336,7 @@
 - [ ] https://github.com/gizak/termui
 - [ ] https://github.com/alecthomas/chroma
 - [ ] https://github.com/PierreKieffer/htui
+- [ ] https://github.com/go-cmd/cmd
 
 二、日志处理
 
@@ -1493,6 +1494,7 @@
 - [ ] https://github.com/luraproject/lura
 - [ ] https://github.com/shima-park/agollo
 - [ ] https://github.com/bfenetworks/bfe
+- [ ] https://github.com/accurics/terrascan
 
 ## 0x05-Golang安全
 
@@ -1760,6 +1762,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/jweny/pocassist
 -  [ ] https://github.com/CobaltZirs0n/RunExploit
 -  [ ] https://github.com/inbug-team/InScan
 -  [ ] https://github.com/rootklt/snowball
