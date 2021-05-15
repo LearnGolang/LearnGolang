@@ -937,6 +937,7 @@
 - [ ] https://github.com/cockroachdb/apd
 - [ ] https://github.com/FastFilter/xorfilter
 - [ ] https://github.com/flynn/noise
+- [ ] https://github.com/tinylib/msgp
 
 ## 0x04-Golang项目
 
@@ -2431,6 +2432,7 @@
 - [ ] https://github.com/hahwul/ws-smuggler
 - [ ] https://github.com/sw33tLie/sns
 - [ ] https://github.com/AkihiroSuda/sshocker
+- [ ] https://github.com/ropnop/kerbrute
 
 ## 0x06-Golang逆向
 
