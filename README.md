@@ -947,6 +947,7 @@
 - [ ] https://github.com/diamondburned/arikawa
 - [ ] https://github.com/alecthomas/langx
 - [ ] https://github.com/bosun-monitor/bosun
+- [ ] https://github.com/ent/ent
 
 ## 0x04-Golang项目
 
