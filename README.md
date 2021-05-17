@@ -377,6 +377,7 @@
 - [ ] https://github.com/apex/log
 - [ ] https://github.com/inconshreveable/log15
 - [ ] https://github.com/denji/oklog
+- [ ] https://github.com/liushuochen/gotable
 
 三、网络框架
 
@@ -411,6 +412,7 @@
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
+- [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/urfave/negroni
 - [ ] https://github.com/c26root/hb
 - [ ] https://github.com/DavidCai1993/request
@@ -449,6 +451,7 @@
 - [ ] https://github.com/elgs/gojq
 - [ ] https://github.com/wI2L/jsondiff
 - [ ] https://github.com/cuelang/cue
+- [ ] https://github.com/tidwall/jsonc
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -942,6 +945,8 @@
 - [ ] https://github.com/tinylib/msgp
 - [ ] https://github.com/gobwas/ws
 - [ ] https://github.com/diamondburned/arikawa
+- [ ] https://github.com/alecthomas/langx
+- [ ] https://github.com/bosun-monitor/bosun
 
 ## 0x04-Golang项目
 
@@ -1000,7 +1005,7 @@
 - [ ] https://github.com/mit-pdos/biscuit
 - [ ] https://github.com/bradfitz/shotizam
 - [ ] https://github.com/sqreen/go-agent
-- [ ] https://github.com/didi/sharingan
+- [ ] https://github.com/didi/sharingan | 流量录制回放工具 | 664
 - [ ] https://github.com/huhu/go-search-extension
 - [ ] https://github.com/berty/berty
 - [ ] https://github.com/u-root/gobusybox
@@ -1039,7 +1044,6 @@
 - [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/gomods/athens
 - [ ] https://github.com/Buzz2d0/Hyuga
-- [ ] https://github.com/didi/sharingan
 - [ ] https://github.com/Shpota/goxygen
 - [ ] https://github.com/robertkrimen/otto
 - [ ] https://github.com/fzipp/gocyclo
@@ -1255,7 +1259,6 @@
 - [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/dreadl0ck/maltego
 - [ ] https://github.com/cuelang/cue
-- [ ] https://github.com/deepfence/SecretScanner
 - [ ] https://github.com/makeworld-the-better-one/dither
 - [ ] https://github.com/go-gitea/gitea
 - [ ] https://github.com/restic/restic
@@ -1930,6 +1933,7 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/EmYiQing/go-sqlmap
 - [ ] https://github.com/EgeBalci/zippo
 - [ ] https://github.com/drsigned/sigurlx
 - [ ] https://github.com/drsigned/sigurls
@@ -1943,6 +1947,7 @@
 - [ ] https://github.com/noobexploiter/headerssrfXD
 - [ ] https://github.com/ethicalhackingplayground/bxss
 - [ ] https://github.com/neex/1u.ms
+- [ ] https://github.com/Charlie-belmer/nosqli
 
 八、病毒免杀
 
@@ -2441,6 +2446,9 @@
 - [ ] https://github.com/sw33tLie/sns
 - [ ] https://github.com/AkihiroSuda/sshocker
 - [ ] https://github.com/ropnop/kerbrute
+- [ ] https://github.com/koderover/Zadig
+- [ ] https://github.com/Sakurasan/basecode
+- [ ] https://github.com/eldadru/ksniff
 
 ## 0x06-Golang逆向
 
