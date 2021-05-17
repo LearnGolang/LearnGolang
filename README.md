@@ -507,6 +507,7 @@
 - [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/xelabs/go-mysqlstack
+- [ ] https://github.com/vitessio/vitess
 - MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
