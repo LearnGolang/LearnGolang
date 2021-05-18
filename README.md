@@ -539,6 +539,7 @@
 - [ ] https://github.com/zombiezen/go-sqlite
 - [ ] https://github.com/xo/usql
 - [ ] https://github.com/hantmac/fuckdb
+- [ ] https://github.com/Masterminds/squirrel
 
 七、错误处理
 
