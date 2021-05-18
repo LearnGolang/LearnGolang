@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -948,6 +948,8 @@
 - [ ] https://github.com/alecthomas/langx
 - [ ] https://github.com/bosun-monitor/bosun
 - [ ] https://github.com/ent/ent
+- [ ] https://github.com/pion/turn
+- [ ] https://github.com/nsqio/nsq
 
 ## 0x04-Golang项目
 
@@ -1509,6 +1511,8 @@
 - [ ] https://github.com/AkihiroSuda/lima
 - [ ] https://github.com/bits-and-blooms/bloom
 - [ ] https://github.com/zhenghaoz/gorse
+- [ ] https://github.com/fd0/machma
+- [ ] https://github.com/intenthq/anon
 
 ## 0x05-Golang安全
 
@@ -2200,6 +2204,7 @@
 - [ ] https://github.com/William-Yeh/fswatch
 - [ ] https://github.com/americanexpress/earlybird
 - [ ] https://github.com/Hardw01f/Vulnerability-goapp | Go开发的易受攻击的Web应用程序 | 116
+- [ ] https://github.com/hhatto/gocloc
 
 十三、应急响应
 
