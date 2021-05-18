@@ -424,6 +424,9 @@
 - [ ] https://github.com/DonMcNamara/requestinator
 - [ ] https://github.com/nodauf/Swego
 - [ ] https://github.com/zMrKrabz/fhttp
+- IP代理
+- https://github.com/topics/proxypool?l=go
+- [ ] https://github.com/henson/proxypool
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -452,6 +455,14 @@
 - [ ] https://github.com/wI2L/jsondiff
 - [ ] https://github.com/cuelang/cue
 - [ ] https://github.com/tidwall/jsonc
+- [ ] https://github.com/gulyasm/jsonui
+- [ ] https://github.com/a8m/djson
+- [ ] https://github.com/bcicen/jstream
+- [ ] https://github.com/Comcast/eel
+- [ ] https://github.com/m7shapan/njson
+- [ ] https://github.com/spyzhov/ajson
+- [ ] https://github.com/Anderson-Lu/gofasion
+- [ ] https://github.com/bradford-hamilton/dora
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1514,6 +1525,7 @@
 - [ ] https://github.com/zhenghaoz/gorse
 - [ ] https://github.com/fd0/machma
 - [ ] https://github.com/intenthq/anon
+- [ ] https://github.com/nanomsg/mangos
 
 ## 0x05-Golang安全
 
