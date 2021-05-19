@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月19日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -162,6 +162,7 @@
 - [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
 - [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
 - [ ] https://github.com/Allenxuxu/leetcode-in-go
+- [ ] https://github.com/HanTianPeng/go-algorithm
 
 四、Web开发
 
@@ -301,6 +302,7 @@
 
 ## 0x03-Golang框架
 
+- https://pkg.go.dev
 - https://github.com/topics/golang-library
 - https://github.com/topics/framework?l=go
 - https://github.com/topics/golang-application
@@ -337,6 +339,7 @@
 - [ ] https://github.com/alecthomas/chroma
 - [ ] https://github.com/PierreKieffer/htui
 - [ ] https://github.com/go-cmd/cmd
+- [ ] https://github.com/cli/cli
 
 二、日志处理
 
@@ -463,6 +466,7 @@
 - [ ] https://github.com/spyzhov/ajson
 - [ ] https://github.com/Anderson-Lu/gofasion
 - [ ] https://github.com/bradford-hamilton/dora
+- [ ] https://github.com/pkg/json
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -746,7 +750,7 @@
 
 二十二、其他框架
 
-- [ ] https://github.com/FiloSottile/age
+- [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
 - [ ] https://github.com/shaj13/libcache
@@ -962,6 +966,7 @@
 - [ ] https://github.com/ent/ent
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/nsqio/nsq
+- [ ] https://github.com/grandecola/mmap
 
 ## 0x04-Golang项目
 
@@ -1526,6 +1531,7 @@
 - [ ] https://github.com/fd0/machma
 - [ ] https://github.com/intenthq/anon
 - [ ] https://github.com/nanomsg/mangos
+- [ ] https://github.com/aaronjanse/3mux
 
 ## 0x05-Golang安全
 
@@ -2468,6 +2474,7 @@
 - [ ] https://github.com/koderover/Zadig
 - [ ] https://github.com/Sakurasan/basecode
 - [ ] https://github.com/eldadru/ksniff
+- [ ] https://github.com/Rvn0xsy/gxor
 
 ## 0x06-Golang逆向
 
