@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月20日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -967,6 +967,8 @@
 - [ ] https://github.com/pion/turn
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/grandecola/mmap
+- [ ] https://github.com/fabiolb/fabio
+- [ ] https://github.com/cortesi/modd
 
 ## 0x04-Golang项目
 
@@ -997,6 +999,8 @@
 - [ ] https://github.com/hetianyi/digger
 - [ ] https://github.com/cnbattle/douyin
 - [ ] https://github.com/jaeles-project/gospider
+- [ ] https://github.com/PuerkitoBio/gocrawl
+- [ ] https://github.com/PuerkitoBio/fetchbot
 
 四、图形项目
 
@@ -1532,6 +1536,7 @@
 - [ ] https://github.com/intenthq/anon
 - [ ] https://github.com/nanomsg/mangos
 - [ ] https://github.com/aaronjanse/3mux
+- [ ] https://github.com/udhos/goben
 
 ## 0x05-Golang安全
 
@@ -2052,6 +2057,7 @@
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 - [ ] https://github.com/optiv/Dent
 - [ ] https://github.com/ffuf/pencode
+- [ ] https://github.com/audibleblink/xordump
 
 九、代理隧道
 
