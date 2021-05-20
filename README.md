@@ -427,6 +427,8 @@
 - [ ] https://github.com/DonMcNamara/requestinator
 - [ ] https://github.com/nodauf/Swego
 - [ ] https://github.com/zMrKrabz/fhttp
+- [ ] https://github.com/PuerkitoBio/purell
+- [ ] https://github.com/temoto/robotstxt
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -999,7 +1001,6 @@
 - [ ] https://github.com/hetianyi/digger
 - [ ] https://github.com/cnbattle/douyin
 - [ ] https://github.com/jaeles-project/gospider
-- [ ] https://github.com/PuerkitoBio/gocrawl
 - [ ] https://github.com/PuerkitoBio/fetchbot
 
 四、图形项目
@@ -2481,6 +2482,7 @@
 - [ ] https://github.com/Sakurasan/basecode
 - [ ] https://github.com/eldadru/ksniff
 - [ ] https://github.com/Rvn0xsy/gxor
+- [ ] https://github.com/facebookincubator/nvdtools
 
 ## 0x06-Golang逆向
 
