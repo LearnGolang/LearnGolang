@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月20日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月21日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -971,6 +971,7 @@
 - [ ] https://github.com/grandecola/mmap
 - [ ] https://github.com/fabiolb/fabio
 - [ ] https://github.com/cortesi/modd
+- [ ] https://github.com/asciimoo/morty
 
 ## 0x04-Golang项目
 
@@ -1619,8 +1620,8 @@
 - [ ] https://github.com/0x2E/sf
 - [ ] https://github.com/projectdiscovery/dnsx
 - [ ] https://github.com/canc3s/cIPR
-- [ ] https://github.com/canc3s/cDomain
-- [ ] https://github.com/canc3s/cSubsidiary
+- [ ] https://github.com/canc3s/cDomain | 利用天眼查查询企业备案 | 81
+- [ ] https://github.com/canc3s/cSubsidiary | 利用天眼查查询企业子公司 | 139
 - [ ] https://github.com/drsigned/sigsubs
 - [ ] https://github.com/mhmdiaa/second-order
 - [ ] https://github.com/anshumanbh/tko-subs
