@@ -340,6 +340,7 @@
 - [ ] https://github.com/PierreKieffer/htui
 - [ ] https://github.com/go-cmd/cmd
 - [ ] https://github.com/cli/cli
+- [ ] https://github.com/cheggaaa/pb | Go语言的控制台进度栏 |2.8k
 
 二、日志处理
 
@@ -1445,7 +1446,6 @@
 - [ ] https://github.com/guitmz/gocave
 - [ ] https://github.com/alecthomas/mph
 - [ ] https://github.com/goplus/gop
-- [ ] https://github.com/cheggaaa/pb
 - [ ] https://github.com/SixGenInc/Noctilucent
 - [ ] https://github.com/jesseduffield/lazydocker
 - [ ] https://github.com/pokemium/mettaur
@@ -2242,6 +2242,7 @@
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/gofmt/iOSSniffer
+- [ ] https://github.com/RedMapleTech/machodump
 
 十五、漏洞赏金
 
@@ -2484,6 +2485,7 @@
 - [ ] https://github.com/eldadru/ksniff
 - [ ] https://github.com/Rvn0xsy/gxor
 - [ ] https://github.com/facebookincubator/nvdtools
+- [ ] https://github.com/tismayil/fockcache
 
 ## 0x06-Golang逆向
 
