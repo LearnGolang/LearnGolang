@@ -1539,6 +1539,7 @@
 - [ ] https://github.com/nanomsg/mangos
 - [ ] https://github.com/aaronjanse/3mux
 - [ ] https://github.com/udhos/goben
+- [ ] https://github.com/rodrigo-brito/ninjabot
 
 ## 0x05-Golang安全
 
