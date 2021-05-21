@@ -2486,6 +2486,7 @@
 - [ ] https://github.com/Rvn0xsy/gxor
 - [ ] https://github.com/facebookincubator/nvdtools
 - [ ] https://github.com/tismayil/fockcache
+- [ ] https://github.com/bytedance/Elkeid
 
 ## 0x06-Golang逆向
 
