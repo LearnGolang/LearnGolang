@@ -1762,6 +1762,7 @@
 - [ ] https://github.com/zsdevX/DarkEye
 - [ ] https://github.com/yl2chen/cidranger
 - [ ] https://github.com/timwhitez/Doge-AliveCheck
+- [ ] https://github.com/TardC/fofadump
 
 四、漏洞扫描
 
@@ -2061,6 +2062,7 @@
 - [ ] https://github.com/optiv/Dent
 - [ ] https://github.com/ffuf/pencode
 - [ ] https://github.com/audibleblink/xordump
+- [ ] https://github.com/darkb1rd/DarkGld
 
 九、代理隧道
 
