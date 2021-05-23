@@ -306,6 +306,7 @@
 - https://github.com/topics/golang-library
 - https://github.com/topics/framework?l=go
 - https://github.com/topics/golang-application
+- https://github.com/q191201771/naza
 
 一、命令参数
 
@@ -319,7 +320,6 @@
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
 - [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
-- [ ] https://github.com/charmbracelet/glow
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
@@ -341,6 +341,7 @@
 - [ ] https://github.com/go-cmd/cmd
 - [ ] https://github.com/cli/cli
 - [ ] https://github.com/cheggaaa/pb | Go语言的控制台进度栏 |2.8k
+- [ ] https://github.com/charmbracelet/glow
 
 二、日志处理
 
@@ -560,7 +561,36 @@
 - [ ] https://github.com/Masterminds/squirrel
 - [ ] https://github.com/lqs/sqlingo
 
-七、错误处理
+七、协程并发
+
+- https://github.com/topics/concurrency?l=go
+- https://github.com/topics/goroutine?l=go
+- https://github.com/topics/pool?l=go
+
+- [ ] https://github.com/panjf2000/ants | 高性能低损耗的goroutine池 | 5.6k
+- [ ] https://github.com/Jeffail/tunny | Go的goroutine池 | 2.3k
+- [ ] https://github.com/alitto/pond | 简约高性能goroutine工作池 | 212
+- [ ] https://github.com/oklog/run | 管理goroutine生命周期的通用机制 | 921
+- [ ] https://github.com/xxjwxc/gowp | 并发限制goroutine池 | 283
+- [ ] https://github.com/dean2021/hackpool | 北半球最优雅的协程池 | 6
+- [ ] https://github.com/sugtex/gribbon | 简单高效协程池 | 7
+- [ ] https://github.com/sugtex/moles | 高性能协程池 | 8
+- [ ] https://github.com/letsfire/factory| Go语言的协程池 | 13
+- [ ] https://github.com/ivpusic/grpool | 轻巧的Goroutine泳池 | 630
+- [ ] https://github.com/go-playground/pool | 有限的或无限制的goroutine |612
+- [ ] https://github.com/gammazero/workerpool | 并发限制goroutine池 | 511
+- [ ] https://github.com/wazsmwazsm/mortar | 简单好用的高性能任务池 | 67
+- [ ] https://github.com/hibiken/asynq | 简单可靠高效的分布式任务队列 | 1.2k
+- [ ] https://github.com/modern-go/concurrent | 并发实用程序 | 190
+- [ ] https://github.com/sherifabdlnaby/gpool | 上下文可调整的goroutines | 78
+- [ ] https://github.com/marusama/cyclicbarrier
+- [ ] https://github.com/qianguozheng/go-workerpool
+- [ ] https://github.com/mdlayher/schedgroup
+- [ ] https://github.com/benmanns/goworker
+- [ ] https://github.com/remeh/sizedwaitgroup
+- [ ] https://github.com/enriquebris/goworkerpool
+
+八、错误处理
 
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
@@ -568,7 +598,20 @@
 - [ ] https://github.com/joomcode/errorx
 - [ ] https://github.com/cockroachdb/errors
 
-八、电子邮件
+九、单元测试
+
+- [ ] https://github.com/h2non/gock
+- [ ] https://github.com/onsi/ginkgo
+- [ ] https://github.com/fortio/fortio
+- [ ] https://github.com/stretchr/testify
+- [ ] https://github.com/pinterest/bender
+- [ ] https://github.com/felixge/sprof
+- [ ] https://github.com/WillAbides/benchdiff
+- [ ] https://github.com/frankban/quicktest
+- [ ] https://github.com/vmihailenco/go-cache-benchmark
+- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
+
+十、电子邮件
 
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
@@ -617,47 +660,6 @@
 - [ ]   https://github.com/go-mailer/send | Golang邮件发送 | 14
 - [ ]   https://github.com/ChinaArJun/forum | 一个简单的WEB邮件项目 | 4
 - [ ]   https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
-
-九、单元测试
-
-- [ ] https://github.com/h2non/gock
-- [ ] https://github.com/onsi/ginkgo
-- [ ] https://github.com/fortio/fortio
-- [ ] https://github.com/stretchr/testify
-- [ ] https://github.com/pinterest/bender
-- [ ] https://github.com/felixge/sprof
-- [ ] https://github.com/WillAbides/benchdiff
-- [ ] https://github.com/frankban/quicktest
-- [ ] https://github.com/vmihailenco/go-cache-benchmark
-- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
-
-十、协程并发
-
-- https://github.com/topics/goroutine?l=go
-- https://github.com/topics/pool?l=go
-
-- [ ] https://github.com/panjf2000/ants
-- [ ] https://github.com/Jeffail/tunny
-- [ ] https://github.com/alitto/pond
-- [ ] https://github.com/oklog/run
-- [ ] https://github.com/xxjwxc/gowp
-- [ ] https://github.com/dean2021/hackpool
-- [ ] https://github.com/sugtex/gribbon
-- [ ] https://github.com/sugtex/moles
-- [ ] https://github.com/letsfire/factory
-- [ ] https://github.com/ivpusic/grpool
-- [ ] https://github.com/go-playground/pool
-- [ ] https://github.com/gammazero/workerpool
-- [ ] https://github.com/wazsmwazsm/mortar
-- [ ] https://github.com/modern-go/concurrent
-- [ ] https://github.com/sherifabdlnaby/gpool
-- [ ] https://github.com/marusama/cyclicbarrier
-- [ ] https://github.com/qianguozheng/go-workerpool
-- [ ] https://github.com/mdlayher/schedgroup
-- [ ] https://github.com/benmanns/goworker
-- [ ] https://github.com/remeh/sizedwaitgroup
-- [ ] https://github.com/oklog/run
-- [ ] https://github.com/hibiken/asynq
 
 十一、图形框架
 
