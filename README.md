@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月22日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月23日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -558,6 +558,7 @@
 - [ ] https://github.com/xo/usql
 - [ ] https://github.com/hantmac/fuckdb
 - [ ] https://github.com/Masterminds/squirrel
+- [ ] https://github.com/lqs/sqlingo
 
 七、错误处理
 
@@ -630,7 +631,10 @@
 - [ ] https://github.com/vmihailenco/go-cache-benchmark
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
-十、协程任务
+十、协程并发
+
+- https://github.com/topics/goroutine?l=go
+- https://github.com/topics/pool?l=go
 
 - [ ] https://github.com/panjf2000/ants
 - [ ] https://github.com/Jeffail/tunny
@@ -1540,6 +1544,7 @@
 - [ ] https://github.com/aaronjanse/3mux
 - [ ] https://github.com/udhos/goben
 - [ ] https://github.com/rodrigo-brito/ninjabot
+- [ ] https://github.com/AkihiroSuda/lima
 
 ## 0x05-Golang安全
 
