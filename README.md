@@ -22,7 +22,6 @@
 - https://github.com/yinggaozhen/awesome-go-cn
 
 一、基础书籍
-
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
@@ -117,7 +116,6 @@
 - [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
 
 二、视频教程
-
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
@@ -141,7 +139,6 @@
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 三、算法学习
-
 - [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
@@ -165,7 +162,6 @@
 - [ ] https://github.com/HanTianPeng/go-algorithm
 
 四、Web开发
-
 - [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
@@ -173,7 +169,6 @@
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
 五、英文资源
-
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
@@ -228,7 +223,6 @@
 - [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
 
 六、论坛版块
-
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
@@ -244,7 +238,6 @@
 七、面试资料
 
 八、其他资源
-
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] https://github.com/dariubs/GoBooks
@@ -309,7 +302,6 @@
 - https://github.com/q191201771/naza
 
 一、命令参数
-
 - https://github.com/topics/cli?l=go
 - https://github.com/topics/command-line?l=go
 - [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 15.7k
@@ -344,7 +336,6 @@
 - [ ] https://github.com/charmbracelet/glow
 
 二、日志处理
-
 - https://github.com/topics/log?l=go
 - https://github.com/topics/logger?l=go
 - https://github.com/topics/logging?l=go
@@ -385,7 +376,6 @@
 - [ ] https://github.com/liushuochen/gotable
 
 三、网络框架
-
 - HTTP请求响应
 - https://github.com/topics/request?l=go
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
@@ -440,7 +430,6 @@
 - [ ] https://github.com/m13253/dns-over-https
 
 四、配置文件
-
 - JSON
 - https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
@@ -500,7 +489,6 @@
 - [ ] https://github.com/One-com/gone/tree/master/jconf
 
 五、文件处理
-
 - TXT文件
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
@@ -518,7 +506,6 @@
 - Others
 
 六、数据处理
-
 - MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
@@ -562,11 +549,9 @@
 - [ ] https://github.com/lqs/sqlingo
 
 七、协程并发
-
 - https://github.com/topics/concurrency?l=go
 - https://github.com/topics/goroutine?l=go
 - https://github.com/topics/pool?l=go
-
 - [ ] https://github.com/panjf2000/ants | 高性能低损耗的goroutine池 | 5.6k
 - [ ] https://github.com/Jeffail/tunny | Go的goroutine池 | 2.3k
 - [ ] https://github.com/alitto/pond | 简约高性能goroutine工作池 | 212
@@ -591,7 +576,6 @@
 - [ ] https://github.com/enriquebris/goworkerpool
 
 八、错误处理
-
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
@@ -599,7 +583,6 @@
 - [ ] https://github.com/cockroachdb/errors
 
 九、单元测试
-
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/fortio/fortio
@@ -612,7 +595,6 @@
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 
 十、电子邮件
-
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
 - https://github.com/topics/smtp?l=go
@@ -662,7 +644,6 @@
 - [ ]   https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
 
 十一、图形框架
-
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
@@ -673,7 +654,6 @@
 - [ ] https://github.com/go-vgo/robotgo
 
 十二、Web框架
-
 - https://github.com/topics/web?l=go
 - [ ] https://github.com/beego/beego
 - [ ] https://github.com/gohugoio/hugo
@@ -705,7 +685,6 @@
 - [ ] https://echo.labstack.com
 
 十三、爬虫框架
-
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
 - [ ] https://github.com/zhshch2002/gospider
@@ -715,50 +694,40 @@
 - [ ] https://github.com/china-muwenbo/gospider
 
 十四、中间件框架
-
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
 十五、消息队列
-
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/MasslessParticle/GoQ
 
 十六、Service Mesh
-
 - [ ] https://github.com/istio/istio
 
 十七、RPC
-
 - [ ] https://github.com/smallnest/rpcx
-
 - [ ] https://github.com/grpc/grpc-go
 
 十八、图像处理
-
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
 十九、RSS框架
-
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 - [ ] https://github.com/x0e1f/alerteye
 
 二十、机器学习
-
 - [ ] https://github.com/sjwhitworth/golearn
 
 十一、时间日期
-
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
 
 二十二、其他框架
-
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -986,14 +955,12 @@
 - https://github.com/topics/tool?l=go
 
 一、开源网站
-
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
 - [ ] https://github.com/admpub/nging
 
 二、娱乐游戏
-
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/c0nrad/pr0n
 - [ ] https://github.com/Humpheh/goboy
@@ -1004,7 +971,6 @@
 - [ ] https://github.com/SoftbearStudios/mk48
 
 三、爬虫项目
-
 - [ ] https://github.com/yields/ant
 - [ ] https://github.com/hetianyi/digger
 - [ ] https://github.com/cnbattle/douyin
@@ -1012,13 +978,11 @@
 - [ ] https://github.com/PuerkitoBio/fetchbot
 
 四、图形项目
-
 - [ ] https://github.com/fyne-io/7guis
 - [ ] https://github.com/fyne-io/examples
 - [ ] https://github.com/fyne-io/pixeledit
 
 五、量化投资
-
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/mop-tracker/mop
 - [ ] https://github.com/doneland/yquotes
@@ -1031,7 +995,6 @@
 - [ ] https://github.com/buth/stocker
 
 六、其他项目
-
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
 - [ ] https://github.com/lsds/KungFu
@@ -1573,7 +1536,6 @@
 - [ ] https://github.com/hahwul/WebHackersWeapons
 
 一、域名扫描
-
 -  https://github.com/topics/subdomain?l=go
 -  https://github.com/topics/subdomains?l=go
 -  https://github.com/topics/subdomain-scanner?l=go
@@ -1667,7 +1629,6 @@
 - [ ] https://github.com/TRYblog/DomainScan
 
 二、端口扫描
-
 -  https://github.com/topics/portscan?l=go
 -  https://github.com/topics/portscanner?l=go
 -  https://github.com/search?l=Go&q=portscan
@@ -1759,7 +1720,6 @@
 -  [ ] https://github.com/R4yGM/netscanner
 
 三、资产扫描
-
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [ ] https://github.com/broken5/bscan
 - [ ] https://github.com/ShiHuang-ESec/EHole
@@ -1772,7 +1732,6 @@
 - [ ] https://github.com/TardC/fofadump
 
 四、漏洞扫描
-
 -  https://github.com/topics/pentesting?l=go
 -  https://github.com/topics/security?l=go
 -  https://github.com/topics/hacking?l=go
@@ -1871,7 +1830,6 @@
 -  [ ] https://github.com/brittonhayes/pillager
 
 五、密码爆破
-
 -  https://github.com/topics/bruteforce?l=go
 -  https://github.com/topics/brute-force?l=go
 -  https://github.com/topics/brute-force-attacks?l=go
@@ -1914,7 +1872,6 @@
 - [ ] https://github.com/niudaii/go-crack
 
 六、路径扫描
-
 -  https://github.com/topics/fuzzer?l=go
 -  https://github.com/topics/fuzzing?l=go
 -  https://github.com/topics/fuzz?l=go
@@ -1953,7 +1910,6 @@
 -  [ ] https://github.com/jiaocoll/GoWebBanner
 
 七、Web安全
-
 -  https://github.com/topics/xss?l=go
 -  https://github.com/topics/ssrf?l=go
 -  https://github.com/topics/rce?l=go
@@ -1990,7 +1946,6 @@
 - [ ] https://github.com/Charlie-belmer/nosqli
 
 八、病毒免杀
-
 - https://github.com/search?l=Go&q=shellcode
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
@@ -2072,7 +2027,6 @@
 - [ ] https://github.com/darkb1rd/DarkGld
 
 九、代理隧道
-
 -  https://github.com/topics/proxy?l=go
 -  https://github.com/topics/tunnel?l=go
 -  https://github.com/topics/reverse-proxy?l=go
@@ -2170,7 +2124,6 @@
 -  [ ] https://github.com/google/huproxy
 
 十、内网渗透
-
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
 - [ ] https://github.com/TerminalJockey/Kudzu
@@ -2188,7 +2141,6 @@
 - [ ] https://github.com/WAY29/ptg
 
 十一、蜜罐钓鱼
-
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
 - [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
 - [ ] https://github.com/hacklcx/HFish
@@ -2230,7 +2182,6 @@
 - [ ] https://github.com/kgretzky/evilginx2
 
 十二、代码审计
-
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
 - [ ] https://github.com/ynqa/diffy
@@ -2244,18 +2195,15 @@
 - [ ] https://github.com/hhatto/gocloc
 
 十三、应急响应
-
 - [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
 
 十四、移动安全
-
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/RedMapleTech/machodump
 
 十五、漏洞赏金
-
 - [ ] https://github.com/sw33tLie/bbscope
 - [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
 - [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
@@ -2266,7 +2214,6 @@
 - [ ] https://github.com/edoardottt/lit-bb-hack-tools
 
 十六、其他项目
-
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
@@ -2502,16 +2449,13 @@
 ## 0x06-Golang逆向
 
 一、Go代码混淆
-
 - [ ] https://github.com/halfrost
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
 
 二、Go授权许可
-
 - https://github.com/topics/license-management?l=go
-
 - [ ] https://github.com/furkansenharputlu/f-license
 - [ ] https://github.com/nishanths/license
 - [ ] https://github.com/tcnksm/license
@@ -2536,7 +2480,6 @@
 - [ ] https://github.com/prksu/license2l
 
 三、逆向Go程序
-
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/goretk/redress
@@ -2546,7 +2489,6 @@
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
 
 四、使用Go逆向
-
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/gore
 - [ ] https://github.com/0xjiayu/go_parser
@@ -2559,14 +2501,12 @@
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
 五、Go恶意软件
-
 - [ ] https://github.com/wille/cry
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 
 六、其他逆向项目
-
 - [ ] https://github.com/akavel/rsrc
 - [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/system-pclub/GCatch
@@ -2578,7 +2518,6 @@
 此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
 一、Go教程资源
-
 - 柴树杉-《Go语言高级编程》作者，[@chai2010](https://github.com/chai2010)
 - 无闻-知名Go语言分享者，[@Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
 - 徐新华-studygolang站长，[@polarisxu](https://github.com/polaris1119)
@@ -2591,7 +2530,6 @@
 - 李文周-Go语言优秀讲师，[@Q1mi](https://www.liwenzhou.com/)
 
 二、Go语言参考
-
 - [https://github.com/netxfly](https://github.com/netxfly)
 - https://github.com/schollz
 - https://github.com/projectdiscovery
