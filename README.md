@@ -487,6 +487,7 @@
 - [ ] https://github.com/hjson/hjson-go
 - [ ] https://github.com/joshbetz/config
 - [ ] https://github.com/One-com/gone/tree/master/jconf
+- [ ] https://github.com/alecthomas/participle
 
 五、文件处理
 - TXT文件
@@ -517,6 +518,7 @@
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/xelabs/go-mysqlstack
 - [ ] https://github.com/vitessio/vitess
+- [ ] https://github.com/pingcap/tidb
 - MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
@@ -574,6 +576,11 @@
 - [ ] https://github.com/benmanns/goworker
 - [ ] https://github.com/remeh/sizedwaitgroup
 - [ ] https://github.com/enriquebris/goworkerpool
+- [ ] https://github.com/antonmashko/taskq
+- [ ] https://github.com/samsarahq/taskrunner
+- [ ] https://github.com/jiajunhuang/gotasks
+- [ ] https://github.com/LyricTian/queue
+- [ ] https://github.com/go-task/task
 
 八、错误处理
 - [ ] https://github.com/ducc/egg
@@ -921,7 +928,6 @@
 - [ ] https://github.com/mvdan/benchinit
 - [ ] https://github.com/kjellkvinge/gocover
 - [ ] https://github.com/sj14/astral
-- [ ] https://github.com/alecthomas/participle
 - [ ] https://github.com/buraksezer/consistent
 - [ ] https://github.com/esimov/triangle | 生成三角剖分图像的工具 | 1.7k
 - [ ] https://github.com/fullstorydev/grpchan
@@ -1510,6 +1516,7 @@
 - [ ] https://github.com/udhos/goben
 - [ ] https://github.com/rodrigo-brito/ninjabot
 - [ ] https://github.com/AkihiroSuda/lima
+- [ ] https://github.com/wagoodman/dive
 
 ## 0x05-Golang安全
 
