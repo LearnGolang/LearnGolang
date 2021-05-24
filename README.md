@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月23日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月24日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -421,6 +421,7 @@
 - [ ] https://github.com/zMrKrabz/fhttp
 - [ ] https://github.com/PuerkitoBio/purell
 - [ ] https://github.com/temoto/robotstxt
+- [ ] https://github.com/abbot/go-http-auth
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -494,6 +495,7 @@
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
 - [ ] https://github.com/alash3al/re-txt
+- [ ] https://github.com/qiniu/text
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
@@ -1517,6 +1519,7 @@
 - [ ] https://github.com/rodrigo-brito/ninjabot
 - [ ] https://github.com/AkihiroSuda/lima
 - [ ] https://github.com/wagoodman/dive
+- [ ] https://github.com/holoplot/go-avahi
 
 ## 0x05-Golang安全
 
@@ -2218,7 +2221,7 @@
 - [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
-- [ ] https://github.com/edoardottt/lit-bb-hack-tools
+- [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 9
 
 十六、其他项目
 - [ ] https://github.com/gcla/termshark
