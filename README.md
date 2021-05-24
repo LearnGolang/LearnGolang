@@ -956,6 +956,7 @@
 - [ ] https://github.com/fabiolb/fabio
 - [ ] https://github.com/cortesi/modd
 - [ ] https://github.com/asciimoo/morty
+- [ ] https://github.com/containerd/ttrpc
 
 ## 0x04-Golang项目
 
@@ -1520,6 +1521,11 @@
 - [ ] https://github.com/AkihiroSuda/lima
 - [ ] https://github.com/wagoodman/dive
 - [ ] https://github.com/holoplot/go-avahi
+- [ ] https://github.com/Yawning/bulb
+- [ ] https://github.com/tamboto2000/golinkedin
+- [ ] https://github.com/MrCyjaneK/gosh
+- [ ] https://github.com/go-co-op/gocron
+- [ ] https://github.com/zllangct/ecs
 
 ## 0x05-Golang安全
 
@@ -1654,6 +1660,8 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/bufsnake/Monkey
+-  [ ] https://github.com/abrander/pnmap
 -  [ ] https://github.com/v-byte-cpu/sx
 -  [ ] https://github.com/lcvvvv/gonmap
 -  [ ] https://github.com/4dogs-cn/TXPortMap
@@ -1728,6 +1736,9 @@
 -  [ ] https://github.com/Pingze-github/portScanner
 -  [ ] https://github.com/KathanP19/protoscan
 -  [ ] https://github.com/R4yGM/netscanner
+-  [ ] https://github.com/marpie/nmap2json
+-  [ ] https://github.com/charles-d-burton/scandalorian
+-  [ ] https://github.com/schmalle/nmaputil
 
 三、资产扫描
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
@@ -1918,6 +1929,7 @@
 - [ ] https://github.com/0xsapra/fuzzparam
 -  [ ] https://github.com/j5s/Caesar
 -  [ ] https://github.com/jiaocoll/GoWebBanner
+-  [ ] https://github.com/ethicalhackingplayground/wordlistgen | 生成目标特定的单词列表 | 73
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
@@ -1954,6 +1966,7 @@
 - [ ] https://github.com/ethicalhackingplayground/bxss
 - [ ] https://github.com/neex/1u.ms
 - [ ] https://github.com/Charlie-belmer/nosqli
+- [ ] https://github.com/ethicalhackingplayground/endzy
 
 八、病毒免杀
 - https://github.com/search?l=Go&q=shellcode
@@ -2455,6 +2468,8 @@
 - [ ] https://github.com/tismayil/fockcache
 - [ ] https://github.com/bytedance/Elkeid
 - [ ] https://github.com/hashicorp/vault
+- [ ] https://github.com/ryandamour/crlfmap
+- [ ] https://github.com/KathanP19/Gxss
 
 ## 0x06-Golang逆向
 
