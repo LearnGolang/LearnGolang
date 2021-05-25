@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月25日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -47,7 +47,7 @@
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
-- [ ] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
+- [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
@@ -1527,6 +1527,10 @@
 - [ ] https://github.com/go-co-op/gocron
 - [ ] https://github.com/zllangct/ecs
 - [ ] https://github.com/prometheus/procfs
+- [ ] https://github.com/matsuyoshi30/germanium
+- [ ] https://github.com/walles/moar
+- [ ] https://github.com/esimov/caire
+- [ ] https://github.com/google/wire
 
 ## 0x05-Golang安全
 
@@ -2476,6 +2480,7 @@
 - [ ] https://github.com/hashicorp/vault
 - [ ] https://github.com/ryandamour/crlfmap
 - [ ] https://github.com/KathanP19/Gxss
+- [ ] https://github.com/yddeng/seckill
 
 ## 0x06-Golang逆向
 
