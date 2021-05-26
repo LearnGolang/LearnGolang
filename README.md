@@ -960,6 +960,7 @@
 - [ ] https://github.com/containerd/ttrpc
 - [ ] https://github.com/Binject/debug
 - [ ] https://github.com/jba/codec
+- [ ] https://github.com/snowlyg/IrisAdminApi | iris 框架的后台api项目 | 562
 
 ## 0x04-Golang项目
 
@@ -1535,6 +1536,9 @@
 - [ ] https://github.com/esimov/caire
 - [ ] https://github.com/google/wire
 - [ ] https://github.com/eyebluecn/tank
+- [ ] https://github.com/antlabs/strsim
+- [ ] https://github.com/FiloSottile/yubikey-agent
+- [ ] https://github.com/matrix-org/dendrite
 
 ## 0x05-Golang安全
 
