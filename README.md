@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月26日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月27日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -961,6 +961,8 @@
 - [ ] https://github.com/Binject/debug
 - [ ] https://github.com/jba/codec
 - [ ] https://github.com/snowlyg/IrisAdminApi | iris 框架的后台api项目 | 562
+- [ ] https://github.com/mfonda/simhash
+- [ ] https://github.com/golandscape/sat
 
 ## 0x04-Golang项目
 
@@ -1539,6 +1541,12 @@
 - [ ] https://github.com/antlabs/strsim
 - [ ] https://github.com/FiloSottile/yubikey-agent
 - [ ] https://github.com/matrix-org/dendrite
+- [ ] https://github.com/d3mondev/puredns
+- [ ] https://github.com/xmsalsa/ybsshop
+- [ ] https://github.com/simeji/jid
+- [ ] https://github.com/containerd/nerdctl
+- [ ] https://github.com/Helcaraxan/gomod
+- [ ] https://github.com/gwuhaolin/livego
 
 ## 0x05-Golang安全
 
