@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年5月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年5月29日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -422,6 +422,7 @@
 - [ ] https://github.com/PuerkitoBio/purell
 - [ ] https://github.com/temoto/robotstxt
 - [ ] https://github.com/abbot/go-http-auth
+- [ ] https://github.com/dghubble/sling
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -964,6 +965,7 @@
 - [ ] https://github.com/mfonda/simhash
 - [ ] https://github.com/golandscape/sat
 - [ ] https://github.com/iovisor/gobpf
+- [ ] https://github.com/dundee/gdu
 
 ## 0x04-Golang项目
 
@@ -2508,6 +2510,8 @@
 - [ ] https://github.com/alphasoc/flightsim
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/JohnHammond/katana
+- [ ] https://github.com/canc3s/judas
+- [ ] https://github.com/DominicBreuker/pspy
 
 ## 0x06-Golang逆向
 
