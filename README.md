@@ -423,6 +423,7 @@
 - [ ] https://github.com/temoto/robotstxt
 - [ ] https://github.com/abbot/go-http-auth
 - [ ] https://github.com/dghubble/sling
+- [ ] https://github.com/Qingluan/jupyter
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -966,6 +967,7 @@
 - [ ] https://github.com/golandscape/sat
 - [ ] https://github.com/iovisor/gobpf
 - [ ] https://github.com/dundee/gdu
+- [ ] https://github.com/sohaha/zlsgo
 
 ## 0x04-Golang项目
 
@@ -1553,6 +1555,7 @@
 - [ ] https://github.com/rancher/rancher
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hyfather/pipeline
+- [ ] https://github.com/bp0lr/gauplus
 
 ## 0x05-Golang安全
 
