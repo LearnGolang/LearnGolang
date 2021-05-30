@@ -972,6 +972,7 @@
 - [ ] https://github.com/dundee/gdu
 - [ ] https://github.com/sohaha/zlsgo
 - [ ] https://github.com/projectdiscovery/mapcidr
+- [ ] https://github.com/google/periph
 
 ## 0x04-Golang项目
 
@@ -1562,6 +1563,8 @@
 - [ ] https://github.com/bp0lr/gauplus
 - [ ] https://github.com/miguelmota/cointop
 - [ ] https://github.com/loft-sh/vcluster
+- [ ] https://github.com/TykTechnologies/tyk
+- [ ] https://github.com/alibaba/derrick
 
 ## 0x05-Golang安全
 
@@ -1681,6 +1684,7 @@
 - [ ] https://github.com/TRYblog/DomainScan
 - [ ] https://github.com/edoardottt/cariddi
 - [ ] https://github.com/signedsecurity/sigsubfind3r
+- [ ] https://github.com/Josue87/AnalyticsRelationships
 
 二、端口扫描
 -  https://github.com/topics/portscan?l=go
@@ -2522,6 +2526,9 @@
 - [ ] https://github.com/JohnHammond/katana
 - [ ] https://github.com/canc3s/judas
 - [ ] https://github.com/DominicBreuker/pspy
+- [ ] https://github.com/ren-zxcyq/nier
+- [ ] https://github.com/optiv/Talon
+- [ ] https://github.com/rabbitmask/MacOui
 
 ## 0x06-Golang逆向
 
