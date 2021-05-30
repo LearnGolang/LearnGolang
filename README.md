@@ -500,6 +500,7 @@
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/qiniu/text
+- [ ] https://github.com/schollz/pluck
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
@@ -1073,7 +1074,6 @@
 - [ ] https://github.com/jwma/jump-jump
 - [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/elvisNg/broccoliv2
-- [ ] https://github.com/TwinProduction/gatus
 - [ ] https://github.com/eolinker/goku-api-gateway
 - [ ] https://github.com/lane-c-wagner/go-password-validator
 - [ ] https://github.com/dapr/dapr
@@ -1565,6 +1565,8 @@
 - [ ] https://github.com/loft-sh/vcluster
 - [ ] https://github.com/TykTechnologies/tyk
 - [ ] https://github.com/alibaba/derrick
+- [ ] https://github.com/leandrofroes/manw
+- [ ] https://github.com/go-python/gopy
 
 ## 0x05-Golang安全
 
@@ -2191,6 +2193,7 @@
 -  [ ] https://github.com/FunnyWolf/ligolo
 -  [ ] https://github.com/google/huproxy
 -  [ ] https://github.com/lochv/srt
+-  [ ] https://github.com/net-byte/vtun
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
