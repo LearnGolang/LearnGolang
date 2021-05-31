@@ -279,6 +279,7 @@
 - [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
 - [ ] https://github.com/golang/vulndb
 - [ ] https://github.com/egonelbre/gophers
+- [ ] https://github.com/eddycjy/go777
 
 ## 0x02-Golang标准
 
@@ -1569,6 +1570,8 @@
 - [ ] https://github.com/leandrofroes/manw
 - [ ] https://github.com/go-python/gopy
 - [ ] https://github.com/chubaofs/chubaofs
+- [ ] https://github.com/99designs/gqlgen
+- [ ] https://github.com/luraproject/lura
 
 ## 0x05-Golang安全
 
@@ -2016,6 +2019,7 @@
 - [ ] https://github.com/neex/1u.ms
 - [ ] https://github.com/Charlie-belmer/nosqli
 - [ ] https://github.com/ethicalhackingplayground/endzy
+- [ ] https://github.com/gorilla/csrf
 
 八、病毒免杀
 - https://github.com/search?l=Go&q=shellcode
