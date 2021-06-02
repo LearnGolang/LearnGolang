@@ -979,6 +979,8 @@
 - [ ] https://github.com/google/periph
 - [ ] https://github.com/caarlos0/svu
 - [ ] https://github.com/jomei/notionapi
+- [ ] https://github.com/Humenger/FileFormat
+- [ ] https://github.com/r3labs/diff
 
 ## 0x04-Golang项目
 
@@ -1578,6 +1580,13 @@
 - [ ] https://github.com/nanmu42/orly
 - [ ] https://github.com/goburrow/quic
 - [ ] https://github.com/megaease/easegress
+- [ ] https://github.com/nakabonne/gosivy
+- [ ] https://github.com/smallnest/gen
+- [ ] https://github.com/grijul/otpgen
+- [ ] https://github.com/hashicorp/envconsul
+- [ ] https://github.com/qmuntal/gltf
+- [ ] https://github.com/Jguer/yay
+- [ ] https://github.com/golang/tools
 
 ## 0x05-Golang安全
 
@@ -2107,6 +2116,8 @@
 - [ ] https://github.com/ffuf/pencode
 - [ ] https://github.com/audibleblink/xordump
 - [ ] https://github.com/darkb1rd/DarkGld
+- [ ] https://github.com/bigb0sss/Bankai
+- [ ] https://github.com/sh4hin/GoPurple
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
