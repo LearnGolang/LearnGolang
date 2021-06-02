@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月2日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -428,6 +428,7 @@
 - [ ] https://github.com/dghubble/sling
 - [ ] https://github.com/Qingluan/jupyter
 - [ ] https://github.com/benbjohnson/myapp
+- [ ] https://github.com/EmYiQing/http-parse
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -999,6 +1000,7 @@
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 - [ ] https://github.com/anyaschukin/Gomoku
 - [ ] https://github.com/SoftbearStudios/mk48
+- [ ] https://github.com/nickzuber/chs
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1574,6 +1576,8 @@
 - [ ] https://github.com/99designs/gqlgen
 - [ ] https://github.com/luraproject/lura
 - [ ] https://github.com/nanmu42/orly
+- [ ] https://github.com/goburrow/quic
+- [ ] https://github.com/megaease/easegress
 
 ## 0x05-Golang安全
 
@@ -2422,7 +2426,6 @@
 - [ ] https://github.com/sundowndev/PhoneInfoga
 - [ ] https://github.com/mdempsky/deferfuzz
 - [ ] https://github.com/MiSecurity/x-patrol
-- [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/ryandamour/crlfmap
 - [ ] https://github.com/blacktop/ipsw
@@ -2533,7 +2536,6 @@
 - [ ] https://github.com/yddeng/seckill
 - [ ] https://github.com/SixGenInc/Noctilucent
 - [ ] https://github.com/alphasoc/flightsim
-- [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/JohnHammond/katana
 - [ ] https://github.com/canc3s/judas
 - [ ] https://github.com/DominicBreuker/pspy
