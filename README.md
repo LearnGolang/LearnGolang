@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月3日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1830,7 +1830,7 @@
 -  [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
 -  [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
 -  [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
--  [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 872
+-  [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 1.2k
 -  [x] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 786
 -  [ ] https://github.com/irealing/banner | Web端口扫描工具 | 2
 -  [ ] https://github.com/lovetrap/SafeScan | 关于扫描器的想法和实现 | 5
