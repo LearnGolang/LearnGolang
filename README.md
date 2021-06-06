@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -221,6 +221,7 @@
 - [ ] https://github.com/hoanhan101/ultimate-go
 - [ ] https://github.com/ardanlabs/gotraining
 - [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+- [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
 六、论坛版块
 - [ ] [Go夜读](https://github.com/talkgo/night)
@@ -982,6 +983,7 @@
 - [ ] https://github.com/Humenger/FileFormat
 - [ ] https://github.com/r3labs/diff
 - [ ] https://github.com/uber-go/gopatch
+- [ ] https://github.com/maaslalani/slides
 
 ## 0x04-Golang项目
 
@@ -1004,6 +1006,7 @@
 - [ ] https://github.com/anyaschukin/Gomoku
 - [ ] https://github.com/SoftbearStudios/mk48
 - [ ] https://github.com/nickzuber/chs
+- [ ] https://github.com/dwg255/landlord
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1578,7 +1581,7 @@
 - [ ] https://github.com/chubaofs/chubaofs
 - [ ] https://github.com/99designs/gqlgen
 - [ ] https://github.com/luraproject/lura
-- [ ] https://github.com/nanmu42/orly
+- [ ] https://github.com/nanmu42/orly | 生成你自己的O'RLY动物书封面| 359
 - [ ] https://github.com/goburrow/quic
 - [ ] https://github.com/megaease/easegress
 - [ ] https://github.com/nakabonne/gosivy
@@ -2298,6 +2301,7 @@
 
 十四、应急响应
 - [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
+- [ ] https://github.com/gpaddis/logscan
 
 十五、移动安全
 - [ ] https://github.com/ndelphit/apkurlgrep
