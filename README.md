@@ -469,6 +469,7 @@
 - [ ] https://github.com/Anderson-Lu/gofasion
 - [ ] https://github.com/bradford-hamilton/dora
 - [ ] https://github.com/pkg/json
+- [ ] https://github.com/admpub/json5
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -984,6 +985,7 @@
 - [ ] https://github.com/r3labs/diff
 - [ ] https://github.com/uber-go/gopatch
 - [ ] https://github.com/maaslalani/slides
+- [ ] https://github.com/Darkweak/Souin
 
 ## 0x04-Golang项目
 
@@ -2295,6 +2297,7 @@
 - [ ] https://github.com/americanexpress/earlybird
 - [ ] https://github.com/Hardw01f/Vulnerability-goapp | Go开发的易受攻击的Web应用程序 | 116
 - [ ] https://github.com/hhatto/gocloc
+- [ ] https://github.com/dengsgo/fileboy | 文件变更监听通知工具 | 361
 
 十三、编码规范
 - [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
@@ -2308,6 +2311,7 @@
 - [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/RedMapleTech/machodump
+- [ ] https://github.com/H21lab/gnbsim
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
