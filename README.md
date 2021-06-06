@@ -2562,6 +2562,7 @@
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/L-codes/MX1014
 - [ ] https://github.com/sorenisanerd/gotty
+- [ ] https://github.com/taielab/awesome-hacking-lists#go-642
 
 ## 0x06-Golang逆向
 
