@@ -2567,6 +2567,7 @@
 - [ ] https://github.com/L-codes/MX1014
 - [ ] https://github.com/sorenisanerd/gotty
 - [ ] https://github.com/taielab/awesome-hacking-lists#go-642
+- [ ] https://github.com/microsoft/waflab
 
 ## 0x06-Golang逆向
 
