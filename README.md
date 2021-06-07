@@ -460,7 +460,6 @@
 - [ ] https://github.com/Qntfy/kazaam
 - [ ] https://github.com/elgs/gojq
 - [ ] https://github.com/wI2L/jsondiff
-- [ ] https://github.com/cuelang/cue
 - [ ] https://github.com/tidwall/jsonc
 - [ ] https://github.com/gulyasm/jsonui
 - [ ] https://github.com/a8m/djson
@@ -1599,6 +1598,7 @@
 - [ ] https://github.com/free5gc/free5gc
 - [ ] https://github.com/issadarkthing/gomu
 - [ ] https://github.com/yyyar/gobetween
+- [ ] https://github.com/fhmq/hmq
 
 ## 0x05-Golang安全
 
