@@ -44,7 +44,7 @@
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
 - [ ] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
-- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴树杉 曹春晖
+- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
@@ -169,10 +169,14 @@
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
 五、英文资源
+
+- https://github.com/dariubs/GoBooks
+
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
+- [ ] [《Practical Go Lessons》](https://www.practical-go-lessons.com)
 - [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
@@ -182,7 +186,6 @@
 - [ ] [《Go Bootcamp》](http://golangbootcamp.com/)
 - [ ] [《Go Cookbook》]()
 - [ ] [《gostart》](https://github.com/alco/gostart)
-- [ ] [《GoBooks》](https://github.com/dariubs/GoBooks)
 - [ ] [《Go in Action》](https://www.manning.com/books/go-in-action)
 - [ ] [《Go In Practice》]()
 - [ ] [《Go Recipes》]()
@@ -241,7 +244,6 @@
 八、其他资源
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
-- [ ] https://github.com/dariubs/GoBooks
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
 - [ ] https://mojotv.cn/404#Golang
 - [ ] [GitHub-Chinese-Top-Charts#Go](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
