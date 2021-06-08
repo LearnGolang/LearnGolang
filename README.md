@@ -1605,6 +1605,7 @@
 - [ ] https://github.com/fhmq/hmq
 - [ ] https://github.com/hound-search/hound
 - [ ] https://github.com/RichardKnop/machinery
+- [ ] https://github.com/soreatu/cloudpan
 
 ## 0x05-Golang安全
 
