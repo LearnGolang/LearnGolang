@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月7日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月8日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -385,7 +385,7 @@
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
 - [ ] https://github.com/julienschmidt/httprouter | 轻量级高性能HTTP请求路由器 | 12.4k
-- [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 14.5k
+- [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 15.2k
 - [ ] https://github.com/imroc/req | 一个用于人类的HTTP请求库 | 1.7k
 - [ ] https://github.com/anaskhan96/soup | Go中的网页抓取工具 | 1.6k
 - [ ] https://github.com/idoubi/goz | 一个很棒的HTTP请求库 | 184
@@ -432,6 +432,7 @@
 - [ ] https://github.com/EmYiQing/http-parse
 - [ ] https://github.com/codesenberg/bombardier
 - [ ] https://github.com/utkusen/reqstress
+- [ ] https://github.com/vulcand/oxy
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -531,7 +532,6 @@
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/xelabs/go-mysqlstack
 - [ ] https://github.com/vitessio/vitess
-- [ ] https://github.com/pingcap/tidb
 - MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
@@ -613,6 +613,7 @@
 - [ ] https://github.com/frankban/quicktest
 - [ ] https://github.com/vmihailenco/go-cache-benchmark
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
+- [ ] https://github.com/utkusen/reqstress
 
 十、电子邮件
 - https://github.com/topics/mail?l=go
@@ -987,6 +988,9 @@
 - [ ] https://github.com/uber-go/gopatch
 - [ ] https://github.com/maaslalani/slides
 - [ ] https://github.com/Darkweak/Souin
+- [ ] https://github.com/sajari/regression
+- [ ] https://github.com/liamg/flinch
+- [ ] https://github.com/loov/goda
 
 ## 0x04-Golang项目
 
@@ -1010,6 +1014,7 @@
 - [ ] https://github.com/SoftbearStudios/mk48
 - [ ] https://github.com/nickzuber/chs
 - [ ] https://github.com/dwg255/landlord
+- [ ] https://github.com/pokemium/magia
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1205,7 +1210,6 @@
 - [ ] https://github.com/caarlos0/env
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/buger/goreplay
-- [ ] https://github.com/pingcap/tidb
 - [ ] https://github.com/moloch--/denim
 - [ ] https://github.com/chrislusf/seaweedfs
 - [ ] https://github.com/opencontainers/runc
@@ -1599,6 +1603,8 @@
 - [ ] https://github.com/issadarkthing/gomu
 - [ ] https://github.com/yyyar/gobetween
 - [ ] https://github.com/fhmq/hmq
+- [ ] https://github.com/hound-search/hound
+- [ ] https://github.com/RichardKnop/machinery
 
 ## 0x05-Golang安全
 
@@ -2315,6 +2321,7 @@
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/RedMapleTech/machodump
 - [ ] https://github.com/H21lab/gnbsim
+- [ ] https://github.com/blacktop/ipsw
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
@@ -2453,7 +2460,6 @@
 - [ ] https://github.com/MiSecurity/x-patrol
 - [ ] https://github.com/unstppbl/gowap
 - [ ] https://github.com/ryandamour/crlfmap
-- [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/ethicalhackingplayground/Zin
 - [ ] https://github.com/zricethezav/gitleaks
 - [ ] https://github.com/guanguans/id-validator
