@@ -2060,6 +2060,7 @@
 - [ ] https://github.com/Charlie-belmer/nosqli
 - [ ] https://github.com/ethicalhackingplayground/endzy
 - [ ] https://github.com/gorilla/csrf
+- [ ] https://github.com/R0X4R/ssrf-tool
 
 八、病毒免杀
 - https://github.com/search?l=Go&q=shellcode
