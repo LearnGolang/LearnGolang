@@ -993,6 +993,7 @@
 - [ ] https://github.com/sajari/regression
 - [ ] https://github.com/liamg/flinch
 - [ ] https://github.com/loov/goda
+- [ ] https://github.com/emirpasic/gods
 
 ## 0x04-Golang项目
 
@@ -1609,6 +1610,8 @@
 - [ ] https://github.com/soreatu/cloudpan
 - [ ] https://github.com/sans-sroc/integrity
 - [ ] https://github.com/flike/kingbus
+- [ ] https://github.com/openkruise/kruise
+- [ ] https://github.com/mat/besticon
 
 ## 0x05-Golang安全
 
