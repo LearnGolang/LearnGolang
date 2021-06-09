@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -938,7 +938,6 @@
 - [ ] https://github.com/blevesearch/bleve
 - [ ] https://github.com/eko/gocache
 - [ ] https://github.com/blackjack/webcam
-- [ ] https://github.com/vugu/vugu
 - [ ] https://github.com/olahol/melody
 - [ ] https://github.com/gmsec/micro
 - [ ] https://github.com/sf9v/gread
@@ -1608,6 +1607,7 @@
 - [ ] https://github.com/hound-search/hound
 - [ ] https://github.com/RichardKnop/machinery
 - [ ] https://github.com/soreatu/cloudpan
+- [ ] https://github.com/sans-sroc/integrity
 
 ## 0x05-Golang安全
 
@@ -2535,7 +2535,6 @@
 - [ ] https://github.com/tidwall/wal
 - [ ] https://github.com/madneal/gshark
 - [ ] https://github.com/Becivells/iconhash
-- [ ] https://github.com/vugu/vugu
 - [ ] https://github.com/v-byte-cpu/sx
 - [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/Beatrice950201/araneid
@@ -2580,6 +2579,8 @@
 - [ ] https://github.com/sorenisanerd/gotty
 - [ ] https://github.com/taielab/awesome-hacking-lists#go-642
 - [ ] https://github.com/microsoft/waflab
+- [ ] https://github.com/Cookie04DE/Sekura
+- [ ] https://github.com/evi1ox/WinRMShell
 
 ## 0x06-Golang逆向
 
