@@ -547,6 +547,7 @@
 - [ ] https://github.com/sosedoff/pgweb
 - Redis
 - [ ] https://github.com/go-redis/redis
+- [ ] https://github.com/HDT3213/godis
 - Others
 - [ ] https://github.com/jackc/pgx
 - [ ] https://github.com/boltdb/bolt
@@ -1226,7 +1227,6 @@
 - [ ] https://github.com/cloudreve/Cloudreve
 - [ ] https://github.com/rsumner31/yanff
 - [ ] https://github.com/pulumi/pulumi
-- [ ] https://github.com/HDT3213/godis
 - [ ] https://github.com/tidwall/evio
 - [ ] https://github.com/infracost/infracost
 - [ ] https://github.com/owncloud/ocis
@@ -1608,6 +1608,7 @@
 - [ ] https://github.com/RichardKnop/machinery
 - [ ] https://github.com/soreatu/cloudpan
 - [ ] https://github.com/sans-sroc/integrity
+- [ ] https://github.com/flike/kingbus
 
 ## 0x05-Golang安全
 
@@ -2526,7 +2527,6 @@
 - [ ] https://github.com/BishopFox/smogcloud
 - [ ] https://github.com/redcode-labs/UnChain
 - [ ] https://github.com/redcode-labs/Neurax
-- [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/redcode-labs/Sammler
 - [ ] https://github.com/Sakurasan/scf-proxy
 - [ ] https://github.com/kgoins/ldsview
