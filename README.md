@@ -995,6 +995,7 @@
 - [ ] https://github.com/loov/goda
 - [ ] https://github.com/emirpasic/gods
 - [ ] https://github.com/aojea/netkat
+- [ ] https://github.com/a-h/gemini
 
 ## 0x04-Golang项目
 
@@ -1613,6 +1614,8 @@
 - [ ] https://github.com/openkruise/kruise
 - [ ] https://github.com/mat/besticon
 - [ ] https://github.com/f-secure-foundry/GoTEE
+- [ ] https://github.com/mosajjal/dnsmonster
+- [ ] https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL
 
 ## 0x05-Golang安全
 
@@ -2246,6 +2249,7 @@
 -  [ ] https://github.com/google/huproxy
 -  [ ] https://github.com/lochv/srt
 -  [ ] https://github.com/net-byte/vtun
+-  [ ] https://github.com/elazarl/goproxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2587,6 +2591,8 @@
 - [ ] https://github.com/microsoft/waflab
 - [ ] https://github.com/Cookie04DE/Sekura
 - [ ] https://github.com/evi1ox/WinRMShell
+- [ ] https://github.com/redcode-labs/Solaris
+- [ ] https://github.com/slackhq/nebula
 
 ## 0x06-Golang逆向
 
