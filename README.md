@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月12日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -283,6 +283,7 @@
 - [ ] https://github.com/golang/vulndb
 - [ ] https://github.com/egonelbre/gophers
 - [ ] https://github.com/eddycjy/go777
+- [ ] https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 
 ## 0x02-Golang标准
 
@@ -794,7 +795,6 @@
 - [ ] https://github.com/bojanz/address
 - [ ] https://github.com/silenceper/pool
 - [ ] https://github.com/BlackCodes/logbud
-- [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/intel-go/nff-go
 - [ ] https://github.com/malfunkt/hyperfox
 - [ ] https://github.com/icodeface/grdp
@@ -863,7 +863,6 @@
 - [ ] https://github.com/go-logr/logr
 - [ ] https://github.com/go-resty/resty
 - [ ] https://github.com/getlantern/systray
-- [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/hbollon/go-edlib
 - [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/hunterhug/rlock
@@ -2540,7 +2539,6 @@
 - [ ] https://github.com/Buzz2d0/Hyuga
 - [ ] https://github.com/BishopFox/smogcloud
 - [ ] https://github.com/redcode-labs/UnChain
-- [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/redcode-labs/Sammler
 - [ ] https://github.com/Sakurasan/scf-proxy
 - [ ] https://github.com/kgoins/ldsview
