@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月11日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -565,6 +565,7 @@
 - [ ] https://github.com/hantmac/fuckdb
 - [ ] https://github.com/Masterminds/squirrel
 - [ ] https://github.com/lqs/sqlingo
+- [ ] https://github.com/volatiletech/sqlboiler
 
 七、协程并发
 - https://github.com/topics/concurrency?l=go
@@ -996,6 +997,7 @@
 - [ ] https://github.com/emirpasic/gods
 - [ ] https://github.com/aojea/netkat
 - [ ] https://github.com/a-h/gemini
+- [ ] https://github.com/droptheplot/abcgo
 
 ## 0x04-Golang项目
 
@@ -1616,6 +1618,8 @@
 - [ ] https://github.com/f-secure-foundry/GoTEE
 - [ ] https://github.com/mosajjal/dnsmonster
 - [ ] https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL
+- [ ] https://github.com/f-secure-foundry/GoTEE
+- [ ] https://github.com/aloder/tojen
 
 ## 0x05-Golang安全
 
@@ -1844,6 +1848,7 @@
 - [ ] https://github.com/yl2chen/cidranger
 - [ ] https://github.com/timwhitez/Doge-AliveCheck
 - [ ] https://github.com/TardC/fofadump
+- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -1999,7 +2004,6 @@
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
 - [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
-- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 45
 - [ ] https://github.com/dzonerzy/goWAPT | 瑞士军刀wfuzz的弟弟 | 285
 - [ ] https://github.com/liamg/scout | 发现Web未公开的文件目录 | 209
 - [ ] https://github.com/hihebark/gds | 在网站上搜索隐藏的路径 | 6
