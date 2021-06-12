@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [ ] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#5%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -240,6 +240,7 @@
 - [ ] https://learnku.com/go
 
 七、面试资料
+- [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 
 八、其他资源
 - [ ] https://github.com/gocn/cool-go
@@ -253,7 +254,6 @@
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/kevwan/why-golang
 - [ ] https://github.com/preytaren/go-doc-zh
-- [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/golang-design/history
 - [ ] https://github.com/unknwon/go-study-index
 - [ ] https://github.com/hwholiday/learning_tools
@@ -414,6 +414,7 @@
 - [ ] https://github.com/nahid/gohttp | HTTP客户端 | 48
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
+- [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/urfave/negroni
 - [ ] https://github.com/c26root/hb
@@ -711,6 +712,7 @@
 - [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
 - [ ] https://www.snowlyg.com/chapter/0
+- [ ] https://github.com/confetti-framework/confetti
 
 十三、爬虫框架
 - [ ] https://github.com/gocolly/colly
@@ -720,6 +722,7 @@
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/el10savio/GoCrawler
 - [ ] https://github.com/china-muwenbo/gospider
+- [ ] https://github.com/geziyor/geziyor
 
 十四、中间件框架
 - [ ] https://github.com/olivere/elastic
@@ -861,7 +864,6 @@
 - [ ] https://github.com/easy-bus/bus
 - [ ] https://github.com/benbjohnson/litestream
 - [ ] https://github.com/go-logr/logr
-- [ ] https://github.com/go-resty/resty
 - [ ] https://github.com/getlantern/systray
 - [ ] https://github.com/hbollon/go-edlib
 - [ ] https://github.com/mjwhitta/win
@@ -1004,23 +1006,23 @@
 - https://github.com/topics/tool?l=go
 
 一、开源网站
-- [ ] https://github.com/gogs/gogs
-- [ ] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/qor/qor
+- [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/admpub/nging
+- [ ] https://github.com/ponzu-cms/ponzu
 
 二、娱乐游戏
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/c0nrad/pr0n
-- [ ] https://github.com/Humpheh/goboy
-- [ ] https://github.com/duanhf2012/origin
-- [ ] https://github.com/umarquez/0ms2-game
-- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
-- [ ] https://github.com/anyaschukin/Gomoku
-- [ ] https://github.com/SoftbearStudios/mk48
 - [ ] https://github.com/nickzuber/chs
+- [ ] https://github.com/Humpheh/goboy
 - [ ] https://github.com/dwg255/landlord
 - [ ] https://github.com/pokemium/magia
+- [ ] https://github.com/duanhf2012/origin
+- [ ] https://github.com/anyaschukin/Gomoku
+- [ ] https://github.com/SoftbearStudios/mk48
+- [ ] https://github.com/umarquez/0ms2-game
+- [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -2029,6 +2031,7 @@
 -  [ ] https://github.com/j5s/Caesar
 -  [ ] https://github.com/jiaocoll/GoWebBanner
 -  [ ] https://github.com/ethicalhackingplayground/wordlistgen | 生成目标特定的单词列表 | 73
+-  [ ] https://github.com/TRYblog/url-alive-scan
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
