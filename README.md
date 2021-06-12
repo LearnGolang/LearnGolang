@@ -284,8 +284,11 @@
 - [ ] https://github.com/egonelbre/gophers
 - [ ] https://github.com/eddycjy/go777
 - [ ] https://github.com/StefanSchroeder/Golang-Regex-Tutorial
+- [ ] https://github.com/darjun/go-daily-lib | Go语言每日一库 | 1.1k
 
 ## 0x02-Golang标准
+
+本章节用于记录学习Go语言官方标准库。
 
 - https://golang.org/pkg
 - https://studygolang.com/pkgdoc
@@ -1621,6 +1624,9 @@
 - [ ] https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL
 - [ ] https://github.com/f-secure-foundry/GoTEE
 - [ ] https://github.com/aloder/tojen
+- [ ] https://github.com/dop251/goja
+- [ ] https://github.com/knipferrc/fm
+- [ ] https://github.com/baidu/EasyFaaS
 
 ## 0x05-Golang安全
 
@@ -2256,6 +2262,7 @@
 -  [ ] https://github.com/lochv/srt
 -  [ ] https://github.com/net-byte/vtun
 -  [ ] https://github.com/elazarl/goproxy
+-  [ ] https://github.com/jafarlihi/rconn
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2640,6 +2647,8 @@
 - [ ] https://bbs.pediy.com/thread-263921.htm
 - [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
 - [ ] https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+- [ ] https://www.anquanke.com/post/id/214940
+- [ ] https://bbs.pediy.com/thread-268042.htm
 
 四、使用Go逆向
 - [ ] https://github.com/zznop/sploit
