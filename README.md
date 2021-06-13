@@ -440,6 +440,7 @@
 - [ ] https://github.com/codesenberg/bombardier
 - [ ] https://github.com/utkusen/reqstress
 - [ ] https://github.com/vulcand/oxy
+- [ ] https://github.com/foolin/goview
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -519,6 +520,7 @@
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
+- [ ] https://github.com/foolin/gocsv
 - Word文件
 - [ ] https://github.com/unidoc/unioffice
 - [ ] https://github.com/sajari/word2vec
@@ -1630,6 +1632,7 @@
 - [ ] https://github.com/baidu/EasyFaaS
 - [ ] https://github.com/dgraph-io/badger
 - [ ] https://github.com/kris-nova/yamyams
+- [ ] https://github.com/gephi/gephi
 
 ## 0x05-Golang安全
 
@@ -2610,6 +2613,7 @@
 - [ ] https://github.com/evi1ox/WinRMShell
 - [ ] https://github.com/redcode-labs/Solaris
 - [ ] https://github.com/slackhq/nebula
+- [ ] https://github.com/For-ACGN/fast-scanner
 
 ## 0x06-Golang逆向
 
@@ -2706,3 +2710,4 @@
 - https://github.com/Binject
 - https://github.com/gobuffalo
 - https://github.com/drsigned
+- https://github.com/foolin
