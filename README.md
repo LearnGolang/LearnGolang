@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月13日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -443,6 +443,7 @@
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
+- [ ] https://github.com/a3kSec/purl
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -1627,6 +1628,8 @@
 - [ ] https://github.com/dop251/goja
 - [ ] https://github.com/knipferrc/fm
 - [ ] https://github.com/baidu/EasyFaaS
+- [ ] https://github.com/dgraph-io/badger
+- [ ] https://github.com/kris-nova/yamyams
 
 ## 0x05-Golang安全
 
@@ -2263,6 +2266,7 @@
 -  [ ] https://github.com/net-byte/vtun
 -  [ ] https://github.com/elazarl/goproxy
 -  [ ] https://github.com/jafarlihi/rconn
+-  [ ] https://github.com/Daybr4ak/C2ReverseProxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2321,6 +2325,7 @@
 - [ ] https://github.com/nu11secur1ty/evilginx-phishing-attack2
 - [ ] https://github.com/ajm113/brutaLog
 - [ ] https://github.com/kgretzky/evilginx2
+- [ ] https://github.com/yunginnanet/HellPot
 
 十二、代码审计
 - [ ] https://github.com/0c34/govwa
