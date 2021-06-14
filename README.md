@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -293,13 +293,17 @@
 - https://golang.org/pkg
 - https://studygolang.com/pkgdoc
 
-一、输入输出
+一、命令参数-flag
 
-二、时间时期
+- https://golang.org/pkg/flag
 
-三、命令参数
+二、日志处理-log
 
-四、日志记录
+三、网络框架-net
+
+四、配置文件-encoding
+
+五、文件处理-io
 
 ## 0x03-Golang框架
 
@@ -320,6 +324,7 @@
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
 - [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
+- [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
@@ -331,7 +336,6 @@
 - [ ] https://github.com/genuinetools/weather
 - [ ] https://github.com/charmbracelet/lipgloss
 - [ ] https://github.com/mattn/go-colorable
-- [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/ozanh/ugo
 - [ ] https://github.com/maxlandon/readline
 - [ ] https://github.com/maxlandon/gonsole
@@ -2614,6 +2618,7 @@
 - [ ] https://github.com/redcode-labs/Solaris
 - [ ] https://github.com/slackhq/nebula
 - [ ] https://github.com/For-ACGN/fast-scanner
+- [ ] https://github.com/SPuerBRead/mqtts
 
 ## 0x06-Golang逆向
 
