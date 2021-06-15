@@ -453,6 +453,7 @@
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
 - [ ] https://github.com/m13253/dns-over-https
+- [ ] https://github.com/mosajjal/dnsmonster
 
 四、配置文件
 - JSON
@@ -578,6 +579,7 @@
 - [ ] https://github.com/Masterminds/squirrel
 - [ ] https://github.com/lqs/sqlingo
 - [ ] https://github.com/volatiletech/sqlboiler
+- [ ] https://github.com/didi/gendry
 
 七、协程并发
 - https://github.com/topics/concurrency?l=go
@@ -1009,6 +1011,7 @@
 - [ ] https://github.com/a-h/gemini
 - [ ] https://github.com/droptheplot/abcgo
 - [ ] https://github.com/alphasoc/nfr
+- [ ] https://github.com/dfava/cube
 
 ## 0x04-Golang项目
 
@@ -1558,7 +1561,6 @@
 - [ ] https://github.com/shima-park/agollo
 - [ ] https://github.com/bfenetworks/bfe
 - [ ] https://github.com/accurics/terrascan
-- [ ] https://github.com/AkihiroSuda/lima
 - [ ] https://github.com/bits-and-blooms/bloom
 - [ ] https://github.com/zhenghaoz/gorse
 - [ ] https://github.com/fd0/machma
