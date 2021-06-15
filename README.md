@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月14日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月15日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#5%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#10%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -899,7 +899,6 @@
 - [ ] https://github.com/h2non/bimg
 - [ ] https://github.com/microsoft/onefuzz
 - [ ] https://github.com/nfnt/resize
-- [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/ropnop/go-clr
 - [ ] https://github.com/changkun/midgard
 - [ ] https://github.com/Allenxuxu/gev
@@ -1248,7 +1247,6 @@
 - [ ] https://github.com/panther-labs/panther
 - [ ] https://github.com/rancher/rancher
 - [ ] https://github.com/hnrss/hnrss
-- [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/ycd/toc
 - [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/minio/kes
@@ -1637,6 +1635,7 @@
 - [ ] https://github.com/dgraph-io/badger
 - [ ] https://github.com/kris-nova/yamyams
 - [ ] https://github.com/gephi/gephi
+- [ ] https://github.com/dexidp/dex
 
 ## 0x05-Golang安全
 
