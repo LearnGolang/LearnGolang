@@ -1008,6 +1008,7 @@
 - [ ] https://github.com/aojea/netkat
 - [ ] https://github.com/a-h/gemini
 - [ ] https://github.com/droptheplot/abcgo
+- [ ] https://github.com/alphasoc/nfr
 
 ## 0x04-Golang项目
 
@@ -1636,6 +1637,7 @@
 - [ ] https://github.com/kris-nova/yamyams
 - [ ] https://github.com/gephi/gephi
 - [ ] https://github.com/dexidp/dex
+- [ ] https://github.com/CAFxX/gcnotifier
 
 ## 0x05-Golang安全
 
@@ -2064,7 +2066,7 @@
 - [ ] https://github.com/Shivangx01b/BountyIt | 查找xss、lfi、rce、ssti等漏洞 | 33
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
 - [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 142
-- [ ] https://github.com/hahwul/dalfox | 基于go的参数分析和XSS扫描工具 | 578
+- [ ] https://github.com/hahwul/dalfox | 基于Go的参数分析和XSS扫描工具 | 957
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
