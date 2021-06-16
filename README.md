@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月16日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月17日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1253,7 +1253,6 @@
 - [ ] https://github.com/rancher/rancher
 - [ ] https://github.com/hnrss/hnrss
 - [ ] https://github.com/ycd/toc
-- [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/minio/kes
 - [ ] https://github.com/goreleaser/nfpm
 - [ ] https://github.com/TwinProduction/gatus
@@ -1462,7 +1461,6 @@
 - [ ] https://github.com/gdamore/tcell
 - [ ] https://github.com/fzipp/canvas
 - [ ] https://github.com/ad-sho-loko/mille
-- [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/nektos/act
 - [ ] https://github.com/junegunn/fzf
 - [ ] https://github.com/zhenghaoz/gorse
@@ -2623,6 +2621,7 @@
 - [ ] https://github.com/slackhq/nebula
 - [ ] https://github.com/For-ACGN/fast-scanner
 - [ ] https://github.com/SPuerBRead/mqtts
+- [ ] https://github.com/six2dez/reconftw
 
 ## 0x06-Golang逆向
 
