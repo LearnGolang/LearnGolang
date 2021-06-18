@@ -2184,6 +2184,7 @@
 -  https://github.com/topics/tunnel?l=go
 -  https://github.com/topics/reverse-proxy?l=go
 -  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
+-  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
 -  [ ] https://github.com/Ne0nd0g/merlin
@@ -2205,7 +2206,6 @@
 -  [ ] https://github.com/knownsec/Portforward
 -  [ ] https://github.com/TNK-Studio/gortal
 -  [ ] https://github.com/drk1wi/Modlishka
--  [ ] https://github.com/ehang-io/nps
 -  [ ] https://github.com/jpillora/chisel
 -  [ ] https://github.com/gwuhaolin/lightsocks
 -  [ ] https://github.com/xct/xc
