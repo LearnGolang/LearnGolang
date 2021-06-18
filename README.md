@@ -486,6 +486,7 @@
 - [ ] https://github.com/bradford-hamilton/dora
 - [ ] https://github.com/pkg/json
 - [ ] https://github.com/admpub/json5
+- [ ] https://github.com/bytedance/sonic
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1014,6 +1015,7 @@
 - [ ] https://github.com/dfava/cube
 - [ ] https://github.com/jtolio/gls
 - [ ] https://github.com/bizy01/parsedate
+- [ ] https://github.com/tilinna/clock
 
 ## 0x04-Golang项目
 
