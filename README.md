@@ -285,6 +285,8 @@
 - [ ] https://github.com/eddycjy/go777
 - [ ] https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 - [ ] https://github.com/darjun/go-daily-lib | Go语言每日一库 | 1.1k
+- [ ] https://github.com/xinliangnote/go-util
+- [ ] https://github.com/Roc-zhou/go-util-package
 
 ## 0x02-Golang标准
 
