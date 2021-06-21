@@ -1974,7 +1974,6 @@
 -  [ ] https://github.com/brittonhayes/pillager
 -  [ ] https://github.com/SECFORCE/sparta
 -  [ ] https://github.com/YE-Kits/hunter
--  [ ] https://github.com/rootklt/snowball
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2285,6 +2284,7 @@
 -  [ ] https://github.com/jafarlihi/rconn
 -  [ ] https://github.com/Daybr4ak/C2ReverseProxy
 -  [ ] https://github.com/NMTech0x90/port_tunnel
+-  [ ] https://github.com/mosn/mosn
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
