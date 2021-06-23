@@ -1648,6 +1648,7 @@
 - [ ] https://github.com/phachon/mm-wiki
 - [ ] https://github.com/muesli/markscribe
 - [ ] https://github.com/ethersphere/swarm
+- [ ] https://github.com/bytedance/Elkeid
 
 ## 0x05-Golang安全
 
@@ -2638,6 +2639,7 @@
 - [ ] https://github.com/CobaltZirs0n/goSQL
 - [ ] https://github.com/kayon/iploc
 - [ ] https://github.com/gl4ssesbo1/Nebula
+- [ ] https://github.com/vulsio/go-exploitdb
 
 ## 0x06-Golang逆向
 
