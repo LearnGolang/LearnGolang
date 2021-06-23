@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#10%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#20%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -844,7 +844,6 @@
 - [ ] https://github.com/tidwall/redcon
 - [ ] https://github.com/gookit/color
 - [ ] https://github.com/avast/retry-go
-- [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/markusmobius/go-domdistiller
 - [ ] https://github.com/gobuffalo/logger
 - [ ] https://github.com/kbinani/screenshot
@@ -1648,6 +1647,7 @@
 - [ ] https://github.com/cortexproject/cortex
 - [ ] https://github.com/phachon/mm-wiki
 - [ ] https://github.com/muesli/markscribe
+- [ ] https://github.com/ethersphere/swarm
 
 ## 0x05-Golang安全
 
@@ -2184,6 +2184,7 @@
 - [ ] https://github.com/bigb0sss/Bankai
 - [ ] https://github.com/sh4hin/GoPurple
 - [ ] https://github.com/sad0p/d0zer
+- [ ] https://github.com/Binject/binjection
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
@@ -2543,7 +2544,6 @@
 - [ ] https://github.com/neex/http2smugl
 - [ ] https://github.com/sjatsh/unwxapkg
 - [ ] https://github.com/x3419/TorgoBot
-- [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/mozilla/sops
 - [ ] https://github.com/optiv/Talon
 - [ ] https://github.com/flier/gohs
@@ -2637,6 +2637,7 @@
 - [ ] https://github.com/six2dez/reconftw
 - [ ] https://github.com/CobaltZirs0n/goSQL
 - [ ] https://github.com/kayon/iploc
+- [ ] https://github.com/gl4ssesbo1/Nebula
 
 ## 0x06-Golang逆向
 
