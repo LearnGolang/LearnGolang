@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月23日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月24日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -22,8 +22,8 @@
 - https://github.com/yinggaozhen/awesome-go-cn
 
 一、基础书籍
-- [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉
-- [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻译
+- [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
+- [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#20%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#30%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -447,6 +447,7 @@
 - [ ] https://github.com/utkusen/reqstress
 - [ ] https://github.com/vulcand/oxy
 - [ ] https://github.com/foolin/goview
+- [ ] https://github.com/six-ddc/plow
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -1024,6 +1025,9 @@
 
 - https://github.com/trending/go
 - https://github.com/topics/tool?l=go
+- https://github.com/trending/go?since=daily
+- https://github.com/trending/go?since=weekly
+- https://github.com/trending/go?since=monthly
 
 一、开源网站
 - [ ] https://github.com/qor/qor
