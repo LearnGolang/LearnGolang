@@ -1735,6 +1735,7 @@
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/0x2E/sf
 - [ ] https://github.com/projectdiscovery/dnsx
