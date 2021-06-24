@@ -139,11 +139,11 @@
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
 
 三、算法学习
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
 - [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
 - [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
-- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
 - [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
 - [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
@@ -222,7 +222,7 @@
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 - [ ] https://github.com/quii/learn-go-with-tests
 - [ ] https://github.com/hoanhan101/ultimate-go
-- [ ] https://github.com/ardanlabs/gotraining
+- [ ] https://github.com/ardanlabs/gotraining | Go语言培训课程材料 | 9.1k
 - [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
 - [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
@@ -318,7 +318,7 @@
 一、命令参数
 - https://github.com/topics/cli?l=go
 - https://github.com/topics/command-line?l=go
-- [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 15.7k
+- [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 16k
 - [ ] https://github.com/fatih/color | 构建彩色的命令参数应用程序 | 4.2k
 - [ ] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 21.4k
 - [ ] https://github.com/mgutz/ansi | 创建彩色的字符串和代码 | 382
@@ -448,6 +448,8 @@
 - [ ] https://github.com/vulcand/oxy
 - [ ] https://github.com/foolin/goview
 - [ ] https://github.com/six-ddc/plow
+- [ ] https://github.com/tsenart/vegeta
+- [ ] https://github.com/buger/goreplay
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -489,7 +491,7 @@
 - [ ] https://github.com/bradford-hamilton/dora
 - [ ] https://github.com/pkg/json
 - [ ] https://github.com/admpub/json5
-- [ ] https://github.com/bytedance/sonic
+- [ ] https://github.com/bytedance/sonic | 一个极快的 JSON 序列化和反序列化库 | 291
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -518,6 +520,7 @@
 - [ ] https://github.com/joshbetz/config
 - [ ] https://github.com/One-com/gone/tree/master/jconf
 - [ ] https://github.com/alecthomas/participle
+- [ ] https://github.com/kris-nova/naml
 
 五、文件处理
 - TXT文件
@@ -1020,6 +1023,7 @@
 - [ ] https://github.com/tilinna/clock
 - [ ] https://github.com/rs/curlie
 - [ ] https://github.com/gostaticanalysis/codegen
+- [ ] https://github.com/8treenet/freedom
 
 ## 0x04-Golang项目
 
@@ -1653,6 +1657,8 @@
 - [ ] https://github.com/muesli/markscribe
 - [ ] https://github.com/ethersphere/swarm
 - [ ] https://github.com/bytedance/Elkeid
+- [ ] https://github.com/mosn/layotto
+- [ ] https://github.com/kelindar/column
 
 ## 0x05-Golang安全
 
@@ -2644,6 +2650,7 @@
 - [ ] https://github.com/kayon/iploc
 - [ ] https://github.com/gl4ssesbo1/Nebula
 - [ ] https://github.com/vulsio/go-exploitdb
+- [ ] https://github.com/lkarlslund/adalanche
 
 ## 0x06-Golang逆向
 
