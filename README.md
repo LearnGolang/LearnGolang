@@ -2722,6 +2722,7 @@
 - [ ] https://github.com/system-pclub/GCatch
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/zhangyoufu/lumina
+- [ ] https://github.com/boy-hack/go-strip
 
 ## 0x07-Golang老师
 
