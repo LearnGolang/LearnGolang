@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#30%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#35%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
