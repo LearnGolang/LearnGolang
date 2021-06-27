@@ -55,6 +55,7 @@
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 - [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
+- [x] [《Go语言入门经典》](https://item.jd.com/13162162.html)@周家安
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
@@ -1028,6 +1029,8 @@
 - [ ] https://github.com/a-h/templ
 - [ ] https://github.com/dshulyak/uring
 - [ ] https://github.com/goproxyio/goproxy
+- [ ] https://github.com/mileusna/useragent
+- [ ] https://github.com/pemistahl/lingua-go
 
 ## 0x04-Golang项目
 
@@ -1079,6 +1082,7 @@
 - [ ] https://github.com/miaolz123/stockdb
 - [ ] https://github.com/ksred/go-stock-notifier
 - [ ] https://github.com/buth/stocker
+- [ ] https://github.com/phonegapX/QuantBot
 
 六、其他项目
 - [ ] https://github.com/iawia002/annie
@@ -1663,6 +1667,8 @@
 - [ ] https://github.com/bytedance/Elkeid
 - [ ] https://github.com/mosn/layotto
 - [ ] https://github.com/kelindar/column
+- [ ] https://github.com/reconquest/orgalorg
+- [ ] https://github.com/juanfont/headscale
 
 ## 0x05-Golang安全
 
@@ -2201,6 +2207,7 @@
 - [ ] https://github.com/sh4hin/GoPurple
 - [ ] https://github.com/sad0p/d0zer
 - [ ] https://github.com/Binject/binjection
+- [ ] https://github.com/fengziHK/bypass_go
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
