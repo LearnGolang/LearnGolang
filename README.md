@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1661,7 +1661,6 @@
 - [ ] https://github.com/dexidp/dex
 - [ ] https://github.com/CAFxX/gcnotifier
 - [ ] https://github.com/cortexproject/cortex
-- [ ] https://github.com/phachon/mm-wiki
 - [ ] https://github.com/muesli/markscribe
 - [ ] https://github.com/ethersphere/swarm
 - [ ] https://github.com/bytedance/Elkeid
@@ -1669,6 +1668,7 @@
 - [ ] https://github.com/kelindar/column
 - [ ] https://github.com/reconquest/orgalorg
 - [ ] https://github.com/juanfont/headscale
+- [ ] https://github.com/elves/elvish
 
 ## 0x05-Golang安全
 
@@ -2664,6 +2664,7 @@
 - [ ] https://github.com/vulsio/go-exploitdb
 - [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/sonatype-nexus-community/nancy
+- [ ] https://github.com/CTF-MissFeng/report
 
 ## 0x06-Golang逆向
 
