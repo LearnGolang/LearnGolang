@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年6月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年6月29日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -494,6 +494,8 @@
 - [ ] https://github.com/pkg/json
 - [ ] https://github.com/admpub/json5
 - [ ] https://github.com/bytedance/sonic | 一个极快的 JSON 序列化和反序列化库 | 291
+- [ ] https://github.com/artyom/json2yaml
+- [ ] https://github.com/goccy/go-json
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -734,6 +736,7 @@
 - [ ] https://echo.labstack.com
 - [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://github.com/confetti-framework/confetti
+- [ ] https://github.com/smallnest/go-web-framework-benchmark
 
 十三、爬虫框架
 - [ ] https://github.com/gocolly/colly
@@ -1669,6 +1672,7 @@
 - [ ] https://github.com/reconquest/orgalorg
 - [ ] https://github.com/juanfont/headscale
 - [ ] https://github.com/elves/elvish
+- [ ] https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## 0x05-Golang安全
 
@@ -2401,6 +2405,7 @@
 - [ ] https://github.com/RedMapleTech/machodump
 - [ ] https://github.com/H21lab/gnbsim
 - [ ] https://github.com/blacktop/ipsw
+- [ ] https://github.com/shogo82148/androidbinary
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
