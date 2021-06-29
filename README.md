@@ -170,9 +170,7 @@
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
 五、英文资源
-
 - https://github.com/dariubs/GoBooks
-
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
