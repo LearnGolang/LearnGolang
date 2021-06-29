@@ -1034,6 +1034,7 @@
 - [ ] https://github.com/goproxyio/goproxy
 - [ ] https://github.com/mileusna/useragent
 - [ ] https://github.com/pemistahl/lingua-go
+- [ ] https://github.com/go-fonts/liberation
 
 ## 0x04-Golang项目
 
