@@ -1673,6 +1673,8 @@
 - [ ] https://github.com/juanfont/headscale
 - [ ] https://github.com/elves/elvish
 - [ ] https://github.com/JanDeDobbeleer/oh-my-posh
+- [ ] https://github.com/mattn/go-shellwords
+- [ ] https://github.com/youngyangyang04/fileHttpServer
 
 ## 0x05-Golang安全
 
@@ -1903,6 +1905,7 @@
 - [ ] https://github.com/timwhitez/Doge-AliveCheck
 - [ ] https://github.com/TardC/fofadump
 - [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
+- [ ] https://github.com/i11us0ry/tool-iFofa
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2317,6 +2320,7 @@
 -  [ ] https://github.com/NMTech0x90/port_tunnel
 -  [ ] https://github.com/mosn/mosn
 -  [ ] https://github.com/Li4n0/revsuit
+-  [ ] https://github.com/mmatczuk/go-http-tunnel
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2670,6 +2674,7 @@
 - [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/sonatype-nexus-community/nancy
 - [ ] https://github.com/CTF-MissFeng/report
+- [ ] https://github.com/i11us0ry/goon
 
 ## 0x06-Golang逆向
 
