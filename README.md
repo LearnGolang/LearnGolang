@@ -43,7 +43,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#35%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#50%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -1676,6 +1676,8 @@
 - [ ] https://github.com/JanDeDobbeleer/oh-my-posh
 - [ ] https://github.com/mattn/go-shellwords
 - [ ] https://github.com/youngyangyang04/fileHttpServer
+- [ ] https://github.com/hashicorp/raft
+- [ ] https://github.com/yunionio/cloudpods
 
 ## 0x05-Golang安全
 
@@ -2212,7 +2214,6 @@
 - [ ] https://github.com/audibleblink/xordump
 - [ ] https://github.com/darkb1rd/DarkGld
 - [ ] https://github.com/bigb0sss/Bankai
-- [ ] https://github.com/sh4hin/GoPurple
 - [ ] https://github.com/sad0p/d0zer
 - [ ] https://github.com/Binject/binjection
 - [ ] https://github.com/fengziHK/bypass_go
@@ -2680,6 +2681,8 @@
 - [ ] https://github.com/sonatype-nexus-community/nancy
 - [ ] https://github.com/CTF-MissFeng/report
 - [ ] https://github.com/i11us0ry/goon
+- [ ] https://github.com/Static-Flow/BurpSuiteTeamServer
+- [ ] https://github.com/Nikait/GoRAT
 
 ## 0x06-Golang逆向
 
@@ -2768,13 +2771,14 @@
 - 李文周-Go语言优秀讲师，[@Q1mi](https://www.liwenzhou.com/)
 
 二、Go语言参考
-- [https://github.com/netxfly](https://github.com/netxfly)
+- https://github.com/netxfly
+- https://github.com/foolin
 - https://github.com/schollz
+- https://github.com/Binject
+- https://github.com/gobuffalo
+- https://github.com/drsigned
 - https://github.com/projectdiscovery
 - https://github.com/aquasecurity
 - https://github.com/tomnomnom
 - https://github.com/evilsocket
-- https://github.com/Binject
-- https://github.com/gobuffalo
-- https://github.com/drsigned
-- https://github.com/foolin
+- https://github.com/hashicorp
