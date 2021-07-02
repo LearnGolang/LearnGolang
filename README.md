@@ -348,6 +348,7 @@
 - [ ] https://github.com/cli/cli
 - [ ] https://github.com/cheggaaa/pb | Go语言的控制台进度栏 |2.8k
 - [ ] https://github.com/charmbracelet/glow
+- [ ] https://github.com/jawher/mow.cli
 
 二、日志处理
 - https://github.com/topics/log?l=go
@@ -454,6 +455,7 @@
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
 - [ ] https://github.com/a3kSec/purl
+- [ ] https://github.com/nccgroup/wstalker
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -1035,6 +1037,7 @@
 - [ ] https://github.com/go-fonts/liberation
 - [ ] https://github.com/golang/groupcache
 - [ ] https://github.com/multiformats/go-multiaddr-dns
+- [ ] https://github.com/vifraa/gopom
 
 ## 0x04-Golang项目
 
@@ -1682,6 +1685,7 @@
 - [ ] https://github.com/hacdias/webdav
 - [ ] https://github.com/johandry/terranova
 - [ ] https://github.com/caos/zitadel
+- [ ] https://github.com/jackluo2012/datacenter
 
 ## 0x05-Golang安全
 
