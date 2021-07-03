@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月4日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1037,8 +1037,10 @@
 - [ ] https://github.com/pemistahl/lingua-go
 - [ ] https://github.com/go-fonts/liberation
 - [ ] https://github.com/golang/groupcache
-- [ ] https://github.com/multiformats/go-multiaddr-dns
 - [ ] https://github.com/vifraa/gopom
+- [ ] https://github.com/multiformats/go-multiaddr-dns
+- [ ] https://github.com/david415/ParasiticTraceroute
+- [ ] https://github.com/kerbyj/goLazagne
 
 ## 0x04-Golang项目
 
@@ -1690,6 +1692,8 @@
 - [ ] https://github.com/jackluo2012/datacenter
 - [ ] https://github.com/Konstantin8105/c4go
 - [ ] https://github.com/home-assistant/core
+- [ ] https://github.com/blackarrowsec/fozar
+- [ ] https://github.com/jeessy2/ddns-go
 
 ## 0x05-Golang安全
 
@@ -1958,7 +1962,7 @@
 -  [ ] https://github.com/jjf012/gopoc | 用cel-go重现了xray的poc检测功能的轮子 | 62
 -  [ ] https://github.com/netxfly/xsec-proxy-scanner | 速度快而小巧的代理扫描器 | 228
 -  [ ] https://github.com/future-architect/vuls | Linux漏洞扫描程序 | 8k
--  [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 5.2k
+-  [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 7.7k
 -  [ ] https://github.com/LakeVilladom/goSkylar | 企业级外网端口资产扫描 | 72
 -  [ ] https://github.com/jmpews/goscan | golang的扫描框架 | 39
 -  [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
@@ -2397,6 +2401,7 @@
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/yunginnanet/HellPot
 - [ ] https://github.com/seccome/Ehoney
+- [ ] https://github.com/dutchcoders/troje
 
 十二、代码审计
 - [ ] https://github.com/0c34/govwa
@@ -2518,7 +2523,6 @@
 - [ ] https://github.com/fesiong/cobweb
 - [ ] https://github.com/gorgonia/gorgonia
 - [ ] https://github.com/Shivangx01b/CorsMe
-- [ ] https://github.com/kerbyj/goLazagne
 - [ ] https://github.com/kerbyj/ctfengine
 - [ ] https://github.com/virink/VulWarning
 - [ ] https://github.com/tomsteele/pen-utils
@@ -2622,7 +2626,6 @@
 - [ ] https://github.com/aquasecurity/starboard
 - [ ] https://github.com/Alaa-abdulridha/SerpScan
 - [ ] https://github.com/nccgroup/ConMachi
-- [ ] https://github.com/kerbyj/goLazagne
 - [ ] https://github.com/assetnote/kiterunner
 - [ ] https://github.com/Shopify/toxiproxy
 - [ ] https://github.com/Buzz2d0/Hyuga
@@ -2700,6 +2703,8 @@
 - [ ] https://github.com/Ullaakut/camerattack
 - [ ] https://github.com/Ullaakut/Gorsair | 攻击暴露了API的Docker | 698
 - [ ] https://github.com/sw33tLie/fleex
+- [ ] https://github.com/nim4/DBShield
+- [ ] https://github.com/slackhq/go-audit
 
 ## 0x06-Golang逆向
 
