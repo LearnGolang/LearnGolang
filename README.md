@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月3日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -349,6 +349,7 @@
 - [ ] https://github.com/cheggaaa/pb | Go语言的控制台进度栏 |2.8k
 - [ ] https://github.com/charmbracelet/glow
 - [ ] https://github.com/jawher/mow.cli
+- [ ] https://github.com/skanehira/remonade
 
 二、日志处理
 - https://github.com/topics/log?l=go
@@ -1052,6 +1053,7 @@
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/admpub/nging
 - [ ] https://github.com/ponzu-cms/ponzu
+- [ ] https://github.com/fesiong/goblog
 
 二、娱乐游戏
 - [ ] https://github.com/loig/ld47
@@ -1686,6 +1688,8 @@
 - [ ] https://github.com/johandry/terranova
 - [ ] https://github.com/caos/zitadel
 - [ ] https://github.com/jackluo2012/datacenter
+- [ ] https://github.com/Konstantin8105/c4go
+- [ ] https://github.com/home-assistant/core
 
 ## 0x05-Golang安全
 
@@ -2695,6 +2699,7 @@
 - [ ] https://github.com/Nikait/GoRAT
 - [ ] https://github.com/Ullaakut/camerattack
 - [ ] https://github.com/Ullaakut/Gorsair | 攻击暴露了API的Docker | 698
+- [ ] https://github.com/sw33tLie/fleex
 
 ## 0x06-Golang逆向
 
