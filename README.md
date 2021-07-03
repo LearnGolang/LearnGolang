@@ -2068,6 +2068,7 @@
 -  https://github.com/topics/webscan?l=go
 - [ ] https://github.com/l2-team/cmsfingers
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
+- [ ] https://github.com/adamtlangley/ffufme
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
 - [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
@@ -2693,6 +2694,7 @@
 - [ ] https://github.com/Static-Flow/BurpSuiteTeamServer
 - [ ] https://github.com/Nikait/GoRAT
 - [ ] https://github.com/Ullaakut/camerattack
+- [ ] https://github.com/Ullaakut/Gorsair | 攻击暴露了API的Docker | 698
 
 ## 0x06-Golang逆向
 
