@@ -1674,7 +1674,6 @@
 - [ ] https://github.com/cortexproject/cortex
 - [ ] https://github.com/muesli/markscribe
 - [ ] https://github.com/ethersphere/swarm
-- [ ] https://github.com/bytedance/Elkeid
 - [ ] https://github.com/mosn/layotto
 - [ ] https://github.com/kelindar/column
 - [ ] https://github.com/reconquest/orgalorg
@@ -1695,6 +1694,7 @@
 - [ ] https://github.com/blackarrowsec/fozar
 - [ ] https://github.com/jeessy2/ddns-go
 - [ ] https://github.com/clbanning/mxj
+- [ ] https://github.com/alda-lang/alda
 
 ## 0x05-Golang安全
 
@@ -2706,6 +2706,7 @@
 - [ ] https://github.com/sw33tLie/fleex
 - [ ] https://github.com/nim4/DBShield
 - [ ] https://github.com/slackhq/go-audit
+- [ ] https://github.com/cretz/bine
 
 ## 0x06-Golang逆向
 
