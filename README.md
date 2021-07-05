@@ -16,6 +16,7 @@
 
 ## 0x01-Golang资源
 
+- https://github.com/golang/go
 - https://github.com/0e0w/LearnGolang
 - https://github.com/avelino/awesome-go
 - https://github.com/shockerli/go-awesome
@@ -219,11 +220,11 @@
 - [ ] [《Web Application with Go the Anti-Textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 - [ ] [《Nonsequential and Distributed Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
+- [ ] [《Ultimate Go Notebook》](https://education.ardanlabs.com/courses/ultimate-go-notebook)@Kennedy
 - [ ] https://github.com/quii/learn-go-with-tests
 - [ ] https://github.com/hoanhan101/ultimate-go
 - [ ] https://github.com/ardanlabs/gotraining | Go语言培训课程材料 | 9.1k
 - [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
-- [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
 六、论坛版块
 - [ ] [Go夜读](https://github.com/talkgo/night)
@@ -286,6 +287,7 @@
 - [ ] https://github.com/xinliangnote/go-util
 - [ ] https://github.com/Roc-zhou/go-util-package
 - [ ] https://github.com/Vxer-Lee/Golang_Handbook
+- [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
 ## 0x02-Golang标准
 
@@ -2254,6 +2256,7 @@
 -  [ ] https://github.com/cw1997/NATBypass
 -  [ ] https://github.com/ph4ntonn/go-socks5
 -  [ ] https://github.com/ph4ntonn/Stowaway
+-  [ ] https://github.com/wywwzjj/Stowaway
 -  [ ] https://github.com/LubyRuffy/tcptunnel
 -  [ ] https://github.com/FireFart/goshell
 -  [ ] https://github.com/ypcd/gstunnel
@@ -2709,6 +2712,7 @@
 - [ ] https://github.com/nim4/DBShield
 - [ ] https://github.com/slackhq/go-audit
 - [ ] https://github.com/cretz/bine
+- [ ] https://github.com/grines/scour
 
 ## 0x06-Golang逆向
 
