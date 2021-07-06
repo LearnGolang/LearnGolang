@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -784,6 +784,7 @@
 十一、时间日期
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
+- [ ] https://github.com/nakabonne/tstorage
 
 二十二、其他框架
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
@@ -1043,6 +1044,8 @@
 - [ ] https://github.com/multiformats/go-multiaddr-dns
 - [ ] https://github.com/david415/ParasiticTraceroute
 - [ ] https://github.com/kerbyj/goLazagne
+- [ ] https://github.com/pquerna/otp
+- [ ] https://github.com/d5/tengo
 
 ## 0x04-Golang项目
 
@@ -1699,6 +1702,11 @@
 - [ ] https://github.com/alda-lang/alda
 - [ ] https://github.com/mkdeb/mkdeb
 - [ ] https://github.com/matsuyoshi30/gitsu
+- [ ] https://github.com/seccomp/libseccomp-golang
+- [ ] https://github.com/XiaoMi/Gaea
+- [ ] https://github.com/PaesslerAG/gval
+- [ ] https://github.com/studygolang/studygolang
+- [ ] https://github.com/easychen/wecomchan
 
 ## 0x05-Golang安全
 
@@ -2364,6 +2372,7 @@
 - [ ] https://github.com/BishopFox/sliver
 - [ ] https://github.com/maxlandon/wiregost
 - [ ] https://github.com/WAY29/ptg
+- [ ] https://github.com/Wd0g/GoShell
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
@@ -2713,6 +2722,7 @@
 - [ ] https://github.com/slackhq/go-audit
 - [ ] https://github.com/cretz/bine
 - [ ] https://github.com/grines/scour
+- [ ] https://github.com/msfidelis/kafka-stress
 
 ## 0x06-Golang逆向
 
