@@ -1708,6 +1708,9 @@
 - [ ] https://github.com/studygolang/studygolang
 - [ ] https://github.com/easychen/wecomchan
 - [ ] https://github.com/seknox/trasa
+- [ ] https://github.com/stevenjoezhang/live2d-widget
+- [ ] https://github.com/elastic/beats
+- [ ] https://github.com/sohaha/rosedb
 
 ## 0x05-Golang安全
 
@@ -2725,6 +2728,7 @@
 - [ ] https://github.com/grines/scour
 - [ ] https://github.com/msfidelis/kafka-stress
 - [ ] https://github.com/s-rah/onionscan
+- [ ] https://github.com/projectdiscovery/cloudlist
 
 ## 0x06-Golang逆向
 
