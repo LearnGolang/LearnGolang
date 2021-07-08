@@ -1711,6 +1711,8 @@
 - [ ] https://github.com/stevenjoezhang/live2d-widget
 - [ ] https://github.com/elastic/beats
 - [ ] https://github.com/sohaha/rosedb
+- [ ] https://github.com/cucumber/godog
+- [ ] https://github.com/dutchcoders/transfer.sh
 
 ## 0x05-Golang安全
 
@@ -2731,6 +2733,7 @@
 - [ ] https://github.com/msfidelis/kafka-stress
 - [ ] https://github.com/s-rah/onionscan
 - [ ] https://github.com/projectdiscovery/cloudlist
+- [ ] https://github.com/seventh-letter/DictGenerate
 
 ## 0x06-Golang逆向
 
