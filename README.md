@@ -243,7 +243,10 @@
 七、面试资料
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 
-八、其它资源
+八、培训讲义
+
+九、其它资源
+
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
