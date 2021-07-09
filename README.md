@@ -1997,6 +1997,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/ethicalhackingplayground/erebus
 -  [ ] https://github.com/jweny/pocassist
 -  [ ] https://github.com/CobaltZirs0n/RunExploit
 -  [ ] https://github.com/inbug-team/InScan
@@ -2463,10 +2464,12 @@
 - [ ] https://github.com/RedMapleTech/machodump
 - [ ] https://github.com/H21lab/gnbsim
 - [ ] https://github.com/shogo82148/androidbinary
+- [ ] https://github.com/aktsk/apk-medit
 - iOS
 - [ ] https://github.com/hcninja/ipanema
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/blacktop/ipsw
+- [ ] https://github.com/aktsk/ipa-medit
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
