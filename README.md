@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -97,6 +97,7 @@
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
 - [ ] [《365天深入理解Go语言》](https://github.com/0e0w/365Golang)@0e0w
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
+- [ ] [《Go语言精进之路》](https://github.com/golang-minibear2333/golang)@程序员小熊
 - [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
 - [ ] [《Golang从入门到跑路》](https://github.com/jiujuan/go-collection)
 - [ ] [《Go语言之旅》](https://github.com/Go-zh/tour)@Go-zh
@@ -1047,6 +1048,8 @@
 - [ ] https://github.com/pquerna/otp
 - [ ] https://github.com/d5/tengo
 - [ ] https://github.com/bodgit/sevenzip
+- [ ] https://github.com/jondot/goweight
+- [ ] https://github.com/PureWhiteWu/fastrand
 
 ## 0x04-Golang项目
 
@@ -1713,6 +1716,8 @@
 - [ ] https://github.com/sohaha/rosedb
 - [ ] https://github.com/cucumber/godog
 - [ ] https://github.com/dutchcoders/transfer.sh
+- [ ] https://github.com/alice-lg/alice-lg
+- [ ] https://github.com/influxdata/tdigest
 
 ## 0x05-Golang安全
 
@@ -2013,7 +2018,6 @@
 -  [ ] https://github.com/TeraSecTeam/ary
 -  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/thunderbarca/Noah
--  [ ] https://github.com/jm33-m0/emp3r0r
 -  [ ] https://github.com/wgpsec/AstaGo
 -  [ ] https://github.com/blackcrw/wprecon
 -  [ ] https://github.com/cyal1/host_scan
@@ -2381,6 +2385,7 @@
 - [ ] https://github.com/WAY29/ptg
 - [ ] https://github.com/Wd0g/GoShell
 - [ ] https://github.com/lanrat/allxfr
+- [ ] https://github.com/jm33-m0/emp3r0r
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
@@ -2439,6 +2444,7 @@
 - [ ] https://github.com/Hardw01f/Vulnerability-goapp | Go开发的易受攻击的Web应用程序 | 116
 - [ ] https://github.com/hhatto/gocloc
 - [ ] https://github.com/dengsgo/fileboy | 文件变更监听通知工具 | 361
+- [ ] https://github.com/quay/clair
 
 十三、编码规范
 - [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
@@ -2565,7 +2571,6 @@
 - [ ] https://github.com/edoardottt/pwdsafety
 - [ ] https://github.com/mBouamama/MyJWT
 - [ ] https://github.com/cdk-team/CDK
-- [ ] https://github.com/quay/clair
 - [ ] https://github.com/hahwul/MemBi
 - [ ] https://github.com/zmap/zdns
 - [ ] https://github.com/zmap/zlint
