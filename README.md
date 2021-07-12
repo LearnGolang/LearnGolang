@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月12日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1056,6 +1056,8 @@
 - [ ] https://github.com/jondot/goweight
 - [ ] https://github.com/PureWhiteWu/fastrand
 - [ ] https://github.com/olivia-ai/olivia
+- [ ] https://github.com/ronaksoft/rony
+- [ ] https://github.com/a8m/syncmap
 
 ## 0x04-Golang项目
 
@@ -1370,7 +1372,6 @@
 - [ ] https://github.com/restic/restic
 - [ ] https://github.com/hahwul/gitls
 - [ ] https://github.com/justinas/nosurf
-- [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hashicorp/terraform
 - [ ] https://github.com/russross/blackfriday
 - [ ] https://github.com/hunterhug/gomap
@@ -1496,7 +1497,6 @@
 - [ ] https://github.com/drep-project/DREP-Chain
 - [ ] https://github.com/slok/grafterm
 - [ ] https://github.com/adhocore/fast
-- [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/docuowl/docuowl
 - [ ] https://github.com/hakluke/hakcron
 - [ ] https://github.com/mhchlib/mconfig
@@ -1727,6 +1727,10 @@
 - [ ] https://github.com/influxdata/tdigest
 - [ ] https://github.com/writefreely/writefreely
 - [ ] https://github.com/SmartKeyerror/Psyduck
+- [ ] https://github.com/rverton/wonitor
+- [ ] https://github.com/nikolaydubina/calendarheatmap
+- [ ] https://github.com/signedsecurity/sigs3scann3r
+- [ ] https://github.com/earthly/earthly
 
 ## 0x05-Golang安全
 
@@ -1849,6 +1853,7 @@
 - [ ] https://github.com/signedsecurity/sigsubfind3r
 - [ ] https://github.com/Josue87/AnalyticsRelationships
 - [ ] https://github.com/lanrat/certgraph
+- [ ] https://github.com/Josue87/resolveDomains
 
 二、端口扫描
 -  https://github.com/topics/portscan?l=go
@@ -2269,6 +2274,7 @@
 - [ ] https://github.com/sad0p/d0zer
 - [ ] https://github.com/Binject/binjection
 - [ ] https://github.com/fengziHK/bypass_go
+- [ ] https://github.com/fcre1938/goShellCodeByPassVT
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
@@ -2753,6 +2759,7 @@
 - [ ] https://github.com/projectdiscovery/cloudlist
 - [ ] https://github.com/seventh-letter/DictGenerate
 - [ ] https://github.com/Contrast-Security-OSS/go-test-bench
+- [ ] https://github.com/optiv/Go365
 
 ## 0x06-Golang逆向
 
