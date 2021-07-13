@@ -460,6 +460,7 @@
 - [ ] https://github.com/six-ddc/plow
 - [ ] https://github.com/tsenart/vegeta
 - [ ] https://github.com/buger/goreplay
+- [ ] https://github.com/h2non/gock
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -1058,6 +1059,7 @@
 - [ ] https://github.com/olivia-ai/olivia
 - [ ] https://github.com/ronaksoft/rony
 - [ ] https://github.com/a8m/syncmap
+- [ ] https://github.com/gojuukaze/YTask
 
 ## 0x04-Golang项目
 
@@ -1733,6 +1735,8 @@
 - [ ] https://github.com/earthly/earthly
 - [ ] https://github.com/tidwall/tile38
 - [ ] https://github.com/ahmetb/kubectx
+- [ ] https://github.com/AlkenePan/KAP
+- [ ] https://github.com/ethicalhackingplayground/gocrawler
 
 ## 0x05-Golang安全
 
@@ -2763,6 +2767,7 @@
 - [ ] https://github.com/seventh-letter/DictGenerate
 - [ ] https://github.com/Contrast-Security-OSS/go-test-bench
 - [ ] https://github.com/optiv/Go365
+- [ ] https://github.com/dpu/coremail-address-book
 
 ## 0x06-Golang逆向
 
@@ -2825,6 +2830,7 @@
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
+- [ ] https://github.com/SaturnsVoid/GoBot2
 
 六、其他逆向项目
 - [ ] https://github.com/akavel/rsrc
@@ -2833,6 +2839,7 @@
 - [ ] https://github.com/redcode-labs/Neurax
 - [ ] https://github.com/zhangyoufu/lumina
 - [ ] https://github.com/boy-hack/go-strip
+- [ ] https://github.com/jondot/goweight
 
 ## 0x07-Golang老师
 
