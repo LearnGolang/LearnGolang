@@ -601,6 +601,7 @@
 - [ ] https://github.com/lqs/sqlingo
 - [ ] https://github.com/volatiletech/sqlboiler
 - [ ] https://github.com/didi/gendry
+- [ ] https://github.com/codenotary/immudb
 
 七、协程并发
 - https://github.com/topics/concurrency?l=go
