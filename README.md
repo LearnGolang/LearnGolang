@@ -140,7 +140,7 @@
 - [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
 - [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
-- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
 
 三、算法学习
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
@@ -174,12 +174,13 @@
 
 五、英文资源
 - https://github.com/dariubs/GoBooks
+- [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Practical Go Lessons》](https://www.practical-go-lessons.com)
-- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)
+- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)@Tom Steele
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《Concurrency in Go》]()
@@ -197,10 +198,9 @@
 - [ ] [《Programming in Go》]()
 - [ ] [《Hands On Go Programming》](https://github.com/PacktPublishing/Hands-On-Go-Programming)
 - [ ] [《Head First Go》]()
-- [ ] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
+- [x] [《Webapps in Go》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 - [ ] [《Learning Go》](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/)
 - [ ] [《Learning Go Programming》]()
-- [x] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《Network Programming With Go》](https://nostarch.com/networkprogrammingwithgo)
 - [ ] [《Introducing Go》]()
 - [x] [《The Ultimate Go Notebook》](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg)
@@ -223,10 +223,9 @@
 - [ ] [《Nonsequential and Distributed Programming with Go》]()
 - [ ] [《101+ coding interview problems in Go》](https://github.com/hoanhan101/algo)
 - [ ] [《Ultimate Go Notebook》](https://education.ardanlabs.com/courses/ultimate-go-notebook)@Kennedy
-- [ ] https://github.com/quii/learn-go-with-tests
-- [ ] https://github.com/hoanhan101/ultimate-go
-- [ ] https://github.com/ardanlabs/gotraining | Go语言培训课程材料 | 9.1k
-- [ ] https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+- [ ] https://github.com/quii/learn-go-with-tests | Learn Go with test-driven development | 14.7k
+- [ ] https://github.com/hoanhan101/ultimate-go | The Ultimate Go Study Guide | 14.3k
+- [ ] https://github.com/ardanlabs/gotraining | Go Training Class Material | 9.1k
 
 六、论坛版块
 - [ ] [Go夜读](https://github.com/talkgo/night)
@@ -245,6 +244,7 @@
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 
 八、培训讲义
+- [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
 
 九、其它资源
 
@@ -295,6 +295,7 @@
 - [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 - [ ] https://github.com/nikolaydubina/go-recipes
 - [ ] https://github.com/dominikh/go-tools
+- [ ] https://github.com/hackstoic/golang-open-source-projects
 
 ## 0x02-Golang标准
 
@@ -1069,7 +1070,6 @@
 ## 0x04-Golang项目
 
 - https://github.com/trending/go
-- https://github.com/topics/tool?l=go
 - https://github.com/trending/go?since=daily
 - https://github.com/trending/go?since=weekly
 - https://github.com/trending/go?since=monthly
@@ -1735,7 +1735,6 @@
 - [ ] https://github.com/rverton/wonitor
 - [ ] https://github.com/nikolaydubina/calendarheatmap
 - [ ] https://github.com/signedsecurity/sigs3scann3r
-- [ ] https://github.com/earthly/earthly
 - [ ] https://github.com/tidwall/tile38
 - [ ] https://github.com/ahmetb/kubectx
 - [ ] https://github.com/AlkenePan/KAP
@@ -1746,6 +1745,7 @@
 
 ## 0x05-Golang安全
 
+-  https://github.com/topics/tool?l=go
 -  https://github.com/topics/poc?l=go
 -  https://github.com/topics/cve?l=go
 -  https://github.com/topics/recon?l=go
@@ -1756,9 +1756,9 @@
 -  https://github.com/topics/reconnaissance?l=go
 -  https://github.com/topics/information-gathering?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/parsiya/Hacking-with-Go
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/tomnomnom/hacks
+- [ ] https://github.com/parsiya/Hacking-with-Go
 - [ ] https://github.com/AV1080p/Hacking-With-Golang
 - [ ] https://github.com/dreddsa5dies/goHackTools
 - [ ] https://github.com/dreddsa5dies/hackerrankGo
@@ -1965,16 +1965,15 @@
 
 三、资产扫描
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
-- [ ] https://github.com/broken5/bscan
-- [ ] https://github.com/ShiHuang-ESec/EHole
-- [ ] https://github.com/EdgeSecurityTeam/EHole
+- [ ] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
+- [ ] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
-- [ ] https://github.com/zsdevX/DarkEye
+- [ ] https://github.com/zsdevX/DarkEye | 渗透测试情报收集工具 | 600
+- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
 - [ ] https://github.com/yl2chen/cidranger
 - [ ] https://github.com/timwhitez/Doge-AliveCheck
 - [ ] https://github.com/TardC/fofadump
-- [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
 - [ ] https://github.com/i11us0ry/tool-iFofa
 
 四、漏洞扫描
@@ -2127,7 +2126,7 @@
 -  https://github.com/topics/webscan?l=go
 - [ ] https://github.com/l2-team/cmsfingers
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
-- [ ] https://github.com/adamtlangley/ffufme
+- [ ] https://github.com/adamtlangley/ffufme | ffuf 的目标练习 | 23
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
 - [ ] https://github.com/1c3z/fileleak | 又一款文件泄露检测工具 | 33
@@ -2204,6 +2203,7 @@
 - [ ] https://github.com/kleiton0x00/ppmap
 
 八、病毒免杀
+- https://github.com/topics/shellcode?l=go
 - https://github.com/search?l=Go&q=shellcode
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
