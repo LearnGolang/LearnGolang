@@ -44,7 +44,7 @@
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#80%
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#90%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
@@ -117,8 +117,12 @@
 - [ ] [《go-perfbook》](https://github.com/dgryski/go-perfbook)
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
+- [ ] [《Go语言筑基》](https://github.com/aixgl/gobook)@aixgl
 
 二、视频教程
+- [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
+- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
+- [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
 - [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
@@ -127,15 +131,12 @@
 - [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马
 - [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
 - [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
-- [x] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
 - [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
 - [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
 - [ ] [《Go Web开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
 - [ ] [《21周搞定Go语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
 - [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
 - [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
-- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
-- [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
 - [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
 - [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
@@ -1062,6 +1063,8 @@
 - [ ] https://github.com/a8m/syncmap
 - [ ] https://github.com/gojuukaze/YTask
 - [ ] https://github.com/golangci/golangci-lint
+- [ ] https://github.com/gobwas/ws
+- [ ] https://github.com/casbin/casdoor
 
 ## 0x04-Golang项目
 
@@ -1146,7 +1149,6 @@
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/hashicorp/boundary
 - [ ] https://github.com/ReactiveX/RxGo
-- [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/infinitbyte/gopa
 - [ ] https://github.com/bouk/babelfish
 - [ ] https://github.com/magma/magma
@@ -1418,7 +1420,6 @@
 - [ ] https://github.com/visma-prodsec/confused
 - [ ] https://github.com/grafana/grizzly
 - [ ] https://github.com/chriswalz/bit
-- [ ] https://github.com/cookieY/Yearning
 - [ ] https://github.com/shirou/gopsutil
 - [ ] https://github.com/miguelpragier/handy
 - [ ] https://github.com/evolbioinfo/gotree
