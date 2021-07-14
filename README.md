@@ -334,12 +334,12 @@
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
 - [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
+- [ ] https://github.com/alecthomas/kong
 - [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/charmbracelet/bubbles
 - [ ] https://github.com/charmbracelet/bubbletea
 - [ ] https://github.com/briandowns/spinner
 - [ ] https://github.com/mgutz/ansi
-- [ ] https://github.com/alecthomas/kong
 - [ ] https://github.com/alecthomas/kingpin
 - [ ] https://github.com/msoap/yandex-weather-cli
 - [ ] https://github.com/schachmat/wego
@@ -1061,6 +1061,7 @@
 - [ ] https://github.com/ronaksoft/rony
 - [ ] https://github.com/a8m/syncmap
 - [ ] https://github.com/gojuukaze/YTask
+- [ ] https://github.com/golangci/golangci-lint
 
 ## 0x04-Golang项目
 
@@ -1739,6 +1740,8 @@
 - [ ] https://github.com/AlkenePan/KAP
 - [ ] https://github.com/ethicalhackingplayground/gocrawler
 - [ ] https://github.com/goplus/gox
+- [ ] https://github.com/cnbattle/douyin
+- [ ] https://github.com/go-playground/validator
 
 ## 0x05-Golang安全
 
@@ -2000,7 +2003,7 @@
 -  [ ] https://github.com/hahwul/mzap |  多目标ZAP扫描 | 42
 -  [ ] https://github.com/0x09AL/go-deliver | Go编写的有效载荷交付工具 | 102
 -  [ ] https://github.com/CosasDePuma/Elliot | 一个在夜间自动执行OSINT流程的框架 | 19
--  [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 200
+-  [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 667
 -  [ ] https://github.com/liamg/gitjacker | git仓库泄漏利用工具 | 1.1k
 -  [ ] https://github.com/leobeosab/sharingan | 进攻性安全侦察工具 | 71
 -  [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 4.2k
@@ -2197,6 +2200,7 @@
 - [ ] https://github.com/gorilla/csrf
 - [ ] https://github.com/R0X4R/ssrf-tool
 - [ ] https://github.com/ethicalhackingplayground/ssrf-tool
+- [ ] https://github.com/kleiton0x00/ppmap
 
 八、病毒免杀
 - https://github.com/search?l=Go&q=shellcode
@@ -2771,6 +2775,10 @@
 - [ ] https://github.com/optiv/Go365
 - [ ] https://github.com/dpu/coremail-address-book
 - [ ] https://github.com/Piosec/Golconda
+- [ ] https://github.com/dean2021/goss
+- [ ] https://github.com/bytedance/Elkeid
+- [ ] https://github.com/canc3s/OXID
+- [ ] https://github.com/go-tk/di
 
 ## 0x06-Golang逆向
 
