@@ -1067,6 +1067,7 @@
 - [ ] https://github.com/golangci/golangci-lint
 - [ ] https://github.com/gobwas/ws
 - [ ] https://github.com/casbin/casdoor
+- [ ] https://github.com/alexzorin/authy
 
 ## 0x04-Golang项目
 
