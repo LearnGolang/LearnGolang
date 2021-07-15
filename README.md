@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月14日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月15日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -402,6 +402,7 @@
 - [ ] https://github.com/liushuochen/gotable
 - [ ] https://github.com/josharian/log10
 - [ ] https://github.com/google/mtail
+- [ ] https://github.com/keakon/golog
 
 三、网络框架
 - HTTP请求响应
@@ -775,6 +776,7 @@
 十七、RPC
 - [ ] https://github.com/smallnest/rpcx
 - [ ] https://github.com/grpc/grpc-go
+- [ ] https://github.com/cloudwego/kitex
 
 十八、图像处理
 - [ ] https://github.com/anthonynsimon/bild
@@ -1062,7 +1064,6 @@
 - [ ] https://github.com/olivia-ai/olivia
 - [ ] https://github.com/ronaksoft/rony
 - [ ] https://github.com/a8m/syncmap
-- [ ] https://github.com/gojuukaze/YTask
 - [ ] https://github.com/golangci/golangci-lint
 - [ ] https://github.com/gobwas/ws
 - [ ] https://github.com/casbin/casdoor
@@ -2492,6 +2493,7 @@
 - [ ] https://github.com/H21lab/gnbsim
 - [ ] https://github.com/shogo82148/androidbinary
 - [ ] https://github.com/aktsk/apk-medit
+- [ ] https://github.com/nicecp/GoIyov
 - iOS
 - [ ] https://github.com/hcninja/ipanema
 - [ ] https://github.com/gofmt/iOSSniffer
@@ -2780,6 +2782,7 @@
 - [ ] https://github.com/bytedance/Elkeid
 - [ ] https://github.com/canc3s/OXID
 - [ ] https://github.com/go-tk/di
+- [ ] https://github.com/leoloobeek/keyring
 
 ## 0x06-Golang逆向
 
