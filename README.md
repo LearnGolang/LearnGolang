@@ -1074,6 +1074,7 @@
 - [ ] https://github.com/yedf/dtm
 - [ ] https://github.com/gookit/validate
 - [ ] https://github.com/gojuno/minimock
+- [ ] https://github.com/Piosec/Golconda
 
 ## 0x04-Golang项目
 
@@ -1750,6 +1751,7 @@
 - [ ] https://github.com/cnbattle/douyin
 - [ ] https://github.com/go-playground/validator
 - [ ] https://github.com/Maka8ka/NGLite
+- [ ] https://github.com/zzfly256/php-linter-go
 
 ## 0x05-Golang安全
 
