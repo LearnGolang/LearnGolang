@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -296,6 +296,7 @@
 - [ ] https://github.com/nikolaydubina/go-recipes
 - [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/hackstoic/golang-open-source-projects
+- [ ] https://github.com/muhammadzakirramadhan/belajar-golang
 
 ## 0x02-Golang标准
 
@@ -464,6 +465,7 @@
 - [ ] https://github.com/tsenart/vegeta
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/h2non/gock
+- [ ] https://github.com/davecheney/httpstat
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -1070,6 +1072,8 @@
 - [ ] https://github.com/casbin/casdoor
 - [ ] https://github.com/alexzorin/authy
 - [ ] https://github.com/yedf/dtm
+- [ ] https://github.com/gookit/validate
+- [ ] https://github.com/gojuno/minimock
 
 ## 0x04-Golang项目
 
@@ -1617,7 +1621,6 @@
 - [ ] https://github.com/bfenetworks/bfe
 - [ ] https://github.com/accurics/terrascan
 - [ ] https://github.com/bits-and-blooms/bloom
-- [ ] https://github.com/zhenghaoz/gorse
 - [ ] https://github.com/fd0/machma
 - [ ] https://github.com/intenthq/anon
 - [ ] https://github.com/nanomsg/mangos
@@ -2788,6 +2791,7 @@
 - [ ] https://github.com/go-tk/di
 - [ ] https://github.com/leoloobeek/keyring
 - [ ] https://github.com/nscuro/trivy
+- [ ] https://github.com/sw33tLie/sns
 
 ## 0x06-Golang逆向
 
