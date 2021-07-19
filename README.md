@@ -1754,6 +1754,7 @@
 - [ ] https://github.com/Maka8ka/NGLite
 - [ ] https://github.com/zzfly256/php-linter-go
 - [ ] https://github.com/restic/restic
+- [ ] https://github.com/samvrlewis/meshboi
 
 ## 0x05-Golang安全
 
@@ -2796,6 +2797,8 @@
 - [ ] https://github.com/leoloobeek/keyring
 - [ ] https://github.com/nscuro/trivy
 - [ ] https://github.com/sw33tLie/sns
+- [ ] https://github.com/njcx/gonlconnector
+- [ ] https://github.com/lkarlslund/adalanche
 
 ## 0x06-Golang逆向
 
