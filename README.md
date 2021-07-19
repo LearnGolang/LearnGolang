@@ -25,27 +25,28 @@
 一、基础书籍
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
-- [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
-- [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%
-- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%
-- [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%
+- [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
+- [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%#
+- [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
+- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#100%#
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
 - [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
+- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [x] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#20%
+- [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
 - [x] [《深入学习Go语言》](https://item.jd.com/12681768.html)@李晓钧
 - [x] [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)@李骁
 - [x] [《Go语言并发之道》](https://item.jd.com/12504386.html)@凯瑟琳
+- [x] [《Go编程时光》](https://github.com/iswbm/GolangCodingTime)@王炳明
 - [ ] [《Go语言编程》](https://item.jd.com/11067810.html)@许式伟
 - [x] [《Go语言核心编程》](https://item.jd.com/12437839.html)@李文塔
 - [ ] [《Go并发编程实战》](https://item.jd.com/12063141.html)@郝林
 - [ ] [《Go并发编程实战》](https://item.jd.com/12712931.html)@汪明
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
-- [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#90%
-- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
@@ -55,7 +56,6 @@
 - [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
-- [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 - [x] [《Go语言入门经典》](https://item.jd.com/13162162.html)@周家安
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
@@ -467,6 +467,7 @@
 - [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/davecheney/httpstat
+- [ ] https://github.com/coyove/goflyway
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
