@@ -1076,6 +1076,7 @@
 - [ ] https://github.com/gookit/validate
 - [ ] https://github.com/gojuno/minimock
 - [ ] https://github.com/Piosec/Golconda
+- [ ] https://github.com/txn2/txeh
 
 ## 0x04-Golang项目
 
@@ -1755,6 +1756,8 @@
 - [ ] https://github.com/zzfly256/php-linter-go
 - [ ] https://github.com/restic/restic
 - [ ] https://github.com/samvrlewis/meshboi
+- [ ] https://github.com/hr3lxphr6j/bililive-go
+- [ ] https://github.com/amacneil/dbmate
 
 ## 0x05-Golang安全
 
