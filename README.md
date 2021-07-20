@@ -514,6 +514,7 @@
 - [ ] https://github.com/bytedance/sonic | 一个极快的 JSON 序列化和反序列化库 | 291
 - [ ] https://github.com/artyom/json2yaml
 - [ ] https://github.com/goccy/go-json
+- [ ] https://github.com/tailscale/hujson
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1759,6 +1760,7 @@
 - [ ] https://github.com/hr3lxphr6j/bililive-go
 - [ ] https://github.com/amacneil/dbmate
 - [ ] https://github.com/tinode/chat
+- [ ] https://github.com/TruthHun/DocHub
 
 ## 0x05-Golang安全
 
