@@ -1891,6 +1891,7 @@
 -  https://github.com/topics/ip-scanner?l=go
 -  https://github.com/topics/port-scanner?l=go
 -  https://github.com/topics/network-scanner?l=go
+-  https://github.com/malfunkt/iprange | 解析IP地址列表 | 38
 -  [ ] https://github.com/1ndianl33t/urlprobe
 -  [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 -  [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及title 收集工具 | 4
@@ -1900,6 +1901,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/chinacase/portScan
 -  [ ] https://github.com/bufsnake/Monkey
 -  [ ] https://github.com/abrander/pnmap
 -  [ ] https://github.com/v-byte-cpu/sx
@@ -2036,6 +2038,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/inbug-team/InCloud
 -  [ ] https://github.com/ethicalhackingplayground/erebus
 -  [ ] https://github.com/jweny/pocassist
 -  [ ] https://github.com/CobaltZirs0n/RunExploit
@@ -2092,6 +2095,7 @@
 -  [ ] https://github.com/brittonhayes/pillager
 -  [ ] https://github.com/SECFORCE/sparta
 -  [ ] https://github.com/YE-Kits/hunter
+-  [ ] https://github.com/veo/vscan
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
