@@ -1079,6 +1079,7 @@
 - [ ] https://github.com/gojuno/minimock
 - [ ] https://github.com/Piosec/Golconda
 - [ ] https://github.com/txn2/txeh
+- [ ] https://github.com/hahwul/volt
 
 ## 0x04-Golang项目
 
@@ -2313,6 +2314,7 @@
 - [ ] https://github.com/Binject/binjection
 - [ ] https://github.com/fengziHK/bypass_go
 - [ ] https://github.com/fcre1938/goShellCodeByPassVT
+- [ ] https://github.com/Maka8ka/Faygo
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
