@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月21日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月22日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -644,6 +644,8 @@
 - [ ] https://github.com/jiajunhuang/gotasks
 - [ ] https://github.com/LyricTian/queue
 - [ ] https://github.com/go-task/task
+- [ ] https://github.com/asaskevich/EventBus
+- [ ] https://github.com/uber-go/ratelimit
 
 八、错误处理
 - [ ] https://github.com/ducc/egg
@@ -758,6 +760,7 @@
 - [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://github.com/confetti-framework/confetti
 - [ ] https://github.com/smallnest/go-web-framework-benchmark
+- [ ] https://github.com/qifengzhang007/GinSkeleton
 
 十三、爬虫框架
 - [ ] https://github.com/gocolly/colly
@@ -1080,6 +1083,7 @@
 - [ ] https://github.com/Piosec/Golconda
 - [ ] https://github.com/txn2/txeh
 - [ ] https://github.com/hahwul/volt
+- [ ] https://github.com/CobaltZirs0n/gopackage
 
 ## 0x04-Golang项目
 
@@ -1656,7 +1660,6 @@
 - [ ] https://github.com/containerd/nerdctl
 - [ ] https://github.com/Helcaraxan/gomod
 - [ ] https://github.com/gwuhaolin/livego
-- [ ] https://github.com/rancher/rancher
 - [ ] https://github.com/twpayne/chezmoi
 - [ ] https://github.com/hyfather/pipeline
 - [ ] https://github.com/bp0lr/gauplus
@@ -1764,6 +1767,7 @@
 - [ ] https://github.com/tinode/chat
 - [ ] https://github.com/TruthHun/DocHub
 - [ ] https://github.com/hashicorp/hcl
+- [ ] https://github.com/halturin/ergo
 
 ## 0x05-Golang安全
 
@@ -1986,6 +1990,7 @@
 -  [ ] https://github.com/marpie/nmap2json
 -  [ ] https://github.com/charles-d-burton/scandalorian
 -  [ ] https://github.com/schmalle/nmaputil
+-  [ ] https://github.com/zyxpaomian/go-fping
 
 三、资产扫描
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
@@ -2417,12 +2422,13 @@
 -  [ ] https://github.com/net-byte/vtun
 -  [ ] https://github.com/elazarl/goproxy
 -  [ ] https://github.com/jafarlihi/rconn
--  [ ] https://github.com/Daybr4ak/C2ReverseProxy
--  [ ] https://github.com/NMTech0x90/port_tunnel
 -  [ ] https://github.com/mosn/mosn
 -  [ ] https://github.com/Li4n0/revsuit
--  [ ] https://github.com/mmatczuk/go-http-tunnel
 -  [ ] https://github.com/njcx/gocmd
+-  [ ] https://github.com/Daybr4ak/C2ReverseProxy
+-  [ ] https://github.com/NMTech0x90/port_tunnel
+-  [ ] https://github.com/mmatczuk/go-http-tunnel
+-  [ ] https://github.com/codeHauler-1/NetProxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2806,7 +2812,6 @@
 - [ ] https://github.com/dpu/coremail-address-book
 - [ ] https://github.com/Piosec/Golconda
 - [ ] https://github.com/dean2021/goss
-- [ ] https://github.com/bytedance/Elkeid
 - [ ] https://github.com/canc3s/OXID
 - [ ] https://github.com/go-tk/di
 - [ ] https://github.com/leoloobeek/keyring
