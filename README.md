@@ -2821,6 +2821,7 @@
 - [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/j3ssie/goverview
 - [ ] https://github.com/JKme/cube
+- [ ] https://github.com/robinson/gos7
 
 ## 0x06-Golang逆向
 
