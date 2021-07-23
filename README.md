@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月22日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月23日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -521,6 +521,7 @@
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
 - [ ] https://github.com/go-yaml/yaml
+- [ ] https://github.com/go-yaml/yaml/tree/v3
 - [ ] https://github.com/kylelemons/go-gypsy
 - [ ] https://github.com/ghodss/yaml
 - [ ] https://github.com/bronze1man/yaml2json
@@ -906,7 +907,6 @@
 - [ ] https://github.com/gavv/httpexpect
 - [ ] https://github.com/vyrus001/msflib
 - [ ] https://github.com/prometheus/prometheus
-- [ ] https://github.com/go-yaml/yaml/tree/v3
 - [ ] https://github.com/labulaka521/crocodile
 - [ ] https://github.com/hidez8891/shm
 - [ ] https://github.com/asaskevich/govalidator
