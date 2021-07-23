@@ -562,10 +562,18 @@
 - [ ] https://github.com/unidoc/unioffice
 - [ ] https://github.com/sajari/word2vec
 - [ ] https://github.com/mattn/docx2md
+- PDF文件
+- [ ] https://github.com/pdfcpu/pdfcpu
+- [ ] https://github.com/mikeshimura/goreport
+- [ ] https://github.com/jung-kurt/gofpdf
+- [ ] https://github.com/signintech/gopdf
+- [ ] https://github.com/unidoc/unipdf
+- [ ] https://github.com/thecodingmachine/gotenberg
 - HTML文件
 - [ ] https://github.com/jaytaylor/html2text
 - [ ] https://github.com/yosssi/ace
 - Others
+- [ ] https://github.com/sajari/docconv
 
 六、数据处理
 - MySQL
@@ -1084,6 +1092,7 @@
 - [ ] https://github.com/txn2/txeh
 - [ ] https://github.com/hahwul/volt
 - [ ] https://github.com/CobaltZirs0n/gopackage
+- [ ] https://github.com/douyu/jupiter
 
 ## 0x04-Golang项目
 
@@ -1182,7 +1191,6 @@
 - [ ] https://gitee.com/ipvb/baligo
 - [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/gomods/athens
-- [ ] https://github.com/Buzz2d0/Hyuga
 - [ ] https://github.com/Shpota/goxygen
 - [ ] https://github.com/robertkrimen/otto
 - [ ] https://github.com/fzipp/gocyclo
@@ -1910,6 +1918,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/i11us0ry/goon
 -  [ ] https://github.com/chinacase/portScan
 -  [ ] https://github.com/bufsnake/Monkey
 -  [ ] https://github.com/abrander/pnmap
@@ -2793,7 +2802,6 @@
 - [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/sonatype-nexus-community/nancy
 - [ ] https://github.com/CTF-MissFeng/report
-- [ ] https://github.com/i11us0ry/goon
 - [ ] https://github.com/Static-Flow/BurpSuiteTeamServer
 - [ ] https://github.com/Nikait/GoRAT
 - [ ] https://github.com/Ullaakut/camerattack
