@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月25日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -469,6 +469,7 @@
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/davecheney/httpstat
 - [ ] https://github.com/coyove/goflyway
+- [ ] https://github.com/DarthPestilane/easytcp
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -1092,6 +1093,8 @@
 - [ ] https://github.com/hahwul/volt
 - [ ] https://github.com/CobaltZirs0n/gopackage
 - [ ] https://github.com/douyu/jupiter
+- [ ] https://github.com/robfig/cron
+- [ ] https://github.com/charmbracelet/harmonica
 
 ## 0x04-Golang项目
 
@@ -1777,6 +1780,8 @@
 - [ ] https://github.com/txthinking/nami
 - [ ] https://github.com/cilium/hubble
 - [ ] https://github.com/icexin/eggos
+- [ ] https://github.com/Helcaraxan/gomod
+- [ ] https://github.com/kubernetes-sigs/krew
 
 ## 0x05-Golang安全
 
@@ -2441,6 +2446,7 @@
 -  [ ] https://github.com/mmatczuk/go-http-tunnel
 -  [ ] https://github.com/codeHauler-1/NetProxy
 -  [ ] https://github.com/txthinking/ipio
+-  [ ] https://github.com/jafarlihi/rconn
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2829,10 +2835,10 @@
 - [ ] https://github.com/nscuro/trivy
 - [ ] https://github.com/sw33tLie/sns
 - [ ] https://github.com/njcx/gonlconnector
-- [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/j3ssie/goverview
 - [ ] https://github.com/JKme/cube
 - [ ] https://github.com/robinson/gos7
+- [ ] https://github.com/TeaOSLab/EdgeAdmin
 
 ## 0x06-Golang逆向
 
