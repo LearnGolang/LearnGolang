@@ -2485,6 +2485,7 @@
 - [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/CMatri/MeetC2
 - [ ] https://github.com/Li4n0/revsuit
+- [ ] https://github.com/sensepost/godoh
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
@@ -2857,6 +2858,7 @@
 - [ ] https://github.com/robinson/gos7
 - [ ] https://github.com/TeaOSLab/EdgeAdmin
 - [ ] https://github.com/0xbug/biu-cli
+- [ ] https://github.com/blacktop/x86-cgo
 
 ## 0x06-Golang逆向
 
