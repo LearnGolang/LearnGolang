@@ -1099,6 +1099,7 @@
 - [ ] https://github.com/hashicorp/go-bexpr
 - [ ] https://github.com/erda-project/erda-infra
 - [ ] https://github.com/a-urth/go-bindata
+- [ ] https://github.com/fcharlie/buna
 
 ## 0x04-Golang项目
 
@@ -1193,7 +1194,6 @@
 - [ ] https://github.com/zu1k/nali
 - [ ] https://github.com/moby/moby
 - [ ] https://github.com/kevinburke/go-bindata
-- [ ] https://github.com/gobuffalo/packr
 - [ ] https://gitee.com/ipvb/baligo
 - [ ] https://github.com/balibuild/bali
 - [ ] https://github.com/gomods/athens
@@ -2292,36 +2292,17 @@
 - [ ] https://github.com/saulpanders/payloadTests | 各种shellcode注入技术的PoC | 1
 - [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection | golang反射DLL注入 | 28
 - [ ] https://github.com/timwhitez/Doge-Assembly | 优秀的免杀软件 | 62
-- [ ] https://github.com/redcode-labs/SNOWCRASH
-- [ ] https://github.com/EatonChips/dllogram
+- [ ] https://github.com/redcode-labs/SNOWCRASH | 多语言有效载荷生成器 | 202
+- [ ] https://github.com/EatonChips/dllogram | 生成指定shellcode的exe或dll | 3
 - [ ] https://github.com/TRYblog/des.hex-encodefile | 随机deskey和hex加密shellcode | 2
-- [ ] https://github.com/EgeBalci/amber
-- [ ] https://github.com/rluisr/coolink
-- [ ] https://github.com/MonaxGT/ProxyImperva
-- [ ] https://github.com/vyrus001/shellGo
+- [ ] https://github.com/vyrus001/shellGo| Go语言编写的shellcode 测试器 | 51
 - [ ] https://github.com/pench3r/Golang-Shellcode-Loader | 远程网址执行shellcode | 11
-- [ ] https://github.com/timwhitez/go-shellcode-launcher
-- [ ] https://github.com/jamesbcook/shellcode-launcher
-- [ ] https://github.com/s1egesystems/GoProcessInject0r
-- [ ] https://github.com/mumu0215/golang-shellcode-loader
-- [ ] https://github.com/vyrus001/needle
-- [ ] https://github.com/theRealestAEP/GoLang
-- [ ] https://github.com/cephurs/GOback
-- [ ] https://github.com/mjwhitta/runsc
-- [ ] https://github.com/mu0gua/shellcode-remote-aes
-- [ ] https://github.com/listinvest/undonut
-- [ ] https://github.com/wahyuhadi/shellcode-aes
-- [ ] https://github.com/hcninja/scfmt
-- [ ] https://github.com/HildeTeamTNT/go-shellcode
-- [ ] https://github.com/wahyuhadi/kurawa
-- [ ] https://github.com/grantseltzer/goverlayfs
 - [ ] https://github.com/listinvest/runCLI | 使用各种方法在命令行中运行 shellcode | 0
-- [ ] https://github.com/TRYblog/go-shellcode-webimg-load
-- [ ] https://github.com/metaStor/Bypass_Go
-- [ ] https://github.com/mumu0215/dupe
+- [ ] https://github.com/TRYblog/go-shellcode-webimg-load | 图片隐写的远程shellcode加载器 | 26
+- [ ] https://github.com/metaStor/Bypass_Go | 分离免杀思想改造 | 14
+- [ ] https://github.com/gobuffalo/packr
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/mirtchovski/clamav
-- [ ] https://github.com/mattermost/mattermost-plugin-antivirus
 - [ ] https://github.com/saferwall/saferwall
 - [ ] https://github.com/diljith369/AVDeceiver
 - [ ] https://github.com/heikipikker/HERCULES
@@ -2338,11 +2319,6 @@
 - [ ] https://github.com/audibleblink/xordump
 - [ ] https://github.com/darkb1rd/DarkGld
 - [ ] https://github.com/sad0p/d0zer
-- [ ] https://github.com/Binject/binjection
-- [ ] https://github.com/fengziHK/bypass_go
-- [ ] https://github.com/fcre1938/goShellCodeByPassVT
-- [ ] https://github.com/Maka8ka/Faygo
-- [ ] https://github.com/malware-unicorn/GoPEInjection
 - [ ] https://github.com/Binject/shellcode
 - [ ] https://github.com/mukesh-610/loki-client
 - [ ] https://github.com/Mulvun/G0-Pr0cess-Inject0r
@@ -2351,7 +2327,32 @@
 - [ ] https://github.com/wahyuhadi/beacon-c2-go
 - [ ] https://github.com/BelodedAleksey/win_hack
 - [ ] https://github.com/BelodedAleksey/DLL_Injection
+- [ ] https://github.com/Binject/binjection
+- [ ] https://github.com/fengziHK/bypass_go
+- [ ] https://github.com/fcre1938/goShellCodeByPassVT
+- [ ] https://github.com/Maka8ka/Faygo
+- [ ] https://github.com/malware-unicorn/GoPEInjection
+- [ ] https://github.com/mattermost/mattermost-plugin-antivirus
 - [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
+- [ ] https://github.com/EgeBalci/amber
+- [ ] https://github.com/rluisr/coolink
+- [ ] https://github.com/MonaxGT/ProxyImperva
+- [ ] https://github.com/jamesbcook/shellcode-launcher
+- [ ] https://github.com/s1egesystems/GoProcessInject0r
+- [ ] https://github.com/mumu0215/golang-shellcode-loader
+- [ ] https://github.com/vyrus001/needle
+- [ ] https://github.com/theRealestAEP/GoLang
+- [ ] https://github.com/cephurs/GOback
+- [ ] https://github.com/mjwhitta/runsc
+- [ ] https://github.com/mu0gua/shellcode-remote-aes
+- [ ] https://github.com/TheWover/donut
+- [ ] https://github.com/listinvest/undonut
+- [ ] https://github.com/wahyuhadi/shellcode-aes
+- [ ] https://github.com/hcninja/scfmt
+- [ ] https://github.com/HildeTeamTNT/go-shellcode
+- [ ] https://github.com/wahyuhadi/kurawa
+- [ ] https://github.com/grantseltzer/goverlayfs
+- [ ] https://github.com/mumu0215/dupe
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
