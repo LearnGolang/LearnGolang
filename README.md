@@ -1098,6 +1098,7 @@
 - [ ] https://github.com/charmbracelet/harmonica
 - [ ] https://github.com/hashicorp/go-bexpr
 - [ ] https://github.com/erda-project/erda-infra
+- [ ] https://github.com/a-urth/go-bindata
 
 ## 0x04-Golang项目
 
@@ -2255,52 +2256,52 @@
 - [ ] https://github.com/kleiton0x00/ppmap
 
 八、病毒免杀
+
 - https://github.com/topics/shellcode?l=go
 - https://github.com/search?l=Go&q=shellcode
-- [ ] https://github.com/EgeBalci/sgn
+- https://github.com/search?l=Go&q=bypass
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
-- [ ] https://github.com/An0ny-m0us/DesertFox
-- [ ] https://github.com/wonderkun/go-packer
-- [ ] https://github.com/timwhitez/Doge-sRDI
-- [ ] https://github.com/EgeBalci/HERCULES
-- [ ] https://github.com/petercunha/GoAT
-- [ ] https://github.com/brimstone/go-shellcode
-- [ ] https://github.com/ryhanson/phishery
-- [ ] https://github.com/tanc7/EXOCET-AV-Evasion
-- [ ] https://github.com/0x9ef/golang-uacbypasser
-- [ ] https://github.com/timwhitez/Doge-Loader
-- [ ] https://github.com/Binject/shellcode
-- [ ] https://github.com/D00MFist/Go4aRun
-- [ ] https://github.com/EddieIvan01/gld
-- [ ] https://github.com/Ne0nd0g/go-shellcode
-- [ ] https://github.com/hack2fun/BypassAV
-- [ ] https://github.com/pureqh/bypassAV
-- [ ] https://github.com/Binject/backdoorfactory
-- [ ] https://github.com/hack2fun/EventLogBypass
-- [ ] https://github.com/wahyuhadi/beacon-c2-go
-- [ ] https://github.com/optiv/ScareCrow
-- [ ] https://github.com/sh4hin/GoPurple
-- [ ] https://github.com/Hangingsword/HouQing
-- [ ] https://github.com/insightglacier/go_meterpreter
-- [ ] https://github.com/BelodedAleksey/win_hack
-- [ ] https://github.com/BelodedAleksey/DLL_Injection
-- [ ] https://github.com/saulpanders/payloadTests
-- [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection
-- [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
+- [ ] https://github.com/Maka8ka/ShellGoder | GoLang Shellcode Loder | 1
+- [ ] https://github.com/An0ny-m0us/DesertFox | 远程文件分离免杀 | 30
+- [ ] https://github.com/wonderkun/go-packer | golang打包二进制进行免杀 | 159
+- [ ] https://github.com/timwhitez/Doge-sRDI | Go反射DLL注入的Shellcode实现 | 24
+- [ ] https://github.com/EgeBalci/HERCULES | 一种特殊的有效载荷生成器 | 540
+- [ ] https://github.com/petercunha/GoAT | 使用 Twitter 作为 C&C 服务器的木马 | 231
+- [ ] https://github.com/brimstone/go-shellcode | 将 shellcode 加载到新进程中 | 543
+- [ ] https://github.com/tanc7/EXOCET-AV-Evasion | 一种加密类型的恶意软件植入程序 | 27
+- [ ] https://github.com/0x9ef/golang-uacbypasser | 用 Go 实现和编写的 UAC 绕过技术 | 91
+- [ ] https://github.com/timwhitez/Doge-Loader | Go语言写的的Shellcode加载器 | 207
+- [ ] https://github.com/D00MFist/Go4aRun | Go写的Shellcode运行程序 | 166
+- [x] https://github.com/EddieIvan01/gld | Go shellcode 加载器 | 119
+- [x] https://github.com/bigb0sss/Bankai | 另一个 Go Shellcode 加载器 | 42
+- [ ] https://github.com/wei930630/go-shellcode-launcher | shellcode本地加载器 | 1
+- [ ] https://github.com/Lmg66/shellcodeloading | shellcode加载器 golang 分离免杀 | 4
+- [x] https://github.com/Print1n/go-shellcode | AES和Base64和绕过杀毒 | 3
+- [ ] https://github.com/Esonhugh/goShellcodeLoader | go语言下的 shellcode 加载工具 | 2
+- [ ] https://github.com/Ne0nd0g/go-shellcode | 使用API 调用加载和执行Shellcode | 427
+- [ ] https://github.com/hack2fun/BypassAV | CS插件，快速生成免杀的可执行文件 | 514
+- [ ] https://github.com/pureqh/bypassAV | 免杀shellcode加载器 | 264
+- [ ] https://github.com/Binject/backdoorfactory | 将 shellcode 插入到二进制文件中 | 264
+- [ ] https://github.com/optiv/ScareCrow | 围绕 EDR 绕过设计的有效负载创建框架 | 1.1k
+- [ ] https://github.com/sh4hin/GoPurple | 各种shellcode注入技术的简单集合 | 251
+- [ ] https://github.com/Hangingsword/HouQing | 用于快速生成免杀的EXE可执行文件 | 30
+- [ ] https://github.com/insightglacier/go_meterpreter | Golang实现的x86下的Meterpreter | 29
+- [ ] https://github.com/yoda66/GoShellcode | shellcode执行程序 | 43
+- [ ] https://github.com/saulpanders/payloadTests | 各种shellcode注入技术的PoC | 1
+- [ ] https://github.com/qiushifengyu/golang-ReflectiveDLLInjection | golang反射DLL注入 | 28
 - [ ] https://github.com/timwhitez/Doge-Assembly
 - [ ] https://github.com/redcode-labs/SNOWCRASH
 - [ ] https://github.com/EatonChips/dllogram
-- [ ] https://github.com/TRYblog/des.hex-encodefile
+- [ ] https://github.com/TRYblog/des.hex-encodefile | 随机deskey和hex加密shellcode | 2
 - [ ] https://github.com/EgeBalci/amber
-- [ ] https://github.com/e3prom/ruse
 - [ ] https://github.com/rluisr/coolink
 - [ ] https://github.com/MonaxGT/ProxyImperva
 - [ ] https://github.com/vyrus001/shellGo
+- [ ] https://github.com/pench3r/Golang-Shellcode-Loader | 远程网址执行shellcode | 11
 - [ ] https://github.com/timwhitez/go-shellcode-launcher
 - [ ] https://github.com/jamesbcook/shellcode-launcher
-- [ ] https://github.com/pench3r/Golang-Shellcode-Loader
 - [ ] https://github.com/s1egesystems/GoProcessInject0r
 - [ ] https://github.com/mumu0215/golang-shellcode-loader
 - [ ] https://github.com/vyrus001/needle
@@ -2314,10 +2315,11 @@
 - [ ] https://github.com/HildeTeamTNT/go-shellcode
 - [ ] https://github.com/wahyuhadi/kurawa
 - [ ] https://github.com/grantseltzer/goverlayfs
-- [ ] https://github.com/listinvest/runCLI
-- [ ] https://github.com/Mulvun/G0-Pr0cess-Inject0r
+- [ ] https://github.com/listinvest/runCLI | 使用各种方法在命令行中运行 shellcode | 0
+- [ ] https://github.com/TRYblog/go-shellcode-webimg-load
 - [ ] https://github.com/metaStor/Bypass_Go
 - [ ] https://github.com/mumu0215/dupe
+- [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/mirtchovski/clamav
 - [ ] https://github.com/mattermost/mattermost-plugin-antivirus
 - [ ] https://github.com/saferwall/saferwall
@@ -2335,13 +2337,21 @@
 - [ ] https://github.com/ffuf/pencode
 - [ ] https://github.com/audibleblink/xordump
 - [ ] https://github.com/darkb1rd/DarkGld
-- [ ] https://github.com/bigb0sss/Bankai
 - [ ] https://github.com/sad0p/d0zer
 - [ ] https://github.com/Binject/binjection
 - [ ] https://github.com/fengziHK/bypass_go
 - [ ] https://github.com/fcre1938/goShellCodeByPassVT
 - [ ] https://github.com/Maka8ka/Faygo
 - [ ] https://github.com/malware-unicorn/GoPEInjection
+- [ ] https://github.com/Binject/shellcode
+- [ ] https://github.com/mukesh-610/loki-client
+- [ ] https://github.com/Mulvun/G0-Pr0cess-Inject0r
+- [ ] https://github.com/ryhanson/phishery
+- [ ] https://github.com/hack2fun/EventLogBypass
+- [ ] https://github.com/wahyuhadi/beacon-c2-go
+- [ ] https://github.com/BelodedAleksey/win_hack
+- [ ] https://github.com/BelodedAleksey/DLL_Injection
+- [ ] https://github.com/mdsecactivebreach/o365-attack-toolkit
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
