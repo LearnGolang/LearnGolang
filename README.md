@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -622,6 +622,7 @@
 - [ ] https://github.com/volatiletech/sqlboiler
 - [ ] https://github.com/didi/gendry
 - [ ] https://github.com/codenotary/immudb
+- [ ] https://github.com/doug-martin/goqu
 
 七、协程并发
 - https://github.com/topics/concurrency?l=go
@@ -1095,6 +1096,8 @@
 - [ ] https://github.com/douyu/jupiter
 - [ ] https://github.com/robfig/cron
 - [ ] https://github.com/charmbracelet/harmonica
+- [ ] https://github.com/hashicorp/go-bexpr
+- [ ] https://github.com/erda-project/erda-infra
 
 ## 0x04-Golang项目
 
@@ -1783,6 +1786,7 @@
 - [ ] https://github.com/kubernetes-sigs/krew
 - [ ] https://github.com/zxhjames/X-spreadsheet-online
 - [ ] https://github.com/nadoo/glider
+- [ ] https://github.com/skanehira/rtty
 
 ## 0x05-Golang安全
 
@@ -2441,7 +2445,6 @@
 -  [ ] https://github.com/elazarl/goproxy
 -  [ ] https://github.com/jafarlihi/rconn
 -  [ ] https://github.com/mosn/mosn
--  [ ] https://github.com/Li4n0/revsuit
 -  [ ] https://github.com/njcx/gocmd
 -  [ ] https://github.com/Daybr4ak/C2ReverseProxy
 -  [ ] https://github.com/NMTech0x90/port_tunnel
@@ -2470,6 +2473,7 @@
 - [ ] https://github.com/lanrat/allxfr
 - [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/CMatri/MeetC2
+- [ ] https://github.com/Li4n0/revsuit
 
 十一、蜜罐钓鱼
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
@@ -2841,6 +2845,7 @@
 - [ ] https://github.com/JKme/cube
 - [ ] https://github.com/robinson/gos7
 - [ ] https://github.com/TeaOSLab/EdgeAdmin
+- [ ] https://github.com/0xbug/biu-cli
 
 ## 0x06-Golang逆向
 
