@@ -2260,6 +2260,7 @@
 - https://github.com/topics/shellcode?l=go
 - https://github.com/search?l=Go&q=shellcode
 - https://github.com/search?l=Go&q=bypass
+- https://github.com/topics/shellcode-loader
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
