@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年7月29日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年7月30日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -298,6 +298,7 @@
 - [ ] https://github.com/hackstoic/golang-open-source-projects
 - [ ] https://github.com/muhammadzakirramadhan/belajar-golang
 - [ ] https://github.com/latermonk/golang-start
+- [ ] https://github.com/TralahM/blackhat-go
 
 ## 0x02-Golang标准
 
@@ -517,6 +518,7 @@
 - [ ] https://github.com/artyom/json2yaml
 - [ ] https://github.com/goccy/go-json
 - [ ] https://github.com/tailscale/hujson
+- [ ] https://github.com/misakafs/json-to-go
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -557,6 +559,7 @@
 - [ ] https://github.com/schollz/pluck
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
+- [ ] https://github.com/qax-os/excelize
 - [ ] https://github.com/360EntSecGroup-Skylar/excelize
 - [ ] https://github.com/foolin/gocsv
 - Word文件
@@ -1100,6 +1103,7 @@
 - [ ] https://github.com/erda-project/erda-infra
 - [ ] https://github.com/a-urth/go-bindata
 - [ ] https://github.com/fcharlie/buna
+- [ ] https://github.com/deluan/bring
 
 ## 0x04-Golang项目
 
@@ -2025,6 +2029,7 @@
 - [ ] https://github.com/TardC/fofadump
 - [ ] https://github.com/i11us0ry/tool-iFofa
 - [ ] https://github.com/inspiringz/fofa
+- [ ] https://github.com/hanc00l/nemo_go
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2569,6 +2574,7 @@
 - [ ] https://github.com/blacktop/ipsw
 - [ ] https://github.com/aktsk/ipa-medit
 - [ ] https://github.com/Vxer-Lee/goiPhonessh
+- [ ] https://github.com/steeve/itool
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
@@ -2860,6 +2866,7 @@
 - [ ] https://github.com/TeaOSLab/EdgeAdmin
 - [ ] https://github.com/0xbug/biu-cli
 - [ ] https://github.com/blacktop/x86-cgo
+- [ ] https://github.com/canc3s/gnc
 
 ## 0x06-Golang逆向
 
