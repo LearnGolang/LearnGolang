@@ -2867,6 +2867,7 @@
 - [ ] https://github.com/0xbug/biu-cli
 - [ ] https://github.com/blacktop/x86-cgo
 - [ ] https://github.com/canc3s/gnc
+- [ ] https://github.com/veo/Hattrick
 
 ## 0x06-Golang逆向
 
