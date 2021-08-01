@@ -299,6 +299,7 @@
 - [ ] https://github.com/muhammadzakirramadhan/belajar-golang
 - [ ] https://github.com/latermonk/golang-start
 - [ ] https://github.com/TralahM/blackhat-go
+- [ ] https://github.com/Tinywan/golang-tutorial
 
 ## 0x02-Golang标准
 
@@ -1104,6 +1105,8 @@
 - [ ] https://github.com/a-urth/go-bindata
 - [ ] https://github.com/fcharlie/buna
 - [ ] https://github.com/deluan/bring
+- [ ] https://github.com/buraksezer/olric
+- [ ] https://github.com/filecoin-project/lotus
 
 ## 0x04-Golang项目
 
@@ -1791,6 +1794,7 @@
 - [ ] https://github.com/zxhjames/X-spreadsheet-online
 - [ ] https://github.com/nadoo/glider
 - [ ] https://github.com/skanehira/rtty
+- [ ] https://github.com/luno/rink
 
 ## 0x05-Golang安全
 
@@ -2569,6 +2573,7 @@
 - [ ] https://github.com/shogo82148/androidbinary
 - [ ] https://github.com/aktsk/apk-medit
 - [ ] https://github.com/nicecp/GoIyov
+- [ ] https://github.com/tailscale/tailscale-android
 - iOS
 - [ ] https://github.com/hcninja/ipanema
 - [ ] https://github.com/gofmt/iOSSniffer
@@ -2871,6 +2876,7 @@
 - [ ] https://github.com/veo/Hattrick
 - [ ] https://github.com/deref/exo
 - [ ] https://github.com/goccmack/gocc
+- [ ] https://github.com/m-mizutani/octovy
 
 ## 0x06-Golang逆向
 
