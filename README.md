@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月2日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -483,6 +483,7 @@
 - [ ] https://github.com/babolivier/go-doh-client
 - [ ] https://github.com/m13253/dns-over-https
 - [ ] https://github.com/mosajjal/dnsmonster
+- [ ] https://github.com/AlfredBerg/dnsline
 
 四、配置文件
 - JSON
@@ -1107,6 +1108,7 @@
 - [ ] https://github.com/deluan/bring
 - [ ] https://github.com/buraksezer/olric
 - [ ] https://github.com/filecoin-project/lotus
+- [ ] https://github.com/alexliesenfeld/health
 
 ## 0x04-Golang项目
 
@@ -1795,6 +1797,9 @@
 - [ ] https://github.com/nadoo/glider
 - [ ] https://github.com/skanehira/rtty
 - [ ] https://github.com/luno/rink
+- [ ] https://github.com/TasosY2K/espresso-bot
+- [ ] https://github.com/yandex/pandora
+- [ ] https://github.com/tidwall/btree
 
 ## 0x05-Golang安全
 
@@ -2137,6 +2142,7 @@
 -  [ ] https://github.com/YE-Kits/hunter
 -  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/coffeehb-org/autoscan
+-  [ ] https://github.com/YanMu2020/SpringScan
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2877,6 +2883,7 @@
 - [ ] https://github.com/deref/exo
 - [ ] https://github.com/goccmack/gocc
 - [ ] https://github.com/m-mizutani/octovy
+- [ ] https://github.com/shawn1m/overture
 
 ## 0x06-Golang逆向
 
