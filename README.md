@@ -2143,6 +2143,7 @@
 -  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/coffeehb-org/autoscan
 -  [ ] https://github.com/YanMu2020/SpringScan
+-  [ ] https://github.com/sairson/FscanX
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2884,6 +2885,7 @@
 - [ ] https://github.com/goccmack/gocc
 - [ ] https://github.com/m-mizutani/octovy
 - [ ] https://github.com/shawn1m/overture
+- [ ] https://github.com/P1kAju/chainsaw
 
 ## 0x06-Golang逆向
 
