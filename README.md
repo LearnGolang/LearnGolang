@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月4日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1799,6 +1799,10 @@
 - [ ] https://github.com/yandex/pandora
 - [ ] https://github.com/tidwall/btree
 - [ ] https://github.com/Dc4ts/ChangeTower
+- [ ] https://github.com/liu-jianhao/chitchat
+- [ ] https://github.com/DataHenHQ/till
+- [ ] https://github.com/alicebob/miniredis
+- [ ] https://github.com/cyberark/secretless-broker
 
 ## 0x05-Golang安全
 
@@ -2847,7 +2851,7 @@
 - [ ] https://github.com/vulsio/go-exploitdb
 - [ ] https://github.com/lkarlslund/adalanche
 - [ ] https://github.com/sonatype-nexus-community/nancy
-- [ ] https://github.com/CTF-MissFeng/report
+- [ ] https://github.com/CTF-MissFeng/report | 乙方渗透测试漏洞报告管理系统 | 104
 - [ ] https://github.com/Static-Flow/BurpSuiteTeamServer
 - [ ] https://github.com/Nikait/GoRAT
 - [ ] https://github.com/Ullaakut/camerattack
@@ -2885,6 +2889,7 @@
 - [ ] https://github.com/m-mizutani/octovy
 - [ ] https://github.com/shawn1m/overture
 - [ ] https://github.com/P1kAju/chainsaw
+- [ ] https://github.com/ctrsploit/ctrsploit
 
 ## 0x06-Golang逆向
 
