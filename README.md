@@ -2553,6 +2553,7 @@
 - [ ] https://github.com/yunginnanet/HellPot
 - [ ] https://github.com/seccome/Ehoney
 - [ ] https://github.com/dutchcoders/troje
+- [ ] https://github.com/decoymini/DecoyMini
 
 十二、代码审计
 - [ ] https://github.com/0c34/govwa
@@ -2893,6 +2894,7 @@
 - [ ] https://github.com/P1kAju/chainsaw
 - [ ] https://github.com/ctrsploit/ctrsploit
 - [ ] https://github.com/reviewdog/reviewdog
+- [ ] https://github.com/i5nipe/nipejs
 
 ## 0x06-Golang逆向
 
