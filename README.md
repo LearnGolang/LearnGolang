@@ -1109,6 +1109,7 @@
 - [ ] https://github.com/filecoin-project/lotus
 - [ ] https://github.com/alexliesenfeld/health
 - [ ] https://github.com/ajstarks/svgo
+- [ ] https://github.com/jeandeaual/go-locale
 
 ## 0x04-Golang项目
 
@@ -1809,6 +1810,7 @@
 - [ ] https://github.com/brewlin/net-protocol
 - [ ] https://github.com/gotranspile/cxgo
 - [ ] https://github.com/aquilax/go-perlin
+- [ ] https://github.com/ICKelin/cframe
 
 ## 0x05-Golang安全
 
