@@ -2383,6 +2383,7 @@
 - [ ] https://github.com/wahyuhadi/kurawa
 - [ ] https://github.com/grantseltzer/goverlayfs
 - [ ] https://github.com/mumu0215/dupe
+- [ ] https://github.com/safe6Sec/GolangBypassAV
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
