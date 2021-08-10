@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月9日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月10日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1111,6 +1111,7 @@
 - [ ] https://github.com/alexliesenfeld/health
 - [ ] https://github.com/ajstarks/svgo
 - [ ] https://github.com/jeandeaual/go-locale
+- [ ] https://github.com/smallnest/chanx
 
 ## 0x04-Golang项目
 
@@ -1812,6 +1813,7 @@
 - [ ] https://github.com/gotranspile/cxgo
 - [ ] https://github.com/aquilax/go-perlin
 - [ ] https://github.com/ICKelin/cframe
+- [ ] https://github.com/denisbrodbeck/machineid
 
 ## 0x05-Golang安全
 
@@ -1890,6 +1892,7 @@
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
 - [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
+- [ ] https://github.com/5l1v3r1/sigsubs
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/0x2E/sf
 - [ ] https://github.com/projectdiscovery/dnsx
@@ -1936,6 +1939,8 @@
 - [ ] https://github.com/Josue87/AnalyticsRelationships
 - [ ] https://github.com/lanrat/certgraph
 - [ ] https://github.com/Josue87/resolveDomains
+- [ ] https://github.com/Josue87/gotator
+- [ ] https://github.com/Un4gi/dirtywords
 
 二、端口扫描
 -  https://github.com/topics/portscan?l=go
@@ -2604,6 +2609,7 @@
 - [ ] https://github.com/aktsk/ipa-medit
 - [ ] https://github.com/Vxer-Lee/goiPhonessh
 - [ ] https://github.com/steeve/itool
+- [ ] https://github.com/togettoyou/super-signature
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
