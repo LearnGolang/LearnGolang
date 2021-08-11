@@ -1113,6 +1113,7 @@
 - [ ] https://github.com/jeandeaual/go-locale
 - [ ] https://github.com/smallnest/chanx
 - [ ] https://github.com/hakluke/haklistgen
+- [ ] https://github.com/complone/blast
 
 ## 0x04-Golang项目
 
