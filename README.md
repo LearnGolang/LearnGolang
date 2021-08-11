@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月11日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1112,6 +1112,7 @@
 - [ ] https://github.com/ajstarks/svgo
 - [ ] https://github.com/jeandeaual/go-locale
 - [ ] https://github.com/smallnest/chanx
+- [ ] https://github.com/hakluke/haklistgen
 
 ## 0x04-Golang项目
 
@@ -2161,6 +2162,8 @@
 -  [ ] https://github.com/YanMu2020/SpringScan
 -  [ ] https://github.com/sairson/FscanX
 -  [ ] https://github.com/vaycore/vaycat
+-  [ ] https://github.com/h4ckdepy/depypocs
+-  [ ] https://github.com/ggg4566/PocStart
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2912,6 +2915,8 @@
 - [ ] https://github.com/reviewdog/reviewdog
 - [ ] https://github.com/i5nipe/nipejs
 - [ ] https://github.com/CMatri/Gotato
+- [ ] https://github.com/awnumar/memguard
+- [ ] https://github.com/capnspacehook/pandorasbox
 
 ## 0x06-Golang逆向
 
