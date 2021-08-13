@@ -1817,6 +1817,7 @@
 - [ ] https://github.com/aquilax/go-perlin
 - [ ] https://github.com/ICKelin/cframe
 - [ ] https://github.com/denisbrodbeck/machineid
+- [ ] https://github.com/hunterhug/go_image
 
 ## 0x05-Golang安全
 
@@ -2505,6 +2506,7 @@
 -  [ ] https://github.com/txthinking/ipio
 -  [ ] https://github.com/jafarlihi/rconn
 -  [ ] https://github.com/duzhi5368/FKGoTrojan
+-  [ ] https://github.com/iiiusky/webrtc-proxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
