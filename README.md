@@ -1116,6 +1116,10 @@
 - [ ] https://github.com/hakluke/haklistgen
 - [ ] https://github.com/complone/blast
 - [ ] https://github.com/fishworks/gofish
+- [ ] https://github.com/shenghui0779/yiigo
+- [ ] https://github.com/complone/blast
+- [ ] https://github.com/adhocore/gronx
+- [ ] https://github.com/lesismal/arpc
 
 ## 0x04-Golang项目
 
@@ -1823,6 +1827,8 @@
 - [ ] https://github.com/carbonblack/binee
 - [ ] https://github.com/volatiletech/authboss
 - [ ] https://github.com/gitsrc/IceFireDB
+- [ ] https://github.com/go-enry/go-enry
+- [ ] https://github.com/segator/jbinary
 
 ## 0x05-Golang安全
 
@@ -2932,6 +2938,7 @@
 - [ ] https://github.com/capnspacehook/pandorasbox
 - [ ] https://github.com/njcx/gomoon
 - [ ] https://github.com/Rvn0xsy/goDomain
+- [ ] https://github.com/timwhitez/doge-getsys
 
 ## 0x06-Golang逆向
 
