@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月16日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月17日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -30,7 +30,7 @@
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%#
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#100%#
-- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#50%
+- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#70%
 - [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
@@ -57,6 +57,7 @@
 - [ ] [《Go语言从入门到进阶实战》](https://item.jd.com/12380444.html)@徐波
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
+- [ ] [《Go语言从基础到中台微服务实战》](https://item.jd.com/13320222.html)@朱著显
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
@@ -1119,6 +1120,7 @@
 - [ ] https://github.com/complone/blast
 - [ ] https://github.com/adhocore/gronx
 - [ ] https://github.com/lesismal/arpc
+- [ ] https://github.com/peterbourgon/ff
 
 ## 0x04-Golang项目
 
@@ -1828,6 +1830,7 @@
 - [ ] https://github.com/gitsrc/IceFireDB
 - [ ] https://github.com/go-enry/go-enry
 - [ ] https://github.com/segator/jbinary
+- [ ] https://github.com/climech/grit
 
 ## 0x05-Golang安全
 
