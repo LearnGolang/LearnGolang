@@ -564,7 +564,6 @@
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/qax-os/excelize
-- [ ] https://github.com/360EntSecGroup-Skylar/excelize
 - [ ] https://github.com/foolin/gocsv
 - Word文件
 - [ ] https://github.com/unidoc/unioffice
@@ -2544,10 +2543,8 @@
 - [ ] https://github.com/Tylous/SourcePoint
 
 十一、蜜罐钓鱼
-
 - 邮件发送
 - 钓鱼模板
-
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
 - [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
 - [ ] https://github.com/hacklcx/HFish
