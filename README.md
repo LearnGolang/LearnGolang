@@ -301,6 +301,7 @@
 - [ ] https://github.com/latermonk/golang-start
 - [ ] https://github.com/TralahM/blackhat-go
 - [ ] https://github.com/Tinywan/golang-tutorial
+- [ ] https://github.com/0voice/Introduction-to-Golang
 
 ## 0x02-Golang标准
 
@@ -1831,6 +1832,7 @@
 - [ ] https://github.com/go-enry/go-enry
 - [ ] https://github.com/segator/jbinary
 - [ ] https://github.com/climech/grit
+- [ ] https://github.com/cnotch/ipchub
 
 ## 0x05-Golang安全
 
@@ -2939,6 +2941,7 @@
 - [ ] https://github.com/njcx/gomoon
 - [ ] https://github.com/Rvn0xsy/goDomain
 - [ ] https://github.com/timwhitez/doge-getsys
+- [ ] https://github.com/EmYiQing/SuperFastjsonScan
 
 ## 0x06-Golang逆向
 
