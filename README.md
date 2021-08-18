@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -324,6 +324,8 @@
 
 ## 0x03-Golang框架
 
+本部分用来记录Go语言中的优秀框架内容，其中也包含少量的成品项目。
+
 - https://pkg.go.dev
 - https://github.com/topics/golang-library
 - https://github.com/topics/framework?l=go
@@ -444,6 +446,7 @@
 - [ ] https://github.com/corpix/uarand | 随机user-agent生成器 | 48
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
+- [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
 - [ ] https://github.com/Albert-Zhan/httpc
 - [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/urfave/negroni
@@ -3043,5 +3046,6 @@
 - https://github.com/tomnomnom
 - https://github.com/evilsocket
 - https://github.com/hashicorp
+- https://github.com/kitabisa
 
 [![Stargazers over time](https://starchart.cc//0e0w/LearnGolang.svg)](https://starchart.cc/0e0w/LearnGolang)
