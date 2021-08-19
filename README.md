@@ -370,6 +370,7 @@
 - [ ] https://github.com/skanehira/remonade
 - [ ] https://github.com/pterm/pterm
 - [ ] https://github.com/sachaos/viddy
+- [ ] https://github.com/desertbit/grumble
 
 二、日志处理
 - https://github.com/topics/log?l=go
@@ -1837,6 +1838,7 @@
 - [ ] https://github.com/segator/jbinary
 - [ ] https://github.com/climech/grit
 - [ ] https://github.com/cnotch/ipchub
+- [ ] https://github.com/praetorian-inc/gokart
 
 ## 0x05-Golang安全
 
@@ -2948,6 +2950,7 @@
 - [ ] https://github.com/timwhitez/doge-getsys
 - [ ] https://github.com/EmYiQing/SuperFastjsonScan
 - [ ] https://github.com/atredispartners/flamingo
+- [ ] https://github.com/0xTeles/jsleak
 
 ## 0x06-Golang逆向
 
