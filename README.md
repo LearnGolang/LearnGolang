@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年8月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年8月19日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -369,6 +369,7 @@
 - [ ] https://github.com/jawher/mow.cli
 - [ ] https://github.com/skanehira/remonade
 - [ ] https://github.com/pterm/pterm
+- [ ] https://github.com/sachaos/viddy
 
 二、日志处理
 - https://github.com/topics/log?l=go
@@ -2413,6 +2414,7 @@
 - [ ] https://github.com/grantseltzer/goverlayfs
 - [ ] https://github.com/mumu0215/dupe
 - [ ] https://github.com/safe6Sec/GolangBypassAV
+- [ ] https://github.com/kira2040k/AVBypass
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
@@ -2422,7 +2424,6 @@
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
--  [ ] https://github.com/Ne0nd0g/merlin
 -  [ ] https://github.com/danielan/lonely-shell
 -  [ ] https://github.com/sysdream/ligolo
 -  [ ] https://github.com/sysdream/hershell
@@ -2549,6 +2550,7 @@
 - [ ] https://github.com/Li4n0/revsuit
 - [ ] https://github.com/sensepost/godoh
 - [ ] https://github.com/Tylous/SourcePoint
+- [ ] https://github.com/Ne0nd0g/merlin
 
 十一、蜜罐钓鱼
 - 邮件发送
@@ -2945,6 +2947,7 @@
 - [ ] https://github.com/Rvn0xsy/goDomain
 - [ ] https://github.com/timwhitez/doge-getsys
 - [ ] https://github.com/EmYiQing/SuperFastjsonScan
+- [ ] https://github.com/atredispartners/flamingo
 
 ## 0x06-Golang逆向
 
