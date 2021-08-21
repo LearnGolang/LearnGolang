@@ -1130,6 +1130,7 @@
 - [ ] https://github.com/peterbourgon/ff
 - [ ] https://github.com/yakuter/ugin
 - [ ] https://github.com/vishvananda/netlink
+- [ ] https://github.com/go-goyave/goyave
 
 ## 0x04-Golang项目
 
@@ -1842,6 +1843,7 @@
 - [ ] https://github.com/climech/grit
 - [ ] https://github.com/cnotch/ipchub
 - [ ] https://github.com/praetorian-inc/gokart
+- [ ] https://github.com/tophubs/TopList
 
 ## 0x05-Golang安全
 
@@ -2955,6 +2957,7 @@
 - [ ] https://github.com/EmYiQing/SuperFastjsonScan
 - [ ] https://github.com/atredispartners/flamingo
 - [ ] https://github.com/0xTeles/jsleak
+- [ ] https://github.com/karrick/godirwalk
 
 ## 0x06-Golang逆向
 
