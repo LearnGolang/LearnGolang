@@ -671,6 +671,7 @@
 - [ ] https://github.com/go-task/task
 - [ ] https://github.com/asaskevich/EventBus
 - [ ] https://github.com/uber-go/ratelimit
+- [ ] https://github.com/golang-queue/queue
 
 八、错误处理
 - [ ] https://github.com/ducc/egg
@@ -2072,7 +2073,7 @@
 -  [ ] https://github.com/schmalle/nmaputil
 -  [ ] https://github.com/zyxpaomian/go-fping
 
-三、资产扫描
+三、资产收集
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [ ] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
 - [ ] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
@@ -2087,6 +2088,8 @@
 - [ ] https://github.com/i11us0ry/tool-iFofa
 - [ ] https://github.com/inspiringz/fofa
 - [ ] https://github.com/hanc00l/nemo_go
+- [ ] https://github.com/tangxiaofeng7/Suscan
+- [ ] https://github.com/lakevilladom/goSkylar
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2125,7 +2128,6 @@
 -  [ ] https://github.com/netxfly/xsec-proxy-scanner | 速度快而小巧的代理扫描器 | 228
 -  [ ] https://github.com/future-architect/vuls | Linux漏洞扫描程序 | 8k
 -  [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 7.7k
--  [ ] https://github.com/LakeVilladom/goSkylar | 企业级外网端口资产扫描 | 72
 -  [ ] https://github.com/jmpews/goscan | golang的扫描框架 | 39
 -  [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
