@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年9月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年9月4日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -21,8 +21,9 @@
 - https://github.com/avelino/awesome-go
 - https://github.com/shockerli/go-awesome
 - https://github.com/yinggaozhen/awesome-go-cn
+- https://github.com/0voice/Introduction-to-Golang
 
-一、基础书籍
+一、中文书籍
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
@@ -119,61 +120,12 @@
 - [ ] [《golang-notes》](https://github.com/cch123/golang-notes)
 - [ ] [《Golang随笔》](https://github.com/cch123/golang-notes)
 - [ ] [《Go语言筑基》](https://github.com/aixgl/gobook)@aixgl
-
-二、视频教程
-- [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
-- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
-- [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
-- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
-- [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
-- [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
-- [ ] [《20个小时快速入门go语言》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马
-- [ ] [《Go语言开发实战教程》](https://www.bilibili.com/video/BV1kE41157q1)@黑马
-- [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马
-- [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
-- [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
-- [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
-- [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
-- [ ] [《Go Web开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
-- [ ] [《21周搞定Go语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
-- [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
-- [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
-- [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
-- [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
-- [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
-- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
-
-三、算法学习
-- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
-- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
-- [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
-- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
-- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
-- [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
-- [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
-- [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
-- [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
-- [ ] [《LeetCode-Go-Week》](https://github.com/wuqinqiang/LeetCode-Go-Week)@wuqinqiang
-- [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
-- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
-- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
-- [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
-- [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
-- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
-- [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)@JKlee
-- [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
-- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
-- [ ] https://github.com/Allenxuxu/leetcode-in-go
-- [ ] https://github.com/HanTianPeng/go-algorithm
-
-四、Web开发
 - [ ] [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)@谢孟军
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
-- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
 
-五、英文资源
+二、英文书籍
 - https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -181,7 +133,7 @@
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
 - [ ] [《Practical Go Lessons》](https://www.practical-go-lessons.com)
-- [ ] [《Black Hat Go》](https://github.com/blackhat-go/bhg)@Tom Steele
+- [x] [《Black Hat Go》](https://github.com/blackhat-go/bhg)@Tom Steele
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 - [ ] [《Concurrency in Go》]()
@@ -227,6 +179,57 @@
 - [ ] https://github.com/quii/learn-go-with-tests | Learn Go with test-driven development | 14.7k
 - [ ] https://github.com/hoanhan101/ultimate-go | The Ultimate Go Study Guide | 14.3k
 - [ ] https://github.com/ardanlabs/gotraining | Go Training Class Material | 9.1k
+- [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
+
+三、视频教程
+- [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
+- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
+- [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
+- [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
+- [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
+- [ ] [《Go语言核心36讲》](https://time.geekbang.org/column/intro/112)@郝林
+- [ ] [《20个小时快速入门go语言》]( https://www.bilibili.com/video/BV1UW411x7v2)@黑马
+- [ ] [《Go语言开发实战教程》](https://www.bilibili.com/video/BV1kE41157q1)@黑马
+- [ ] [《Go语言GUI编程》](https://www.bilibili.com/video/BV1uE411N7Dn)@黑马
+- [ ] [《Go语言基础就业班》](https://www.bilibili.com/video/BV1QJ411V73q)@老男孩
+- [ ] [《Go语言超详细入门教程》](https://www.bilibili.com/video/av47467197)@韩茹
+- [ ] [《Golang合辑》](https://www.bilibili.com/video/BV1hv411x7we)@幼麟实验室
+- [ ] [《Go语言之路》](https://space.bilibili.com/4638193/channel/detail?cid=66016)@李文周
+- [ ] [《Go Web开发教程》](https://www.bilibili.com/video/BV1gJ411p7xC)@李文周
+- [ ] [《21周搞定Go语言》](https://www.bilibili.com/video/BV16E411H7og)@沙河娜扎
+- [ ] [《Go语言核心编程》](https://www.bilibili.com/video/BV1pt41127FZ)@韩顺平
+- [ ] [《Go语言入门教程》](https://www.bilibili.com/video/BV1fD4y1m7TD)@杨旭
+- [ ] [《Golang基础到项目实战》](https://study.163.com/course/courseMain.htm?courseId=1006508031)@知了海龙
+- [ ] [《Go语言入门到精通》](https://study.163.com/course/courseMain.htm?courseId=1210620804)@江洲老师
+- [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
+- [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
+
+四、培训演讲
+- [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
+- [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
+
+五、算法结构
+- [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
+- [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
+- [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
+- [ ] [《algorithm》](https://github.com/dreddsa5dies/algorithm) @algorithm
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《算法学习 Golang 版》](https://github.com/skyhee/Algorithms-Learning-With-Go)@skyhee
+- [ ] [《剑指Offer - Golang实现》](https://github.com/DinghaoLI/Coding-Interviews-Golang)@DinghaoLI
+- [ ] [《数据结构和算法-Golang实现》](https://github.com/hunterhug/goa.c)@hunterhug
+- [ ] [《over-algorithm》](https://github.com/overnote/over-algorithm)@overnote
+- [ ] [《LeetCode-Go-Week》](https://github.com/wuqinqiang/LeetCode-Go-Week)@wuqinqiang
+- [ ] [《algorithm-pattern》](https://github.com/greyireland/algorithm-pattern)@greyireland
+- [ ] [《awesome-golang-leetcode》](https://github.com/kylesliu/awesome-golang-leetcode)@kylesliu
+- [ ] [《The Algorithms - Go》](https://github.com/TheAlgorithms/Go)@TheAlgorithms
+- [ ] [《Go的数据结构和算法思维》](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go)@careermonk
+- [ ] [《用Go语言实现基础算法》](https://github.com/xiangdong1987/studyAlgorithm)@向东
+- [ ] [《fucking-algorithm》](https://github.com/labuladong/fucking-algorithm)@labuladong
+- [ ] [《Golang设计模式思想》](https://github.com/sevenelevenlee/go-patterns)@JKlee
+- [ ] [《通过go实现基本的23种设计模式》](https://github.com/medasz/Design-Patterns)@medasz
+- [ ] [《data-structures-questions》](https://github.com/KeKe-Li/data-structures-questions)@KeKe-Li
+- [ ] https://github.com/Allenxuxu/leetcode-in-go
+- [ ] https://github.com/HanTianPeng/go-algorithm
 
 六、论坛版块
 - [ ] [Go夜读](https://github.com/talkgo/night)
@@ -244,11 +247,7 @@
 七、面试资料
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 
-八、培训讲义
-- [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
-
-九、其它资源
-
+八、其他资源
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
@@ -293,15 +292,12 @@
 - [ ] https://github.com/xinliangnote/go-util
 - [ ] https://github.com/Roc-zhou/go-util-package
 - [ ] https://github.com/Vxer-Lee/Golang_Handbook
-- [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 - [ ] https://github.com/nikolaydubina/go-recipes
 - [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/hackstoic/golang-open-source-projects
 - [ ] https://github.com/muhammadzakirramadhan/belajar-golang
 - [ ] https://github.com/latermonk/golang-start
-- [ ] https://github.com/TralahM/blackhat-go
 - [ ] https://github.com/Tinywan/golang-tutorial
-- [ ] https://github.com/0voice/Introduction-to-Golang
 
 ## 0x02-Golang标准
 
@@ -324,7 +320,7 @@
 
 ## 0x03-Golang框架
 
-本部分用来记录Go语言中的优秀框架内容，其中也包含少量的成品项目。
+本章节用于记录Go语言中的优秀框架资源，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
 
 - https://pkg.go.dev
 - https://github.com/topics/golang-library
@@ -1136,10 +1132,13 @@
 
 ## 0x04-Golang项目
 
+本章节用于记录Go语言中的优秀成品项目。努力学习这些优秀项目的编码方式！
+
 - https://github.com/trending/go
 - https://github.com/trending/go?since=daily
 - https://github.com/trending/go?since=weekly
 - https://github.com/trending/go?since=monthly
+- https://github.com/0e0w/GolangCode
 
 一、开源网站
 - [ ] https://github.com/qor/qor
@@ -2375,6 +2374,7 @@
 - [ ] https://github.com/listinvest/runCLI | 使用各种方法在命令行中运行 shellcode | 0
 - [ ] https://github.com/TRYblog/go-shellcode-webimg-load | 图片隐写的远程shellcode加载器 | 26
 - [ ] https://github.com/metaStor/Bypass_Go | 分离免杀思想改造 | 14
+- [ ] https://github.com/neox41/go-procinject
 - [ ] https://github.com/gobuffalo/packr
 - [ ] https://github.com/EgeBalci/sgn
 - [ ] https://github.com/mirtchovski/clamav
