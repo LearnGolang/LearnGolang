@@ -1,6 +1,6 @@
 # LearnGolang
 
-本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
+本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。**学习Go语言，面向信仰编程！**作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
@@ -1175,6 +1175,9 @@
 - [ ] https://github.com/fyne-io/pixeledit
 
 五、量化投资
+
+- https://github.com/topics/stock-market?l=go
+
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/mop-tracker/mop
 - [ ] https://github.com/doneland/yquotes
@@ -1876,9 +1879,15 @@
 -  https://github.com/topics/subdomain-scanner?l=go
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
+
+域名收集方法：
+
+- A：接口在线扫描
+
+- [x] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
 - [ ] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
-- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 2.9k
+- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
 - [ ] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
 - [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
@@ -1922,7 +1931,6 @@
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
 - [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
-- [ ] https://github.com/signedsecurity/sigsubfind3r
 - [ ] https://github.com/5l1v3r1/sigsubs
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/0x2E/sf
