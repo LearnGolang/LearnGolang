@@ -1,10 +1,10 @@
 # LearnGolang
 
-本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。**学习Go语言，面向信仰编程！**作者：[0e0w](https://github.com/0e0w/LearnGolang)。
+本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年9月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年9月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -52,6 +52,7 @@
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
+- [ ] [《Go语言底层原理剖析》](https://item.jd.com/13398708.html)@郑建勋
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
 - [ ] [《Go语言开发实战》](https://item.jd.com/12622679.html)@千锋教育
@@ -1847,6 +1848,7 @@
 - [ ] https://github.com/cnotch/ipchub
 - [ ] https://github.com/praetorian-inc/gokart
 - [ ] https://github.com/tophubs/TopList
+- [ ] https://github.com/wuhan005/siesta
 
 ## 0x05-Golang安全
 
