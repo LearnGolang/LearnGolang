@@ -1176,9 +1176,7 @@
 - [ ] https://github.com/fyne-io/pixeledit
 
 五、量化投资
-
 - https://github.com/topics/stock-market?l=go
-
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/mop-tracker/mop
 - [ ] https://github.com/doneland/yquotes
@@ -1881,17 +1879,12 @@
 -  https://github.com/topics/subdomain-scanner?l=go
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
-
-域名收集方法：
-
-- A：接口在线扫描
-
-- [x] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
-- [ ] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
-- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 | 4.2k
-- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
-- [ ] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
-- [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [x] 接口扫描：https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
+- [x] 接口扫描：https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
+- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
+- [ ] 暴力破解：https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [ ] 暴力破解：https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [ ] 暴力破解：https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
 - [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 143
@@ -2339,7 +2332,6 @@
 - [ ] https://github.com/EmYiQing/Gososerial
 
 八、病毒免杀
-
 - https://github.com/topics/shellcode?l=go
 - https://github.com/search?l=Go&q=shellcode
 - https://github.com/search?l=Go&q=bypass
