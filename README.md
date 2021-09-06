@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年9月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年9月6日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -294,7 +294,6 @@
 - [ ] https://github.com/Roc-zhou/go-util-package
 - [ ] https://github.com/Vxer-Lee/Golang_Handbook
 - [ ] https://github.com/nikolaydubina/go-recipes
-- [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/hackstoic/golang-open-source-projects
 - [ ] https://github.com/muhammadzakirramadhan/belajar-golang
 - [ ] https://github.com/latermonk/golang-start
@@ -1130,6 +1129,9 @@
 - [ ] https://github.com/vishvananda/netlink
 - [ ] https://github.com/go-goyave/goyave
 - [ ] https://github.com/atotto/clipboard
+- [ ] https://github.com/oleiade/lane
+- [ ] https://github.com/hunterhug/gocache
+- [ ] https://github.com/jrhy/mast
 
 ## 0x04-Golang项目
 
@@ -1238,7 +1240,6 @@
 - [ ] https://github.com/0xsha/CloudBrute
 - [ ] https://github.com/esimov/pigo
 - [ ] https://github.com/jwma/jump-jump
-- [ ] https://github.com/dominikh/go-tools
 - [ ] https://github.com/elvisNg/broccoliv2
 - [ ] https://github.com/eolinker/goku-api-gateway
 - [ ] https://github.com/lane-c-wagner/go-password-validator
@@ -2432,6 +2433,8 @@
 - [ ] https://github.com/mumu0215/dupe
 - [ ] https://github.com/safe6Sec/GolangBypassAV
 - [ ] https://github.com/kira2040k/AVBypass
+- [ ] https://github.com/D00MFist/Go4aRun
+- [ ] https://github.com/rootklt/go-uuid-loader
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
@@ -2545,6 +2548,7 @@
 -  [ ] https://github.com/iiiusky/webrtc-proxy
 -  [ ] https://github.com/CTF-MissFeng/Ecloud
 -  [ ] https://github.com/pibigstar/go-proxy
+-  [ ] https://github.com/xandout/soxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
