@@ -1120,7 +1120,6 @@
 - [ ] https://github.com/hakluke/haklistgen
 - [ ] https://github.com/complone/blast
 - [ ] https://github.com/fishworks/gofish
-- [ ] https://github.com/shenghui0779/yiigo
 - [ ] https://github.com/complone/blast
 - [ ] https://github.com/adhocore/gronx
 - [ ] https://github.com/lesismal/arpc
@@ -2549,6 +2548,7 @@
 -  [ ] https://github.com/CTF-MissFeng/Ecloud
 -  [ ] https://github.com/pibigstar/go-proxy
 -  [ ] https://github.com/xandout/soxy
+-  [ ] https://github.com/tnpitsecurity/ligolo-ng
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
