@@ -2910,7 +2910,6 @@
 - [ ] https://github.com/canc3s/judas
 - [ ] https://github.com/DominicBreuker/pspy
 - [ ] https://github.com/ren-zxcyq/nier
-- [ ] https://github.com/optiv/Talon
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/L-codes/MX1014
 - [ ] https://github.com/sorenisanerd/gotty
@@ -3087,5 +3086,6 @@
 - https://github.com/evilsocket
 - https://github.com/hashicorp
 - https://github.com/kitabisa
+- https://github.com/optiv
 
 [![Stargazers over time](https://starchart.cc//0e0w/LearnGolang.svg)](https://starchart.cc/0e0w/LearnGolang)
