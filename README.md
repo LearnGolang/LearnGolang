@@ -1190,6 +1190,7 @@
 - [ ] https://github.com/ksred/go-stock-notifier
 - [ ] https://github.com/buth/stocker
 - [ ] https://github.com/phonegapX/QuantBot
+- [ ] https://github.com/axiaoxin-com/x-stock
 
 六、其他项目
 - [ ] https://github.com/iawia002/annie
@@ -2629,6 +2630,7 @@
 - [ ] https://github.com/dutchcoders/troje
 - [ ] https://github.com/decoymini/DecoyMini
 - [ ] https://github.com/xiecat/goblin
+- [ ] https://github.com/MountCloud/FireBee
 
 十二、代码审计
 - [ ] https://github.com/0c34/govwa
