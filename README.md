@@ -1853,6 +1853,7 @@
 - [ ] https://github.com/rjkroege/edwood
 - [ ] https://github.com/mehrvarz/webcall
 - [ ] https://github.com/ory/kratos
+- [ ] https://github.com/fofapro/fapro
 
 ## 0x05-Golang安全
 
