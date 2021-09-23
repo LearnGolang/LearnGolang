@@ -247,6 +247,7 @@
 
 七、面试资料
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
+- [ ] https://github.com/iswbm/golang-interview
 
 八、其他资源
 - [ ] https://github.com/gocn/cool-go
@@ -2995,6 +2996,7 @@
 - [ ] https://github.com/hupe1980/gopwn
 - [ ] https://github.com/Un4gi/fave
 - [ ] https://github.com/elysium-suite/aeacus
+- [ ] https://github.com/hashicorp/vault
 
 ## 0x06-Golang逆向
 
