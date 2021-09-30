@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年9月29日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年9月30日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1996,22 +1996,22 @@
 -  https://github.com/topics/port-scanner?l=go
 -  https://github.com/topics/network-scanner?l=go
 -  https://github.com/malfunkt/iprange | 解析IP地址列表 | 38
--  [ ] https://github.com/1ndianl33t/urlprobe
+-  [x] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 136
+-  [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
+-  [x] https://github.com/4dogs-cn/TXPortMap | 端口扫描器和Banner识别 | 252
+-  [ ] https://github.com/v-byte-cpu/sx | 快速、现代、易于使用的网络扫描仪  |  793
+-  [ ] https://github.com/1ndianl33t/urlprobe | 网址状态代码和内容长度检查器 | 133
 -  [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
 -  [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及title 收集工具 | 4
--  [ ] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
 -  [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
 -  [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
--  [ ] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 102
+-  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
 -  [ ] https://github.com/i11us0ry/goon
 -  [ ] https://github.com/chinacase/portScan
--  [ ] https://github.com/bufsnake/Monkey
 -  [ ] https://github.com/abrander/pnmap
--  [ ] https://github.com/v-byte-cpu/sx
 -  [ ] https://github.com/lcvvvv/gonmap
--  [ ] https://github.com/4dogs-cn/TXPortMap
 -  [ ] https://github.com/JustinTimperio/gomap
 -  [ ] https://github.com/CTF-MissFeng/NmapTools
 -  [ ] https://github.com/timest/goscan
@@ -2087,11 +2087,12 @@
 -  [ ] https://github.com/charles-d-burton/scandalorian
 -  [ ] https://github.com/schmalle/nmaputil
 -  [ ] https://github.com/zyxpaomian/go-fping
+-  [ ] https://github.com/3th1nk/cidr
 
 三、资产收集
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
-- [ ] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
-- [ ] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
+- [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
+- [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/zsdevX/DarkEye | 渗透测试情报收集工具 | 600
@@ -2220,7 +2221,8 @@
 -  https://github.com/topics/brute-force?l=go
 -  https://github.com/topics/brute-force-attacks?l=go
 -  https://github.com/search?l=Go&q=bruteforce
-- [ ] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
+- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
+- [ ] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 92
 - [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
 - [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
 - [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
@@ -2255,7 +2257,6 @@
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/djhohnstein/ghidorah
 - [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 231
-- [ ] https://github.com/niudaii/go-crack
 
 六、路径扫描
 -  https://github.com/topics/fuzzer?l=go
@@ -3009,6 +3010,7 @@
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
+- [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
 
 二、Go授权许可
 - https://github.com/topics/license-management?l=go
