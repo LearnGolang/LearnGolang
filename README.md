@@ -2571,7 +2571,6 @@
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
-- [ ] https://github.com/TerminalJockey/Kudzu
 - [ ] https://github.com/TerminalJockey/CreepingVine
 - [ ] https://github.com/TerminalJockey/Skiddify
 - [ ] https://github.com/TerminalJockey/GShell
