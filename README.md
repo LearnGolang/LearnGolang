@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月4日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -2217,6 +2217,7 @@
 -  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/m0sway/JuD-Scan
 -  [ ] https://github.com/fuzz7j/cDogScan
+-  [ ] https://github.com/WAY29/pocV
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2693,7 +2694,7 @@
 - [ ] https://github.com/LukaSikic/subzy | 子域接管漏洞检查程序 | 229
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
-- [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 9
+- [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 50
 
 十七、其他项目
 - [ ] https://github.com/gcla/termshark
