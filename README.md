@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -748,7 +748,6 @@
 - [ ] https://github.com/kpfaulkner/goui
 - [ ] https://github.com/fyne-io/fyne
 - [ ] https://github.com/lxn/walk
-- [ ] https://github.com/lxn/win
 - [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
@@ -1135,8 +1134,9 @@
 - [ ] https://github.com/oleiade/lane
 - [ ] https://github.com/hunterhug/gocache
 - [ ] https://github.com/jrhy/mast
-- [ ] https://github.com/FiloSottile/age
 - [ ] https://github.com/mosn/holmes
+- [ ] https://github.com/lxn/win
+- [ ] https://github.com/Gipcomp/winapi
 
 ## 0x04-Golang项目
 
@@ -1860,6 +1860,7 @@
 - [ ] https://github.com/ory/kratos
 - [ ] https://github.com/fofapro/fapro
 - [ ] https://github.com/jonaslu/ain
+- [ ] https://github.com/dstpierre/gosaas
 
 ## 0x05-Golang安全
 
@@ -2260,6 +2261,7 @@
 - [ ] https://github.com/Shadow26Wolf/quickbrute
 - [ ] https://github.com/djhohnstein/ghidorah
 - [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 231
+- [ ] https://github.com/kitabisa/ssb
 
 六、路径扫描
 -  https://github.com/topics/fuzzer?l=go
@@ -2714,7 +2716,6 @@
 - [ ] https://github.com/jpillora/go-tcp-proxy
 - [ ] https://github.com/juju/utils
 - [ ] https://github.com/Emoe/kxss
-- [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/C-Sto/dnsfwd
 - [ ] https://github.com/evilsocket/xray
 - [ ] https://github.com/dreadl0ck/netcap
@@ -2776,7 +2777,6 @@
 - [ ] https://github.com/kerbyj/ctfengine
 - [ ] https://github.com/virink/VulWarning
 - [ ] https://github.com/tomsteele/pen-utils
-- [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/esrrhs/fastreplace
 - [ ] https://github.com/anasbousselham/fortiscan
 - [ ] https://github.com/aceld/zinx
