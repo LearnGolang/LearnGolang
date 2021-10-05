@@ -1137,6 +1137,7 @@
 - [ ] https://github.com/mosn/holmes
 - [ ] https://github.com/lxn/win
 - [ ] https://github.com/Gipcomp/winapi
+- [ ] https://github.com/brahma-adshonor/gohook
 
 ## 0x04-Golang项目
 
