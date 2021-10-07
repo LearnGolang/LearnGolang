@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月6日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月7日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1897,10 +1897,10 @@
 -  https://github.com/search?l=Go&q=domains
 - [x] 接口扫描：https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
 - [x] 接口扫描：https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
-- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
 - [ ] 暴力破解：https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
 - [ ] 暴力破解：https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [ ] 暴力破解：https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
 - [ ] https://github.com/edoardottt/scilla | 信息收集工具包括子域 | 143
