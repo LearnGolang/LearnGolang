@@ -679,6 +679,7 @@
 - [ ] https://github.com/rotisserie/eris
 - [ ] https://github.com/joomcode/errorx
 - [ ] https://github.com/cockroachdb/errors
+- [ ] https://github.com/WAY29/errors
 
 九、单元测试
 - [ ] https://github.com/h2non/gock
@@ -862,7 +863,6 @@
 - [ ] https://gitea.com/xorm/xorm
 - [ ] https://github.com/hodgesds/perf-utils
 - [ ] https://github.com/snowlyg/gotransformer
-- [ ] https://github.com/buger/goreplay
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/fcharlie/buna
 - [ ] https://github.com/c-bata/go-prompt
@@ -1138,6 +1138,7 @@
 - [ ] https://github.com/lxn/win
 - [ ] https://github.com/Gipcomp/winapi
 - [ ] https://github.com/brahma-adshonor/gohook
+- [ ] https://github.com/goplus/igo
 
 ## 0x04-Golang项目
 
@@ -2463,6 +2464,7 @@
 -  https://github.com/topics/reverse-proxy?l=go
 -  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
+-  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
 -  [ ] https://github.com/danielan/lonely-shell
@@ -2483,7 +2485,6 @@
 -  [ ] https://github.com/imgproxy/imgproxy
 -  [ ] https://github.com/knownsec/Portforward
 -  [ ] https://github.com/TNK-Studio/gortal
--  [ ] https://github.com/drk1wi/Modlishka
 -  [ ] https://github.com/jpillora/chisel
 -  [ ] https://github.com/gwuhaolin/lightsocks
 -  [ ] https://github.com/xct/xc
