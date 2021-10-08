@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月7日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月8日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -133,7 +133,7 @@
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
 - [ ] [《A Huge Number of Go Examples》](https://github.com/inancgumus/learngo)
 - [ ] [《automateGo》](https://github.com/dreddsa5dies/automateGo)
-- [ ] [《Practical Go Lessons》](https://www.practical-go-lessons.com)
+- [x] [《Practical Go Lessons》](https://www.practical-go-lessons.com)@Maximilien Andile
 - [x] [《Black Hat Go》](https://github.com/blackhat-go/bhg)@Tom Steele
 - [ ] [《Build Web Application with Golang》](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [ ] [《Building Web Apps With Go》](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
@@ -1863,6 +1863,7 @@
 - [ ] https://github.com/fofapro/fapro
 - [ ] https://github.com/jonaslu/ain
 - [ ] https://github.com/dstpierre/gosaas
+- [ ] https://github.com/openacid/slim
 
 ## 0x05-Golang安全
 
