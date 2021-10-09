@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1466,7 +1466,6 @@
 - [ ] https://github.com/thinkeridea/go-extend
 - [ ] https://github.com/axiaoxin-com/logging
 - [ ] https://github.com/containers/podman
-- [ ] https://github.com/hashicorp/vault
 - [ ] https://github.com/link1st/go-stress-testing | Go实现的压测工具 | 957
 - [ ] https://github.com/stashapp/stash
 - [ ] https://github.com/nickname32/discordhook
@@ -1864,6 +1863,8 @@
 - [ ] https://github.com/jonaslu/ain
 - [ ] https://github.com/dstpierre/gosaas
 - [ ] https://github.com/openacid/slim
+- [ ] https://github.com/gitpod-io/gitpod
+- [ ] https://github.com/lonng/etym
 
 ## 0x05-Golang安全
 
@@ -2149,7 +2150,7 @@
 -  [ ] https://github.com/jjf012/gopoc | 用cel-go重现了xray的poc检测功能的轮子 | 62
 -  [ ] https://github.com/netxfly/xsec-proxy-scanner | 速度快而小巧的代理扫描器 | 228
 -  [ ] https://github.com/future-architect/vuls | Linux漏洞扫描程序 | 8k
--  [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 7.7k
+-  [ ] https://github.com/aquasecurity/trivy | 全面的容器漏洞扫描程序 | 8.7k
 -  [ ] https://github.com/jmpews/goscan | golang的扫描框架 | 39
 -  [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
@@ -3005,7 +3006,6 @@
 - [ ] https://github.com/hupe1980/gopwn
 - [ ] https://github.com/Un4gi/fave
 - [ ] https://github.com/elysium-suite/aeacus
-- [ ] https://github.com/hashicorp/vault
 - [ ] https://github.com/ariary/QueenSono
 - [ ] https://github.com/cckuailong/hostscan
 - [ ] https://github.com/C-Sto/BananaPhone
