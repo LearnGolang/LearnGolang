@@ -300,6 +300,7 @@
 - [ ] https://github.com/latermonk/golang-start
 - [ ] https://github.com/Tinywan/golang-tutorial
 - [ ] https://github.com/GoTurkiye/training
+- [ ] https://github.com/wolf27w/golang-learn
 
 ## 0x02-Golang标准
 
@@ -2993,7 +2994,6 @@
 - [ ] https://github.com/awnumar/memguard
 - [ ] https://github.com/capnspacehook/pandorasbox
 - [ ] https://github.com/njcx/gomoon
-- [ ] https://github.com/Rvn0xsy/goDomain
 - [ ] https://github.com/timwhitez/doge-getsys
 - [ ] https://github.com/EmYiQing/SuperFastjsonScan
 - [ ] https://github.com/atredispartners/flamingo
