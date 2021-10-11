@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月9日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月11日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1866,6 +1866,7 @@
 - [ ] https://github.com/openacid/slim
 - [ ] https://github.com/gitpod-io/gitpod
 - [ ] https://github.com/lonng/etym
+- [ ] https://github.com/jpillora/overseer
 
 ## 0x05-Golang安全
 
@@ -2575,6 +2576,7 @@
 -  [ ] https://github.com/pibigstar/go-proxy
 -  [ ] https://github.com/xandout/soxy
 -  [ ] https://github.com/tnpitsecurity/ligolo-ng
+-  [ ] https://github.com/lwch/natpass
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2665,6 +2667,7 @@
 - [ ] https://github.com/hhatto/gocloc
 - [ ] https://github.com/dengsgo/fileboy | 文件变更监听通知工具 | 361
 - [ ] https://github.com/quay/clair
+- [ ] https://github.com/super-l/codelines
 
 十三、编码规范
 - [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
