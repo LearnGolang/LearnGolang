@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月12日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1140,6 +1140,7 @@
 - [ ] https://github.com/Gipcomp/winapi
 - [ ] https://github.com/brahma-adshonor/gohook
 - [ ] https://github.com/goplus/igo
+- [ ] https://github.com/cilium/ebpf
 
 ## 0x04-Golang项目
 
@@ -1550,7 +1551,6 @@
 - [ ] https://github.com/vektra/mockery
 - [ ] https://github.com/jarcoal/httpmock
 - [ ] https://github.com/ldez/seihon
-- [ ] https://github.com/goplus/gop
 - [ ] https://github.com/chaosblade-io/chaosblade
 - [ ] https://github.com/decred/dcrd
 - [ ] https://github.com/gookit/goutil
@@ -2461,6 +2461,7 @@
 - [ ] https://github.com/D00MFist/Go4aRun
 - [ ] https://github.com/rootklt/go-uuid-loader
 - [ ] https://github.com/NyDubh3/CuiRi
+- [ ] https://github.com/FourCoreLabs/EDRHunt
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
