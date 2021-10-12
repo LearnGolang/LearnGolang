@@ -24,14 +24,14 @@
 - https://github.com/0voice/Introduction-to-Golang
 
 一、中文书籍
+
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
-- [x] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%#
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#100%#
-- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#70%
+- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#70%#正在进行
 - [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
@@ -82,8 +82,6 @@
 - [ ] [《For-learning-Go-Tutorial》](https://github.com/KeKe-Li/For-learning-Go-Tutorial)@keke
 - [ ] [《Go-Learning-With-Hack》](https://github.com/lazybootsafe/Go-Learning-With-Hack) @Finger
 - [ ] [《Golang学习笔记》](https://github.com/CharonChui/GolangStudyNote)@CharonChui
-- [ ] [《Go官方博客》](https://blog.golang.org)@Go
-- [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
 - [ ] [《深入解析Go》](https://github.com/tiancaiamao/go-internals)@tiancaiamao
 - [ ] [《The Uber Go Style Guide》](https://github.com/uber-go/guide)@Uber
 - [ ] [《Uber Go语言编码规范》](https://github.com/xxjwxc/uber_go_guide_cn)@xxjwxc
@@ -308,6 +306,9 @@
 
 - https://golang.org/pkg
 - https://studygolang.com/pkgdoc
+- [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
+- [ ] [《Go官方博客》](https://blog.golang.org)@Go
+- [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
 
 一、命令参数-flag
 - https://golang.org/pkg/flag
