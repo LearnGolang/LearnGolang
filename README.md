@@ -591,6 +591,7 @@
 - [ ] https://github.com/yosssi/ace
 - Others
 - [ ] https://github.com/sajari/docconv
+- [ ] https://github.com/cnf/structhash | Hash计算 | 116
 
 六、数据处理
 - MySQL
