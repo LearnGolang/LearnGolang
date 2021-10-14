@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -370,6 +370,7 @@
 - [ ] https://github.com/pterm/pterm
 - [ ] https://github.com/sachaos/viddy
 - [ ] https://github.com/desertbit/grumble
+- [ ] https://github.com/zalimeni/overdub
 
 二、日志处理
 - https://github.com/topics/log?l=go
@@ -426,7 +427,7 @@
 - [ ] https://github.com/imroc/req | 一个用于人类的HTTP请求库 | 1.7k
 - [ ] https://github.com/anaskhan96/soup | Go中的网页抓取工具 | 1.6k
 - [ ] https://github.com/idoubi/goz | 一个很棒的HTTP请求库 | 184
-- [ ] https://github.com/guonaihong/gout | HTTP领域的瑞士军刀 | 741
+- [ ] https://github.com/guonaihong/gout | HTTP领域的瑞士军刀 | 873
 - [ ] https://github.com/mozillazg/request | 友好的HTTP请求库 | 394
 - [ ] https://github.com/timakin/bodyclose | 检查HTTP响应是否正确关闭 | 181
 - [ ] https://github.com/kirinlabs/HttpRequest | 一个简化的HTTP客户端 | 104
@@ -450,6 +451,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/thedevsaddam/govalidator
 - [ ] https://github.com/Albert-Zhan/httpc
 - [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/urfave/negroni
@@ -482,6 +484,7 @@
 - [ ] https://github.com/coyove/goflyway
 - [ ] https://github.com/DarthPestilane/easytcp
 - [ ] https://github.com/zalando/skipper
+- [ ] https://github.com/xujiajun/gorouter
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -571,10 +574,15 @@
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/qiniu/text
 - [ ] https://github.com/schollz/pluck
+- [ ] https://github.com/skyerhxx/TextBigDataProcess
+- [ ] https://github.com/AlaxLee/easyregexp
+- [ ] https://github.com/tomnomnom/securitytxt
+- [ ] https://github.com/1set/todotxt
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/qax-os/excelize
 - [ ] https://github.com/foolin/gocsv
+- [ ] https://github.com/jm33-m0/txt2csv
 - Word文件
 - [ ] https://github.com/unidoc/unioffice
 - [ ] https://github.com/sajari/word2vec
@@ -1143,6 +1151,8 @@
 - [ ] https://github.com/brahma-adshonor/gohook
 - [ ] https://github.com/goplus/igo
 - [ ] https://github.com/cilium/ebpf
+- [ ] https://github.com/BoltApp/sleet
+- [ ] https://github.com/dustin/go-humanize | 人性化的格式转换库 | 2.9k
 
 ## 0x04-Golang项目
 
@@ -1870,6 +1880,7 @@
 - [ ] https://github.com/lonng/etym
 - [ ] https://github.com/jpillora/overseer
 - [ ] https://github.com/yifengyou/go-keep
+- [ ] https://github.com/milvus-io/milvus
 
 ## 0x05-Golang安全
 
@@ -2581,6 +2592,7 @@
 -  [ ] https://github.com/xandout/soxy
 -  [ ] https://github.com/tnpitsecurity/ligolo-ng
 -  [ ] https://github.com/lwch/natpass
+-  [ ] https://github.com/EkiXu/reverse-shell-manager
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -3017,6 +3029,7 @@
 - [ ] https://github.com/cckuailong/hostscan
 - [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/kgoins/backscanner
+- [ ] https://github.com/quarkslab/kdigger
 
 ## 0x06-Golang逆向
 
