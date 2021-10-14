@@ -1153,6 +1153,7 @@
 - [ ] https://github.com/cilium/ebpf
 - [ ] https://github.com/BoltApp/sleet
 - [ ] https://github.com/dustin/go-humanize | 人性化的格式转换库 | 2.9k
+- [ ] https://github.com/goreleaser/goreleaser
 
 ## 0x04-Golang项目
 
@@ -1881,6 +1882,7 @@
 - [ ] https://github.com/jpillora/overseer
 - [ ] https://github.com/yifengyou/go-keep
 - [ ] https://github.com/milvus-io/milvus
+- [ ] https://github.com/cdle/sillyGirl
 
 ## 0x05-Golang安全
 
@@ -2593,6 +2595,7 @@
 -  [ ] https://github.com/tnpitsecurity/ligolo-ng
 -  [ ] https://github.com/lwch/natpass
 -  [ ] https://github.com/EkiXu/reverse-shell-manager
+-  [ ] https://github.com/studentmain/socks6
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
