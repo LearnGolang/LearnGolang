@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月16日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -299,6 +299,7 @@
 - [ ] https://github.com/Tinywan/golang-tutorial
 - [ ] https://github.com/GoTurkiye/training
 - [ ] https://github.com/wolf27w/golang-learn
+- [ ] https://github.com/pjh130/go
 
 ## 0x02-Golang标准
 
@@ -337,7 +338,7 @@
 - https://github.com/topics/command-line?l=go
 - [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 16k
 - [ ] https://github.com/fatih/color | 构建彩色的命令参数应用程序 | 4.2k
-- [ ] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 21.4k
+- [ ] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 23.5k
 - [ ] https://github.com/mgutz/ansi | 创建彩色的字符串和代码 | 382
 - [ ] https://github.com/logrusorgru/aurora | Golang的最终ANSI颜色 | 1.1k
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
@@ -485,6 +486,7 @@
 - [ ] https://github.com/DarthPestilane/easytcp
 - [ ] https://github.com/zalando/skipper
 - [ ] https://github.com/xujiajun/gorouter
+- [ ] https://github.com/antlabs/httparser
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -1158,6 +1160,7 @@
 - [ ] https://github.com/tomarrell/wrapcheck
 - [ ] https://github.com/cespare/percpu
 - [ ] https://github.com/VirusTotal/gyp
+- [ ] https://github.com/gordonklaus/portaudio
 
 ## 0x04-Golang项目
 
@@ -2120,6 +2123,7 @@
 -  [ ] https://github.com/3th1nk/cidr
 
 三、资产收集
+- [x] https://github.com/0e0w/Chestnut | 一款简单好用的资产识别工具 | 0
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
 - [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
