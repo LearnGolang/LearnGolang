@@ -488,6 +488,7 @@
 - [ ] https://github.com/zalando/skipper
 - [ ] https://github.com/xujiajun/gorouter
 - [ ] https://github.com/antlabs/httparser
+- [ ] https://github.com/easonlin404/license-proxy
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -581,6 +582,7 @@
 - [ ] https://github.com/AlaxLee/easyregexp
 - [ ] https://github.com/tomnomnom/securitytxt
 - [ ] https://github.com/1set/todotxt
+- [ ] https://github.com/golang/text
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/qax-os/excelize
@@ -828,6 +830,7 @@
 - [ ] https://github.com/smallnest/rpcx
 - [ ] https://github.com/grpc/grpc-go
 - [ ] https://github.com/cloudwego/kitex
+- [ ] https://github.com/AlexStocks/getty
 
 十八、图像处理
 - [ ] https://github.com/anthonynsimon/bild
@@ -1165,6 +1168,7 @@
 - [ ] https://github.com/gordonklaus/portaudio
 - [ ] https://github.com/lotusirous/go-concurrency-patterns
 - [ ] https://github.com/pinkhello/go-starter
+- [ ] https://github.com/mgechev/revive
 
 ## 0x04-Golang项目
 
@@ -1898,6 +1902,11 @@
 - [ ] https://github.com/gotify/server
 - [ ] https://github.com/hiyosi/hawk
 - [ ] https://github.com/weaveworks/weave
+- [ ] https://github.com/openfaas/faasd
+- [ ] https://github.com/ddosify/ddosify | 高性能负载测试工具 | 1.6k
+- [ ] https://github.com/cenkalti/rain
+- [ ] https://github.com/swaggo/swag
+- [ ] https://github.com/rfyiamcool/go-netflow
 
 ## 0x05-Golang安全
 
@@ -2502,6 +2511,7 @@
 -  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
+-  [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
 -  [ ] https://github.com/danielan/lonely-shell
@@ -2515,7 +2525,6 @@
 -  [ ] https://github.com/LubyRuffy/tcptunnel
 -  [ ] https://github.com/FireFart/goshell
 -  [ ] https://github.com/ypcd/gstunnel
--  [ ] https://github.com/ginuerzh/gost
 -  [ ] https://github.com/EddieIvan01/iox
 -  [ ] https://github.com/ring04h/s5.go
 -  [ ] https://github.com/Ridter/DomainHiding
@@ -3051,6 +3060,7 @@
 - [ ] https://github.com/quarkslab/kdigger
 - [ ] https://github.com/scmn-dev/secman
 - [ ] https://github.com/adhocore/goic
+- [ ] https://github.com/praetorian-inc/snowcat
 
 ## 0x06-Golang逆向
 
