@@ -1907,6 +1907,7 @@
 - [ ] https://github.com/cenkalti/rain
 - [ ] https://github.com/swaggo/swag
 - [ ] https://github.com/rfyiamcool/go-netflow
+- [ ] https://github.com/aquasecurity/cfsec
 
 ## 0x05-Golang安全
 
@@ -2199,6 +2200,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/GGyao/YYScan
 -  [ ] https://github.com/inbug-team/InCloud
 -  [ ] https://github.com/ethicalhackingplayground/erebus
 -  [ ] https://github.com/jweny/pocassist
@@ -2264,7 +2266,6 @@
 -  [ ] https://github.com/ggg4566/PocStart
 -  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/m0sway/JuD-Scan
--  [ ] https://github.com/fuzz7j/cDogScan
 -  [ ] https://github.com/WAY29/pocV
 
 五、密码爆破
@@ -2294,6 +2295,7 @@
 - [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
 - [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
 - [ ] https://github.com/Leeon123/SSHcrack | 使用golang制作的SSH爆破工具 | 3
+- [ ] https://github.com/fuzz7j/cDogScan
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/ildarmf/bruteforce
 -  [ ] https://github.com/joohoi/godance
