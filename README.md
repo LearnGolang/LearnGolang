@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月19日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -453,6 +453,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/tomnomnom/gahttp
 - [ ] https://github.com/thedevsaddam/govalidator
 - [ ] https://github.com/Albert-Zhan/httpc
 - [ ] https://github.com/mjwhitta/win
@@ -605,6 +606,7 @@
 - Others
 - [ ] https://github.com/sajari/docconv
 - [ ] https://github.com/cnf/structhash | Hash计算 | 116
+- [ ] https://github.com/hpcloud/tail
 
 六、数据处理
 - MySQL
@@ -688,6 +690,7 @@
 - [ ] https://github.com/asaskevich/EventBus
 - [ ] https://github.com/uber-go/ratelimit
 - [ ] https://github.com/golang-queue/queue
+- [ ] https://github.com/valyala/bytebufferpool
 
 八、错误处理
 - [ ] https://github.com/ducc/egg
@@ -831,6 +834,7 @@
 - [ ] https://github.com/grpc/grpc-go
 - [ ] https://github.com/cloudwego/kitex
 - [ ] https://github.com/AlexStocks/getty
+- [ ] https://github.com/go-kratos/kratos
 
 十八、图像处理
 - [ ] https://github.com/anthonynsimon/bild
@@ -1169,6 +1173,9 @@
 - [ ] https://github.com/lotusirous/go-concurrency-patterns
 - [ ] https://github.com/pinkhello/go-starter
 - [ ] https://github.com/mgechev/revive
+- [ ] https://github.com/meowgorithm/defaults
+- [ ] https://github.com/hhhapz/doc
+- [ ] https://github.com/chromedp/chromedp
 
 ## 0x04-Golang项目
 
@@ -1200,6 +1207,7 @@
 - [ ] https://github.com/umarquez/0ms2-game
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 - [ ] https://github.com/duzhi5368/FKGoServer
+- [ ] https://github.com/A11Might/PacVim
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -2140,7 +2148,7 @@
 -  [ ] https://github.com/3th1nk/cidr
 
 三、资产收集
-- [x] https://github.com/0e0w/Chestnut | 一款简单好用的资产识别工具 | 0
+- [x] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
 - [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
@@ -2167,6 +2175,7 @@
 -  https://github.com/topics/security-tools?l=go
 -  https://github.com/topics/security-scanner?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
+-  [ ] https://github.com/Goqi/Banli | 一款简单好用的高危漏洞扫描工具 | 3
 -  [ ] https://github.com/projectdiscovery/nuclei | 基于POC模板的漏洞扫描工具 | 3.9k
 -  [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
 -  [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
