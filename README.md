@@ -453,6 +453,9 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/dimfeld/httptreemux
+- [ ] https://github.com/qiniu/http
+- [ ] https://github.com/ddliu/go-httpclient
 - [ ] https://github.com/tomnomnom/gahttp
 - [ ] https://github.com/thedevsaddam/govalidator
 - [ ] https://github.com/Albert-Zhan/httpc
@@ -584,6 +587,9 @@
 - [ ] https://github.com/tomnomnom/securitytxt
 - [ ] https://github.com/1set/todotxt
 - [ ] https://github.com/golang/text
+- [ ] https://github.com/disclose/diosts
+- [ ] https://github.com/cybrcodr/txttools
+- [ ] https://github.com/Qingluan/FrameUtils
 - Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/qax-os/excelize
