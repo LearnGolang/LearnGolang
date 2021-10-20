@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月20日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -286,7 +286,6 @@
 - [ ] https://www.cnblogs.com/apocelipes/p/13832224.html
 - [ ] https://github.com/aarons-talks/2021-04-24-GopherCon-Russia
 - [ ] https://github.com/golang/vulndb
-- [ ] https://github.com/egonelbre/gophers
 - [ ] https://github.com/eddycjy/go777
 - [ ] https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 - [ ] https://github.com/xinliangnote/go-util
@@ -300,6 +299,7 @@
 - [ ] https://github.com/GoTurkiye/training
 - [ ] https://github.com/wolf27w/golang-learn
 - [ ] https://github.com/pjh130/go
+- [ ] https://github.com/egonelbre/gophers
 
 ## 0x02-Golang标准
 
@@ -1182,6 +1182,7 @@
 - [ ] https://github.com/meowgorithm/defaults
 - [ ] https://github.com/hhhapz/doc
 - [ ] https://github.com/chromedp/chromedp
+- [ ] https://github.com/Mzack9999/roundrobin
 
 ## 0x04-Golang项目
 
@@ -1922,6 +1923,7 @@
 - [ ] https://github.com/swaggo/swag
 - [ ] https://github.com/rfyiamcool/go-netflow
 - [ ] https://github.com/aquasecurity/cfsec
+- [ ] https://github.com/ambertide/chip8
 
 ## 0x05-Golang安全
 
@@ -3078,6 +3080,7 @@
 - [ ] https://github.com/scmn-dev/secman
 - [ ] https://github.com/adhocore/goic
 - [ ] https://github.com/praetorian-inc/snowcat
+- [ ] https://github.com/activecm/rita
 
 ## 0x06-Golang逆向
 
