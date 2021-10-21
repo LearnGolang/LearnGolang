@@ -455,6 +455,7 @@
 - [ ] https://github.com/a3kSec/purl
 - [ ] https://github.com/nccgroup/wstalker
 - [ ] https://github.com/GameXG/ProxyClient
+- [ ] https://github.com/akkuman/rotateproxy
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -869,7 +870,16 @@
 - [ ] https://github.com/rfyiamcool/timingwheel
 - [ ] https://github.com/nakabonne/tstorage
 
-二十二、其他框架
+二十二、交叉编译
+- [ ] https://github.com/Gogods/gox
+- [ ] https://github.com/mitchellh/gox
+- [ ] https://github.com/karalabe/xgo
+- [ ] https://github.com/laher/goxc
+- [ ] https://github.com/crazy-max/xgo
+- [ ] https://github.com/robertkrimen/gxc
+
+二十三、其他框架
+
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -974,7 +984,6 @@
 - [ ] https://github.com/go-logr/logr
 - [ ] https://github.com/getlantern/systray
 - [ ] https://github.com/hbollon/go-edlib
-- [ ] https://github.com/mjwhitta/win
 - [ ] https://github.com/hunterhug/rlock
 - [ ] https://github.com/akitasoftware/akita-cli
 - [ ] https://github.com/hunterhug/marmot
@@ -1190,6 +1199,7 @@
 - [ ] https://github.com/hhhapz/doc
 - [ ] https://github.com/chromedp/chromedp
 - [ ] https://github.com/Mzack9999/roundrobin
+- [ ] https://github.com/meowgorithm/defaults
 
 ## 0x04-Golang项目
 
@@ -1931,10 +1941,15 @@
 - [ ] https://github.com/rfyiamcool/go-netflow
 - [ ] https://github.com/aquasecurity/cfsec
 - [ ] https://github.com/ambertide/chip8
+- [ ] https://github.com/antonmedv/expr
+- [ ] https://github.com/projectdiscovery/hmap
+- [ ] https://github.com/deepfence/ThreatMapper
+- [ ] https://github.com/abiosoft/colima
+- [ ] https://github.com/Janusec/janusec
 
 ## 0x05-Golang安全
 
-本章节收集汇总了大量的安全研究相关的项目。
+本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
 
 -  https://github.com/topics/tool?l=go
 -  https://github.com/topics/poc?l=go
@@ -2083,6 +2098,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/projectdiscovery/httpx
 -  [ ] https://github.com/i11us0ry/goon
 -  [ ] https://github.com/chinacase/portScan
 -  [ ] https://github.com/abrander/pnmap
@@ -2302,7 +2318,7 @@
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
 - [ ] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 92
 - [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
-- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 105
+- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 549
 - [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
 - [ ] https://github.com/phil-fly/go-ipscan | 使用icmp检测获取当前网段存活主机 | 2
@@ -2363,7 +2379,6 @@
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
 - [ ] https://github.com/TRYblog/DirScan
 - [ ] https://github.com/M4DM0e/DirDar
-- [ ] https://github.com/projectdiscovery/httpx
 - [ ] https://github.com/vlad-s/gofuzzyourself
 - [ ] https://github.com/sueesmar/pluzz
 - [ ] https://github.com/ArenasDev/crapbuster
