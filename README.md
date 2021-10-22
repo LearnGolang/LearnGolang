@@ -346,6 +346,7 @@
 - [ ] https://github.com/schollz/progressbar | 线程安全进度条 | 1.6k
 - [ ] https://github.com/labstack/gommon | 终端颜色和日志记录包 | 396
 - [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
+- [ ] https://github.com/k0kubun/pp
 - [ ] https://github.com/alecthomas/kong
 - [ ] https://github.com/jessevdk/go-flags
 - [ ] https://github.com/charmbracelet/bubbles
