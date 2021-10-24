@@ -301,6 +301,7 @@
 - [ ] https://github.com/pjh130/go
 - [ ] https://github.com/egonelbre/gophers
 - [ ] https://github.com/voidint/g
+- [ ] https://github.com/unknwon/go-code-convention
 
 ## 0x02-Golang标准
 
@@ -670,6 +671,7 @@
 - [ ] https://github.com/rs/zerolog | 零分配JSON记录器 | 4.6k
 - [ ] https://github.com/oklog/oklog | 分布式无协调日志管理系统 | 2.9k
 - [ ] https://github.com/golang/glog | Go的分级执行日志 | 2.7k
+- [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/imroc/log
@@ -815,8 +817,8 @@
 - [ ] https://github.com/gotuna/gotuna
 - [ ] https://github.com/teambition/gear
 - [ ] https://github.com/flamego/flamego
+- [ ] https://github.com/go-macaron/macaron
 - [ ] https://github.com/coscms/forms
-- [ ] https://go-macaron.com
 - [ ] https://echo.labstack.com
 - [ ] https://www.snowlyg.com/chapter/0
 - [ ] https://github.com/confetti-framework/confetti
@@ -2768,7 +2770,6 @@
 十五、移动安全
 - Android
 - [ ] https://github.com/ndelphit/apkurlgrep
-- [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/RedMapleTech/machodump
 - [ ] https://github.com/H21lab/gnbsim
 - [ ] https://github.com/shogo82148/androidbinary
@@ -2986,7 +2987,6 @@
 - [ ] https://github.com/madneal/gshark
 - [ ] https://github.com/Becivells/iconhash
 - [ ] https://github.com/v-byte-cpu/sx
-- [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/Beatrice950201/araneid
 - [ ] https://github.com/rabbitstack/fibratus
 - [ ] https://github.com/ConsT27/GiveMeMail
