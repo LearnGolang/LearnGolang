@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月22日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月24日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -301,6 +301,7 @@
 - [ ] https://github.com/wolf27w/golang-learn
 - [ ] https://github.com/pjh130/go
 - [ ] https://github.com/egonelbre/gophers
+- [ ] https://github.com/voidint/g
 
 ## 0x02-Golang标准
 
@@ -1543,7 +1544,6 @@
 - [ ] https://github.com/pyroscope-io/pyroscope
 - [ ] https://github.com/Allenxuxu/microservices
 - [ ] https://github.com/zyedidia/micro
-- [ ] https://github.com/brittonhayes/pillager
 - [ ] https://github.com/matsuyoshi30/germanium
 - [ ] https://github.com/goava/di
 - [ ] https://github.com/moovweb/gvm
@@ -2300,7 +2300,6 @@
 -  [ ] https://github.com/GreyOrder/CVE-2021-21978
 -  [ ] https://github.com/GreyOrder/CVE-2021-26855
 -  [ ] https://github.com/dwisiswant0/proxylogscan
--  [ ] https://github.com/brittonhayes/pillager
 -  [ ] https://github.com/SECFORCE/sparta
 -  [ ] https://github.com/YE-Kits/hunter
 -  [ ] https://github.com/veo/vscan
@@ -2399,6 +2398,7 @@
 -  [ ] https://github.com/TRYblog/url-alive-scan
 -  [ ] https://github.com/jayus0821/scan-j
 -  [ ] https://github.com/bufsnake/blueming
+-  [ ] https://github.com/brittonhayes/pillager
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
