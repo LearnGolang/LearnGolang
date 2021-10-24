@@ -24,7 +24,6 @@
 - https://github.com/0voice/Introduction-to-Golang
 
 一、中文书籍
-
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
@@ -465,6 +464,9 @@
 - [ ] https://github.com/m13253/dns-over-https
 - [ ] https://github.com/mosajjal/dnsmonster
 - [ ] https://github.com/AlfredBerg/dnsline
+- [ ] https://github.com/awgh/madns
+- 其他框架
+- [ ] https://github.com/fullstorydev/grpcurl
 
 三、文件处理
 - TXT文件
@@ -506,7 +508,6 @@
 - [ ] https://github.com/hpcloud/tail
 
 四、数据处理
-
 - MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
@@ -555,7 +556,6 @@
 - [ ] https://github.com/doug-martin/goqu
 
 五、配置文件
-
 - JSON
 - https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
@@ -625,7 +625,6 @@
 - [ ] https://github.com/TomWright/dasel
 
 六、协程并发
-
 - https://github.com/topics/concurrency?l=go
 - https://github.com/topics/goroutine?l=go
 - https://github.com/topics/pool?l=go
@@ -662,7 +661,6 @@
 - [ ] https://github.com/valyala/bytebufferpool
 
 七、日志处理
-
 - https://github.com/topics/log?l=go
 - https://github.com/topics/logger?l=go
 - https://github.com/topics/logging?l=go
@@ -708,7 +706,6 @@
 - [ ] https://github.com/m-mizutani/zlog
 
 八、错误处理
-
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
@@ -729,6 +726,7 @@
 - [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/utkusen/reqstress
 - [ ] https://github.com/matryer/is
+- [ ] https://github.com/smartystreets/goconvey
 
 十、电子邮件
 - https://github.com/topics/mail?l=go
@@ -867,6 +865,7 @@
 
 二十、机器学习
 - [ ] https://github.com/sjwhitworth/golearn
+- [ ] https://github.com/replicate/cog
 
 二十一、时间日期
 - [ ] https://github.com/jinzhu/now
@@ -882,7 +881,6 @@
 - [ ] https://github.com/robertkrimen/gxc
 
 二十三、其他框架
-
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -1425,7 +1423,6 @@
 - [ ] https://github.com/michelin/ChopChop
 - [ ] https://github.com/Hyperspace-Logistics/heart
 - [ ] https://github.com/yahoo/gryffin
-- [ ] https://github.com/smartystreets/goconvey
 - [ ] https://github.com/pion/webrtc
 - [ ] https://github.com/gomodules/notify
 - [ ] https://github.com/caarlos0/env
@@ -1950,6 +1947,7 @@
 - [ ] https://github.com/abiosoft/colima
 - [ ] https://github.com/Janusec/janusec
 - [ ] https://github.com/shuveb/containers-the-hard-way
+- [ ] https://github.com/evan-buss/openbooks
 
 ## 0x05-Golang安全
 
