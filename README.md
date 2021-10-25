@@ -1208,6 +1208,7 @@
 - [ ] https://github.com/Mzack9999/roundrobin
 - [ ] https://github.com/meowgorithm/defaults
 - [ ] https://github.com/hunterhug/go_image | 图片处理 | 1
+- [ ] https://github.com/bytedance/gopkg
 
 ## 0x04-Golang项目
 
@@ -1953,6 +1954,9 @@
 - [ ] https://github.com/Janusec/janusec
 - [ ] https://github.com/shuveb/containers-the-hard-way
 - [ ] https://github.com/evan-buss/openbooks
+- [ ] https://github.com/KubeOperator/KubePi
+- [ ] https://github.com/awgh/ratnet
+- [ ] https://github.com/xntrik/hcltm
 
 ## 0x05-Golang安全
 
@@ -1991,6 +1995,7 @@
 - [x] 接口扫描：https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
 - [x] 接口扫描：https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
 - [ ] 暴力破解：https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [ ] 暴力破解：https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
 - [ ] 暴力破解：https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [ ] 暴力破解：https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
 - [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
@@ -2402,6 +2407,7 @@
 -  [ ] https://github.com/jayus0821/scan-j
 -  [ ] https://github.com/bufsnake/blueming
 -  [ ] https://github.com/brittonhayes/pillager
+-  [ ] https://github.com/madneal/gshark
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
@@ -2987,7 +2993,6 @@
 - [ ] https://github.com/Sndav/MultiHoneypot
 - [ ] https://github.com/crow821/mayfly
 - [ ] https://github.com/tidwall/wal
-- [ ] https://github.com/madneal/gshark
 - [ ] https://github.com/Becivells/iconhash
 - [ ] https://github.com/v-byte-cpu/sx
 - [ ] https://github.com/Beatrice950201/araneid
