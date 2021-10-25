@@ -1957,6 +1957,9 @@
 - [ ] https://github.com/KubeOperator/KubePi
 - [ ] https://github.com/awgh/ratnet
 - [ ] https://github.com/xntrik/hcltm
+- [ ] https://github.com/vulsio/gost
+- [ ] https://github.com/smloli/panCheckUrl
+- [ ] https://github.com/parca-dev/parca
 
 ## 0x05-Golang安全
 
@@ -3117,6 +3120,7 @@
 - [ ] https://github.com/activecm/rita
 - [ ] https://github.com/aquasecurity/tfsec
 - [ ] https://github.com/Foxboron/sbctl
+- [ ] https://github.com/wireghoul/htshells
 
 ## 0x06-Golang逆向
 
