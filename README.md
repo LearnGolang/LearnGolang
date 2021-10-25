@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月25日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -469,7 +469,10 @@
 - 其他框架
 - [ ] https://github.com/fullstorydev/grpcurl
 
-三、文件处理
+三、类型系统
+- [ ] https://github.com/goplus/gop
+
+四、文件处理
 - TXT文件
 - [ ] https://golang.org/pkg/os
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
@@ -508,7 +511,8 @@
 - [ ] https://github.com/cnf/structhash | Hash计算 | 116
 - [ ] https://github.com/hpcloud/tail
 
-四、数据处理
+五、数据处理
+
 - MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
@@ -556,7 +560,7 @@
 - [ ] https://github.com/codenotary/immudb
 - [ ] https://github.com/doug-martin/goqu
 
-五、配置文件
+六、配置文件
 - JSON
 - https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
@@ -625,7 +629,7 @@
 - [ ] https://github.com/kris-nova/naml
 - [ ] https://github.com/TomWright/dasel
 
-六、协程并发
+七、协程并发
 - https://github.com/topics/concurrency?l=go
 - https://github.com/topics/goroutine?l=go
 - https://github.com/topics/pool?l=go
@@ -661,7 +665,7 @@
 - [ ] https://github.com/golang-queue/queue
 - [ ] https://github.com/valyala/bytebufferpool
 
-七、日志处理
+八、日志处理
 - https://github.com/topics/log?l=go
 - https://github.com/topics/logger?l=go
 - https://github.com/topics/logging?l=go
@@ -707,7 +711,7 @@
 - [ ] https://github.com/goreleaser/chglog
 - [ ] https://github.com/m-mizutani/zlog
 
-八、错误处理
+九、错误处理
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
@@ -715,7 +719,7 @@
 - [ ] https://github.com/cockroachdb/errors
 - [ ] https://github.com/WAY29/errors
 
-九、单元测试
+十、单元测试
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/fortio/fortio
@@ -730,7 +734,7 @@
 - [ ] https://github.com/matryer/is
 - [ ] https://github.com/smartystreets/goconvey
 
-十、电子邮件
+十一、电子邮件
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
 - https://github.com/topics/smtp?l=go
@@ -780,7 +784,7 @@
 - [ ]   https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
 - [ ]   https://github.com/knadh/listmonk
 
-十一、图形框架
+十二、图形框架
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
@@ -789,7 +793,7 @@
 - [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
-十二、Web框架
+十三、Web框架
 - https://github.com/topics/web?l=go
 - [ ] https://github.com/beego/beego
 - [ ] https://github.com/gohugoio/hugo
@@ -825,7 +829,7 @@
 - [ ] https://github.com/smallnest/go-web-framework-benchmark
 - [ ] https://github.com/qifengzhang007/GinSkeleton
 
-十三、爬虫框架
+十四、爬虫框架
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
 - [ ] https://github.com/zhshch2002/gospider
@@ -835,46 +839,46 @@
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/geziyor/geziyor
 
-十四、中间件框架
+十五、中间件框架
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
-十五、消息队列
+十六、消息队列
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/MasslessParticle/GoQ
 
-十六、Service Mesh
+十七、Service Mesh
 - [ ] https://github.com/istio/istio
 
-十七、RPC
+十八、RPC
 - [ ] https://github.com/smallnest/rpcx
 - [ ] https://github.com/grpc/grpc-go
 - [ ] https://github.com/cloudwego/kitex
 - [ ] https://github.com/AlexStocks/getty
 - [ ] https://github.com/go-kratos/kratos
 
-十八、图像处理
+十九、图像处理
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
-十九、RSS框架
+二十、RSS框架
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 - [ ] https://github.com/x0e1f/alerteye
 
-二十、机器学习
+二十一、机器学习
 - [ ] https://github.com/sjwhitworth/golearn
 - [ ] https://github.com/replicate/cog
 
-二十一、时间日期
+二十二、时间日期
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
 - [ ] https://github.com/nakabonne/tstorage
 
-二十二、交叉编译
+二十三、交叉编译
 - [ ] https://github.com/Gogods/gox
 - [ ] https://github.com/mitchellh/gox
 - [ ] https://github.com/karalabe/xgo
@@ -882,7 +886,7 @@
 - [ ] https://github.com/crazy-max/xgo
 - [ ] https://github.com/robertkrimen/gxc
 
-二十三、其他框架
+二十四、其他框架
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -1663,7 +1667,6 @@
 - [ ] https://github.com/go-ego/riot
 - [ ] https://github.com/guitmz/gocave
 - [ ] https://github.com/alecthomas/mph
-- [ ] https://github.com/goplus/gop
 - [ ] https://github.com/jesseduffield/lazydocker
 - [ ] https://github.com/pokemium/mettaur
 - [ ] https://github.com/google/wire
