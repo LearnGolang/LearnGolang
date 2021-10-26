@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月25日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1209,6 +1209,8 @@
 - [ ] https://github.com/meowgorithm/defaults
 - [ ] https://github.com/hunterhug/go_image | 图片处理 | 1
 - [ ] https://github.com/bytedance/gopkg
+- [ ] https://github.com/IllusionMan1212/gorc
+- [ ] https://github.com/mymmrac/the-line
 
 ## 0x04-Golang项目
 
@@ -1960,6 +1962,8 @@
 - [ ] https://github.com/vulsio/gost
 - [ ] https://github.com/smloli/panCheckUrl
 - [ ] https://github.com/parca-dev/parca
+- [ ] https://github.com/lima-vm/lima
+- [ ] https://github.com/minio/minio
 
 ## 0x05-Golang安全
 
@@ -2113,6 +2117,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/L-codes/MX1014
 -  [ ] https://github.com/projectdiscovery/httpx
 -  [ ] https://github.com/i11us0ry/goon
 -  [ ] https://github.com/chinacase/portScan
@@ -3035,7 +3040,6 @@
 - [ ] https://github.com/DominicBreuker/pspy
 - [ ] https://github.com/ren-zxcyq/nier
 - [ ] https://github.com/rabbitmask/MacOui
-- [ ] https://github.com/L-codes/MX1014
 - [ ] https://github.com/sorenisanerd/gotty
 - [ ] https://github.com/taielab/awesome-hacking-lists#go-642
 - [ ] https://github.com/microsoft/waflab
@@ -3103,7 +3107,6 @@
 - [ ] https://github.com/0xTeles/jsleak
 - [ ] https://github.com/karrick/godirwalk
 - [ ] https://github.com/CMatri/Gotato
-- [ ] https://github.com/0xrawsec/whids
 - [ ] https://github.com/pureqh/ConfigFind
 - [ ] https://github.com/signedsecurity/sigurlfind3r
 - [ ] https://github.com/hupe1980/gopwn
@@ -3121,6 +3124,8 @@
 - [ ] https://github.com/aquasecurity/tfsec
 - [ ] https://github.com/Foxboron/sbctl
 - [ ] https://github.com/wireghoul/htshells
+- [ ] https://github.com/nearform/gammaray
+- [ ] https://github.com/containernetworking/cni
 
 ## 0x06-Golang逆向
 
