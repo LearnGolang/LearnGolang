@@ -471,6 +471,7 @@
 
 三、类型系统
 - [ ] https://github.com/goplus/gop
+- [ ] https://github.com/88250/gulu
 
 四、文件处理
 - TXT文件
@@ -1211,6 +1212,8 @@
 - [ ] https://github.com/bytedance/gopkg
 - [ ] https://github.com/IllusionMan1212/gorc
 - [ ] https://github.com/mymmrac/the-line
+- [ ] https://github.com/serialx/hashring
+- [ ] https://github.com/smallnest/rpcx
 
 ## 0x04-Golang项目
 
@@ -1964,6 +1967,10 @@
 - [ ] https://github.com/parca-dev/parca
 - [ ] https://github.com/lima-vm/lima
 - [ ] https://github.com/minio/minio
+- [ ] https://github.com/therecipe/qt
+- [ ] https://github.com/siyuan-note/siyuan
+- [ ] https://github.com/go-kiss/monkey
+- [ ] https://github.com/kevwan/chatbot
 
 ## 0x05-Golang安全
 
@@ -2576,6 +2583,7 @@
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
 -  [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
+-  [ ] https://github.com/cntechpower/anywhere
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
 -  [ ] https://github.com/danielan/lonely-shell
@@ -2685,6 +2693,7 @@
 -  [ ] https://github.com/lwch/natpass
 -  [ ] https://github.com/EkiXu/reverse-shell-manager
 -  [ ] https://github.com/studentmain/socks6
+-  [ ] https://github.com/wzshiming/anyproxy
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
@@ -2841,7 +2850,6 @@
 - [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/jas502n/xray-crack
 - [ ] https://github.com/codingo/bbr
-- [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/netxfly/sec_check
 - [ ] https://github.com/peterhellberg/xip.name
 - [ ] https://github.com/playGitboy/bruteHASH
@@ -3126,6 +3134,7 @@
 - [ ] https://github.com/wireghoul/htshells
 - [ ] https://github.com/nearform/gammaray
 - [ ] https://github.com/containernetworking/cni
+- [ ] https://github.com/ahhh/GoRedLoot
 
 ## 0x06-Golang逆向
 
