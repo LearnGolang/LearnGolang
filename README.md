@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月26日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月27日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -377,6 +377,8 @@
 - [ ] https://github.com/desertbit/grumble
 - [ ] https://github.com/zalimeni/overdub
 - [ ] https://github.com/ogier/pflag
+- [ ] https://github.com/1pkg/gofire
+- [ ] https://github.com/1pkg/gomer
 
 二、网络框架
 - HTTP请求响应
@@ -412,6 +414,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/1pkg/hedgehog
 - [ ] https://github.com/dimfeld/httptreemux
 - [ ] https://github.com/qiniu/http
 - [ ] https://github.com/ddliu/go-httpclient
@@ -711,6 +714,7 @@
 - [ ] https://github.com/keakon/golog
 - [ ] https://github.com/goreleaser/chglog
 - [ ] https://github.com/m-mizutani/zlog
+- [ ] https://github.com/evalphobia/logrus_sentry
 
 九、错误处理
 - [ ] https://github.com/ducc/egg
@@ -1214,6 +1218,8 @@
 - [ ] https://github.com/mymmrac/the-line
 - [ ] https://github.com/serialx/hashring
 - [ ] https://github.com/smallnest/rpcx
+- [ ] https://github.com/1pkg/golatch
+- [ ] https://github.com/magefile/mage
 
 ## 0x04-Golang项目
 
@@ -1971,6 +1977,7 @@
 - [ ] https://github.com/siyuan-note/siyuan
 - [ ] https://github.com/go-kiss/monkey
 - [ ] https://github.com/kevwan/chatbot
+- [ ] https://github.com/willshang/go-crontab
 
 ## 0x05-Golang安全
 
@@ -2269,6 +2276,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/GGyao/YYScan
 -  [ ] https://github.com/inbug-team/InCloud
 -  [ ] https://github.com/ethicalhackingplayground/erebus
@@ -2293,7 +2301,6 @@
 -  [ ] https://github.com/botherder/kraken
 -  [ ] https://github.com/rverton/webanalyze
 -  [ ] https://github.com/TeraSecTeam/ary
--  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/thunderbarca/Noah
 -  [ ] https://github.com/wgpsec/AstaGo
 -  [ ] https://github.com/blackcrw/wprecon
@@ -2439,7 +2446,7 @@
 - [ ] https://github.com/Shivangx01b/CorsMe | 跨源资源共享错误配置扫描程序 | 105
 - [ ] https://github.com/Shivangx01b/BountyIt | 查找xss、lfi、rce、ssti等漏洞 | 33
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
-- [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 142
+- [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 253
 - [ ] https://github.com/hahwul/dalfox | 基于Go的参数分析和XSS扫描工具 | 957
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
@@ -2696,7 +2703,7 @@
 -  [ ] https://github.com/wzshiming/anyproxy
 
 十、内网渗透
-- [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 127
+- [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
 - [ ] https://github.com/TerminalJockey/CreepingVine
 - [ ] https://github.com/TerminalJockey/Skiddify
@@ -3135,6 +3142,7 @@
 - [ ] https://github.com/nearform/gammaray
 - [ ] https://github.com/containernetworking/cni
 - [ ] https://github.com/ahhh/GoRedLoot
+- [ ] https://github.com/deepfence/ThreatMapper
 
 ## 0x06-Golang逆向
 
