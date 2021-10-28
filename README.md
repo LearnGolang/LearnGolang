@@ -1223,6 +1223,8 @@
 - [ ] https://github.com/rung/go-safecast
 - [ ] https://github.com/go-task/task
 - [ ] https://github.com/dariubs/uniq
+- [ ] https://github.com/Iceber/iouring-go
+- [ ] https://github.com/go-pay/gopay
 
 ## 0x04-Golang项目
 
@@ -2280,6 +2282,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/GGyao/YYScan
 -  [ ] https://github.com/inbug-team/InCloud
@@ -2343,7 +2346,6 @@
 -  [ ] https://github.com/vaycore/vaycat
 -  [ ] https://github.com/h4ckdepy/depypocs
 -  [ ] https://github.com/ggg4566/PocStart
--  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/m0sway/JuD-Scan
 -  [ ] https://github.com/WAY29/pocV
 
