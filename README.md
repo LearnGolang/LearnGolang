@@ -1225,6 +1225,8 @@
 - [ ] https://github.com/dariubs/uniq
 - [ ] https://github.com/Iceber/iouring-go
 - [ ] https://github.com/go-pay/gopay
+- [ ] https://github.com/zeromicro/go-zero
+- [ ] https://github.com/tianon/gosu
 
 ## 0x04-Golang项目
 
@@ -1984,6 +1986,7 @@
 - [ ] https://github.com/GoogleContainerTools/skaffold
 - [ ] https://github.com/pressly/sup
 - [ ] https://github.com/dannypsnl/extend
+- [ ] https://github.com/seclab-ucr/SyzGen_setup
 
 ## 0x05-Golang安全
 
@@ -3150,6 +3153,7 @@
 - [ ] https://github.com/ahhh/GoRedLoot
 - [ ] https://github.com/cckuailong/Hyuga
 - [ ] https://github.com/vyrus001/go-mimikatz
+- [ ] https://github.com/thanm/dwarf-check
 
 ## 0x06-Golang逆向
 
