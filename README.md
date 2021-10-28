@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1220,6 +1220,9 @@
 - [ ] https://github.com/smallnest/rpcx
 - [ ] https://github.com/1pkg/golatch
 - [ ] https://github.com/magefile/mage
+- [ ] https://github.com/rung/go-safecast
+- [ ] https://github.com/go-task/task
+- [ ] https://github.com/dariubs/uniq
 
 ## 0x04-Golang项目
 
@@ -1444,7 +1447,6 @@
 - [ ] https://github.com/pion/webrtc
 - [ ] https://github.com/gomodules/notify
 - [ ] https://github.com/caarlos0/env
-- [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/moloch--/denim
 - [ ] https://github.com/chrislusf/seaweedfs
 - [ ] https://github.com/opencontainers/runc
@@ -1743,7 +1745,6 @@
 - [ ] https://github.com/rencalo770/gengine
 - [ ] https://github.com/derailed/popeye
 - [ ] https://github.com/rapidloop/rtop
-- [ ] https://github.com/jesseduffield/lazygit
 - [ ] https://github.com/perlin-network/noise
 - [ ] https://github.com/russross/blackfriday
 - [ ] https://github.com/mimuret/dtap
@@ -1978,6 +1979,9 @@
 - [ ] https://github.com/go-kiss/monkey
 - [ ] https://github.com/kevwan/chatbot
 - [ ] https://github.com/willshang/go-crontab
+- [ ] https://github.com/GoogleContainerTools/skaffold
+- [ ] https://github.com/pressly/sup
+- [ ] https://github.com/dannypsnl/extend
 
 ## 0x05-Golang安全
 
@@ -2996,7 +3000,7 @@
 - [ ] https://github.com/fireeye/goauditparser
 - [ ] https://github.com/jweny/check_jsonp_based_on_ast
 - [ ] https://github.com/bluesentinelsec/OffensiveGoLang
-- [ ] https://github.com/Tylous/Limelighter
+- [ ] https://github.com/Tylous/Limelighter | 用于生成假代码签名证书或签署真实证书的工具 | 531
 - [ ] https://github.com/0xrawsec/whids | Windows下的开源EDR | 233
 - [ ] https://github.com/rajveermalviya/go-wayland
 - [ ] https://github.com/devanshbatham/Gorecon
@@ -3142,8 +3146,8 @@
 - [ ] https://github.com/nearform/gammaray
 - [ ] https://github.com/containernetworking/cni
 - [ ] https://github.com/ahhh/GoRedLoot
-- [ ] https://github.com/deepfence/ThreatMapper
 - [ ] https://github.com/cckuailong/Hyuga
+- [ ] https://github.com/vyrus001/go-mimikatz
 
 ## 0x06-Golang逆向
 
