@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年10月29日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -455,6 +455,7 @@
 - [ ] https://github.com/xujiajun/gorouter
 - [ ] https://github.com/antlabs/httparser
 - [ ] https://github.com/easonlin404/license-proxy
+- [ ] https://github.com/tidwall/evio
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -462,6 +463,7 @@
 - [ ] https://github.com/nccgroup/wstalker
 - [ ] https://github.com/GameXG/ProxyClient
 - [ ] https://github.com/akkuman/rotateproxy
+- [ ] https://github.com/CreditTone/superproxy
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -1227,6 +1229,11 @@
 - [ ] https://github.com/go-pay/gopay
 - [ ] https://github.com/zeromicro/go-zero
 - [ ] https://github.com/tianon/gosu
+- [ ] https://github.com/vishvananda/netlink
+- [ ] https://github.com/google/go-cmp
+- [ ] https://github.com/akutz/memconn
+- [ ] https://github.com/refraction-networking/utls
+- [ ] https://github.com/wcharczuk/go-chart
 
 ## 0x04-Golang项目
 
@@ -1466,7 +1473,6 @@
 - [ ] https://github.com/cloudreve/Cloudreve
 - [ ] https://github.com/rsumner31/yanff
 - [ ] https://github.com/pulumi/pulumi
-- [ ] https://github.com/tidwall/evio
 - [ ] https://github.com/infracost/infracost
 - [ ] https://github.com/owncloud/ocis
 - [ ] https://github.com/panther-labs/panther
@@ -1987,6 +1993,9 @@
 - [ ] https://github.com/pressly/sup
 - [ ] https://github.com/dannypsnl/extend
 - [ ] https://github.com/seclab-ucr/SyzGen_setup
+- [ ] https://github.com/maxlandon/gondor
+- [ ] https://github.com/google/starlark-go
+- [ ] https://github.com/earthly/earthly
 
 ## 0x05-Golang安全
 
