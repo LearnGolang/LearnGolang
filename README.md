@@ -1996,6 +1996,8 @@
 - [ ] https://github.com/maxlandon/gondor
 - [ ] https://github.com/google/starlark-go
 - [ ] https://github.com/earthly/earthly
+- [ ] https://github.com/matrixorigin/matrixone
+- [ ] https://github.com/vmihailenco/msgpack
 
 ## 0x05-Golang安全
 
