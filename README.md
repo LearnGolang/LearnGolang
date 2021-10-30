@@ -3145,7 +3145,6 @@
 - [ ] https://github.com/atredispartners/flamingo
 - [ ] https://github.com/0xTeles/jsleak
 - [ ] https://github.com/karrick/godirwalk
-- [ ] https://github.com/CMatri/Gotato
 - [ ] https://github.com/pureqh/ConfigFind
 - [ ] https://github.com/signedsecurity/sigurlfind3r
 - [ ] https://github.com/hupe1980/gopwn
@@ -3167,7 +3166,6 @@
 - [ ] https://github.com/containernetworking/cni
 - [ ] https://github.com/ahhh/GoRedLoot
 - [ ] https://github.com/cckuailong/Hyuga
-- [ ] https://github.com/vyrus001/go-mimikatz
 - [ ] https://github.com/thanm/dwarf-check
 
 ## 0x06-Golang逆向
