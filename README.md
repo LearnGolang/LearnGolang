@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年10月31日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月04日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1235,6 +1235,7 @@
 - [ ] https://github.com/refraction-networking/utls
 - [ ] https://github.com/wcharczuk/go-chart
 - [ ] https://github.com/go-gota/gota
+- [ ] https://github.com/jianfengye/collection
 
 ## 0x04-Golang项目
 
@@ -2605,6 +2606,7 @@
 - [ ] https://github.com/rootklt/go-uuid-loader
 - [ ] https://github.com/NyDubh3/CuiRi
 - [ ] https://github.com/FourCoreLabs/EDRHunt
+- [ ] https://github.com/akkuman/gSigFlip
 
 九、代理隧道
 -  https://github.com/topics/proxy?l=go
@@ -2614,6 +2616,7 @@
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
 -  [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
+-  [ ] https://github.com/FunnyWolf/TFirewall
 -  [ ] https://github.com/cntechpower/anywhere
 -  [ ] https://github.com/uknowsec/frpModify
 -  [ ] https://github.com/Dliv3/Venom
@@ -2995,7 +2998,6 @@
 - [ ] https://github.com/yuin/gopher-lua
 - [ ] https://github.com/TRYblog/go-Tubi
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
-- [ ] https://github.com/malfunkt/iprange
 - [ ] https://github.com/EmYiQing/go-wafw00f
 - [ ] https://github.com/canc3s/cSubsidiary
 - [ ] https://github.com/sensepost/ruler
