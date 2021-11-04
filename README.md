@@ -1236,6 +1236,7 @@
 - [ ] https://github.com/wcharczuk/go-chart
 - [ ] https://github.com/go-gota/gota
 - [ ] https://github.com/jianfengye/collection
+- [ ] https://github.com/zh-five/xdaemon
 
 ## 0x04-Golang项目
 
@@ -3052,7 +3053,6 @@
 - [ ] https://github.com/sasdf/nyan
 - [ ] https://github.com/NithinChintala/amalloc
 - [ ] https://github.com/kha7iq/pingme
-- [ ] https://github.com/C-Sto/BananaPhone
 - [ ] https://github.com/kgoins/ldsview
 - [ ] https://github.com/sebastianwebber/cmdr
 - [ ] https://github.com/davrodpin/mole
