@@ -2261,6 +2261,7 @@
 - [ ] https://github.com/tangxiaofeng7/Suscan
 - [ ] https://github.com/lakevilladom/goSkylar
 - [ ] https://github.com/redtoolskobe/scaninfo
+- [ ] https://github.com/fe1w0/assetMap
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
