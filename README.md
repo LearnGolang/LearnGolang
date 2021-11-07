@@ -2008,6 +2008,9 @@
 - [ ] https://github.com/fastwego/feishu
 - [ ] https://github.com/alexballas/go2tv
 - [ ] https://github.com/superfly/dropspy
+- [ ] https://github.com/variadico/noti
+- [ ] https://github.com/yuriizinets/kyoto
+- [ ] https://github.com/osrg/gobgp
 
 ## 0x05-Golang安全
 
@@ -2418,6 +2421,7 @@
 - [ ] https://github.com/djhohnstein/ghidorah
 - [ ] https://github.com/giteshnxtlvl/cook | 轻松创建单词列表和密码列表 | 231
 - [ ] https://github.com/kitabisa/ssb
+- [ ] https://github.com/sairson/goSQL
 
 六、路径扫描
 -  https://github.com/topics/fuzzer?l=go
