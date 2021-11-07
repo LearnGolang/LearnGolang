@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月06日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月7日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -414,6 +414,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
+- [ ] https://github.com/jweny/xhttp | 应用于扫描器场景下的http基础库 | 13
 - [ ] https://github.com/1pkg/hedgehog
 - [ ] https://github.com/dimfeld/httptreemux
 - [ ] https://github.com/qiniu/http
@@ -1239,6 +1240,7 @@
 - [ ] https://github.com/zh-five/xdaemon
 - [ ] https://github.com/silenceshell/hcache
 - [ ] https://github.com/go-gorm/gen
+- [ ] https://github.com/satori/go.uuid
 
 ## 0x04-Golang项目
 
