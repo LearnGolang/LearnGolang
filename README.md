@@ -1243,6 +1243,9 @@
 - [ ] https://github.com/silenceshell/hcache
 - [ ] https://github.com/go-gorm/gen
 - [ ] https://github.com/satori/go.uuid
+- [ ] https://github.com/xntrik/hcltm
+- [ ] https://github.com/bp0lr/gauplus
+- [ ] https://github.com/lox/bkl
 
 ## 0x04-Golang项目
 
@@ -2986,7 +2989,6 @@
 - [ ] https://github.com/drsigned/corsmisc
 - [ ] https://github.com/drsigned/sigdork
 - [ ] https://github.com/drsigned/lazyhunter
-- [ ] https://github.com/moonD4rk/HackBrowserData
 - [ ] https://github.com/sundowndev/PhoneInfoga
 - [ ] https://github.com/mdempsky/deferfuzz
 - [ ] https://github.com/MiSecurity/x-patrol
@@ -3183,6 +3185,8 @@
 - [ ] https://github.com/ahhh/GoRedLoot
 - [ ] https://github.com/cckuailong/Hyuga
 - [ ] https://github.com/thanm/dwarf-check
+- [ ] https://github.com/lqqyt2423/go-mitmproxy
+- [ ] https://github.com/virusdefender/cert-copier
 
 ## 0x06-Golang逆向
 
