@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -302,6 +302,7 @@
 - [ ] https://github.com/egonelbre/gophers
 - [ ] https://github.com/voidint/g
 - [ ] https://github.com/unknwon/go-code-convention
+- [ ] https://github.com/miekg/learninggo
 
 ## 0x02-Golang标准
 
@@ -328,13 +329,14 @@
 
 本章节用于记录Go语言中的优秀框架资源，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
 
-- https://pkg.go.dev
-- https://github.com/GoGods
 - https://github.com/topics/golang-library
 - https://github.com/topics/framework?l=go
 - https://github.com/topics/golang-application
+- https://pkg.go.dev
+- https://github.com/gogods
 - https://github.com/q191201771/naza
-- https://github.com/darjun/go-daily-lib | Go语言每日一库 | 1.1k
+- https://github.com/darjun/go-daily-lib | Go语言每日一库 | 2.2k
+- https://github.com/huntersudo/go-all
 
 一、命令参数
 - https://github.com/topics/cli?l=go
@@ -458,6 +460,10 @@
 - [ ] https://github.com/antlabs/httparser
 - [ ] https://github.com/easonlin404/license-proxy
 - [ ] https://github.com/tidwall/evio
+
+- FTP
+- [ ] https://github.com/jlaffaye/ftp
+
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -606,6 +612,7 @@
 - [ ] https://github.com/tailscale/hujson
 - [ ] https://github.com/misakafs/json-to-go
 - [ ] https://github.com/Unknwon/goconfig
+- [ ] https://github.com/cristalhq/aconfig
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -637,6 +644,7 @@
 - [ ] https://github.com/alecthomas/participle
 - [ ] https://github.com/kris-nova/naml
 - [ ] https://github.com/TomWright/dasel
+- [ ] https://github.com/EFForg/yaya
 
 七、协程并发
 - https://github.com/topics/concurrency?l=go
@@ -1246,6 +1254,7 @@
 - [ ] https://github.com/xntrik/hcltm
 - [ ] https://github.com/bp0lr/gauplus
 - [ ] https://github.com/lox/bkl
+- [ ] https://github.com/goretk/gore | 用于分析Go二进制文件的库 | 204
 
 ## 0x04-Golang项目
 
@@ -1626,7 +1635,6 @@
 - [ ] https://github.com/caarlos0/svu
 - [ ] https://github.com/google/gops
 - [ ] https://github.com/dropbox/kglb
-- [ ] https://github.com/google/wire
 - [ ] https://github.com/earthly/earthly
 - [ ] https://github.com/liamg/gifwrap
 - [ ] https://github.com/heroiclabs/nakama
@@ -1705,7 +1713,6 @@
 - [ ] https://github.com/alecthomas/mph
 - [ ] https://github.com/jesseduffield/lazydocker
 - [ ] https://github.com/pokemium/mettaur
-- [ ] https://github.com/google/wire
 - [ ] https://github.com/pgaskin/dictutil
 - [ ] https://github.com/encoredev/encore
 - [ ] https://github.com/riltech/streamer
@@ -2017,6 +2024,7 @@
 - [ ] https://github.com/yuriizinets/kyoto
 - [ ] https://github.com/osrg/gobgp
 - [ ] https://github.com/lmika/goseq
+- [ ] https://github.com/rule110-io/surge
 
 ## 0x05-Golang安全
 
@@ -2273,6 +2281,7 @@
 - [ ] https://github.com/lakevilladom/goSkylar
 - [ ] https://github.com/redtoolskobe/scaninfo
 - [ ] https://github.com/fe1w0/assetMap
+- [ ] https://github.com/wgpsec/ENScanGo
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
