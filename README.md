@@ -1255,6 +1255,7 @@
 - [ ] https://github.com/bp0lr/gauplus
 - [ ] https://github.com/lox/bkl
 - [ ] https://github.com/goretk/gore | 用于分析Go二进制文件的库 | 204
+- [ ] https://github.com/sevlyar/go-daemon
 
 ## 0x04-Golang项目
 
@@ -2025,6 +2026,7 @@
 - [ ] https://github.com/osrg/gobgp
 - [ ] https://github.com/lmika/goseq
 - [ ] https://github.com/rule110-io/surge
+- [ ] https://github.com/coyim/coyim
 
 ## 0x05-Golang安全
 
