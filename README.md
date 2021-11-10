@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月9日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月10日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -122,6 +122,7 @@
 - [ ] [《Go Web编程》](https://item.jd.com/12252845.html)@黄健宏译
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
+- [ ] [《Go语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
 
 二、英文书籍
 - https://github.com/dariubs/GoBooks
@@ -381,6 +382,7 @@
 - [ ] https://github.com/ogier/pflag
 - [ ] https://github.com/1pkg/gofire
 - [ ] https://github.com/1pkg/gomer
+- [ ] https://github.com/arthurvdiniz/goli
 
 二、网络框架
 - HTTP请求响应
@@ -613,6 +615,7 @@
 - [ ] https://github.com/misakafs/json-to-go
 - [ ] https://github.com/Unknwon/goconfig
 - [ ] https://github.com/cristalhq/aconfig
+- [ ] https://github.com/mailru/easyjson
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1256,6 +1259,9 @@
 - [ ] https://github.com/lox/bkl
 - [ ] https://github.com/goretk/gore | 用于分析Go二进制文件的库 | 204
 - [ ] https://github.com/sevlyar/go-daemon
+- [ ] https://github.com/uber-go/dig
+- [ ] https://github.com/zh-five/xdaemon |  一个让go程序快速后台运行的库 | 44
+- [ ] https://github.com/periph/cmd
 
 ## 0x04-Golang项目
 
@@ -1288,6 +1294,7 @@
 - [ ] https://github.com/Akatsuki-py/OpenPokemonRed
 - [ ] https://github.com/duzhi5368/FKGoServer
 - [ ] https://github.com/A11Might/PacVim
+- [ ] https://github.com/maaslalani/confetty
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1396,7 +1403,6 @@
 - [ ] https://github.com/mvdan/corpus
 - [ ] https://github.com/icattlecoder/godaemon
 - [ ] https://github.com/naiba/nocd
-- [ ] https://github.com/mailru/easyjson
 - [ ] https://github.com/DimitarPetrov/stegify
 - [ ] https://github.com/ouqiang/gocron
 - [ ] https://github.com/zqjzqj/mtSecKill
@@ -2027,6 +2033,9 @@
 - [ ] https://github.com/lmika/goseq
 - [ ] https://github.com/rule110-io/surge
 - [ ] https://github.com/coyim/coyim
+- [ ] https://github.com/evilsocket/ditto
+- [ ] https://github.com/target/goalert
+- [ ] https://github.com/xjblszyy/JiuJia
 
 ## 0x05-Golang安全
 
@@ -2284,6 +2293,7 @@
 - [ ] https://github.com/redtoolskobe/scaninfo
 - [ ] https://github.com/fe1w0/assetMap
 - [ ] https://github.com/wgpsec/ENScanGo
+- [ ] https://github.com/inspiringz/fofa
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -3198,6 +3208,9 @@
 - [ ] https://github.com/thanm/dwarf-check
 - [ ] https://github.com/lqqyt2423/go-mitmproxy
 - [ ] https://github.com/virusdefender/cert-copier
+- [ ] https://github.com/Rvn0xsy/zipcreater
+- [ ] https://github.com/bin3xish477/htf
+- [ ] https://github.com/ShangRui-hash/siusiu
 
 ## 0x06-Golang逆向
 
