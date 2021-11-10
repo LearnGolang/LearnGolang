@@ -304,6 +304,7 @@
 - [ ] https://github.com/voidint/g
 - [ ] https://github.com/unknwon/go-code-convention
 - [ ] https://github.com/miekg/learninggo
+- [ ] https://github.com/buffge/gobyexample
 
 ## 0x02-Golang标准
 
@@ -576,6 +577,7 @@
 - [ ] https://github.com/didi/gendry
 - [ ] https://github.com/codenotary/immudb
 - [ ] https://github.com/doug-martin/goqu
+- [ ] https://github.com/alash3al/sqler
 
 六、配置文件
 - JSON
