@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月12日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -2801,7 +2801,6 @@
 - 钓鱼模板
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
 - [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
-- [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/dsnezhkov/deepsea
 - [ ] https://github.com/dutchcoders/ares
 - [ ] https://github.com/cybercdh/kitphishr
@@ -2839,12 +2838,15 @@
 - [ ] https://github.com/ajm113/brutaLog
 - [ ] https://github.com/kgretzky/evilginx2
 - [ ] https://github.com/yunginnanet/HellPot
-- [ ] https://github.com/seccome/Ehoney
 - [ ] https://github.com/dutchcoders/troje
 - [ ] https://github.com/decoymini/DecoyMini
 - [ ] https://github.com/xiecat/goblin
 - [ ] https://github.com/MountCloud/FireBee
 - [ ] https://github.com/SkewwG/henggeFish
+
+- 蜜罐项目
+- [ ] https://github.com/hacklcx/HFish
+- [ ] https://github.com/seccome/Ehoney
 
 十二、代码审计
 - [ ] https://github.com/0c34/govwa
