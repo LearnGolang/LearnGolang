@@ -1259,10 +1259,11 @@
 - [ ] https://github.com/bp0lr/gauplus
 - [ ] https://github.com/lox/bkl
 - [ ] https://github.com/goretk/gore | 用于分析Go二进制文件的库 | 204
-- [ ] https://github.com/sevlyar/go-daemon
-- [ ] https://github.com/uber-go/dig
 - [ ] https://github.com/zh-five/xdaemon |  一个让go程序快速后台运行的库 | 44
 - [ ] https://github.com/periph/cmd
+- [ ] https://github.com/uber-go/dig
+- [ ] https://github.com/sevlyar/go-daemon
+- [ ] https://github.com/nikolaydubina/go-svgpan
 
 ## 0x04-Golang项目
 
@@ -2039,6 +2040,8 @@
 - [ ] https://github.com/xjblszyy/JiuJia
 - [ ] https://github.com/kubeedge/kubeedge
 - [ ] https://github.com/tylertreat/comcast
+- [ ] https://github.com/gobuffalo/plush
+- [ ] https://github.com/vmware-tanzu/octant
 
 ## 0x05-Golang安全
 
