@@ -2044,6 +2044,7 @@
 - [ ] https://github.com/gobuffalo/plush
 - [ ] https://github.com/vmware-tanzu/octant
 - [ ] https://github.com/CortexFoundation/torrentfs
+- [ ] https://github.com/ycd/dstp
 
 ## 0x05-Golang安全
 
@@ -2501,6 +2502,7 @@
 -  [ ] https://github.com/bufsnake/blueming
 -  [ ] https://github.com/brittonhayes/pillager
 -  [ ] https://github.com/madneal/gshark
+-  [ ] https://github.com/jiaocoll/GoBackupscan
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
