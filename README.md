@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月16日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1300,6 +1300,7 @@
 - [ ] https://github.com/duzhi5368/FKGoServer
 - [ ] https://github.com/A11Might/PacVim
 - [ ] https://github.com/maaslalani/confetty
+- [ ] https://github.com/xushiwei/Gobang
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1309,6 +1310,7 @@
 - [ ] https://github.com/PuerkitoBio/fetchbot
 - [ ] https://github.com/LMFrank/Go_Crawler
 - [ ] https://github.com/Qianlitp/crawlergo
+- [ ] https://github.com/edermi/skweez
 
 四、图形项目
 - [ ] https://github.com/fyne-io/7guis
@@ -2129,7 +2131,7 @@
 - [ ] https://github.com/Q2h1Cg/dnsbrute | 快速的域蛮力工具 | 346
 - [ ] https://github.com/codeexpress/subdomainrecon | 子域枚举工具 | 12
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
-- [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 849
+- [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 1.5k
 - [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
 - [ ] https://github.com/5l1v3r1/sigsubs
 - [ ] https://github.com/michenriksen/aquatone
