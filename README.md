@@ -1935,7 +1935,6 @@
 - [ ] https://github.com/go-playground/validator
 - [ ] https://github.com/Maka8ka/NGLite
 - [ ] https://github.com/zzfly256/php-linter-go
-- [ ] https://github.com/restic/restic
 - [ ] https://github.com/samvrlewis/meshboi
 - [ ] https://github.com/hr3lxphr6j/bililive-go
 - [ ] https://github.com/amacneil/dbmate
@@ -2050,6 +2049,13 @@
 - [ ] https://github.com/CortexFoundation/torrentfs
 - [ ] https://github.com/ycd/dstp
 - [ ] https://github.com/rayboot/tts-go
+- [ ] https://github.com/sigstore/fulcio
+- [ ] https://github.com/strang1ato/nhi
+- [ ] https://github.com/prometheus/alertmanager
+- [ ] https://github.com/crossplane/crossplane
+- [ ] https://github.com/ardanlabs/service
+- [ ] https://github.com/iangcarroll/cookiemonster
+- [ ] https://github.com/lkarlslund/azureimposter
 
 ## 0x05-Golang安全
 
@@ -2781,6 +2787,8 @@
 -  [ ] https://github.com/EkiXu/reverse-shell-manager
 -  [ ] https://github.com/studentmain/socks6
 -  [ ] https://github.com/wzshiming/anyproxy
+-  [ ] https://github.com/dtapps/go-ssh-tunnel
+-  [ ] https://github.com/TRYblog/multiplexing_port_socks5
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
@@ -3228,6 +3236,7 @@
 - [ ] https://github.com/Rvn0xsy/zipcreater
 - [ ] https://github.com/bin3xish477/htf
 - [ ] https://github.com/ShangRui-hash/siusiu
+- [ ] https://github.com/informalsystems/gosec
 
 ## 0x06-Golang逆向
 
