@@ -2057,6 +2057,7 @@
 - [ ] https://github.com/iangcarroll/cookiemonster
 - [ ] https://github.com/lkarlslund/azureimposter
 - [ ] https://github.com/aidansteele/cloudkey
+- [ ] https://github.com/mysticbinary/gotoscaffold
 
 ## 0x05-Golang安全
 
