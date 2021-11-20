@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月20日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -49,6 +49,7 @@
 - [ ] [《Go语言原本》](https://github.com/golang-design/under-the-hood)@欧长坤
 - [ ] [《Golang修养之路》](https://github.com/aceld/golang)@刘丹冰
 - [ ] [《Go语言编程之旅》](https://item.jd.com/12685249.html)@陈剑煜 徐新华
+- [ ] [《Go语言项目开发上手指南》](https://item.jd.com/13371318.html)@谢伟
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
 - [ ] [《Go语言底层原理剖析》](https://item.jd.com/13398708.html)@郑建勋
@@ -59,6 +60,7 @@
 - [ ] [《Go语言高并发与微服务实战》](https://item.jd.com/12857160.html)@朱荣鑫
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 - [ ] [《Go语言从基础到中台微服务实战》](https://item.jd.com/13320222.html)@朱著显
+- [ ] [《Go微服务实战》](https://item.jd.com/13131372.html)@刘金亮
 - [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
@@ -72,6 +74,7 @@
 - [ ] [《Mastering_Go_中文》](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN)@hantmac译
 - [ ] [《Go实战开发》](https://github.com/astaxie/go-best-practice)@谢孟军
 - [ ] [《Go语言入门教程》](http://c.biancheng.net/golang)@编程帮
+- [ ] [《机器学习：Go语言实现》](https://item.jd.com/12473046.html)@谢文江等译
 - [ ] [《Go语言学习室》](https://www.kancloud.cn/digest/batu-go/153520)@liuxinming
 - [ ] [《易百Go语言教程》](https://www.yiibai.com/go)@Maxsu
 - [ ] [《golang语言学习笔记》](https://github.com/webtao520/golang_project)@webtao
@@ -465,6 +468,7 @@
 - [ ] https://github.com/easonlin404/license-proxy
 - [ ] https://github.com/tidwall/evio
 - [ ] https://github.com/aofei/r2
+- [ ] https://github.com/shlin168/go-whois
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - IP代理
@@ -1246,7 +1250,6 @@
 - [ ] https://github.com/go-pay/gopay
 - [ ] https://github.com/zeromicro/go-zero
 - [ ] https://github.com/tianon/gosu
-- [ ] https://github.com/vishvananda/netlink
 - [ ] https://github.com/google/go-cmp
 - [ ] https://github.com/akutz/memconn
 - [ ] https://github.com/refraction-networking/utls
@@ -1269,6 +1272,7 @@
 - [ ] https://github.com/zeebo/xxh3
 - [ ] https://github.com/piligo/gmssl
 - [ ] https://github.com/nadoo/ipset
+- [ ] https://github.com/40t/go-sniffer
 
 ## 0x04-Golang项目
 
@@ -2061,6 +2065,7 @@
 - [ ] https://github.com/aidansteele/cloudkey
 - [ ] https://github.com/mysticbinary/gotoscaffold
 - [ ] https://github.com/cbeuw/Cloak
+- [ ] https://github.com/galaxy-future/BridgX
 
 ## 0x05-Golang安全
 
