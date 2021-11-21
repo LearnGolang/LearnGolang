@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月20日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月21日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -273,7 +273,6 @@
 - [ ] https://github.com/pingyeaa/golang-examples
 - [ ] https://github.com/enocom/gopher-reading-list
 - [ ] https://github.com/study-core/go1.14.6-analysis
-- [ ] https://github.com/enocom/gopher-reading-list
 - [ ] https://github.com/yangwenmai/learning-golang
 - [ ] https://github.com/bjmayor/GoPlayWithCompiler
 - [ ] https://github.com/polaris1119/dive-go-opensource
@@ -303,7 +302,7 @@
 - [ ] https://github.com/GoTurkiye/training
 - [ ] https://github.com/wolf27w/golang-learn
 - [ ] https://github.com/pjh130/go
-- [ ] https://github.com/egonelbre/gophers
+- [ ] https://github.com/egonelbre/gophers | Go语言吉祥物图标 | 2.5k
 - [ ] https://github.com/voidint/g
 - [ ] https://github.com/unknwon/go-code-convention
 - [ ] https://github.com/miekg/learninggo
