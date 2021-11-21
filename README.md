@@ -470,6 +470,8 @@
 - [ ] https://github.com/shlin168/go-whois
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
+- RDP
+- [ ] https://github.com/tomatome/grdp
 - IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
@@ -2065,6 +2067,7 @@
 - [ ] https://github.com/mysticbinary/gotoscaffold
 - [ ] https://github.com/cbeuw/Cloak
 - [ ] https://github.com/galaxy-future/BridgX
+- [ ] https://github.com/chris124567/hulu
 
 ## 0x05-Golang安全
 
