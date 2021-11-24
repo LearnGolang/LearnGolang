@@ -392,6 +392,7 @@
 二、网络框架
 - HTTP请求响应
 - https://github.com/topics/request?l=go
+- [ ] https://github.com/Gogods/dshttp
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 15.2k
 - [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
@@ -469,6 +470,7 @@
 - [ ] https://github.com/tidwall/evio
 - [ ] https://github.com/aofei/r2
 - [ ] https://github.com/shlin168/go-whois
+- [ ] https://github.com/hashicorp/go-retryablehttp
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -500,7 +502,8 @@
 四、文件处理
 - TXT文件
 - [ ] https://golang.org/pkg/os
-- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 45
+- [x] https://github.com/Gogods/dstxt
+- [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 46
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/qiniu/text
 - [ ] https://github.com/schollz/pluck
@@ -1274,6 +1277,7 @@
 - [ ] https://github.com/piligo/gmssl
 - [ ] https://github.com/nadoo/ipset
 - [ ] https://github.com/40t/go-sniffer
+- [ ] https://github.com/shirou/gopsutil
 
 ## 0x04-Golang项目
 
@@ -2068,6 +2072,8 @@
 - [ ] https://github.com/cbeuw/Cloak
 - [ ] https://github.com/galaxy-future/BridgX
 - [ ] https://github.com/chris124567/hulu
+- [ ] https://github.com/jcchavezs/porto
+- [ ] https://github.com/praetorian-inc/trident
 
 ## 0x05-Golang安全
 
