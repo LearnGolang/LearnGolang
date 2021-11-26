@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月24日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -395,7 +395,7 @@
 - [ ] https://github.com/Gogods/dshttp
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 15.2k
-- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 10
+- [ ] https://github.com/dean2021/firehttp | 专门用于开发安全工具的HTTP类库 | 14
 - [ ] https://github.com/julienschmidt/httprouter | 轻量级高性能HTTP请求路由器 | 12.4k
 - [ ] https://github.com/imroc/req | 一个用于人类的HTTP请求库 | 1.7k
 - [ ] https://github.com/anaskhan96/soup | Go中的网页抓取工具 | 1.6k
@@ -471,6 +471,7 @@
 - [ ] https://github.com/aofei/r2
 - [ ] https://github.com/shlin168/go-whois
 - [ ] https://github.com/hashicorp/go-retryablehttp
+- [ ] https://github.com/bujnlc8/kuafu
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -1278,6 +1279,9 @@
 - [ ] https://github.com/nadoo/ipset
 - [ ] https://github.com/40t/go-sniffer
 - [ ] https://github.com/shirou/gopsutil
+- [ ] https://github.com/bytedance/godlp
+- [ ] https://github.com/hello-bytes/gobase
+- [ ] https://github.com/niudaii/go-find
 
 ## 0x04-Golang项目
 
@@ -2074,6 +2078,8 @@
 - [ ] https://github.com/chris124567/hulu
 - [ ] https://github.com/jcchavezs/porto
 - [ ] https://github.com/praetorian-inc/trident
+- [ ] https://github.com/dop251/goja
+- [ ] https://github.com/assetnote/kiterunner
 
 ## 0x05-Golang安全
 
@@ -2376,6 +2382,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/GGyao/YYScan
@@ -2442,6 +2449,7 @@
 -  [ ] https://github.com/ggg4566/PocStart
 -  [ ] https://github.com/m0sway/JuD-Scan
 -  [ ] https://github.com/WAY29/pocV
+-  [ ] https://github.com/zema1/yarx
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -3296,6 +3304,7 @@
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/goretk/redress
+- [ ] https://github.com/liamg/extrude
 - [ ] https://www.4hou.com/posts/8OJ2
 - [ ] https://bbs.pediy.com/thread-263921.htm
 - [ ] https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw
