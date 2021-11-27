@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月26日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月27日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -308,6 +308,7 @@
 - [ ] https://github.com/miekg/learninggo
 - [ ] https://github.com/buffge/gobyexample
 - [ ] https://github.com/halfrost/Halfrost-Field
+- [ ] https://github.com/xinliangnote/Go
 
 ## 0x02-Golang标准
 
@@ -920,7 +921,11 @@
 - [ ] https://github.com/crazy-max/xgo
 - [ ] https://github.com/robertkrimen/gxc
 
-二十四、其他框架
+二十四、定时任务
+- [ ] https://github.com/robfig/cron
+- [ ] https://github.com/jasonlvhit/gocron
+
+二十五、其他框架
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -982,7 +987,6 @@
 - [ ] https://github.com/zmap/zcrypto
 - [ ] https://github.com/rmb122/rogue_mysql_server
 - [ ] https://github.com/go-ffmt/ffmt
-- [ ] https://github.com/jasonlvhit/gocron
 - [ ] https://github.com/mitchellh/mapstructure
 - [ ] https://github.com/onsi/gomega
 - [ ] https://github.com/apuigsech/seekret
@@ -1191,7 +1195,6 @@
 - [ ] https://github.com/hahwul/volt
 - [ ] https://github.com/CobaltZirs0n/gopackage
 - [ ] https://github.com/douyu/jupiter
-- [ ] https://github.com/robfig/cron
 - [ ] https://github.com/charmbracelet/harmonica
 - [ ] https://github.com/hashicorp/go-bexpr
 - [ ] https://github.com/erda-project/erda-infra
@@ -2080,6 +2083,10 @@
 - [ ] https://github.com/praetorian-inc/trident
 - [ ] https://github.com/dop251/goja
 - [ ] https://github.com/assetnote/kiterunner
+- [ ] https://github.com/glebarez/padre
+- [ ] https://github.com/hajimehoshi/gooslibc
+- [ ] https://github.com/evilsocket/shellz
+- [ ] https://github.com/chenjiandongx/clock
 
 ## 0x05-Golang安全
 
@@ -2338,6 +2345,8 @@
 - [ ] https://github.com/fe1w0/assetMap
 - [ ] https://github.com/wgpsec/ENScanGo
 - [ ] https://github.com/inspiringz/fofa
+- [ ] https://github.com/DSO-Lab/gwaf
+- [ ] https://github.com/hakuQAQ/Holmes
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
