@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年11月27日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年11月28日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -554,6 +554,7 @@
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/xelabs/go-mysqlstack
 - [ ] https://github.com/vitessio/vitess
+- [ ] https://github.com/niudaii/go-sql
 - MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
@@ -2087,6 +2088,7 @@
 - [ ] https://github.com/hajimehoshi/gooslibc
 - [ ] https://github.com/evilsocket/shellz
 - [ ] https://github.com/chenjiandongx/clock
+- [ ] https://github.com/pkg/profile
 
 ## 0x05-Golang安全
 
@@ -2549,6 +2551,7 @@
 -  [ ] https://github.com/brittonhayes/pillager
 -  [ ] https://github.com/madneal/gshark
 -  [ ] https://github.com/jiaocoll/GoBackupscan
+-  [ ] https://github.com/ethicalhackingplayground/tprox
 
 七、Web安全
 -  https://github.com/topics/xss?l=go
@@ -3273,6 +3276,8 @@
 - [ ] https://github.com/informalsystems/gosec
 - [ ] https://github.com/chenjiandongx/sniffer
 - [ ] https://github.com/huichen/kunlun
+- [ ] https://github.com/Qv2ray/mmp-go
+- [ ] https://github.com/nodauf/GoMapEnum
 
 ## 0x06-Golang逆向
 
