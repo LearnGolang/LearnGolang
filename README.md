@@ -2089,6 +2089,7 @@
 - [ ] https://github.com/evilsocket/shellz
 - [ ] https://github.com/chenjiandongx/clock
 - [ ] https://github.com/pkg/profile
+- [ ] https://github.com/songzhibin97/gkit
 
 ## 0x05-Golang安全
 
@@ -3279,6 +3280,8 @@
 - [ ] https://github.com/Qv2ray/mmp-go
 - [ ] https://github.com/nodauf/GoMapEnum
 - [ ] https://github.com/CTF-go/CTFgo
+- [ ] https://github.com/vidar-team/Cardinal
+- [ ] https://github.com/thoughtworks/talisman
 
 ## 0x06-Golang逆向
 
