@@ -2462,6 +2462,7 @@
 -  [ ] https://github.com/m0sway/JuD-Scan
 -  [ ] https://github.com/WAY29/pocV
 -  [ ] https://github.com/zema1/yarx
+-  [ ] https://github.com/RedTeamWing/XScan
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -3388,5 +3389,7 @@
 - https://github.com/hashicorp
 - https://github.com/kitabisa
 - https://github.com/optiv
+
+<img src="0x01-Golang资源/08-其他资源/wx.png" style="zoom:50%;" />
 
 [![Stargazers over time](https://starchart.cc//0e0w/LearnGolang.svg)](https://starchart.cc/0e0w/LearnGolang)
