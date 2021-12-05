@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -250,6 +250,7 @@
 七、面试资料
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/iswbm/golang-interview
+- [ ] https://github.com/luckygopher/go-interview
 
 八、其他资源
 - [ ] https://github.com/gocn/cool-go
@@ -474,6 +475,7 @@
 - [ ] https://github.com/shlin168/go-whois
 - [ ] https://github.com/hashicorp/go-retryablehttp
 - [ ] https://github.com/bujnlc8/kuafu
+- [ ] https://github.com/hashicorp/go-retryablehttp
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -632,6 +634,7 @@
 - [ ] https://github.com/Unknwon/goconfig
 - [ ] https://github.com/cristalhq/aconfig
 - [ ] https://github.com/mailru/easyjson
+- [ ] https://github.com/fiatjaf/jiq
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -682,7 +685,7 @@
 - [ ] https://github.com/go-playground/pool | 有限的或无限制的goroutine |612
 - [ ] https://github.com/gammazero/workerpool | 并发限制goroutine池 | 511
 - [ ] https://github.com/wazsmwazsm/mortar | 简单好用的高性能任务池 | 67
-- [ ] https://github.com/hibiken/asynq | 简单可靠高效的分布式任务队列 | 1.2k
+- [ ] https://github.com/hibiken/asynq | 简单可靠高效的分布式任务队列 | 1.9k
 - [ ] https://github.com/modern-go/concurrent | 并发实用程序 | 190
 - [ ] https://github.com/sherifabdlnaby/gpool | 上下文可调整的goroutines | 78
 - [ ] https://github.com/marusama/cyclicbarrier
@@ -973,7 +976,6 @@
 - [ ] https://github.com/traefik/yaegi
 - [ ] https://github.com/signintech/gopdf
 - [ ] https://github.com/gogf/focus
-- [ ] https://github.com/blugelabs/bluge
 - [ ] https://github.com/yourbasic/graph
 - [ ] https://github.com/xgfone/bt
 - [ ] https://github.com/rqlite/rqlite
@@ -2466,6 +2468,7 @@
 -  [ ] https://github.com/zema1/yarx
 -  [ ] https://github.com/RedTeamWing/XScan
 -  [ ] https://github.com/workcha/goScanner
+-  [ ] https://github.com/ssssdl/GoHttpProxyScan
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2952,6 +2955,7 @@
 - [ ] https://github.com/steeve/itool
 - [ ] https://github.com/togettoyou/super-signature
 - [ ] https://github.com/mwpcheung/gsalogin
+- [ ] https://github.com/fengjixuchui/iOSTracer
 
 十六、漏洞赏金
 - [ ] https://github.com/sw33tLie/bbscope
@@ -3290,6 +3294,7 @@
 - [ ] https://github.com/IceWhaleTech/CasaOS
 - [ ] https://github.com/FDlucifer/Proxy-Attackchain
 - [ ] https://github.com/sairson/hacktools
+- [ ] https://github.com/Ed1s0nZ/banana_blackmail
 
 ## 0x06-Golang逆向
 
