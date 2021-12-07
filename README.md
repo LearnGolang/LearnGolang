@@ -2400,6 +2400,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/yhy0/RustScan
 -  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/CTF-MissFeng/GoScan
