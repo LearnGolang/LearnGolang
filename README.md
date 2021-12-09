@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -499,6 +499,7 @@
 - 其他框架
 - [ ] https://github.com/fullstorydev/grpcurl
 - [ ] https://github.com/go-cierra/sockets
+- [ ] https://github.com/nakabonne/ali
 
 三、类型系统
 - [ ] https://github.com/goplus/gop
@@ -926,6 +927,7 @@
 - [ ] https://github.com/laher/goxc
 - [ ] https://github.com/crazy-max/xgo
 - [ ] https://github.com/robertkrimen/gxc
+- [ ] https://github.com/workcha/crossCompile
 
 二十四、定时任务
 - [ ] https://github.com/robfig/cron
@@ -2098,6 +2100,8 @@
 - [ ] https://github.com/pkg/profile
 - [ ] https://github.com/songzhibin97/gkit
 - [ ] https://github.com/sourcegraph/sourcegraph
+- [ ] https://github.com/tkestack/kstone
+- [ ] https://github.com/LdDl/cnns
 
 ## 0x05-Golang安全
 
