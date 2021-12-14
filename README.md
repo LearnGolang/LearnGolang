@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -596,6 +596,7 @@
 - [ ] https://github.com/doug-martin/goqu
 - [ ] https://github.com/alash3al/sqler
 - [ ] https://github.com/uptrace/bun
+- [ ] https://github.com/dubbogo/arana
 
 六、配置文件
 - JSON
@@ -1334,6 +1335,7 @@
 - [ ] https://github.com/maaslalani/confetty
 - [ ] https://github.com/xushiwei/Gobang
 - [ ] https://github.com/lunatikub/sugolver
+- [ ] https://github.com/EndlessCheng/mahjong-helper
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -1344,6 +1346,7 @@
 - [ ] https://github.com/LMFrank/Go_Crawler
 - [ ] https://github.com/Qianlitp/crawlergo
 - [ ] https://github.com/edermi/skweez
+- [ ] https://github.com/Le0nsec/SecCrawler
 
 四、图形项目
 - [ ] https://github.com/fyne-io/7guis
@@ -2484,6 +2487,7 @@
 -  [ ] https://github.com/RedTeamWing/XScan
 -  [ ] https://github.com/workcha/goScanner
 -  [ ] https://github.com/ssssdl/GoHttpProxyScan
+-  [ ] https://github.com/xm1k3/cent
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -3311,6 +3315,7 @@
 - [ ] https://github.com/FDlucifer/Proxy-Attackchain
 - [ ] https://github.com/sairson/hacktools
 - [ ] https://github.com/Ed1s0nZ/banana_blackmail
+- [ ] https://github.com/AlphabugX/Alphalog
 
 ## 0x06-Golang逆向
 
