@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月19日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -311,6 +311,7 @@
 - [ ] https://github.com/halfrost/Halfrost-Field
 - [ ] https://github.com/xinliangnote/Go
 - [ ] https://github.com/chai2010/ugo-compiler-book
+- [ ] https://github.com/ssbandjl/golang-design-pattern
 
 ## 0x02-Golang标准
 
@@ -2112,6 +2113,7 @@
 - [ ] https://github.com/LdDl/cnns
 - [ ] https://github.com/antonmedv/llama
 - [ ] https://github.com/mat/besticon
+- [ ] https://github.com/d5/tengo
 
 ## 0x05-Golang安全
 
@@ -2371,6 +2373,7 @@
 - [ ] https://github.com/wgpsec/ENScanGo
 - [ ] https://github.com/DSO-Lab/gwaf
 - [ ] https://github.com/hakuQAQ/Holmes
+- [ ] https://github.com/ShangRui-hash/white-hat-helper
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2855,6 +2858,7 @@
 -  [ ] https://github.com/wzshiming/anyproxy
 -  [ ] https://github.com/dtapps/go-ssh-tunnel
 -  [ ] https://github.com/TRYblog/multiplexing_port_socks5
+-  [ ] https://github.com/NHAS/reverse_ssh
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
@@ -3317,6 +3321,8 @@
 - [ ] https://github.com/Ed1s0nZ/banana_blackmail
 - [ ] https://github.com/AlphabugX/Alphalog
 - [ ] https://github.com/penghaojie/port
+- [ ] https://github.com/awesee/php2go
+- [ ] https://github.com/Its-Vichy/GoriaNet
 
 ## 0x06-Golang逆向
 
