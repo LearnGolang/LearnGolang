@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月20日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -505,6 +505,8 @@
 三、类型系统
 - [ ] https://github.com/goplus/gop
 - [ ] https://github.com/88250/gulu
+- [ ] https://github.com/qax-os/goreporter
+- [ ] https://github.com/zyedidia/generic
 
 四、文件处理
 - TXT文件
@@ -1301,6 +1303,7 @@
 - [ ] https://github.com/integrii/flaggy
 - [ ] https://github.com/rogchap/v8go
 - [ ] https://github.com/ConsenSys/gnark
+- [ ] https://github.com/aceld/zmem
 
 ## 0x04-Golang项目
 
@@ -2114,6 +2117,7 @@
 - [ ] https://github.com/antonmedv/llama
 - [ ] https://github.com/mat/besticon
 - [ ] https://github.com/d5/tengo
+- [ ] https://github.com/oschina/kooder
 
 ## 0x05-Golang安全
 
@@ -2599,6 +2603,7 @@
 - [ ] https://github.com/Shivangx01b/BountyIt | 查找xss、lfi、rce、ssti等漏洞 | 33
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
 - [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 253
+- [ ] https://github.com/Buzz2d0/Hyuga | 检测带外流量的监控工具 | 217
 - [ ] https://github.com/hahwul/dalfox | 基于Go的参数分析和XSS扫描工具 | 957
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
@@ -3167,7 +3172,6 @@
 - [ ] https://github.com/nccgroup/ConMachi
 - [ ] https://github.com/assetnote/kiterunner
 - [ ] https://github.com/Shopify/toxiproxy
-- [ ] https://github.com/Buzz2d0/Hyuga
 - [ ] https://github.com/BishopFox/smogcloud
 - [ ] https://github.com/redcode-labs/UnChain
 - [ ] https://github.com/redcode-labs/Sammler
@@ -3323,6 +3327,7 @@
 - [ ] https://github.com/penghaojie/port
 - [ ] https://github.com/awesee/php2go
 - [ ] https://github.com/Its-Vichy/GoriaNet
+- [ ] https://github.com/kljensen/snowball
 
 ## 0x06-Golang逆向
 
