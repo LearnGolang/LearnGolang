@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月25日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月26日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -2123,6 +2123,7 @@
 - [ ] https://github.com/oschina/kooder
 - [ ] https://github.com/TencentBlueKing/gopkg
 - [ ] https://github.com/gotvc/got
+- [ ] https://github.com/disksing/sao-gen-gen
 
 ## 0x05-Golang安全
 
@@ -2276,6 +2277,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/stanford-esrg/lzr
 -  [ ] https://github.com/L-codes/MX1014
 -  [ ] https://github.com/projectdiscovery/httpx
 -  [ ] https://github.com/i11us0ry/goon
@@ -2384,6 +2386,7 @@
 - [ ] https://github.com/DSO-Lab/gwaf
 - [ ] https://github.com/hakuQAQ/Holmes
 - [ ] https://github.com/ShangRui-hash/white-hat-helper
+- [ ] https://github.com/xiecat/fofax
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2463,7 +2466,6 @@
 -  [ ] https://github.com/1ight-2020/Struts2Scanner
 -  [ ] https://github.com/deepsecurity-pe/GoGhost
 -  [ ] https://github.com/six2dez/reconftw
--  [ ] https://github.com/stanford-esrg/lzr
 -  [ ] https://github.com/canc3s/shiro
 -  [ ] https://github.com/sw33tLie/sns
 -  [ ] https://github.com/x51/STS2G
@@ -2501,6 +2503,7 @@
 -  [ ] https://github.com/workcha/goScanner
 -  [ ] https://github.com/ssssdl/GoHttpProxyScan
 -  [ ] https://github.com/xm1k3/cent
+-  [ ] https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
