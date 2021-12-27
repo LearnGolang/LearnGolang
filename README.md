@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月26日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月27日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -926,6 +926,7 @@
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
 - [ ] https://github.com/nakabonne/tstorage
+- [ ] https://github.com/cappuccinotm/trn
 
 二十三、交叉编译
 - [ ] https://github.com/Gogods/gox
@@ -1479,7 +1480,6 @@
 - [ ] https://github.com/blizzy78/ebitenui
 - [ ] https://github.com/alexellis/k3sup
 - [ ] https://github.com/writeas/writefreely
-- [ ] https://github.com/shirou/gopsutil
 - [ ] https://github.com/google/grumpy
 - [ ] https://github.com/benbjohnson/hashfs
 - [ ] https://github.com/zhangyunhao116/skipset
@@ -2361,6 +2361,7 @@
 -  [ ] https://github.com/zyxpaomian/go-fping
 -  [ ] https://github.com/3th1nk/cidr
 -  [ ] https://github.com/LeakIX/l9tcpid
+-  [ ] https://github.com/soreatu/PortScanner
 
 三、资产收集
 - [x] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
