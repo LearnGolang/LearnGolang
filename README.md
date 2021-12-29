@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月29日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -2574,6 +2574,7 @@
 - [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
+- [ ] https://github.com/assetnote/kiterunner
 - [ ] https://github.com/TRYblog/DirScan
 - [ ] https://github.com/M4DM0e/DirDar
 - [ ] https://github.com/vlad-s/gofuzzyourself
@@ -3182,7 +3183,6 @@
 - [ ] https://github.com/aquasecurity/starboard
 - [ ] https://github.com/Alaa-abdulridha/SerpScan
 - [ ] https://github.com/nccgroup/ConMachi
-- [ ] https://github.com/assetnote/kiterunner
 - [ ] https://github.com/Shopify/toxiproxy
 - [ ] https://github.com/BishopFox/smogcloud
 - [ ] https://github.com/redcode-labs/UnChain
