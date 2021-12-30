@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月29日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月30日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -393,6 +393,7 @@
 - [ ] https://github.com/arthurvdiniz/goli
 - [ ] https://github.com/knqyf263/pet
 - [ ] https://github.com/LeakIX/LeakIXClient
+- [ ] https://github.com/charmbracelet/charm
 
 二、网络框架
 - HTTP请求响应
@@ -548,6 +549,8 @@
 - [ ] https://github.com/sajari/docconv
 - [ ] https://github.com/cnf/structhash | Hash计算 | 116
 - [ ] https://github.com/hpcloud/tail
+- [ ] https://github.com/antchfx/htmlquery
+- [ ] https://github.com/xuri/xgen
 
 五、数据处理
 
@@ -642,6 +645,7 @@
 - [ ] https://github.com/cristalhq/aconfig
 - [ ] https://github.com/mailru/easyjson
 - [ ] https://github.com/fiatjaf/jiq
+- [ ] https://github.com/caarlos0/jsonfmt
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -2432,6 +2436,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/yhy0/RustScan
 -  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/EmYiQing/XiuScan
@@ -2490,7 +2495,6 @@
 -  [ ] https://github.com/dwisiswant0/proxylogscan
 -  [ ] https://github.com/SECFORCE/sparta
 -  [ ] https://github.com/YE-Kits/hunter
--  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/coffeehb-org/autoscan
 -  [ ] https://github.com/YanMu2020/SpringScan
 -  [ ] https://github.com/sairson/FscanX
