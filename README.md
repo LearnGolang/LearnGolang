@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2021年12月30日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2021年12月31日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1115,7 +1115,6 @@
 - [ ] https://github.com/gomidi/midi
 - [ ] https://github.com/birchb1024/frangipanni
 - [ ] https://github.com/ThreeDotsLabs/watermill
-- [ ] https://github.com/projectdiscovery/wappalyzergo
 - [ ] https://github.com/blevesearch/bleve
 - [ ] https://github.com/eko/gocache
 - [ ] https://github.com/blackjack/webcam
@@ -2366,6 +2365,8 @@
 -  [ ] https://github.com/3th1nk/cidr
 -  [ ] https://github.com/LeakIX/l9tcpid
 -  [ ] https://github.com/soreatu/PortScanner
+-  [ ] https://github.com/rverton/webanalyze
+-  [ ] https://github.com/projectdiscovery/wappalyzergo
 
 三、资产收集
 - [x] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
@@ -2509,6 +2510,7 @@
 -  [ ] https://github.com/ssssdl/GoHttpProxyScan
 -  [ ] https://github.com/xm1k3/cent
 -  [ ] https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+-  [ ] https://github.com/yqcs/hvcs
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
