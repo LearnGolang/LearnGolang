@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月2日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -479,6 +479,7 @@
 - [ ] https://github.com/hashicorp/go-retryablehttp
 - [ ] https://github.com/bujnlc8/kuafu
 - [ ] https://github.com/hashicorp/go-retryablehttp
+- [ ] https://github.com/codazoda/x3
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -725,6 +726,7 @@
 - [ ] https://github.com/rs/zerolog | 零分配JSON记录器 | 4.6k
 - [ ] https://github.com/oklog/oklog | 分布式无协调日志管理系统 | 2.9k
 - [ ] https://github.com/golang/glog | Go的分级执行日志 | 2.7k
+- [ ] https://github.com/kataras/golog
 - [ ] https://github.com/go-clog/clog
 - [ ] https://github.com/davecgh/go-spew
 - [ ] https://github.com/go-clog/clog
@@ -742,7 +744,6 @@
 - [ ] https://github.com/influxdata/go-syslog
 - [ ] https://github.com/phuslu/log
 - [ ] https://github.com/stern/stern
-- [ ] https://github.com/kataras/golog
 - [ ] https://github.com/cihub/seelog
 - [ ] https://github.com/YoungPioneers/blog4go
 - [ ] https://github.com/mkideal/log
@@ -2393,6 +2394,7 @@
 - [ ] https://github.com/hakuQAQ/Holmes
 - [ ] https://github.com/ShangRui-hash/white-hat-helper
 - [ ] https://github.com/xiecat/fofax
+- [ ] https://github.com/shmilylty/netspy
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2511,6 +2513,8 @@
 -  [ ] https://github.com/xm1k3/cent
 -  [ ] https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
 -  [ ] https://github.com/yqcs/hvcs
+-  [ ] https://github.com/AuFeng111/afscan
+-  [ ] https://github.com/arminc/clair-scanner
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -3350,6 +3354,7 @@
 - [ ] https://github.com/LeakIX/l9plugins
 - [ ] https://github.com/shangzeng/GolangTools
 - [ ] https://github.com/ThreatUnkown/jsubfinder
+- [ ] https://github.com/phith0n/zkar
 
 ## 0x06-Golang逆向
 
