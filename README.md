@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月3日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -480,6 +480,7 @@
 - [ ] https://github.com/bujnlc8/kuafu
 - [ ] https://github.com/hashicorp/go-retryablehttp
 - [ ] https://github.com/codazoda/x3
+- [ ] https://github.com/go-fed/httpsig
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -1312,6 +1313,7 @@
 - [ ] https://github.com/aceld/zmem
 - [ ] https://github.com/liangdas/mqant
 - [ ] https://github.com/pbrong/hrms
+- [ ] https://github.com/SimonWaldherr/golang-benchmarks
 
 ## 0x04-Golang项目
 
@@ -2281,6 +2283,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/stanford-esrg/lzr
 -  [ ] https://github.com/L-codes/MX1014
 -  [ ] https://github.com/projectdiscovery/httpx
@@ -2385,7 +2388,7 @@
 - [ ] https://github.com/i11us0ry/tool-iFofa
 - [ ] https://github.com/inspiringz/fofa
 - [ ] https://github.com/hanc00l/nemo_go
-- [ ] https://github.com/tangxiaofeng7/Suscan
+- [ ] https://github.com/j5s/Suscan
 - [ ] https://github.com/lakevilladom/goSkylar
 - [ ] https://github.com/redtoolskobe/scaninfo
 - [ ] https://github.com/fe1w0/assetMap
@@ -2395,6 +2398,7 @@
 - [ ] https://github.com/ShangRui-hash/white-hat-helper
 - [ ] https://github.com/xiecat/fofax
 - [ ] https://github.com/shmilylty/netspy
+- [ ] https://github.com/ShangRui-hash/arp-spoofing-go
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2441,7 +2445,6 @@
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
 -  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/yhy0/RustScan
--  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/EmYiQing/XiuScan
 -  [ ] https://github.com/CTF-MissFeng/GoScan
 -  [ ] https://github.com/GGyao/YYScan
@@ -2576,7 +2579,7 @@
 - [ ] https://github.com/dzonerzy/goWAPT | 瑞士军刀wfuzz的弟弟 | 285
 - [ ] https://github.com/liamg/scout | 发现Web未公开的文件目录 | 209
 - [ ] https://github.com/hihebark/gds | 在网站上搜索隐藏的路径 | 6
-- [ ] https://github.com/evilsocket/dirsearch | dirsearch的Go实现 | 154
+- [ ] https://github.com/evilsocket/dirsearch | dirsearch的Go实现 | 213
 - [ ] https://github.com/brem-hub/godirb | 快速的目录扫描工具 | 0
 - [ ] https://github.com/stefanoj3/dirstalk | dirbuster和dirb的现代替代品 | 181
 - [ ] https://github.com/Matir/webborer | Go编写的目录枚举工具 | 42
@@ -2981,6 +2984,7 @@
 - [ ] https://github.com/dengsgo/fileboy | 文件变更监听通知工具 | 361
 - [ ] https://github.com/quay/clair
 - [ ] https://github.com/super-l/codelines
+- [ ] https://github.com/MorouU/robin-go
 
 十三、编码规范
 - [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
@@ -3099,7 +3103,6 @@
 - [ ] https://github.com/tomsteele/pen-utils
 - [ ] https://github.com/esrrhs/fastreplace
 - [ ] https://github.com/anasbousselham/fortiscan
-- [ ] https://github.com/aceld/zinx
 - [ ] https://github.com/creekorful/trandoshan
 - [ ] https://github.com/lc/subjs
 - [ ] https://github.com/inguardians/peirates
