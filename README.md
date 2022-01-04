@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月4日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -481,6 +481,7 @@
 - [ ] https://github.com/hashicorp/go-retryablehttp
 - [ ] https://github.com/codazoda/x3
 - [ ] https://github.com/go-fed/httpsig
+- [ ] https://github.com/fanux/lhttp
 - FTP
 - [ ] https://github.com/jlaffaye/ftp
 - RDP
@@ -501,6 +502,7 @@
 - [ ] https://github.com/AlfredBerg/dnsline
 - [ ] https://github.com/awgh/madns
 - [ ] https://github.com/coredns/coredns
+- [ ] https://github.com/vaycore/DNStxt-exp
 - 其他框架
 - [ ] https://github.com/fullstorydev/grpcurl
 - [ ] https://github.com/go-cierra/sockets
@@ -648,6 +650,7 @@
 - [ ] https://github.com/mailru/easyjson
 - [ ] https://github.com/fiatjaf/jiq
 - [ ] https://github.com/caarlos0/jsonfmt
+- [ ] https://github.com/hajimehoshi/hitsumabushi
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -659,6 +662,7 @@
 - [ ] https://github.com/bronze1man/yaml2json
 - [ ] https://github.com/goccy/go-yaml
 - [ ] https://github.com/mikefarah/yq
+- [ ] https://github.com/hillu/go-yara
 - INI
 - https://github.com/topics/ini?l=go
 - [ ] https://github.com/go-ini/ini
@@ -2165,12 +2169,14 @@
 -  https://github.com/topics/subdomain-scanner?l=go
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
+- [ ] https://github.com/Goqi/MiFeng
 - [x] 接口扫描：https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
 - [x] 接口扫描：https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
 - [ ] 暴力破解：https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
 - [ ] 暴力破解：https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
 - [ ] 暴力破解：https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
 - [ ] 暴力破解：https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [ ] 网页爬虫：https://github.com/ThreatUnkown/jsubfinder | 搜索网页的js分析隐藏的子域 | 68
 - [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
@@ -2373,7 +2379,7 @@
 -  [ ] https://github.com/projectdiscovery/wappalyzergo
 
 三、资产收集
-- [x] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
+- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
 - [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
@@ -2518,6 +2524,7 @@
 -  [ ] https://github.com/yqcs/hvcs
 -  [ ] https://github.com/AuFeng111/afscan
 -  [ ] https://github.com/arminc/clair-scanner
+-  [ ] https://github.com/De1os/Apollo
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2570,6 +2577,7 @@
 -  https://github.com/topics/fuzz?l=go
 -  https://github.com/topics/dirbuster?l=go
 -  https://github.com/topics/webscan?l=go
+- [ ] https://github.com/Goqi/DirTurtle
 - [ ] https://github.com/l2-team/cmsfingers
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
 - [ ] https://github.com/adamtlangley/ffufme | ffuf 的目标练习 | 23
@@ -2661,6 +2669,7 @@
 - https://github.com/search?l=Go&q=shellcode
 - https://github.com/search?l=Go&q=bypass
 - https://github.com/topics/shellcode-loader
+- [ ] https://github.com/Goqi/Bianse
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
 - [ ] https://github.com/jax777/shellcode-launch | go shellcode 加载器 | 22
@@ -2769,6 +2778,7 @@
 -  https://github.com/topics/proxy?l=go
 -  https://github.com/topics/tunnel?l=go
 -  https://github.com/topics/reverse-proxy?l=go
+-  [ ] https://github.com/Goqi/Duoli
 -  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
@@ -2890,6 +2900,7 @@
 -  [ ] https://github.com/NHAS/reverse_ssh
 -  [ ] https://github.com/kost/revsocks
 -  [ ] https://github.com/chdav/GoWard
+-  [ ] https://github.com/sleeyax/ja3rp
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
@@ -2918,8 +2929,7 @@
 - [ ] https://github.com/thedevsaddam/dl
 
 十一、蜜罐钓鱼
-- 邮件发送
-- 钓鱼模板
+- [ ] https://github.com/Goqi/Ziya
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
 - [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
 - [ ] https://github.com/dsnezhkov/deepsea
@@ -2963,13 +2973,18 @@
 - [ ] https://github.com/xiecat/goblin
 - [ ] https://github.com/MountCloud/FireBee
 - [ ] https://github.com/SkewwG/henggeFish
+- [ ] https://github.com/Rvn0xsy/Pricking
 - 蜜罐项目
 - [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/seccome/Ehoney
 - [ ] https://github.com/decoymini/DecoyMini
 - [ ] https://github.com/r3aker/DeceptionDefense
 
+- 邮件发送
+- 钓鱼模板
+
 十二、代码审计
+- [ ] https://github.com/Goqi/RiYue
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
 - [ ] https://github.com/ynqa/diffy
@@ -3356,7 +3371,6 @@
 - [ ] https://github.com/LeakIX/l9explore
 - [ ] https://github.com/LeakIX/l9plugins
 - [ ] https://github.com/shangzeng/GolangTools
-- [ ] https://github.com/ThreatUnkown/jsubfinder
 - [ ] https://github.com/phith0n/zkar
 
 ## 0x06-Golang逆向
