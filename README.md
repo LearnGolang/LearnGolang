@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -22,8 +22,9 @@
 - https://github.com/shockerli/go-awesome
 - https://github.com/yinggaozhen/awesome-go-cn
 - https://github.com/0voice/Introduction-to-Golang
+- https://github.com/trending/go
 
-一、中文书籍
+一、中文资源
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
@@ -127,7 +128,7 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《Go语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
 
-二、英文书籍
+二、英文资源
 - https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -182,6 +183,8 @@
 - [ ] https://github.com/hoanhan101/ultimate-go | The Ultimate Go Study Guide | 14.3k
 - [ ] https://github.com/ardanlabs/gotraining | Go Training Class Material | 9.1k
 - [ ] [《web-dev-golang-anti-textbook》](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)@thewhitetulip
+- [ ] [《100 Go Mistakes and How to Avoid Them》](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)@teivah
+- [ ] https://github.com/teivah/100-go-mistakes
 
 三、视频教程
 - [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
@@ -2405,6 +2408,8 @@
 - [ ] https://github.com/xiecat/fofax
 - [ ] https://github.com/shmilylty/netspy
 - [ ] https://github.com/ShangRui-hash/arp-spoofing-go
+- [ ] https://github.com/Athena1337/blackJack
+- [ ] https://github.com/ErSuan/gotoscan
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2663,6 +2668,8 @@
 - [ ] https://github.com/ethicalhackingplayground/ssrf-tool
 - [ ] https://github.com/kleiton0x00/ppmap
 - [ ] https://github.com/EmYiQing/Gososerial
+- [ ] https://github.com/MorouU/nightingale
+- [ ] https://github.com/ShangRui-hash/xss-platform
 
 八、病毒免杀
 - https://github.com/topics/shellcode?l=go
