@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月6日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月7日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -1321,6 +1321,7 @@
 - [ ] https://github.com/liangdas/mqant
 - [ ] https://github.com/pbrong/hrms
 - [ ] https://github.com/SimonWaldherr/golang-benchmarks
+- [ ] https://github.com/projectdiscovery/interactsh
 
 ## 0x04-Golang项目
 
@@ -2137,6 +2138,8 @@
 - [ ] https://github.com/TencentBlueKing/gopkg
 - [ ] https://github.com/gotvc/got
 - [ ] https://github.com/disksing/sao-gen-gen
+- [ ] https://github.com/IceFireDB/IceFireDB-Proxy
+- [ ] https://github.com/tkellogg/dura
 
 ## 0x05-Golang安全
 
@@ -3381,6 +3384,8 @@
 - [ ] https://github.com/shangzeng/GolangTools
 - [ ] https://github.com/phith0n/zkar
 - [ ] https://github.com/XmirrorSecurity/OpenSCA-cli
+- [ ] https://github.com/iasthc/hsuan-fuzz
+- [ ] https://github.com/thepudds/fzgen
 
 ## 0x06-Golang逆向
 
