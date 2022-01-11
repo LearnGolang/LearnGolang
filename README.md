@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月11日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -25,6 +25,7 @@
 - https://github.com/trending/go
 
 一、中文资源
+- [ ] [《Go语言原理》](https://github.com/GoYL/GoYL)@0e0w
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
@@ -315,6 +316,7 @@
 - [ ] https://github.com/xinliangnote/Go
 - [ ] https://github.com/chai2010/ugo-compiler-book
 - [ ] https://github.com/ssbandjl/golang-design-pattern
+- [ ] https://github.com/razeencheng/demo-go
 
 ## 0x02-Golang标准
 
@@ -654,6 +656,7 @@
 - [ ] https://github.com/fiatjaf/jiq
 - [ ] https://github.com/caarlos0/jsonfmt
 - [ ] https://github.com/hajimehoshi/hitsumabushi
+- [ ] https://github.com/go-faster/jx
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1323,6 +1326,7 @@
 - [ ] https://github.com/SimonWaldherr/golang-benchmarks
 - [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/bugfan/conn
+- [ ] https://github.com/esrrhs/go-engine
 
 ## 0x04-Golang项目
 
@@ -2143,6 +2147,7 @@
 - [ ] https://github.com/tkellogg/dura
 - [ ] https://github.com/rakyll/hey
 - [ ] https://github.com/lanyulei/ferry
+- [ ] https://github.com/smartcontractkit/chainlink
 
 ## 0x05-Golang安全
 
@@ -2652,6 +2657,7 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/sukmoonlee/packetlog
 - [ ] https://github.com/vrechson/ademir
 - [ ] https://github.com/thatsn0tmysite/xsserve
 - [ ] https://github.com/EmYiQing/go-sqlmap
