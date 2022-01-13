@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月12日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月13日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -399,6 +399,7 @@
 - [ ] https://github.com/knqyf263/pet
 - [ ] https://github.com/LeakIX/LeakIXClient
 - [ ] https://github.com/charmbracelet/charm
+- [ ] https://github.com/muesli/mango
 
 二、网络框架
 - HTTP请求响应
@@ -541,6 +542,7 @@
 - [ ] https://github.com/qax-os/excelize
 - [ ] https://github.com/foolin/gocsv
 - [ ] https://github.com/jm33-m0/txt2csv
+- [ ] https://github.com/tmickleydoyle/shallow-explore
 - Word文件
 - [ ] https://github.com/unidoc/unioffice
 - [ ] https://github.com/sajari/word2vec
@@ -3401,6 +3403,7 @@
 - [ ] https://github.com/gruntwork-io/cloud-nuke
 - [ ] https://github.com/argoproj/argo-events
 - [ ] https://github.com/rhysd/gocaml
+- [ ] https://github.com/u35s/ag
 
 ## 0x06-Golang逆向
 
