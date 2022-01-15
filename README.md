@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月14日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -500,6 +500,7 @@
 - [ ] https://github.com/GameXG/ProxyClient
 - [ ] https://github.com/akkuman/rotateproxy
 - [ ] https://github.com/CreditTone/superproxy
+- [ ] https://github.com/lqqyt2423/go-mitmproxy
 - DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -3370,7 +3371,6 @@
 - [ ] https://github.com/ahhh/GoRedLoot
 - [ ] https://github.com/cckuailong/Hyuga
 - [ ] https://github.com/thanm/dwarf-check
-- [ ] https://github.com/lqqyt2423/go-mitmproxy
 - [ ] https://github.com/virusdefender/cert-copier
 - [ ] https://github.com/Rvn0xsy/zipcreater
 - [ ] https://github.com/bin3xish477/htf
