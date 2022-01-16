@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月16日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -436,7 +436,7 @@
 - [ ] https://github.com/projectdiscovery/rawhttp | 原始的HTTP客户端 | 23
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
-- [ ] https://github.com/jweny/xhttp | 应用于扫描器场景下的http基础库 | 13
+- [ ] https://github.com/xiecat/xhttp | 应用于扫描器场景下的http基础库 | 13
 - [ ] https://github.com/astaxie/bat
 - [ ] https://github.com/1pkg/hedgehog
 - [ ] https://github.com/dimfeld/httptreemux
@@ -515,6 +515,7 @@
 - [ ] https://github.com/fullstorydev/grpcurl
 - [ ] https://github.com/go-cierra/sockets
 - [ ] https://github.com/nakabonne/ali
+- [ ] https://github.com/digineo/go-ping
 
 三、类型系统
 - [ ] https://github.com/goplus/gop
@@ -564,6 +565,7 @@
 - [ ] https://github.com/hpcloud/tail
 - [ ] https://github.com/antchfx/htmlquery
 - [ ] https://github.com/xuri/xgen
+- [ ] https://github.com/benoitkugler/textlayout
 
 五、数据处理
 
@@ -661,6 +663,7 @@
 - [ ] https://github.com/caarlos0/jsonfmt
 - [ ] https://github.com/hajimehoshi/hitsumabushi
 - [ ] https://github.com/go-faster/jx
+- [ ] https://github.com/dolmen-go/jsonptr
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1367,6 +1370,7 @@
 - [ ] https://github.com/xushiwei/Gobang
 - [ ] https://github.com/lunatikub/sugolver
 - [ ] https://github.com/EndlessCheng/mahjong-helper
+- [ ] https://github.com/Lallassu/bintris
 
 三、爬虫项目
 - [ ] https://github.com/yields/ant
@@ -2153,6 +2157,8 @@
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/smartcontractkit/chainlink
 - [ ] https://github.com/gourouting/singo
+- [ ] https://github.com/telepresenceio/telepresence
+- [ ] https://github.com/corneliusweig/rakkess
 
 ## 0x05-Golang安全
 
@@ -3405,6 +3411,7 @@
 - [ ] https://github.com/argoproj/argo-events
 - [ ] https://github.com/rhysd/gocaml
 - [ ] https://github.com/u35s/ag
+- [ ] https://github.com/jkstack/natpass
 
 ## 0x06-Golang逆向
 
