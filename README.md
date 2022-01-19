@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月17日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月18日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -317,6 +317,7 @@
 - [ ] https://github.com/chai2010/ugo-compiler-book
 - [ ] https://github.com/ssbandjl/golang-design-pattern
 - [ ] https://github.com/razeencheng/demo-go
+- [ ] https://github.com/GanZhiXiong/go_learning
 
 ## 0x02-Golang标准
 
@@ -2161,6 +2162,7 @@
 - [ ] https://github.com/telepresenceio/telepresence
 - [ ] https://github.com/corneliusweig/rakkess
 - [ ] https://github.com/VillanCh/judgo
+- [ ] https://github.com/klauspost/compress
 
 ## 0x05-Golang安全
 
@@ -2295,6 +2297,7 @@
 - [ ] https://github.com/Josue87/gotator
 - [ ] https://github.com/Un4gi/dirtywords
 - [ ] https://github.com/pwnesia/dnstake
+- [ ] https://github.com/twiny/spidy
 
 二、端口扫描
 -  https://github.com/topics/portscan?l=go
