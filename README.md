@@ -1,10 +1,10 @@
 # LearnGolang
 
-本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
+本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)。
 
-关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/0e0w/365Golang)。Less is More or Less is Less.
+关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月21日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -17,7 +17,7 @@
 ## 0x01-Golang资源
 
 - https://github.com/golang/go
-- https://github.com/0e0w/LearnGolang
+- https://github.com/LearnGolang/LearnGolang
 - https://github.com/avelino/awesome-go
 - https://github.com/shockerli/go-awesome
 - https://github.com/yinggaozhen/awesome-go-cn
@@ -63,7 +63,7 @@
 - [ ] [《Go语言编程入门与实战技巧》](https://item.jd.com/40149409925.html)@黄靖钧
 - [ ] [《Go语言从基础到中台微服务实战》](https://item.jd.com/13320222.html)@朱著显
 - [ ] [《Go微服务实战》](https://item.jd.com/13131372.html)@刘金亮
-- [ ] [《胡文Go.ogle》](https://github.com/0e0w/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
+- [ ] [《胡文Go.ogle》](https://github.com/LearnGolang/LearnGolang/blob/master/0x01-Golang%E8%B5%84%E6%BA%90/01-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8/%E8%83%A1%E6%96%87Go.ogle.pdf)@Fango
 - [ ] [《Go简易教程》](https://github.com/songleo/the-little-go-book_ZH_CN)@李松松
 - [ ] [《over-golang》](https://github.com/overnote/over-golang)@overnote
 - [ ] [《实效Go编程》](https://github.com/bingohuang/effective-go-zh-en)@黄庆兵
@@ -100,7 +100,7 @@
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
-- [ ] [《365天深入理解Go语言》](https://github.com/0e0w/365Golang)@0e0w
+- [ ] [《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)@0e0w
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《Go语言精进之路》](https://github.com/golang-minibear2333/golang)@程序员小熊
 - [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
@@ -3527,4 +3527,4 @@
 
 <img src="0x01-Golang资源/08-其他资源/wx.png" style="zoom:50%;" />
 
-[![Stargazers over time](https://starchart.cc//0e0w/LearnGolang.svg)](https://starchart.cc/0e0w/LearnGolang)
+[![Stargazers over time](https://starchart.cc//LearnGolang/LearnGolang.svg)](https://starchart.cc/LearnGolang/LearnGolang)
