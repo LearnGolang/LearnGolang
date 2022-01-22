@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月21日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月22日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -318,6 +318,8 @@
 - [ ] https://github.com/ssbandjl/golang-design-pattern
 - [ ] https://github.com/razeencheng/demo-go
 - [ ] https://github.com/GanZhiXiong/go_learning
+- [ ] https://github.com/akutz/go-generics-the-hard-way | 艰难的Go语言泛型 | 371
+- [ ] https://github.com/flysnow-org/gotour
 
 ## 0x02-Golang标准
 
@@ -420,7 +422,7 @@
 - [ ] https://github.com/zhshch2002/goreq | 一个优雅并简洁的HTTP请求库 | 16
 - [ ] https://github.com/telanflow/quick | 简洁高效的HTTP请求库 | 4
 - [ ] https://github.com/gorilla/mux | 执行HTTP请求的路由和分发 | 13.9k
-- [ ] https://github.com/aceld/zinx | 基于Golang轻量级TCP并发服务器框架 | 3.2k
+- [ ] https://github.com/aceld/zinx | 基于Golang轻量级TCP并发服务器框架 | 4.3k
 - [ ] https://github.com/asmcos/requests | Golang HTTP客户端库 | 489
 - [ ] https://github.com/alexedwards/scs | Go的HTTP会话管理 | 839
 - [ ] https://github.com/parnurzeal/gorequest | 简化的HTTP客户端 | 2.9k
@@ -806,6 +808,7 @@
 - [ ] https://github.com/utkusen/reqstress
 - [ ] https://github.com/matryer/is
 - [ ] https://github.com/smartystreets/goconvey
+- [ ] https://github.com/lamoda/gonkey
 
 十一、电子邮件
 - https://github.com/topics/mail?l=go
@@ -1336,6 +1339,8 @@
 - [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/bugfan/conn
 - [ ] https://github.com/esrrhs/go-engine
+- [ ] https://github.com/gorgonia/gorgonia
+- [ ] https://github.com/yohamta/donburi
 
 ## 0x04-Golang项目
 
@@ -2164,6 +2169,9 @@
 - [ ] https://github.com/VillanCh/judgo
 - [ ] https://github.com/klauspost/compress
 - [ ] https://github.com/walinejs/waline
+- [ ] https://github.com/cshum/imagor
+- [ ] https://github.com/dreamans/syncd
+- [ ] https://github.com/nikitavoloboev/knowledge
 
 ## 0x05-Golang安全
 
