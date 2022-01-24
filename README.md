@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年1月23日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年1月24日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
 - [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
@@ -114,7 +114,7 @@
 - [ ] [《w3cschool-Go教程》](https://www.w3cschool.cn/go/)
 - [ ] [《快速上手Golang》](https://github.com/jackhu1990/golangman)
 - [ ] [《Go指南》](https://tour.go-zh.org/welcome/1)
-- [ ] [《Go语言学习》](https://github.com/pibigstar/go-demo)
+- [ ] [《Go语言实例教程从入门到进阶》](https://github.com/pibigstar/go-demo)
 - [ ] [《Go网络编程》](http://books.studygolang.com/NPWG_zh)
 - [ ] [《跟煎鱼学Go》](https://eddycjy.com/go-categories)
 - [ ] [《TopGoer教程》](http://www.topgoer.com)
@@ -2174,6 +2174,8 @@
 - [ ] https://github.com/nikitavoloboev/knowledge
 - [ ] https://github.com/michenriksen/gitrob
 - [ ] https://github.com/projectdiscovery/interactsh
+- [ ] https://github.com/fsnotify/fsnotify
+- [ ] https://github.com/shunfei/cronsun
 
 ## 0x05-Golang安全
 
@@ -3429,6 +3431,7 @@
 - [ ] https://github.com/u35s/ag
 - [ ] https://github.com/jkstack/natpass
 - [ ] https://github.com/Khan/genqlient
+- [ ] https://github.com/ariary/volana
 
 ## 0x06-Golang逆向
 
