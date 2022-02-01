@@ -2455,6 +2455,7 @@
 - [ ] https://github.com/ErSuan/gotoscan
 - [ ] https://github.com/Athena1337/blackJack
 - [ ] https://github.com/feiyu563/nbping
+- [ ] https://github.com/ffffffff0x/ones
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
