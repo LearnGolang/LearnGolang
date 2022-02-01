@@ -1343,6 +1343,7 @@
 - [ ] https://github.com/esrrhs/go-engine
 - [ ] https://github.com/gorgonia/gorgonia
 - [ ] https://github.com/yohamta/donburi
+- [ ] https://github.com/sethvargo/go-retry
 
 ## 0x04-Golang项目
 
