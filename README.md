@@ -4,17 +4,17 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月2日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Golang资源](https://github.com/0e0w/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
-- [0x02-Golang标准](https://github.com/0e0w/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
-- [0x03-Golang框架](https://github.com/0e0w/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
-- [0x04-Golang项目](https://github.com/0e0w/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
-- [0x05-Golang安全](https://github.com/0e0w/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
-- [0x06-Golang逆向](https://github.com/0e0w/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
-- [0x07-Golang老师](https://github.com/0e0w/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
+- [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
+- [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
+- [03-Golang框架](https://github.com/LearnGolang/LearnGolang#03-golang%E6%A1%86%E6%9E%B6)
+- [04-Golang项目](https://github.com/LearnGolang/LearnGolang#04-golang%E9%A1%B9%E7%9B%AE)
+- [05-Golang安全](https://github.com/LearnGolang/LearnGolang#05-golang%E5%AE%89%E5%85%A8)
+- [06-Golang逆向](https://github.com/LearnGolang/LearnGolang#06-golang%E9%80%86%E5%90%91)
+- [07-Golang老师](https://github.com/LearnGolang/LearnGolang#07-golang%E8%80%81%E5%B8%88)
 
-## 0x01-Golang资源
+## 01-Golang资源
 
 - https://github.com/golang/go
 - https://github.com/LearnGolang/LearnGolang
@@ -321,7 +321,7 @@
 - [ ] https://github.com/akutz/go-generics-the-hard-way | 艰难的Go语言泛型 | 371
 - [ ] https://github.com/flysnow-org/gotour
 
-## 0x02-Golang标准
+## 02-Golang标准
 
 本章节用于记录学习Go语言官方标准库。
 
@@ -342,7 +342,7 @@
 
 五、文件处理-io
 
-## 0x03-Golang框架
+## 03-Golang框架
 
 本章节用于记录Go语言中的优秀框架资源，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
 
@@ -670,6 +670,7 @@
 - [ ] https://github.com/hajimehoshi/hitsumabushi
 - [ ] https://github.com/go-faster/jx
 - [ ] https://github.com/dolmen-go/jsonptr
+- [ ] https://github.com/tomnomnom/gron
 - YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -1345,7 +1346,7 @@
 - [ ] https://github.com/yohamta/donburi
 - [ ] https://github.com/sethvargo/go-retry
 
-## 0x04-Golang项目
+## 04-Golang项目
 
 本章节用于记录Go语言中的优秀成品项目。努力学习这些优秀项目的设计模式与编码方式！
 
@@ -2180,7 +2181,7 @@
 - [ ] https://github.com/fsnotify/fsnotify
 - [ ] https://github.com/shunfei/cronsun
 
-## 0x05-Golang安全
+## 05-Golang安全
 
 本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
 
@@ -3444,7 +3445,7 @@
 - [ ] https://github.com/b1gcat/DarkEye
 - [ ] https://github.com/dylandreimerink/edb
 
-## 0x06-Golang逆向
+## 06-Golang逆向
 
 一、Go代码混淆
 - [ ] https://github.com/halfrost
@@ -3520,7 +3521,7 @@
 - [ ] https://github.com/jondot/goweight
 - [ ] https://github.com/nirhaas/gopacker
 
-## 0x07-Golang老师
+## 07-Golang老师
 
 此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
