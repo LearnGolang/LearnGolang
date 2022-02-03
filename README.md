@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月3日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -2501,6 +2501,7 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/qian-shen/youzai
 -  [ ] https://github.com/sairson/Yasso
 -  [ ] https://github.com/veo/vscan
 -  [ ] https://github.com/yhy0/RustScan
