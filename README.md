@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月3日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月4日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -54,6 +54,7 @@
 - [ ] [《Go语言项目开发上手指南》](https://item.jd.com/13371318.html)@谢伟
 - [ ] [《Go语法树入门》](https://github.com/chai2010/go-ast-book)@柴树杉 史斌
 - [x] [《Go语言极简一本通》](https://item.jd.com/13168780.html)@欢喜
+- [ ] [《Go语言设计哲学》](https://github.com/eddycjy/go-design-book)@煎鱼
 - [ ] [《Go语言底层原理剖析》](https://item.jd.com/13398708.html)@郑建勋
 - [ ] [《Go2编程指南》](https://chai2010.cn/go2-book)@柴树杉
 - [ ] [《Go语言设计与实现》](https://draveness.me/golang)@draveness
@@ -909,6 +910,7 @@
 - [ ] https://github.com/smallnest/go-web-framework-benchmark
 - [ ] https://github.com/qifengzhang007/GinSkeleton
 - [ ] https://github.com/wailsapp/wails
+- [ ] https://github.com/goal-web/goal
 
 十四、爬虫框架
 - [ ] https://github.com/gocolly/colly
@@ -1345,6 +1347,8 @@
 - [ ] https://github.com/gorgonia/gorgonia
 - [ ] https://github.com/yohamta/donburi
 - [ ] https://github.com/sethvargo/go-retry
+- [ ] https://github.com/goal-web/pipeline
+- [ ] https://github.com/liyue201/gostl
 
 ## 04-Golang项目
 
