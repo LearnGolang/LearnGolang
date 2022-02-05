@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月4日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月5日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -1349,6 +1349,7 @@
 - [ ] https://github.com/sethvargo/go-retry
 - [ ] https://github.com/goal-web/pipeline
 - [ ] https://github.com/liyue201/gostl
+- [ ] https://github.com/xlzd/gotp
 
 ## 04-Golang项目
 
@@ -2184,6 +2185,8 @@
 - [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/fsnotify/fsnotify
 - [ ] https://github.com/shunfei/cronsun
+- [ ] https://github.com/abdfnx/tran
+- [ ] https://github.com/benhoyt/goawk
 
 ## 05-Golang安全
 
@@ -2461,6 +2464,7 @@
 - [ ] https://github.com/Athena1337/blackJack
 - [ ] https://github.com/feiyu563/nbping
 - [ ] https://github.com/ffffffff0x/ones
+- [ ] https://github.com/binganao/TaiO
 
 四、漏洞扫描
 -  https://github.com/topics/pentesting?l=go
@@ -2584,6 +2588,7 @@
 -  [ ] https://github.com/arminc/clair-scanner
 -  [ ] https://github.com/De1os/Apollo
 -  [ ] https://github.com/j3ssie/osmedeus
+-  [ ] https://github.com/jstang9527/gofor
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
@@ -2725,6 +2730,7 @@
 - [ ] https://github.com/EmYiQing/Gososerial
 - [ ] https://github.com/MorouU/nightingale
 - [ ] https://github.com/ShangRui-hash/xss-platform
+- [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
 八、病毒免杀
 - https://github.com/topics/shellcode?l=go
@@ -3242,7 +3248,6 @@
 - [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
 - [ ] https://github.com/yuin/gopher-lua
 - [ ] https://github.com/TRYblog/go-Tubi
-- [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 - [ ] https://github.com/EmYiQing/go-wafw00f
 - [ ] https://github.com/canc3s/cSubsidiary
 - [ ] https://github.com/sensepost/ruler
