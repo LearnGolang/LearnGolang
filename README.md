@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月6日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月8日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -1397,6 +1397,8 @@
 - [ ] https://github.com/Qianlitp/crawlergo
 - [ ] https://github.com/edermi/skweez
 - [ ] https://github.com/Le0nsec/SecCrawler
+- [ ] https://github.com/crawlab-team/crawlab
+- [ ] https://github.com/crawlab-team/crawlab-lite
 
 四、图形项目
 - [ ] https://github.com/fyne-io/7guis
@@ -3453,6 +3455,8 @@
 - [ ] https://github.com/ariary/volana
 - [ ] https://github.com/b1gcat/DarkEye
 - [ ] https://github.com/dylandreimerink/edb
+- [ ] https://github.com/KpLi0rn/Gosqlmap-Beta
+- [ ] https://github.com/rabbitmask/Warden
 
 ## 06-Golang逆向
 
@@ -3463,6 +3467,7 @@
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
 - [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
+- [ ] https://github.com/v0id-re/go-smash
 
 二、Go授权许可
 - https://github.com/topics/license-management?l=go
