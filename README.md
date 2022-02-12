@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年2月10日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年2月12日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -1340,7 +1340,6 @@
 - [ ] https://github.com/liangdas/mqant
 - [ ] https://github.com/pbrong/hrms
 - [ ] https://github.com/SimonWaldherr/golang-benchmarks
-- [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/bugfan/conn
 - [ ] https://github.com/esrrhs/go-engine
 - [ ] https://github.com/gorgonia/gorgonia
@@ -2973,6 +2972,7 @@
 -  [ ] https://github.com/jiuzhou-zhao/lumos
 -  [ ] https://github.com/goproxy/goproxy
 -  [ ] https://github.com/Quiq/webauthn_proxy
+-  [ ] https://github.com/tnpitsecurity/ligolo-ng
 
 十、内网渗透
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
@@ -3297,7 +3297,6 @@
 - [ ] https://github.com/rabbitstack/fibratus
 - [ ] https://github.com/ConsT27/GiveMeMail
 - [ ] https://github.com/Tabll/gemnasium-db
-- [ ] https://github.com/projectdiscovery/interactsh
 - [ ] https://github.com/sasdf/nyan
 - [ ] https://github.com/NithinChintala/amalloc
 - [ ] https://github.com/kha7iq/pingme
