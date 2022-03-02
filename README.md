@@ -2593,6 +2593,7 @@
 -  [ ] https://github.com/j3ssie/osmedeus
 -  [ ] https://github.com/jstang9527/gofor
 -  [ ] https://github.com/Arbor01/AnScan
+-  [ ] https://github.com/AuFeng111/afscan
 
 五、密码爆破
 -  https://github.com/topics/bruteforce?l=go
