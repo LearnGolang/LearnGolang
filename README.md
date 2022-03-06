@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年3月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年3月6日。本项目会持续更新，直到海枯石烂。
 
 - [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
 - [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
@@ -1446,6 +1446,7 @@
 - [ ] https://github.com/SaturnsVoid/GoBot
 - [ ] https://github.com/godcong/fate
 - [ ] https://github.com/lanyi1998/DNSlog-GO
+- [ ] https://github.com/Li4n0/revsuit
 - [ ] https://github.com/brianvoe/gofakeit
 - [ ] https://github.com/lanyulei/ferry
 - [ ] https://github.com/hashicorp/boundary
@@ -2998,7 +2999,6 @@
 - [ ] https://github.com/lanrat/allxfr
 - [ ] https://github.com/jm33-m0/emp3r0r
 - [ ] https://github.com/CMatri/MeetC2
-- [ ] https://github.com/Li4n0/revsuit
 - [ ] https://github.com/sensepost/godoh
 - [ ] https://github.com/Tylous/SourcePoint
 - [ ] https://github.com/Ne0nd0g/merlin
@@ -3469,6 +3469,7 @@
 - [ ] https://github.com/devploit/dontgo403
 - [ ] https://github.com/corazawaf/coraza
 - [ ] https://github.com/chaitin/veinmind-tools
+- [ ] https://github.com/yujitounai/vulngo
 
 ## 06-Golang逆向
 
