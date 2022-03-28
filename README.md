@@ -6,16 +6,19 @@
 
 本项目创建于2020年8月10日，最近一次更新时间为2022年3月28日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Golang资源](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
-  - [01-中文资源]()、[02-英文资源]()、[03-视频教程]()、[04-培训演讲]()[05-算法结构]()、[06-论坛版块]()、[07-面试资料]()
-  - [08-其他资源]()
-- [0x02-Golang标准](https://github.com/LearnGolang/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
+- [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
+  - [01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)、 [02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)、[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)、[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)、[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)、[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)、[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)、[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)
+- [**0x02-Golang标准**](https://github.com/LearnGolang/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
   - [01-命令参数]()、[02-日志处理]()、[03-网络框架]()、[04-配置文件]()、[05-文件处理]()
-- [0x03-Golang框架](https://github.com/LearnGolang/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
-- [0x04-Golang项目](https://github.com/LearnGolang/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
-- [0x05-Golang安全](https://github.com/LearnGolang/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
-- [0x06-Golang逆向](https://github.com/LearnGolang/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
-- [0x07-Golang老师](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
+- [**0x03-Golang框架**](https://github.com/LearnGolang/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
+  - [01-命令参数]()、[02-网络框架]()、[03-类型系统]()、[04-文件处理]()、[05-数据处理]()、[06-配置文件]()、[07-协程并发]()、[08-日志处理]()、[09-错误处理]()、[10-单元测试]()、[11-电子邮件]()、[12-图形框架]()、[13-Web框架]()、[14-爬虫框架]()、
+- [**0x04-Golang项目**](https://github.com/LearnGolang/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
+  - [01-开源网站]()、[02-娱乐游戏]()、[03-爬虫项目]()、[04-图形项目]()、[05-量化投资]()、[06-其他项目]()
+- [**0x05-Golang安全**](https://github.com/LearnGolang/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
+  - [01-域名收集]()、[02-端口扫描]()、[03-资产收集]()、[04-漏洞扫描]()、[05-密码爆破]()、[06-路径扫描]()、[07-Web安全]()、[08-病毒免杀]()、[09-代理隧道]()、[10-内网渗透]()、[11-蜜罐钓鱼]()、[12-代码审计]()、[13-编码规范]()、[14-应急响应]()、[15-移动安全]()、[16-漏洞赏金]()、[17-其他项目]()
+- [**0x06-Golang逆向**](https://github.com/LearnGolang/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
+  - [01-代码混淆]()、[02-授权许可]()、[03-逆向工程]()、[04-恶意软件]()、[05-其他项目]()
+- [**0x07-Golang老师**](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
 
 ## 0x01-Golang资源
 
@@ -3540,7 +3543,7 @@
 
 ## 06-Golang逆向
 
-### 01-Go代码混淆
+### 01-代码混淆
 
 - [ ] https://github.com/halfrost
 - [ ] https://github.com/boy-hack/go-strip
@@ -3550,7 +3553,7 @@
 - [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
 - [ ] https://github.com/v0id-re/go-smash
 
-### 02-Go授权许可
+### 02-授权许可
 
 - https://github.com/topics/license-management?l=go
 - [ ] https://github.com/xinjiayu/LicenseManager | 为golang的应用添加简单的license限制 | 6
@@ -3577,7 +3580,7 @@
 - [ ] https://github.com/leaanthony/comply
 - [ ] https://github.com/prksu/license2l
 
-### 03-逆向Go程序
+### 03-逆向工程
 
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
@@ -3590,8 +3593,6 @@
 - [ ] https://www.anquanke.com/post/id/214940
 - [ ] https://bbs.pediy.com/thread-268042.htm
 
-### 04-使用Go逆向
-
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/gore
 - [ ] https://github.com/0xjiayu/go_parser
@@ -3603,7 +3604,7 @@
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
-### 05-Go恶意软件
+### 04-恶意软件
 
 - [ ] https://github.com/wille/cry
 - [ ] https://paper.seebug.org/1357/
@@ -3611,7 +3612,7 @@
 - [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/SaturnsVoid/GoBot2
 
-### 06-其他逆向项目
+### 05-其他项目
 
 - [ ] https://github.com/akavel/rsrc
 - [ ] https://github.com/minio/c2goasm
