@@ -24,8 +24,7 @@
 - https://github.com/0voice/Introduction-to-Golang
 - https://github.com/trending/go
 
-<details>
-<summary>一、中文资源</summary>
+一、中文资源
 - [ ] [《Go语言原理》](https://github.com/GoYL/GoYL)@0e0w
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
@@ -131,9 +130,7 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《Go语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
 
-  </details>
-<details>
-<summary>二、英文资源</summary>
+二、英文资源
 - https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -191,9 +188,7 @@
 - [ ] [《100 Go Mistakes and How to Avoid Them》](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)@teivah
 - [ ] https://github.com/teivah/100-go-mistakes
 
-  </details>
-<details>
-<summary>三、视频教程</summary>
+三、视频教程
 - [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
@@ -216,15 +211,11 @@
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
 
-  </details>
-<details>
-<summary>四、培训演讲</summary>
+四、培训演讲
 - [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
 - [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
-  </details>
-<details>
-<summary>五、算法结构</summary>
+五、算法结构
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
@@ -248,9 +239,7 @@
 - [ ] https://github.com/HanTianPeng/go-algorithm
 - [ ] https://github.com/kingeasternsun/leetcode-cn
 
-  </details>
-<details>
-<summary>六、论坛版块</summary>
+六、论坛版块
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
@@ -263,16 +252,12 @@
 - [ ] [golangschool](https://www.golangschool.com)
 - [ ] https://learnku.com/go
 
-  </details>
-<details>
-<summary>七、面试资料</summary>
+七、面试资料
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/iswbm/golang-interview
 - [ ] https://github.com/luckygopher/go-interview
 
-  </details>
-<details>
-<summary>八、其他资源</summary>
+八、其他资源
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
@@ -338,8 +323,6 @@
 - [ ] https://github.com/flysnow-org/gotour
 - [ ] https://github.com/jincheng9/go-tutorial
 - [ ] https://www.golangprojects.com
-
-  </details>
 
 ## 02-Golang标准
 
