@@ -33,6 +33,7 @@
 ### 01-中文资源
 
 - [ ] [《Go语言原理》](https://github.com/GoYL/GoYL)@0e0w
+- [x] [《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)@0e0w
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
 - [x] [《Go程序设计语言》](https://item.jd.com/12187988.html)@李道兵译#100%#
@@ -108,7 +109,6 @@
 - [ ] [《Go-Questions》](https://github.com/qcrao/Go-Questions/wiki)@qcrao
 - [ ] [《练习Golang的并发模式》](https://github.com/loong/go-concurrency-exercises)@loong
 - [ ] [《Go编程语言安全编码实践指南》](https://github.com/OWASP/Go-SCP)@OWASP
-- [ ] [《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)@0e0w
 - [ ] [《Golang100天从新手到大师》](https://github.com/rubyhan1314/Golang-100-Days)@韩茹
 - [ ] [《Go语言精进之路》](https://github.com/golang-minibear2333/golang)@程序员小熊
 - [ ] [《Golang的实战项目》](https://github.com/Leslie1sMe/golang)
@@ -2270,13 +2270,13 @@
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
 - [ ] https://github.com/Goqi/MiFeng
-- [x] 接口扫描：https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
-- [x] 接口扫描：https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
-- [ ] 暴力破解：https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
-- [ ] 暴力破解：https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
-- [ ] 暴力破解：https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
-- [ ] 暴力破解：https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
-- [ ] 网页爬虫：https://github.com/ThreatUnkown/jsubfinder | 搜索网页的js分析隐藏的子域 | 68
+- [x] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
+- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
+- [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [x] https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
+- [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [x] https://github.com/ThreatUnkown/jsubfinder | 搜索网页的js分析隐藏的子域 | 68
 - [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
@@ -2372,7 +2372,7 @@
 
 ### 02-资产收集
 
-- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
+- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
 - [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
@@ -2524,7 +2524,7 @@
 -  https://github.com/topics/security-tools?l=go
 -  https://github.com/topics/security-scanner?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
--  [ ] https://github.com/Goqi/Banli | 一款简单好用的高危漏洞扫描工具 | 3
+-  [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 -  [ ] https://github.com/projectdiscovery/nuclei | 基于POC模板的漏洞扫描工具 | 3.9k
 -  [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
 -  [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
@@ -2647,6 +2647,7 @@
 -  https://github.com/topics/brute-force?l=go
 -  https://github.com/topics/brute-force-attacks?l=go
 -  https://github.com/search?l=Go&q=bruteforce
+- [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
 - [ ] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 92
 - [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
@@ -3135,7 +3136,9 @@
 
 ### 13-编码规范
 
-- [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
+- [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)@腾讯
+- [ ] [《奇安信-Go安全编码规范》]()
+- [ ] [《Go语言安全编码规范》](https://bloodzer0.github.io/ossa/application-security/sdl/go-scp/)
 
 ### 14-应急响应
 
