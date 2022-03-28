@@ -26,7 +26,6 @@
 
 <details>
 <summary>一、中文资源</summary>
-
 - [ ] [《Go语言原理》](https://github.com/GoYL/GoYL)@0e0w
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
@@ -135,7 +134,6 @@
   </details>
 <details>
 <summary>二、英文资源</summary>
-
 - https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -196,7 +194,6 @@
   </details>
 <details>
 <summary>三、视频教程</summary>
-
 - [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
@@ -222,14 +219,12 @@
   </details>
 <details>
 <summary>四、培训演讲</summary>
-
 - [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
 - [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
   </details>
 <details>
 <summary>五、算法结构</summary>
-
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
@@ -256,7 +251,6 @@
   </details>
 <details>
 <summary>六、论坛版块</summary>
-
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
@@ -272,7 +266,6 @@
   </details>
 <details>
 <summary>七、面试资料</summary>
-
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/iswbm/golang-interview
 - [ ] https://github.com/luckygopher/go-interview
@@ -280,7 +273,6 @@
   </details>
 <details>
 <summary>八、其他资源</summary>
-
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
