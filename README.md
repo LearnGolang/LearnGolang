@@ -14,6 +14,8 @@
 - [06-Golang逆向](https://github.com/LearnGolang/LearnGolang#06-golang%E9%80%86%E5%90%91)
 - [07-Golang老师](https://github.com/LearnGolang/LearnGolang#07-golang%E8%80%81%E5%B8%88)
 
+[TOC]
+
 ## 0x01-Golang资源
 
 - https://github.com/golang/go
@@ -342,17 +344,17 @@
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
 
-### 01-命令参数-flag
+### 01-命令参数
 
 - https://golang.org/pkg/flag
 
-### 02-日志处理-log
+### 02-日志处理
 
-### 03-网络框架-net
+### 03-网络框架
 
-### 04-配置文件-encoding
+### 04-配置文件
 
-### 05-文件处理-io
+### 05-文件处理
 
 ## 0x03-Golang框架
 
@@ -2237,7 +2239,7 @@
 - [ ] https://github.com/TwiN/gatus
 - [ ] https://github.com/YaoApp/yao
 
-## 05-Golang安全
+## 0x05-Golang安全
 
 本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
 
@@ -2265,7 +2267,8 @@
 - [ ] https://github.com/hahwul/WebHackersWeapons
 - [ ] https://github.com/he1m4n6a/Go_Security_Study
 
-一、域名收集
+### 01-域名收集
+
 -  https://github.com/topics/subdomain?l=go
 -  https://github.com/topics/subdomains?l=go
 -  https://github.com/topics/subdomain-scanner?l=go
@@ -2372,7 +2375,8 @@
 - [ ] https://github.com/pwnesia/dnstake
 - [ ] https://github.com/twiny/spidy
 
-二、端口扫描
+### 02-端口扫描
+
 -  https://github.com/topics/portscan?l=go
 -  https://github.com/topics/portscanner?l=go
 -  https://github.com/search?l=Go&q=portscan
@@ -2481,7 +2485,8 @@
 -  [ ] https://github.com/rverton/webanalyze
 -  [ ] https://github.com/projectdiscovery/wappalyzergo
 
-三、资产收集
+### 03-资产收集
+
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 3
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
@@ -2514,7 +2519,8 @@
 - [ ] https://github.com/ffffffff0x/ones
 - [ ] https://github.com/binganao/TaiO
 
-四、漏洞扫描
+### 04-漏洞扫描
+
 -  https://github.com/topics/pentesting?l=go
 -  https://github.com/topics/security?l=go
 -  https://github.com/topics/hacking?l=go
@@ -2640,7 +2646,8 @@
 -  [ ] https://github.com/Arbor01/AnScan
 -  [ ] https://github.com/AuFeng111/afscan
 
-五、密码爆破
+### 05-密码爆破
+
 -  https://github.com/topics/bruteforce?l=go
 -  https://github.com/topics/brute-force?l=go
 -  https://github.com/topics/brute-force-attacks?l=go
@@ -2685,7 +2692,8 @@
 - [ ] https://github.com/kitabisa/ssb
 - [ ] https://github.com/sairson/goSQL
 
-六、路径扫描
+### 06-路径扫描
+
 -  https://github.com/topics/fuzzer?l=go
 -  https://github.com/topics/fuzzing?l=go
 -  https://github.com/topics/fuzz?l=go
@@ -2734,7 +2742,8 @@
 -  [ ] https://github.com/ethicalhackingplayground/tprox
 -  [ ] https://github.com/newbe3three/gotoscan
 
-七、Web安全
+### 07-Web安全
+
 -  https://github.com/topics/xss?l=go
 -  https://github.com/topics/ssrf?l=go
 -  https://github.com/topics/rce?l=go
@@ -2783,7 +2792,8 @@
 - [ ] https://github.com/ShangRui-hash/xss-platform
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 
-八、病毒免杀
+### 08-病毒免杀
+
 - https://github.com/topics/shellcode?l=go
 - https://github.com/search?l=Go&q=shellcode
 - https://github.com/search?l=Go&q=bypass
@@ -2893,7 +2903,8 @@
 - [ ] https://github.com/akkuman/gSigFlip
 - [ ] https://github.com/chriskaliX/Hades
 
-九、代理隧道
+### 09-代理隧道
+
 -  https://github.com/topics/proxy?l=go
 -  https://github.com/topics/tunnel?l=go
 -  https://github.com/topics/reverse-proxy?l=go
@@ -3025,7 +3036,8 @@
 -  [ ] https://github.com/Quiq/webauthn_proxy
 -  [ ] https://github.com/tnpitsecurity/ligolo-ng
 
-十、内网渗透
+### 10-内网渗透
+
 - [ ] https://github.com/imthaghost/goclone | 网站克隆器 | 225
 - [ ] https://github.com/uknowsec/keylogger | 键盘记录 | 40
 - [ ] https://github.com/TerminalJockey/CreepingVine
@@ -3050,7 +3062,8 @@
 - [ ] https://github.com/Rvn0xsy/goDomain
 - [ ] https://github.com/thedevsaddam/dl
 
-十一、蜜罐钓鱼
+### 11-蜜罐钓鱼
+
 - [ ] https://github.com/Goqi/Ziya
 - [ ] https://github.com/gophish/gophish | 开源网络钓鱼工具包 | 5.7k
 - [ ] https://github.com/honeytrap/honeytrap | 高级的钓鱼框架 | 952
@@ -3104,7 +3117,8 @@
 - 邮件发送
 - 钓鱼模板
 
-十二、代码审计
+### 12-代码审计
+
 - [ ] https://github.com/Goqi/RiYue
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
@@ -3123,14 +3137,17 @@
 - [ ] https://github.com/MorouU/robin-go
 - [ ] https://github.com/pen4uin/golang-security
 
-十三、编码规范
+### 13-编码规范
+
 - [ ] [《腾讯-Go安全指南》](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 
-十四、应急响应
+### 14-应急响应
+
 - [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
 - [ ] https://github.com/gpaddis/logscan
 
-十五、移动安全
+### 15-移动安全
+
 - Android
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/RedMapleTech/machodump
@@ -3150,7 +3167,8 @@
 - [ ] https://github.com/mwpcheung/gsalogin
 - [ ] https://github.com/fengjixuchui/iOSTracer
 
-十六、漏洞赏金
+### 16-漏洞赏金
+
 - [ ] https://github.com/sw33tLie/bbscope
 - [ ] https://github.com/jonhadfield/subtocheck | 子域接管检查器 | 0
 - [ ] https://github.com/Asjidkalam/SubRecon | 子域名接管扫描 |7
@@ -3160,7 +3178,8 @@
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
 - [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 50
 
-十七、其他项目
+### 17-其他项目
+
 - [ ] https://github.com/gcla/termshark
 - [ ] https://github.com/bettercap/bettercap
 - [ ] https://github.com/dreadl0ck/netcap
@@ -3520,7 +3539,8 @@
 
 ## 06-Golang逆向
 
-一、Go代码混淆
+### 01-Go代码混淆
+
 - [ ] https://github.com/halfrost
 - [ ] https://github.com/boy-hack/go-strip
 - [ ] https://github.com/burrowers/garble
@@ -3529,7 +3549,8 @@
 - [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
 - [ ] https://github.com/v0id-re/go-smash
 
-二、Go授权许可
+### 02-Go授权许可
+
 - https://github.com/topics/license-management?l=go
 - [ ] https://github.com/xinjiayu/LicenseManager | 为golang的应用添加简单的license限制 | 6
 - [ ] https://github.com/furkansenharputlu/f-license
@@ -3555,7 +3576,8 @@
 - [ ] https://github.com/leaanthony/comply
 - [ ] https://github.com/prksu/license2l
 
-三、逆向Go程序
+### 03-逆向Go程序
+
 - [ ] [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
 - [ ] https://github.com/felberj/gotools
 - [ ] https://github.com/goretk/redress
@@ -3567,7 +3589,8 @@
 - [ ] https://www.anquanke.com/post/id/214940
 - [ ] https://bbs.pediy.com/thread-268042.htm
 
-四、使用Go逆向
+### 04-使用Go逆向
+
 - [ ] https://github.com/zznop/sploit
 - [ ] https://github.com/goretk/gore
 - [ ] https://github.com/0xjiayu/go_parser
@@ -3579,14 +3602,16 @@
 - [ ] https://www.anquanke.com/member/122079
 - [ ] https://blog.lgf.im/2020/golang-reverse-thinking.html
 
-五、Go恶意软件
+### 05-Go恶意软件
+
 - [ ] https://github.com/wille/cry
 - [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/SaturnsVoid/GoBot2
 
-六、其他逆向项目
+### 06-其他逆向项目
+
 - [ ] https://github.com/akavel/rsrc
 - [ ] https://github.com/minio/c2goasm
 - [ ] https://github.com/system-pclub/GCatch
@@ -3601,6 +3626,7 @@
 此处排名不分先后，向自己在学习Go语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
 一、Go教程资源
+
 - 柴树杉-《Go语言高级编程》作者，[@chai2010](https://github.com/chai2010)
 - 无闻-知名Go语言分享者，[@Unknwon](https://github.com/Unknwon)、[博客](https://unknwon.cn/)
 - 徐新华-studygolang站长，[@polarisxu](https://github.com/polaris1119)
