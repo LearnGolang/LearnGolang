@@ -6,15 +6,16 @@
 
 本项目创建于2020年8月10日，最近一次更新时间为2022年3月28日。本项目会持续更新，直到海枯石烂。
 
-- [01-Golang资源](https://github.com/LearnGolang/LearnGolang#01-golang%E8%B5%84%E6%BA%90)
-- [02-Golang标准](https://github.com/LearnGolang/LearnGolang#02-golang%E6%A0%87%E5%87%86)
-- [03-Golang框架](https://github.com/LearnGolang/LearnGolang#03-golang%E6%A1%86%E6%9E%B6)
-- [04-Golang项目](https://github.com/LearnGolang/LearnGolang#04-golang%E9%A1%B9%E7%9B%AE)
-- [05-Golang安全](https://github.com/LearnGolang/LearnGolang#05-golang%E5%AE%89%E5%85%A8)
-- [06-Golang逆向](https://github.com/LearnGolang/LearnGolang#06-golang%E9%80%86%E5%90%91)
-- [07-Golang老师](https://github.com/LearnGolang/LearnGolang#07-golang%E8%80%81%E5%B8%88)
-
-[TOC]
+- [0x01-Golang资源](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
+  - [01-中文资源]()、[02-英文资源]()、[03-视频教程]()、[04-培训演讲]()[05-算法结构]()、[06-论坛版块]()、[07-面试资料]()
+  - [08-其他资源]()
+- [0x02-Golang标准](https://github.com/LearnGolang/LearnGolang#0x02-golang%E6%A0%87%E5%87%86)
+  - [01-命令参数]()、[02-日志处理]()、[03-网络框架]()、[04-配置文件]()、[05-文件处理]()
+- [0x03-Golang框架](https://github.com/LearnGolang/LearnGolang#0x03-golang%E6%A1%86%E6%9E%B6)
+- [0x04-Golang项目](https://github.com/LearnGolang/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
+- [0x05-Golang安全](https://github.com/LearnGolang/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
+- [0x06-Golang逆向](https://github.com/LearnGolang/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
+- [0x07-Golang老师](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
 
 ## 0x01-Golang资源
 
