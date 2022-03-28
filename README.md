@@ -14,7 +14,7 @@
 - [06-Golang逆向](https://github.com/LearnGolang/LearnGolang#06-golang%E9%80%86%E5%90%91)
 - [07-Golang老师](https://github.com/LearnGolang/LearnGolang#07-golang%E8%80%81%E5%B8%88)
 
-## 01-Golang资源
+## 0x01-Golang资源
 
 - https://github.com/golang/go
 - https://github.com/LearnGolang/LearnGolang
@@ -24,7 +24,8 @@
 - https://github.com/0voice/Introduction-to-Golang
 - https://github.com/trending/go
 
-一、中文资源
+### 01-中文资源
+
 - [ ] [《Go语言原理》](https://github.com/GoYL/GoYL)@0e0w
 - [x] [《Go语言圣经》](http://books.studygolang.com/gopl-zh/)@柴树杉译
 - [x] [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)@无闻等译
@@ -130,7 +131,8 @@
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《Go语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
 
-二、英文资源
+### 02-英文资源
+
 - https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
@@ -188,7 +190,8 @@
 - [ ] [《100 Go Mistakes and How to Avoid Them》](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)@teivah
 - [ ] https://github.com/teivah/100-go-mistakes
 
-三、视频教程
+### 03-视频教程
+
 - [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
 - [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
@@ -211,11 +214,13 @@
 - [ ] [《Go微服务实战38讲》](https://github.com/longjoy/micro-go-course)@朱荣鑫
 - [ ] [《Go Syntax LiveBytes》](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA)@Bill Kennedy
 
-四、培训演讲
+### 04-培训演讲
+
 - [ ] [《历届GopherChina大会资料》](https://github.com/fanjindong/GopherChina)@fanjindong
 - [ ] [《Go 语言项目开发实战》](https://github.com/marmotedu/iam)@极客时间
 
-五、算法结构
+### 05-算法结构
+
 - [ ] [《LeetCode-Go》](https://github.com/halfrost/LeetCode-Go)@halfrost
 - [ ] [《leetcode》](https://github.com/doocs/leetcode)@doocs
 - [ ] [《啊哈!算法》](https://github.com/eruca/aha)@eruca
@@ -239,7 +244,8 @@
 - [ ] https://github.com/HanTianPeng/go-algorithm
 - [ ] https://github.com/kingeasternsun/leetcode-cn
 
-六、论坛版块
+### 06-论坛版块
+
 - [ ] [Go夜读](https://github.com/talkgo/night)
 - [ ] [Reddit 的go社区](https://www.reddit.com/r/golang)
 - [ ] [golang-nuts](https://groups.google.com/group/golang-nuts/)
@@ -252,12 +258,14 @@
 - [ ] [golangschool](https://www.golangschool.com)
 - [ ] https://learnku.com/go
 
-七、面试资料
+### 07-面试资料
+
 - [ ] https://github.com/lifei6671/interview-go | Golang面试题集合 | 1.5k
 - [ ] https://github.com/iswbm/golang-interview
 - [ ] https://github.com/luckygopher/go-interview
 
-八、其他资源
+### 08-其他资源
+
 - [ ] https://github.com/gocn/cool-go
 - [ ] https://github.com/mvdan/corpus
 - [ ] [Best Go Programming Tutorials Online](https://medium.com/quick-code/top-online-courses-to-learn-go-programming-language-golang-for-beginners-c228c615946c)
@@ -324,7 +332,7 @@
 - [ ] https://github.com/jincheng9/go-tutorial
 - [ ] https://www.golangprojects.com
 
-## 02-Golang标准
+## 0x02-Golang标准
 
 本章节用于记录学习Go语言官方标准库。
 
@@ -334,18 +342,19 @@
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
 
-一、命令参数-flag
+### 01-命令参数-flag
+
 - https://golang.org/pkg/flag
 
-二、日志处理-log
+### 02-日志处理-log
 
-三、网络框架-net
+### 03-网络框架-net
 
-四、配置文件-encoding
+### 04-配置文件-encoding
 
-五、文件处理-io
+### 05-文件处理-io
 
-## 03-Golang框架
+## 0x03-Golang框架
 
 本章节用于记录Go语言中的优秀框架资源，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
 
@@ -358,7 +367,8 @@
 - https://github.com/darjun/go-daily-lib | Go语言每日一库 | 2.2k
 - https://github.com/huntersudo/go-all
 
-一、命令参数
+### 01-命令参数
+
 - https://github.com/topics/cli?l=go
 - https://github.com/topics/command-line?l=go
 - [x] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 23.5k
@@ -409,7 +419,8 @@
 - [ ] https://github.com/ivanpirog/coloredcobra
 - [ ] https://github.com/google/subcommands
 
-二、网络框架
+### 02-网络框架
+
 - HTTP请求响应
 - https://github.com/topics/request?l=go
 - [ ] https://github.com/Gogods/dshttp
@@ -525,14 +536,16 @@
 - [ ] https://github.com/nakabonne/ali
 - [ ] https://github.com/digineo/go-ping
 
-三、类型系统
+### 03-类型系统
+
 - [ ] https://github.com/goplus/gop
 - [ ] https://github.com/88250/gulu
 - [ ] https://github.com/qax-os/goreporter
 - [ ] https://github.com/zyedidia/generic
 - [ ] https://github.com/go-ldap/ldap
 
-四、文件处理
+### 04-文件处理
+
 - TXT文件
 - [ ] https://golang.org/pkg/os
 - [x] https://github.com/Gogods/dstxt
@@ -577,7 +590,8 @@
 - [ ] https://github.com/benoitkugler/textlayout
 - [ ] https://github.com/tidwall/bfile
 
-五、数据处理
+### 05-数据处理
+
 - MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
@@ -630,7 +644,8 @@
 - [ ] https://github.com/dubbogo/arana
 - [ ] https://github.com/ariga/atlas
 
-六、配置文件
+### 06-配置文件
+
 - JSON
 - https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
@@ -709,7 +724,8 @@
 - [ ] https://github.com/TomWright/dasel
 - [ ] https://github.com/EFForg/yaya
 
-七、协程并发
+### 07-协程并发
+
 - https://github.com/topics/concurrency?l=go
 - https://github.com/topics/goroutine?l=go
 - https://github.com/topics/pool?l=go
@@ -745,7 +761,8 @@
 - [ ] https://github.com/golang-queue/queue
 - [ ] https://github.com/valyala/bytebufferpool
 
-八、日志处理
+### 08-日志处理
+
 - https://github.com/topics/log?l=go
 - https://github.com/topics/logger?l=go
 - https://github.com/topics/logging?l=go
@@ -793,7 +810,8 @@
 - [ ] https://github.com/evalphobia/logrus_sentry
 - [ ] https://github.com/go-logr/logr
 
-九、错误处理
+### 09-错误处理
+
 - [ ] https://github.com/ducc/egg
 - [ ] https://github.com/pkg/errors
 - [ ] https://github.com/rotisserie/eris
@@ -801,7 +819,8 @@
 - [ ] https://github.com/cockroachdb/errors
 - [ ] https://github.com/WAY29/errors
 
-十、单元测试
+### 10-单元测试
+
 - [ ] https://github.com/h2non/gock
 - [ ] https://github.com/onsi/ginkgo
 - [ ] https://github.com/fortio/fortio
@@ -817,7 +836,8 @@
 - [ ] https://github.com/smartystreets/goconvey
 - [ ] https://github.com/lamoda/gonkey
 
-十一、电子邮件
+### 11-电子邮件
+
 - https://github.com/topics/mail?l=go
 - https://github.com/topics/email?l=go
 - https://github.com/topics/smtp?l=go
@@ -867,7 +887,8 @@
 - [ ]   https://github.com/lixuancn/mailservice | 发送邮件的服务 | 3
 - [ ]   https://github.com/knadh/listmonk
 
-十二、图形框架
+### 12-图形框架
+
 - [ ] https://github.com/andlabs/ui
 - [ ] https://github.com/ying32/govcl
 - [ ] https://github.com/kpfaulkner/goui
@@ -876,7 +897,8 @@
 - [ ] https://github.com/aarzilli/gdlv
 - [ ] https://github.com/go-vgo/robotgo
 
-十三、Web框架
+### 13-Web框架
+
 - https://github.com/topics/web?l=go
 - [ ] https://github.com/beego/beego
 - [ ] https://github.com/gohugoio/hugo
@@ -915,7 +937,8 @@
 - [ ] https://github.com/wailsapp/wails
 - [ ] https://github.com/goal-web/goal
 
-十四、爬虫框架
+### 14-爬虫框架
+
 - [ ] https://github.com/gocolly/colly
 - [ ] https://github.com/mvdan/xurls
 - [ ] https://github.com/zhshch2002/gospider
@@ -925,47 +948,56 @@
 - [ ] https://github.com/china-muwenbo/gospider
 - [ ] https://github.com/geziyor/geziyor
 
-十五、中间件框架
+### 15-中间件框架
+
 - [ ] https://github.com/olivere/elastic
 - [ ] https://github.com/justinas/alice
 
-十六、消息队列
+### 16-消息队列
+
 - [ ] https://github.com/nsqio/nsq
 - [ ] https://github.com/MasslessParticle/GoQ
 
-十七、Service Mesh
+### 17-Service Mesh
+
 - [ ] https://github.com/istio/istio
 
-十八、RPC
+### 18-RPC
+
 - [ ] https://github.com/smallnest/rpcx
 - [ ] https://github.com/grpc/grpc-go
 - [ ] https://github.com/cloudwego/kitex
 - [ ] https://github.com/AlexStocks/getty
 - [ ] https://github.com/go-kratos/kratos
 
-十九、图像处理
+### 19-图像处理
+
 - [ ] https://github.com/anthonynsimon/bild
 - [ ] https://github.com/3d0c/gmf
 - [ ] https://github.com/hybridgroup/gocv
 - [ ] https://github.com/MindorksOpenSource/gogeom
 
-二十、RSS框架
+### 20-RSS框架
+
 - [ ] https://github.com/mmcdole/gofeed
 - [ ] https://github.com/gorilla/feeds
 - [ ] https://github.com/nkanaev/gofeed
 - [ ] https://github.com/x0e1f/alerteye
 
-二十一、机器学习
+### 21-机器学习
+
 - [ ] https://github.com/sjwhitworth/golearn
 - [ ] https://github.com/replicate/cog
 
-二十二、时间日期
+### 22-时间日期
+
 - [ ] https://github.com/jinzhu/now
 - [ ] https://github.com/rfyiamcool/timingwheel
 - [ ] https://github.com/nakabonne/tstorage
 - [ ] https://github.com/cappuccinotm/trn
 
-二十三、交叉编译
+### 23-交叉编译
+
 - [ ] https://github.com/Gogods/gox
 - [ ] https://github.com/mitchellh/gox
 - [ ] https://github.com/karalabe/xgo
@@ -974,11 +1006,13 @@
 - [ ] https://github.com/robertkrimen/gxc
 - [ ] https://github.com/workcha/crossCompile
 
-二十四、定时任务
+### 24-定时任务
+
 - [ ] https://github.com/robfig/cron
 - [ ] https://github.com/jasonlvhit/gocron
 
-二十五、其他框架
+### 25-其他框架
+
 - [ ] https://github.com/FiloSottile/age | 简单安全的加密工具 | 6k
 - [ ] https://github.com/xtaci/kcp-go
 - [ ] https://github.com/iancoleman/strcase
@@ -1355,7 +1389,7 @@
 - [ ] https://github.com/heiyeluren/XMM
 - [ ] https://github.com/CrackerCat/go-security
 
-## 04-Golang项目
+## 0x04-Golang项目
 
 本章节用于记录Go语言中的优秀成品项目。努力学习这些优秀项目的设计模式与编码方式！
 
@@ -1365,14 +1399,16 @@
 - https://github.com/trending/go?since=monthly
 - https://github.com/0e0w/GolangCode
 
-一、开源网站
+### 01-开源网站
+
 - [ ] https://github.com/qor/qor
 - [ ] https://github.com/gogs/gogs
 - [ ] https://github.com/admpub/nging
 - [ ] https://github.com/ponzu-cms/ponzu
 - [ ] https://github.com/fesiong/goblog
 
-二、娱乐游戏
+### 02-娱乐游戏
+
 - [ ] https://github.com/loig/ld47
 - [ ] https://github.com/c0nrad/pr0n
 - [ ] https://github.com/nickzuber/chs
@@ -1392,7 +1428,8 @@
 - [ ] https://github.com/EndlessCheng/mahjong-helper
 - [ ] https://github.com/Lallassu/bintris
 
-三、爬虫项目
+### 03-爬虫项目
+
 - [ ] https://github.com/yields/ant
 - [ ] https://github.com/hetianyi/digger
 - [ ] https://github.com/cnbattle/douyin
@@ -1405,12 +1442,14 @@
 - [ ] https://github.com/crawlab-team/crawlab
 - [ ] https://github.com/crawlab-team/crawlab-lite
 
-四、图形项目
+### 04-图形项目
+
 - [ ] https://github.com/fyne-io/7guis
 - [ ] https://github.com/fyne-io/examples
 - [ ] https://github.com/fyne-io/pixeledit
 
-五、量化投资
+### 05-量化投资
+
 - https://github.com/topics/stock-market?l=go
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/mop-tracker/mop
@@ -1425,7 +1464,8 @@
 - [ ] https://github.com/phonegapX/QuantBot
 - [ ] https://github.com/axiaoxin-com/x-stock
 
-六、其他项目
+### 06-其他项目
+
 - [ ] https://github.com/iawia002/annie
 - [ ] https://github.com/nkanaev/yarr
 - [ ] https://github.com/lsds/KungFu
