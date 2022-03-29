@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年3月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年3月29日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -2648,11 +2648,11 @@
 -  https://github.com/topics/brute-force-attacks?l=go
 -  https://github.com/search?l=Go&q=bruteforce
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
-- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 717
-- [ ] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 92
-- [ ] https://github.com/fireeye/gocrack | 密码破解工具 | 936
-- [ ] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 549
-- [ ] https://github.com/phil-fly/goWeakPass| 使用golang编写的服务弱口令检测 | 28
+- [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 1.1k
+- [x] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 142
+- [x] https://github.com/mandiant/gocrack | 密码破解工具 | 936
+- [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 549
+- [x] https://github.com/phil-fly/goWeakPass |使用golang编写的服务弱口令检测 | 28
 - [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
 - [ ] https://github.com/phil-fly/go-ipscan | 使用icmp检测获取当前网段存活主机 | 2
 - [ ] https://github.com/hack2fun/Gscan | 基于golang的高并发扫描器 | 15
