@@ -2649,15 +2649,15 @@
 -  https://github.com/search?l=Go&q=bruteforce
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 1.1k
-- [x] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 142
 - [x] https://github.com/mandiant/gocrack | 密码破解工具 | 936
 - [x] https://github.com/awake1t/PortBrute | 一款跨平台小巧的端口/口令爆破工具 | 549
+- [x] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
+- [x] https://github.com/niudaii/go-crack | go语言写的弱口令爆破工具 | 142
 - [x] https://github.com/phil-fly/goWeakPass |使用golang编写的服务弱口令检测 | 28
-- [ ] https://github.com/ncsa/ssh-auditor | 扫描网络上弱ssh密码的最佳方法 | 499
 - [ ] https://github.com/phil-fly/go-ipscan | 使用icmp检测获取当前网段存活主机 | 2
 - [ ] https://github.com/hack2fun/Gscan | 基于golang的高并发扫描器 | 15
 - [ ] https://github.com/netxfly/crack_ssh| SSH口令扫描器 | 104
-- [ ] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 0
+- [x] https://github.com/oksbsb/crack | 基于golang的多并发爆破工具 | 5
 - [ ] https://gitlab.com/opennota/hydra | Hydra用Go实现 | 1
 - [ ] https://github.com/lazytools/sshchecker | 快速专用的ssh暴力破解工具 | 5
 - [ ] https://github.com/insionng/genpassword | golang生成密码字典 | 6
@@ -2670,7 +2670,7 @@
 - [ ] https://github.com/wrfly/ssh-goburp | golang写的一个ssh爆破小程序 | 0
 - [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
 - [ ] https://github.com/Leeon123/SSHcrack | 使用golang制作的SSH爆破工具 | 3
-- [ ] https://github.com/fuzz7j/cDogScan
+- [x] https://github.com/fuzz7j/cDogScan | 多服务口令爆破、端口扫描等 | 53
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/ildarmf/bruteforce
 -  [ ] https://github.com/joohoi/godance
