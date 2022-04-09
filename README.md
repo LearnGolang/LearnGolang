@@ -4,7 +4,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年4月7日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年4月9日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -369,7 +369,7 @@
 - https://github.com/topics/golang-application
 - https://pkg.go.dev
 - https://github.com/gogods
-- https://github.com/q191201771/naza
+- https://github.com/q191201771/naza | Go语言基础库 | 368
 - https://github.com/darjun/go-daily-lib | Go语言每日一库 | 2.2k
 - https://github.com/huntersudo/go-all
 
@@ -736,7 +736,7 @@
 - https://github.com/topics/concurrency?l=go
 - https://github.com/topics/goroutine?l=go
 - https://github.com/topics/pool?l=go
-- [ ] https://github.com/panjf2000/ants | 高性能低损耗的goroutine池 | 5.6k
+- [x] https://github.com/panjf2000/ants | 高性能低损耗的goroutine池 | 5.6k
 - [ ] https://github.com/Jeffail/tunny | Go的goroutine池 | 2.3k
 - [ ] https://github.com/alitto/pond | 简约高性能goroutine工作池 | 212
 - [ ] https://github.com/oklog/run | 管理goroutine生命周期的通用机制 | 921
@@ -747,7 +747,7 @@
 - [ ] https://github.com/letsfire/factory| Go语言的协程池 | 13
 - [ ] https://github.com/ivpusic/grpool | 轻巧的Goroutine泳池 | 630
 - [ ] https://github.com/go-playground/pool | 有限的或无限制的goroutine |612
-- [ ] https://github.com/gammazero/workerpool | 并发限制goroutine池 | 511
+- [ ] https://github.com/gammazero/workerpool | 并发限制goroutine池 | 755
 - [ ] https://github.com/wazsmwazsm/mortar | 简单好用的高性能任务池 | 67
 - [ ] https://github.com/hibiken/asynq | 简单可靠高效的分布式任务队列 | 1.9k
 - [ ] https://github.com/modern-go/concurrent | 并发实用程序 | 190
@@ -2320,6 +2320,7 @@
 - [ ] https://github.com/daehee/mildew | Dotmil子域发现工具 | 2
 - [ ] https://github.com/lc/gau| 获取任何给定域的已知URL | 1.5k
 - [ ] https://github.com/timwhitez/gobusterdns | 内网轻量化子域名爆破工具 | 2
+- [ ] https://github.com/ZhuriLab/Starmap
 - [ ] https://github.com/5l1v3r1/sigsubs
 - [ ] https://github.com/michenriksen/aquatone
 - [ ] https://github.com/0x2E/sf
@@ -2426,6 +2427,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/s0md3v/Smap
 -  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/stanford-esrg/lzr
 -  [ ] https://github.com/L-codes/MX1014
@@ -3180,6 +3182,7 @@
 - [ ] https://github.com/Ice3man543/SubOver | 强大的子域接管工具 | 538
 - [ ] https://github.com/haccer/subjack  | Go编写的子域接管工具 | 1.1k
 - [ ] https://github.com/edoardottt/lit-bb-hack-tools | 漏洞赏金和黑客工具 | 50
+- [ ] https://github.com/damit5/gitdorks_go
 
 ### 17-其他项目
 
