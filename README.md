@@ -1,5 +1,7 @@
 # LearnGolang
 
+![](https://socialify.git.ci/LearnGolang/LearnGolang/image?description=1&descriptionEditable=%E3%80%8AGolang%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8-%E5%8F%AA%E6%9C%89Go%E8%AF%AD%E8%A8%80%E6%89%8D%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E3%80%8B&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
 本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
