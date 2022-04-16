@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年4月15日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年4月16日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -1390,6 +1390,7 @@
 - [ ] https://github.com/go-kratos/kratos
 - [ ] https://github.com/istio/istio
 - [ ] https://github.com/projectdiscovery/uncover
+- [ ] https://github.com/mazznoer/colorgrad | 颜色库 | 122
 
 ## 0x04-Golang项目
 
@@ -2403,7 +2404,7 @@
 - [ ] https://github.com/xiecat/fofax
 - [ ] https://github.com/shmilylty/netspy
 - [ ] https://github.com/ShangRui-hash/arp-spoofing-go
-- [ ] https://github.com/Athena1337/blackJack
+- [ ] https://github.com/Athena1337/blackJack | 重点系统指纹识别和目录扫描 | 27
 - [ ] https://github.com/ErSuan/gotoscan
 - [ ] https://github.com/feiyu563/nbping
 - [ ] https://github.com/ffffffff0x/ones
@@ -2430,6 +2431,7 @@
 -  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
 -  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
 -  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 6
+-  [ ] https://github.com/AlphabugX/AScanPort | 高速多线程全端口扫描 | 9
 -  [ ] https://github.com/s0md3v/Smap
 -  [ ] https://github.com/zyylhn/zscan
 -  [ ] https://github.com/stanford-esrg/lzr
@@ -2519,6 +2521,7 @@
 -  [ ] https://github.com/soreatu/PortScanner
 -  [ ] https://github.com/rverton/webanalyze
 -  [ ] https://github.com/projectdiscovery/wappalyzergo
+-  [ ] https://github.com/zan8in/masscan
 
 ### 04-漏洞扫描
 
@@ -2564,6 +2567,8 @@
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
 -  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
+-  [ ] https://github.com/zan8in/afrog  | 一个新的被动扫描工具 | 68
+-  [ ] https://github.com/wrenchonline/webscan | 基于浏览器爬虫的扫描工具 | 29
 -  [ ] https://github.com/qian-shen/youzai
 -  [ ] https://github.com/sairson/Yasso
 -  [ ] https://github.com/veo/vscan
@@ -2767,6 +2772,7 @@
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/Buzz2d0/xssfinder
 - [ ] https://github.com/sukmoonlee/packetlog
 - [ ] https://github.com/vrechson/ademir
 - [ ] https://github.com/thatsn0tmysite/xsserve
@@ -3547,6 +3553,8 @@
 - [ ] https://github.com/neuvector/neuvector | 云原生安全
 - [ ] https://github.com/ovotech/gitoops
 - [ ] https://github.com/zhizhuoshuma/cve_info_data
+- [ ] https://github.com/leveryd/go-sec-code
+- [ ] https://github.com/capnspacehook/taskmaster
 
 ## 06-Golang逆向
 
