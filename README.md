@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年4月18日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年4月19日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -137,6 +137,7 @@
 - [ ] [《通过例子学习Go Web编程》](http://books.studygolang.com/gowebexamples)
 - [ ] [《Go语言Web应用开发》](https://github.com/unknwon/building-web-applications-in-go)@无闻
 - [ ] [《Go语言学习指南》](https://github.com/coderit666/GoGuide)@dmxq
+- [ ] [《Go开发从入门到高高手》](https://github.com/WuPeiqi/go_course)@武沛齐
 
 ### 02-英文资源
 
@@ -543,6 +544,7 @@
 - [ ] https://github.com/go-cierra/sockets
 - [ ] https://github.com/nakabonne/ali
 - [ ] https://github.com/digineo/go-ping
+- [ ] https://github.com/xiecat/xnetwork
 
 ### 03-类型系统
 
@@ -1655,7 +1657,6 @@
 - [ ] https://github.com/TwinProduction/gatus
 - [ ] https://github.com/binwiederhier/pcopy
 - [ ] https://github.com/function61/varasto
-- [ ] https://github.com/bjdgyc/anylink
 - [ ] https://github.com/asciimoo/wuzz
 - [ ] https://github.com/goharbor/harbor
 - [ ] https://github.com/ViRb3/wgcf
@@ -2683,6 +2684,7 @@
 - [ ] https://github.com/vpereira/brucutu | 最酷的暴力破解工具 | 0
 - [ ] https://github.com/Leeon123/SSHcrack | 使用golang制作的SSH爆破工具 | 3
 - [x] https://github.com/fuzz7j/cDogScan | 多服务口令爆破、端口扫描等 | 53
+- [ ] https://github.com/F3eev/gobforce
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/ildarmf/bruteforce
 -  [ ] https://github.com/joohoi/godance
@@ -2925,6 +2927,7 @@
 -  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
 -  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
 -  [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
+-  [ ] https://github.com/bjdgyc/anylink
 -  [ ] https://github.com/ort4u/Ortau
 -  [ ] https://github.com/FunnyWolf/TFirewall
 -  [ ] https://github.com/cntechpower/anywhere
