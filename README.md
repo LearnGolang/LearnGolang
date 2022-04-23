@@ -655,6 +655,7 @@
 - [ ] https://github.com/uptrace/bun
 - [ ] https://github.com/dubbogo/arana
 - [ ] https://github.com/ariga/atlas
+- [ ] https://github.com/brokercap/Bifrost
 
 ### 06-配置文件
 
