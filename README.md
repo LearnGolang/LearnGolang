@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年7月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年7月21日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -2566,6 +2566,7 @@
 -  [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
 -  [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
 -  [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 1.2k
+-  [ ] https://github.com/zmap/zgrab2
 -  [x] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 786
 -  [ ] https://github.com/irealing/banner | Web端口扫描工具 | 2
 -  [ ] https://github.com/lovetrap/SafeScan | 关于扫描器的想法和实现 | 5
@@ -2612,7 +2613,6 @@
 -  [ ] https://github.com/virink/xray-weblisten-ui
 -  [ ] https://github.com/kjyc1/cat-8080-brute
 -  [ ] https://github.com/markwh245/rapt0r
--  [ ] https://github.com/zmap/zgrab2
 -  [ ] https://github.com/ATpiu/asset-scan
 -  [ ] https://github.com/mumu0215/GetTitle
 -  [ ] https://github.com/jpillora/icmpscan
@@ -2692,6 +2692,7 @@
 -  [ ] https://github.com/BEACON-CAI/quiet
 -  [ ] https://github.com/jiaocoll/BeeScan-scan
 -  [ ] https://github.com/hktalent/scan4all
+-  [ ] https://github.com/nirsarkar/vscan
 
 ### 05-密码爆破
 
@@ -2850,6 +2851,7 @@
 - [ ] https://github.com/yumusb/DNSLog-Platform-Golang
 - [ ] https://github.com/Charlie-belmer/nosqli
 - [ ] https://github.com/ferreiraklet/Jeeves
+- [ ] https://github.com/xiecat/wsm
 
 ### 08-病毒免杀
 
@@ -3106,6 +3108,7 @@
 -  [ ] https://github.com/xiaobei97/ligolo
 -  [ ] https://github.com/lcvvvv/backway
 -  [ ] https://github.com/longXboy/lunnel
+-  [ ] https://github.com/kevwan/tproxy
 
 ### 10-内网渗透
 
