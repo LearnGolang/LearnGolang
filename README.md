@@ -856,6 +856,7 @@
 - [ ] https://github.com/matryer/is
 - [ ] https://github.com/smartystreets/goconvey
 - [ ] https://github.com/lamoda/gonkey
+- [ ] https://github.com/cweill/gotests
 
 ### 11-电子邮件
 
