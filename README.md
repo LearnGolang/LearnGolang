@@ -2271,44 +2271,44 @@
 ## 0x05-Golang安全
 
 本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
--  https://github.com/topics/tool?l=go
--  https://github.com/topics/poc?l=go
--  https://github.com/topics/cve?l=go
--  https://github.com/topics/recon?l=go
--  https://github.com/search?l=Go&q=cve
--  https://github.com/topics/redteam?l=go
--  https://github.com/topics/vulnerability?l=go
--  https://github.com/topics/security-audit?l=go
--  https://github.com/topics/reconnaissance?l=go
--  https://github.com/topics/information-gathering?l=go
--  https://github.com/topics/vulnerability-scanner?l=go
-- [ ] https://github.com/parsiya/Go-Security
-- [ ] https://github.com/tomnomnom/hacks
-- [ ] https://github.com/parsiya/Hacking-with-Go
-- [ ] https://github.com/AV1080p/Hacking-With-Golang
-- [ ] https://github.com/dreddsa5dies/goHackTools
-- [ ] https://github.com/dreddsa5dies/hackerrankGo
-- [ ] https://github.com/dreddsa5dies/1000GoExamples
-- [ ] https://github.com/taielab/awesome-hacking-lists#go
-- [ ] https://github.com/Binject/awesome-go-security
-- [ ] https://github.com/Hack-with-Github/Awesome-Hacking
-- [ ] https://github.com/hahwul/WebHackersWeapons
-- [ ] https://github.com/he1m4n6a/Go_Security_Study
+- https://github.com/topics/tool?l=go
+- https://github.com/topics/poc?l=go
+- https://github.com/topics/cve?l=go
+- https://github.com/topics/recon?l=go
+- https://github.com/search?l=Go&q=cve
+- https://github.com/topics/redteam?l=go
+- https://github.com/topics/vulnerability?l=go
+- https://github.com/topics/security-audit?l=go
+- https://github.com/topics/reconnaissance?l=go
+- https://github.com/topics/information-gathering?l=go
+- https://github.com/topics/vulnerability-scanner?l=go
+- https://github.com/parsiya/Go-Security
+- https://github.com/tomnomnom/hacks
+- https://github.com/parsiya/Hacking-with-Go
+- https://github.com/AV1080p/Hacking-With-Golang
+- https://github.com/dreddsa5dies/goHackTools
+- https://github.com/dreddsa5dies/hackerrankGo
+- https://github.com/dreddsa5dies/1000GoExamples
+- https://github.com/taielab/awesome-hacking-lists#go
+- https://github.com/Binject/awesome-go-security
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/hahwul/WebHackersWeapons
+- https://github.com/he1m4n6a/Go_Security_Study
 
 ### 01-域名收集
--  https://github.com/topics/subdomain?l=go
--  https://github.com/topics/subdomains?l=go
--  https://github.com/topics/subdomain-scanner?l=go
--  https://github.com/search?l=Go&q=subdomain
--  https://github.com/search?l=Go&q=domains
+- [ ] https://github.com/topics/subdomain?l=go
+- [ ] https://github.com/topics/subdomains?l=go
+- [ ] https://github.com/topics/subdomain-scanner?l=go
+- [ ] https://github.com/search?l=Go&q=subdomain
+- [ ] https://github.com/search?l=Go&q=domains
 - [ ] https://github.com/Goqi/MiFeng
-- [x] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
-- [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
-- [x] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
-- [x] https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
-- [x] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
-- [x] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
-- [x] https://github.com/ThreatUnkown/jsubfinder | 搜索网页的js分析隐藏的子域 | 68
+- [ ] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
+- [ ] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
+- [ ] https://github.com/knownsec/ksubdomain | 一款基于无状态的子域名爆破工具 | 720
+- [ ] https://github.com/boy-hack/ksubdomain | 一款基于无状态的子域名爆破工具 | 19
+- [ ] https://github.com/evilsocket/dnssearch | 子域枚举工具 | 862
+- [ ] https://github.com/SanSYS/subdscan | 子域快速搜索工具 | 10
+- [ ] https://github.com/ThreatUnkown/jsubfinder | 搜索网页的js分析隐藏的子域 | 68
 - [ ] https://github.com/OWASP/Amass | 深度攻击面映射和资产发现 |5.8k
 - [ ] https://github.com/hahwul/ras-fuzzer | 随机子域Fuzzer | 41
 - [ ] https://github.com/netevert/delator | 利用证书透明性日志获取子域 | 48
@@ -2405,7 +2405,6 @@
 - [ ] https://github.com/mstxq17/MoreFind
 
 ### 02-资产收集
-
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 - [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
 - [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
@@ -2443,7 +2442,6 @@
 - [ ] https://github.com/mmM1ku/Mscan
 
 ### 03-端口扫描
-
 -  https://github.com/topics/portscan?l=go
 -  https://github.com/topics/portscanner?l=go
 -  https://github.com/search?l=Go&q=portscan
@@ -2559,15 +2557,14 @@
 -  [ ] https://github.com/m0sway/Yosakura
 
 ### 04-漏洞扫描
-
--  https://github.com/topics/pentesting?l=go
--  https://github.com/topics/security?l=go
--  https://github.com/topics/hacking?l=go
--  https://github.com/topics/scanner?l=go
--  https://github.com/topics/hacking-tool?l=go
--  https://github.com/topics/security-tools?l=go
--  https://github.com/topics/security-scanner?l=go
--  https://github.com/topics/vulnerability-scanner?l=go
+-  [x] https://github.com/topics/pentesting?l=go
+-  [x] https://github.com/topics/security?l=go
+-  [x] https://github.com/topics/hacking?l=go
+-  [x] https://github.com/topics/scanner?l=go
+-  [x] https://github.com/topics/hacking-tool?l=go
+-  [x] https://github.com/topics/security-tools?l=go
+-  [x] https://github.com/topics/security-scanner?l=go
+-  [x] https://github.com/topics/vulnerability-scanner?l=go
 -  [ ] https://github.com/Goqi/Banli | 高危资产识别和高危漏洞扫描 | 203
 -  [ ] https://github.com/projectdiscovery/nuclei | 基于POC模板的漏洞扫描工具 | 3.9k
 -  [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
