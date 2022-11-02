@@ -2442,119 +2442,119 @@
 - [ ] https://github.com/mmM1ku/Mscan
 
 ### 03-端口扫描
--  https://github.com/topics/portscan?l=go
--  https://github.com/topics/portscanner?l=go
--  https://github.com/search?l=Go&q=portscan
--  https://github.com/topics/ip-scanner?l=go
--  https://github.com/topics/port-scanner?l=go
--  https://github.com/topics/network-scanner?l=go
--  https://github.com/malfunkt/iprange | 解析IP地址列表 | 38
--  [x] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 136
--  [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
--  [x] https://github.com/4dogs-cn/TXPortMap | 端口扫描器和Banner识别 | 252
--  [ ] https://github.com/v-byte-cpu/sx | 快速、现代、易于使用的网络扫描仪  |  793
--  [ ] https://github.com/1ndianl33t/urlprobe | 网址状态代码和内容长度检查器 | 133
--  [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
--  [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及title 收集工具 | 4
--  [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
--  [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
--  [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
--  [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
--  [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 14
--  [ ] https://github.com/AlphabugX/AScanPort | 高速多线程全端口扫描 | 37
--  [ ] https://github.com/zan8in/masscan
--  [ ] https://github.com/s0md3v/Smap
--  [ ] https://github.com/zyylhn/zscan
--  [ ] https://github.com/stanford-esrg/lzr
--  [ ] https://github.com/L-codes/MX1014
--  [ ] https://github.com/projectdiscovery/httpx
--  [ ] https://github.com/i11us0ry/goon
--  [ ] https://github.com/chinacase/portScan
--  [ ] https://github.com/abrander/pnmap
--  [ ] https://github.com/lcvvvv/gonmap
--  [ ] https://github.com/JustinTimperio/gomap
--  [ ] https://github.com/CTF-MissFeng/NmapTools
--  [ ] https://github.com/timest/goscan
--  [ ] https://github.com/lavalamp-/ipv666
--  [ ] https://github.com/theodesp/find-port
--  [ ] https://github.com/ivopetiz/network-scanner
--  [ ] https://github.com/ariagecheney/fyneIPinfo
--  [ ] https://github.com/FDlucifer/goportscan
--  [ ] https://github.com/amir-shiati/portscanner
--  [ ] https://github.com/youshu/GoScanner
--  [ ] https://github.com/sj14/portscan
--  [ ] https://github.com/anrosent/portscan
--  [ ] https://github.com/djhohnstein/portscanner
--  [ ] https://github.com/dtx/go-portscan
--  [ ] https://github.com/ancientlore/portscan
--  [ ] https://github.com/DaikiYamakawa/go-portscan
--  [ ] https://github.com/uknowsec/TailorScan
--  [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
--  [ ] https://github.com/dozyio/go-port-scanner
--  [ ] https://github.com/Ullaakut/nmap
--  [ ] https://github.com/nray-scanner/nray
--  [ ] https://github.com/lair-framework/go-nmap
--  [ ] https://github.com/dean2021/go-nmap
--  [ ] https://github.com/guitarpawat/portscan
--  [ ] https://github.com/colindickson/portscan
--  [ ] https://github.com/btsomogyi/portscan
--  [ ] https://github.com/freeddser/portscan
--  [ ] https://github.com/takish/portscan
--  [ ] https://github.com/amir-shiati/portscanner
--  [ ] https://github.com/byronzhu-haha/portscanner
--  [ ] https://github.com/svitlanaGalianova/portscanner
--  [ ] https://github.com/mangelsnc/portscanner
--  [ ] https://github.com/vilhelmbergsoe/portscanner
--  [ ] https://github.com/yuraant/go-portscanner
--  [ ] https://github.com/oldcookie/go-portscanner
--  [ ] https://github.com/bitmaskit/go-portscanner
--  [ ] https://github.com/Tanmay-N/Go-Portscanner
--  [ ] https://github.com/magisterquis/portscan2dns
--  [ ] https://github.com/wangxianzhuo/PortScan
--  [ ] https://github.com/dean2021/go-masscan
--  [ ] https://github.com/mspaulding06/portscan
--  [ ] https://github.com/lkiesow/go-scan-http
--  [ ] https://github.com/AlexsJones/schism
--  [ ] https://github.com/viiftw/glance
--  [ ] https://github.com/pojntfx/liwasc
--  [ ] https://github.com/aeverj/pscan
--  [ ] https://launchpad.net/gommap
--  [ ] https://github.com/RickGray/vscan-go
--  [ ] https://github.com/loong716/PortScan
--  [ ] https://github.com/jboursiquot/portscan
--  [ ] https://github.com/vus520/go-scan
--  [ ] https://github.com/ElCap1tan/gort
--  [ ] https://github.com/zs5460/portscan
--  [ ] https://github.com/Killeroo/Skimmer
--  [ ] https://github.com/mlesniak/port-scanner
--  [ ] https://github.com/ivopetiz/network-scanner
--  [ ] https://github.com/Trevilness/PortScanner
--  [ ] https://github.com/BurnyMcDull/portscan
--  [ ] https://github.com/Konstantin8105/port
--  [ ] https://github.com/Tanmay-N/Go-Portscanner
--  [ ] https://github.com/jcbritobr/port-scanner
--  [ ] https://github.com/vokomarov/netshark
--  [ ] https://github.com/tengzhangchao/PortScan
--  [ ] https://github.com/qq431169079/PortScanner-3
--  [ ] https://github.com/pwn1sher/Golang-PortScanner
--  [ ] https://github.com/snarlysodboxer/portscan-compare-notify
--  [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
--  [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
--  [ ] https://github.com/Pingze-github/portScanner
--  [ ] https://github.com/KathanP19/protoscan
--  [ ] https://github.com/R4yGM/netscanner
--  [ ] https://github.com/marpie/nmap2json
--  [ ] https://github.com/charles-d-burton/scandalorian
--  [ ] https://github.com/schmalle/nmaputil
--  [ ] https://github.com/zyxpaomian/go-fping
--  [ ] https://github.com/3th1nk/cidr
--  [ ] https://github.com/LeakIX/l9tcpid
--  [ ] https://github.com/soreatu/PortScanner
--  [ ] https://github.com/rverton/webanalyze
--  [ ] https://github.com/projectdiscovery/wappalyzergo
--  [ ] https://github.com/leesoh/np
--  [ ] https://github.com/fsgo/hydra
--  [ ] https://github.com/m0sway/Yosakura
+- [ ] https://github.com/topics/portscan?l=go
+- [ ] https://github.com/topics/portscanner?l=go
+- [ ] https://github.com/search?l=Go&q=portscan
+- [ ] https://github.com/topics/ip-scanner?l=go
+- [ ] https://github.com/topics/port-scanner?l=go
+- [ ] https://github.com/topics/network-scanner?l=go
+- [ ] https://github.com/malfunkt/iprange | 解析IP地址列表 | 38
+- [x] https://github.com/CTF-MissFeng/nmaps | 新一代端口及指纹扫描器 136
+- [x] https://github.com/projectdiscovery/naabu | Go编写的端口扫描工具 | 848
+- [x] https://github.com/4dogs-cn/TXPortMap | 端口扫描器和Banner识别 | 252
+- [ ] https://github.com/v-byte-cpu/sx | 快速、现代、易于使用的网络扫描仪  |  793
+- [ ] https://github.com/1ndianl33t/urlprobe | 网址状态代码和内容长度检查器 | 133
+- [ ] https://github.com/theblackturtle/fprobe | 快速HTTP探测 | 146
+- [ ] https://github.com/phil-fly/portScan | 开源端口扫描以及title 收集工具 | 4
+- [ ] https://github.com/nray-scanner/nray | 分布式端口扫描器 | 116
+- [ ] https://github.com/liamg/furious | 一款快速轻巧的端口扫描器 | 282
+- [ ] https://github.com/xs25cn/scanPort | golang版高性能端口扫描工具 | 76
+- [ ] https://github.com/R4yGM/netscanner | 查找打开或关闭的端口 | 176
+- [ ] https://github.com/bufsnake/Monkey | 基于nmap、masscan、go socket的端口扫描工具 | 14
+- [ ] https://github.com/AlphabugX/AScanPort | 高速多线程全端口扫描 | 37
+- [ ] https://github.com/zan8in/masscan
+- [ ] https://github.com/s0md3v/Smap
+- [ ] https://github.com/zyylhn/zscan
+- [ ] https://github.com/stanford-esrg/lzr
+- [ ] https://github.com/L-codes/MX1014
+- [ ] https://github.com/projectdiscovery/httpx
+- [ ] https://github.com/i11us0ry/goon
+- [ ] https://github.com/chinacase/portScan
+- [ ] https://github.com/abrander/pnmap
+- [ ] https://github.com/lcvvvv/gonmap
+- [ ] https://github.com/JustinTimperio/gomap
+- [ ] https://github.com/CTF-MissFeng/NmapTools
+- [ ] https://github.com/timest/goscan
+- [ ] https://github.com/lavalamp-/ipv666
+- [ ] https://github.com/theodesp/find-port
+- [ ] https://github.com/ivopetiz/network-scanner
+- [ ] https://github.com/ariagecheney/fyneIPinfo
+- [ ] https://github.com/FDlucifer/goportscan
+- [ ] https://github.com/amir-shiati/portscanner
+- [ ] https://github.com/youshu/GoScanner
+- [ ] https://github.com/sj14/portscan
+- [ ] https://github.com/anrosent/portscan
+- [ ] https://github.com/djhohnstein/portscanner
+- [ ] https://github.com/dtx/go-portscan
+- [ ] https://github.com/ancientlore/portscan
+- [ ] https://github.com/DaikiYamakawa/go-portscan
+- [ ] https://github.com/uknowsec/TailorScan
+- [ ] https://github.com/jpiechowka/go-tcp-turbo-scanner
+- [ ] https://github.com/dozyio/go-port-scanner
+- [ ] https://github.com/Ullaakut/nmap
+- [ ] https://github.com/nray-scanner/nray
+- [ ] https://github.com/lair-framework/go-nmap
+- [ ] https://github.com/dean2021/go-nmap
+- [ ] https://github.com/guitarpawat/portscan
+- [ ] https://github.com/colindickson/portscan
+- [ ] https://github.com/btsomogyi/portscan
+- [ ] https://github.com/freeddser/portscan
+- [ ] https://github.com/takish/portscan
+- [ ] https://github.com/amir-shiati/portscanner
+- [ ] https://github.com/byronzhu-haha/portscanner
+- [ ] https://github.com/svitlanaGalianova/portscanner
+- [ ] https://github.com/mangelsnc/portscanner
+- [ ] https://github.com/vilhelmbergsoe/portscanner
+- [ ] https://github.com/yuraant/go-portscanner
+- [ ] https://github.com/oldcookie/go-portscanner
+- [ ] https://github.com/bitmaskit/go-portscanner
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/magisterquis/portscan2dns
+- [ ] https://github.com/wangxianzhuo/PortScan
+- [ ] https://github.com/dean2021/go-masscan
+- [ ] https://github.com/mspaulding06/portscan
+- [ ] https://github.com/lkiesow/go-scan-http
+- [ ] https://github.com/AlexsJones/schism
+- [ ] https://github.com/viiftw/glance
+- [ ] https://github.com/pojntfx/liwasc
+- [ ] https://github.com/aeverj/pscan
+- [ ] https://launchpad.net/gommap
+- [ ] https://github.com/RickGray/vscan-go
+- [ ] https://github.com/loong716/PortScan
+- [ ] https://github.com/jboursiquot/portscan
+- [ ] https://github.com/vus520/go-scan
+- [ ] https://github.com/ElCap1tan/gort
+- [ ] https://github.com/zs5460/portscan
+- [ ] https://github.com/Killeroo/Skimmer
+- [ ] https://github.com/mlesniak/port-scanner
+- [ ] https://github.com/ivopetiz/network-scanner
+- [ ] https://github.com/Trevilness/PortScanner
+- [ ] https://github.com/BurnyMcDull/portscan
+- [ ] https://github.com/Konstantin8105/port
+- [ ] https://github.com/Tanmay-N/Go-Portscanner
+- [ ] https://github.com/jcbritobr/port-scanner
+- [ ] https://github.com/vokomarov/netshark
+- [ ] https://github.com/tengzhangchao/PortScan
+- [ ] https://github.com/qq431169079/PortScanner-3
+- [ ] https://github.com/pwn1sher/Golang-PortScanner
+- [ ] https://github.com/snarlysodboxer/portscan-compare-notify
+- [ ] https://github.com/Insolent-M1nx/SimpleThread_PortScanner_Go
+- [ ] https://github.com/ManShum812/Automating-Scan-Live-Subdomain
+- [ ] https://github.com/Pingze-github/portScanner
+- [ ] https://github.com/KathanP19/protoscan
+- [ ] https://github.com/R4yGM/netscanner
+- [ ] https://github.com/marpie/nmap2json
+- [ ] https://github.com/charles-d-burton/scandalorian
+- [ ] https://github.com/schmalle/nmaputil
+- [ ] https://github.com/zyxpaomian/go-fping
+- [ ] https://github.com/3th1nk/cidr
+- [ ] https://github.com/LeakIX/l9tcpid
+- [ ] https://github.com/soreatu/PortScanner
+- [ ] https://github.com/rverton/webanalyze
+- [ ] https://github.com/projectdiscovery/wappalyzergo
+- [ ] https://github.com/leesoh/np
+- [ ] https://github.com/fsgo/hydra
+- [ ] https://github.com/m0sway/Yosakura
 
 ### 04-漏洞扫描
 -  [x] https://github.com/topics/pentesting?l=go
@@ -2705,10 +2705,10 @@
 
 ### 05-密码爆破
 
--  https://github.com/topics/bruteforce?l=go
--  https://github.com/topics/brute-force?l=go
--  https://github.com/topics/brute-force-attacks?l=go
--  https://github.com/search?l=Go&q=bruteforce
+- [ ] https://github.com/topics/bruteforce?l=go
+- [ ] https://github.com/topics/brute-force?l=go
+- [ ] https://github.com/topics/brute-force-attacks?l=go
+- [ ] https://github.com/search?l=Go&q=bruteforce
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
 - [x] https://github.com/netxfly/x-crack | 年轻人的第一款弱口令扫描器 | 1.1k
 - [x] https://github.com/mandiant/gocrack | 密码破解工具 | 936
@@ -2737,7 +2737,7 @@
 - [ ] https://github.com/F3eev/gobforce
 - [ ] https://github.com/deed02392/weakpass
 - [ ] https://github.com/ildarmf/bruteforce
--  [ ] https://github.com/joohoi/godance
+- [ ] https://github.com/joohoi/godance
 - [ ] https://github.com/dullgiulio/bruto
 - [ ] https://github.com/adrpino/sshackle
 - [ ] [golang-http-basic-auth-bruteforce](https://github.com/ruhman/golang-http-basic-auth-bruteforce)
@@ -2754,11 +2754,11 @@
 
 ### 06-路径扫描
 
--  https://github.com/topics/fuzzer?l=go
--  https://github.com/topics/fuzzing?l=go
--  https://github.com/topics/fuzz?l=go
--  https://github.com/topics/dirbuster?l=go
--  https://github.com/topics/webscan?l=go
+- [ ] https://github.com/topics/fuzzer?l=go
+- [ ] https://github.com/topics/fuzzing?l=go
+- [ ] https://github.com/topics/fuzz?l=go
+- [ ] https://github.com/topics/dirbuster?l=go
+- [ ] https://github.com/topics/webscan?l=go
 - [ ] https://github.com/Goqi/DirTurtle
 - [ ] https://github.com/l2-team/cmsfingers
 - [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
@@ -2792,28 +2792,28 @@
 - [ ] https://github.com/Static-Flow/gofingerprint
 - [ ] https://github.com/rabbitmask/MacOui
 - [ ] https://github.com/0xsapra/fuzzparam
--  [ ] https://github.com/j5s/Caesar
--  [ ] https://github.com/jiaocoll/GoWebBanner
--  [ ] https://github.com/ethicalhackingplayground/wordlistgen | 生成目标特定的单词列表 | 73
--  [ ] https://github.com/TRYblog/url-alive-scan
--  [ ] https://github.com/jayus0821/scan-j
--  [ ] https://github.com/bufsnake/blueming
--  [ ] https://github.com/brittonhayes/pillager
--  [ ] https://github.com/madneal/gshark
--  [ ] https://github.com/jiaocoll/GoBackupscan
--  [ ] https://github.com/ethicalhackingplayground/tprox
--  [ ] https://github.com/newbe3three/gotoscan
--  [ ] https://github.com/damit5/backupGen
--  [ ] https://github.com/corunb/Dirscan
--  [ ] https://github.com/carl1l/f403
--  [ ] https://github.com/pingc0y/URLFinder
+- [ ] https://github.com/j5s/Caesar
+- [ ] https://github.com/jiaocoll/GoWebBanner
+- [ ] https://github.com/ethicalhackingplayground/wordlistgen | 生成目标特定的单词列表 | 73
+- [ ] https://github.com/TRYblog/url-alive-scan
+- [ ] https://github.com/jayus0821/scan-j
+- [ ] https://github.com/bufsnake/blueming
+- [ ] https://github.com/brittonhayes/pillager
+- [ ] https://github.com/madneal/gshark
+- [ ] https://github.com/jiaocoll/GoBackupscan
+- [ ] https://github.com/ethicalhackingplayground/tprox
+- [ ] https://github.com/newbe3three/gotoscan
+- [ ] https://github.com/damit5/backupGen
+- [ ] https://github.com/corunb/Dirscan
+- [ ] https://github.com/carl1l/f403
+- [ ] https://github.com/pingc0y/URLFinder
 
 ### 07-Web安全
 
--  https://github.com/topics/xss?l=go
--  https://github.com/topics/ssrf?l=go
--  https://github.com/topics/rce?l=go
--  https://github.com/topics/sql-injection?l=go
+- [ ] https://github.com/topics/xss?l=go
+- [ ] https://github.com/topics/ssrf?l=go
+- [ ] https://github.com/topics/rce?l=go
+- [ ] https://github.com/topics/sql-injection?l=go
 - [ ] https://github.com/tprynn/web-methodology
 - [ ] https://github.com/Releasel0ck/Blind-SQL-Injector | 手工盲注辅助注入工具 | 23
 - [ ] https://github.com/yahoo/gryffin | 大规模的Web安全扫描平台 | 2k
@@ -2867,11 +2867,11 @@
 
 ### 08-病毒免杀
 
-- https://github.com/topics/shellcode?l=go
-- https://github.com/search?l=Go&q=shellcode
-- https://github.com/search?l=Go&q=bypass
-- https://github.com/topics/shellcode-loader
-- [ ] https://github.com/Goqi/Bianse
+- [x] https://github.com/topics/shellcode?l=go
+- [x] https://github.com/search?l=Go&q=shellcode
+- [x] https://github.com/search?l=Go&q=bypass
+- [x] https://github.com/topics/shellcode-loader
+- [x] https://github.com/Goqi/Bianse
 - [ ] https://github.com/Getshell/BypassAV
 - [ ] https://github.com/xct/morbol | PE文件的简单AV规避 | 13
 - [ ] https://github.com/ffuf/pencode | 复杂有效载荷编码器 | 73
@@ -2980,150 +2980,150 @@
 
 ### 09-隧道代理
 
--  https://github.com/topics/proxy?l=go
--  https://github.com/topics/tunnel?l=go
--  https://github.com/topics/reverse-proxy?l=go
--  [ ] https://github.com/Goqi/Duoli
--  [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
--  [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
--  [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
--  [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
--  [ ] https://github.com/jpillora/chisel
--  [ ] https://github.com/xtaci/kcptun
--  [ ] https://github.com/ph4ntonn/Stowaway
--  [ ] https://github.com/canc3s/judas
--  [ ] https://github.com/bjdgyc/anylink
--  [ ] https://github.com/ort4u/Ortau
--  [ ] https://github.com/FunnyWolf/TFirewall
--  [ ] https://github.com/cntechpower/anywhere
--  [ ] https://github.com/uknowsec/frpModify
--  [ ] https://github.com/Dliv3/Venom
--  [ ] https://github.com/danielan/lonely-shell
--  [ ] https://github.com/sysdream/ligolo
--  [ ] https://github.com/sysdream/hershell
--  [ ] https://github.com/sysdream/chashell
--  [ ] https://github.com/cw1997/NATBypass
--  [ ] https://github.com/ph4ntonn/go-socks5
--  [ ] https://github.com/wywwzjj/Stowaway
--  [ ] https://github.com/LubyRuffy/tcptunnel
--  [ ] https://github.com/FireFart/goshell
--  [ ] https://github.com/ypcd/gstunnel
--  [ ] https://github.com/EddieIvan01/iox
--  [ ] https://github.com/ring04h/s5.go
--  [ ] https://github.com/Ridter/DomainHiding
--  [ ] https://github.com/imgproxy/imgproxy
--  [ ] https://github.com/knownsec/Portforward
--  [ ] https://github.com/TNK-Studio/gortal
--  [ ] https://github.com/gwuhaolin/lightsocks
--  [ ] https://github.com/xct/xc
--  [ ] https://github.com/snail007/goproxy
--  [ ] https://github.com/staaldraad/turner
--  [ ] https://github.com/esrrhs/pingtunnel
--  [ ] https://github.com/whitehatnote/BlueShell
--  [ ] https://github.com/averagesecurityguy/c2
--  [ ] https://github.com/e3prom/ruse
--  [ ] https://github.com/google/martian
--  [ ] https://github.com/stripe/smokescreen
--  [ ] https://github.com/BitTheByte/Eagle
--  [ ] https://github.com/FunnyWolf/TFirewall
--  [ ] https://github.com/rhaidiz/broxy
--  [ ] https://github.com/p4gefau1t/trojan-go
--  [ ] https://github.com/AdguardTeam/dnsproxy
--  [ ] https://github.com/inconshreveable/ngrok
--  [ ] https://github.com/rabbitmask/Netstat
--  [x] https://github.com/WangYihang/Platypus
--  [ ] https://github.com/wrfly/gus-proxy
--  [ ] https://github.com/danielan/lonely-shell
--  [ ] https://github.com/crabkun/switcher
--  [ ] https://github.com/crabkun/crab
--  [ ] https://github.com/rancher/remotedialer
--  [ ] https://github.com/HTFTIMEONE/proxyPool
--  [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
--  [ ] https://github.com/TheKingOfDuck/ReverseGoShell
--  [ ] https://github.com/mauri870/powershell-reverse-http
--  [ ] https://github.com/thinkgos/jocasta
--  [ ] https://github.com/yinqiwen/gsnova
--  [ ] https://github.com/canc3s/gnc
--  [ ] https://github.com/lu4p/ToRat
--  [ ] https://github.com/inlets/inlets
--  [ ] https://github.com/Lz1y/NatSocks
--  [ ] https://github.com/dushixiang/4dnat
--  [ ] https://github.com/lesnuages/hershell
--  [ ] https://github.com/redcode-labs/GoSH
--  [ ] https://github.com/Sandertv/gophertunnel
--  [ ] https://github.com/crowdsecurity/crowdsec
--  [ ] https://github.com/unixpickle/reverseproxy
--  [ ] https://github.com/slemire/reversetroll
--  [ ] https://github.com/pry0cc/soxy
--  [ ] https://github.com/ice-ice/dnstunnel
--  [ ] https://github.com/TeaWeb/build
--  [ ] https://github.com/projectdiscovery/proxify
--  [ ] https://github.com/maskedeken/gost-plugin
--  [ ] https://github.com/haxii/fastproxy
--  [ ] https://github.com/chroblert/JCRandomProxy
--  [ ] https://github.com/mthbernardes/GTRS
--  [ ] https://github.com/txthinking/brook
--  [ ] https://github.com/TerminalJockey/Gimic
--  [ ] https://github.com/ghostunnel/ghostunnel
--  [ ] https://github.com/blackarrowsec/pivotnacci
--  [ ] https://github.com/nodauf/Girsh
--  [ ] https://github.com/antoniomika/sish
--  [ ] https://github.com/fanpei91/sandwich
--  [ ] https://github.com/Dreamacro/clash
--  [ ] https://github.com/xjasonlyu/tun2socks
--  [ ] https://github.com/eaglexiang/eagle.tunnel.go
--  [ ] https://github.com/djhohnstein/cliProxy
--  [ ] https://github.com/redcode-labs/GodSpeed
--  [ ] https://github.com/muraenateam/muraena
--  [ ] https://github.com/esrrhs/spp
--  [ ] https://github.com/umputun/reproxy
--  [ ] https://github.com/tavenli/port-forward
--  [ ] https://github.com/hotnops/gtunnel
--  [ ] https://github.com/hashsecteam/scf-proxy
--  [ ] https://github.com/FunnyWolf/ligolo
--  [ ] https://github.com/google/huproxy
--  [ ] https://github.com/lochv/srt
--  [ ] https://github.com/net-byte/vtun
--  [ ] https://github.com/elazarl/goproxy
--  [ ] https://github.com/jafarlihi/rconn
--  [ ] https://github.com/mosn/mosn
--  [ ] https://github.com/njcx/gocmd
--  [ ] https://github.com/Daybr4ak/C2ReverseProxy
--  [ ] https://github.com/NMTech0x90/port_tunnel
--  [ ] https://github.com/mmatczuk/go-http-tunnel
--  [ ] https://github.com/codeHauler-1/NetProxy
--  [ ] https://github.com/txthinking/ipio
--  [ ] https://github.com/jafarlihi/rconn
--  [ ] https://github.com/duzhi5368/FKGoTrojan
--  [ ] https://github.com/iiiusky/webrtc-proxy
--  [ ] https://github.com/CTF-MissFeng/Ecloud
--  [ ] https://github.com/pibigstar/go-proxy
--  [ ] https://github.com/xandout/soxy
--  [ ] https://github.com/tnpitsecurity/ligolo-ng
--  [ ] https://github.com/lwch/natpass
--  [ ] https://github.com/EkiXu/reverse-shell-manager
--  [ ] https://github.com/studentmain/socks6
--  [ ] https://github.com/wzshiming/anyproxy
--  [ ] https://github.com/dtapps/go-ssh-tunnel
--  [ ] https://github.com/TRYblog/multiplexing_port_socks5
--  [ ] https://github.com/NHAS/reverse_ssh
--  [ ] https://github.com/kost/revsocks
--  [ ] https://github.com/chdav/GoWard
--  [ ] https://github.com/sleeyax/ja3rp
--  [ ] https://github.com/jiuzhou-zhao/lumos
--  [ ] https://github.com/goproxy/goproxy
--  [ ] https://github.com/Quiq/webauthn_proxy
--  [ ] https://github.com/tnpitsecurity/ligolo-ng
--  [ ] https://github.com/wuchunfu/IpProxyPool
--  [ ] https://github.com/justmao945/mallory
--  [ ] https://github.com/bykof/go-plantuml
--  [ ] https://github.com/enfein/mieru
--  [ ] https://github.com/xiaobei97/ligolo
--  [ ] https://github.com/lcvvvv/backway
--  [ ] https://github.com/longXboy/lunnel
--  [ ] https://github.com/kevwan/tproxy
--  [ ] https://github.com/yuxiaokui/gohtran
--  [ ] https://github.com/stripe/smokescreen
+- [ ] https://github.com/topics/proxy?l=go
+- [ ] https://github.com/topics/tunnel?l=go
+- [ ] https://github.com/topics/reverse-proxy?l=go
+- [ ] https://github.com/Goqi/Duoli
+- [ ] https://github.com/fatedier/frp | 快速反向代理 | 40.3k
+- [ ] https://github.com/ehang-io/nps | 功能强大的内网穿透代理服务器 | 17.3k
+- [ ] https://github.com/drk1wi/Modlishka | 莫德利什卡，反向代理。 | 3.6k
+- [ ] https://github.com/ginuerzh/gost | GO语言实现的安全隧道 | 7.8k
+- [ ] https://github.com/jpillora/chisel
+- [ ] https://github.com/xtaci/kcptun
+- [ ] https://github.com/ph4ntonn/Stowaway
+- [ ] https://github.com/canc3s/judas
+- [ ] https://github.com/bjdgyc/anylink
+- [ ] https://github.com/ort4u/Ortau
+- [ ] https://github.com/FunnyWolf/TFirewall
+- [ ] https://github.com/cntechpower/anywhere
+- [ ] https://github.com/uknowsec/frpModify
+- [ ] https://github.com/Dliv3/Venom
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/sysdream/ligolo
+- [ ] https://github.com/sysdream/hershell
+- [ ] https://github.com/sysdream/chashell
+- [ ] https://github.com/cw1997/NATBypass
+- [ ] https://github.com/ph4ntonn/go-socks5
+- [ ] https://github.com/wywwzjj/Stowaway
+- [ ] https://github.com/LubyRuffy/tcptunnel
+- [ ] https://github.com/FireFart/goshell
+- [ ] https://github.com/ypcd/gstunnel
+- [ ] https://github.com/EddieIvan01/iox
+- [ ] https://github.com/ring04h/s5.go
+- [ ] https://github.com/Ridter/DomainHiding
+- [ ] https://github.com/imgproxy/imgproxy
+- [ ] https://github.com/knownsec/Portforward
+- [ ] https://github.com/TNK-Studio/gortal
+- [ ] https://github.com/gwuhaolin/lightsocks
+- [ ] https://github.com/xct/xc
+- [ ] https://github.com/snail007/goproxy
+- [ ] https://github.com/staaldraad/turner
+- [ ] https://github.com/esrrhs/pingtunnel
+- [ ] https://github.com/whitehatnote/BlueShell
+- [ ] https://github.com/averagesecurityguy/c2
+- [ ] https://github.com/e3prom/ruse
+- [ ] https://github.com/google/martian
+- [ ] https://github.com/stripe/smokescreen
+- [ ] https://github.com/BitTheByte/Eagle
+- [ ] https://github.com/FunnyWolf/TFirewall
+- [ ] https://github.com/rhaidiz/broxy
+- [ ] https://github.com/p4gefau1t/trojan-go
+- [ ] https://github.com/AdguardTeam/dnsproxy
+- [ ] https://github.com/inconshreveable/ngrok
+- [ ] https://github.com/rabbitmask/Netstat
+- [x] https://github.com/WangYihang/Platypus
+- [ ] https://github.com/wrfly/gus-proxy
+- [ ] https://github.com/danielan/lonely-shell
+- [ ] https://github.com/crabkun/switcher
+- [ ] https://github.com/crabkun/crab
+- [ ] https://github.com/rancher/remotedialer
+- [ ] https://github.com/HTFTIMEONE/proxyPool
+- [ ] https://github.com/AmyangXYZ/GhostTunnel-Go
+- [ ] https://github.com/TheKingOfDuck/ReverseGoShell
+- [ ] https://github.com/mauri870/powershell-reverse-http
+- [ ] https://github.com/thinkgos/jocasta
+- [ ] https://github.com/yinqiwen/gsnova
+- [ ] https://github.com/canc3s/gnc
+- [ ] https://github.com/lu4p/ToRat
+- [ ] https://github.com/inlets/inlets
+- [ ] https://github.com/Lz1y/NatSocks
+- [ ] https://github.com/dushixiang/4dnat
+- [ ] https://github.com/lesnuages/hershell
+- [ ] https://github.com/redcode-labs/GoSH
+- [ ] https://github.com/Sandertv/gophertunnel
+- [ ] https://github.com/crowdsecurity/crowdsec
+- [ ] https://github.com/unixpickle/reverseproxy
+- [ ] https://github.com/slemire/reversetroll
+- [ ] https://github.com/pry0cc/soxy
+- [ ] https://github.com/ice-ice/dnstunnel
+- [ ] https://github.com/TeaWeb/build
+- [ ] https://github.com/projectdiscovery/proxify
+- [ ] https://github.com/maskedeken/gost-plugin
+- [ ] https://github.com/haxii/fastproxy
+- [ ] https://github.com/chroblert/JCRandomProxy
+- [ ] https://github.com/mthbernardes/GTRS
+- [ ] https://github.com/txthinking/brook
+- [ ] https://github.com/TerminalJockey/Gimic
+- [ ] https://github.com/ghostunnel/ghostunnel
+- [ ] https://github.com/blackarrowsec/pivotnacci
+- [ ] https://github.com/nodauf/Girsh
+- [ ] https://github.com/antoniomika/sish
+- [ ] https://github.com/fanpei91/sandwich
+- [ ] https://github.com/Dreamacro/clash
+- [ ] https://github.com/xjasonlyu/tun2socks
+- [ ] https://github.com/eaglexiang/eagle.tunnel.go
+- [ ] https://github.com/djhohnstein/cliProxy
+- [ ] https://github.com/redcode-labs/GodSpeed
+- [ ] https://github.com/muraenateam/muraena
+- [ ] https://github.com/esrrhs/spp
+- [ ] https://github.com/umputun/reproxy
+- [ ] https://github.com/tavenli/port-forward
+- [ ] https://github.com/hotnops/gtunnel
+- [ ] https://github.com/hashsecteam/scf-proxy
+- [ ] https://github.com/FunnyWolf/ligolo
+- [ ] https://github.com/google/huproxy
+- [ ] https://github.com/lochv/srt
+- [ ] https://github.com/net-byte/vtun
+- [ ] https://github.com/elazarl/goproxy
+- [ ] https://github.com/jafarlihi/rconn
+- [ ] https://github.com/mosn/mosn
+- [ ] https://github.com/njcx/gocmd
+- [ ] https://github.com/Daybr4ak/C2ReverseProxy
+- [ ] https://github.com/NMTech0x90/port_tunnel
+- [ ] https://github.com/mmatczuk/go-http-tunnel
+- [ ] https://github.com/codeHauler-1/NetProxy
+- [ ] https://github.com/txthinking/ipio
+- [ ] https://github.com/jafarlihi/rconn
+- [ ] https://github.com/duzhi5368/FKGoTrojan
+- [ ] https://github.com/iiiusky/webrtc-proxy
+- [ ] https://github.com/CTF-MissFeng/Ecloud
+- [ ] https://github.com/pibigstar/go-proxy
+- [ ] https://github.com/xandout/soxy
+- [ ] https://github.com/tnpitsecurity/ligolo-ng
+- [ ] https://github.com/lwch/natpass
+- [ ] https://github.com/EkiXu/reverse-shell-manager
+- [ ] https://github.com/studentmain/socks6
+- [ ] https://github.com/wzshiming/anyproxy
+- [ ] https://github.com/dtapps/go-ssh-tunnel
+- [ ] https://github.com/TRYblog/multiplexing_port_socks5
+- [ ] https://github.com/NHAS/reverse_ssh
+- [ ] https://github.com/kost/revsocks
+- [ ] https://github.com/chdav/GoWard
+- [ ] https://github.com/sleeyax/ja3rp
+- [ ] https://github.com/jiuzhou-zhao/lumos
+- [ ] https://github.com/goproxy/goproxy
+- [ ] https://github.com/Quiq/webauthn_proxy
+- [ ] https://github.com/tnpitsecurity/ligolo-ng
+- [ ] https://github.com/wuchunfu/IpProxyPool
+- [ ] https://github.com/justmao945/mallory
+- [ ] https://github.com/bykof/go-plantuml
+- [ ] https://github.com/enfein/mieru
+- [ ] https://github.com/xiaobei97/ligolo
+- [ ] https://github.com/lcvvvv/backway
+- [ ] https://github.com/longXboy/lunnel
+- [ ] https://github.com/kevwan/tproxy
+- [ ] https://github.com/yuxiaokui/gohtran
+- [ ] https://github.com/stripe/smokescreen
 
 ### 10-内网渗透
 
@@ -3202,14 +3202,14 @@
 - [ ] https://github.com/Rvn0xsy/Pricking
 - [ ] https://github.com/alpkeskin/mosint
 - [ ] https://github.com/burpheart/tcppc-go-fuzz
-- 蜜罐项目
+- [ ] 蜜罐项目
 - [ ] https://github.com/hacklcx/HFish
 - [ ] https://github.com/seccome/Ehoney
 - [ ] https://github.com/decoymini/DecoyMini
 - [ ] https://github.com/r3aker/DeceptionDefense
 - [ ] https://github.com/IceMoon1995/ice
-- 邮件发送
-- 钓鱼模板
+- [ ] 邮件发送
+- [ ] 钓鱼模板
 
 ### 12-代码审计
 
@@ -3244,7 +3244,8 @@
 
 ### 15-移动安全
 
-- Android
+Android
+
 - [x] https://github.com/APKTeam/AndroidSecurity
 - [ ] https://github.com/ndelphit/apkurlgrep
 - [ ] https://github.com/RedMapleTech/machodump
@@ -3255,8 +3256,9 @@
 - [ ] https://github.com/tailscale/tailscale-android
 - [ ] https://github.com/sjatsh/unwxapkg
 
-- iOS
-- [x] https://github.com/iOSSecurity/iOSSecurity
+iOS
+
+- [ ] https://github.com/iOSSecurity/iOSSecurity
 - [ ] https://github.com/hcninja/ipanema
 - [ ] https://github.com/gofmt/iOSSniffer
 - [ ] https://github.com/blacktop/ipsw
@@ -3657,7 +3659,7 @@
 
 ### 02-授权许可
 
-- https://github.com/topics/license-management?l=go
+- [ ] https://github.com/topics/license-management?l=go
 - [ ] https://github.com/xinjiayu/LicenseManager | 为golang的应用添加简单的license限制 | 6
 - [ ] https://github.com/furkansenharputlu/f-license
 - [ ] https://github.com/nishanths/license
