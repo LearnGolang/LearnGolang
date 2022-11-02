@@ -2271,7 +2271,6 @@
 ## 0x05-Golang安全
 
 本章节收集汇总了大量的安全研究相关的项目。期待自己写的项目能够让大多数的人使用！
-
 -  https://github.com/topics/tool?l=go
 -  https://github.com/topics/poc?l=go
 -  https://github.com/topics/cve?l=go
@@ -2283,7 +2282,6 @@
 -  https://github.com/topics/reconnaissance?l=go
 -  https://github.com/topics/information-gathering?l=go
 -  https://github.com/topics/vulnerability-scanner?l=go
-
 - [ ] https://github.com/parsiya/Go-Security
 - [ ] https://github.com/tomnomnom/hacks
 - [ ] https://github.com/parsiya/Hacking-with-Go
@@ -2298,13 +2296,11 @@
 - [ ] https://github.com/he1m4n6a/Go_Security_Study
 
 ### 01-域名收集
-
 -  https://github.com/topics/subdomain?l=go
 -  https://github.com/topics/subdomains?l=go
 -  https://github.com/topics/subdomain-scanner?l=go
 -  https://github.com/search?l=Go&q=subdomain
 -  https://github.com/search?l=Go&q=domains
-
 - [ ] https://github.com/Goqi/MiFeng
 - [x] https://github.com/signedsecurity/sigsubfind3r | 在线接口子域发现工具 | 7
 - [x] https://github.com/projectdiscovery/subfinder | 通过被动的在线资源发现子域 | 4.2k
