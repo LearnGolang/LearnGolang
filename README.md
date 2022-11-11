@@ -144,7 +144,7 @@
 
 ### 02-英文资源
 
-- https://github.com/dariubs/GoBooks
+- [ ] https://github.com/dariubs/GoBooks
 - [ ] [《Mastering Go》](https://github.com/PacktPublishing/Mastering-Go-Second-Edition)@Mihalis Tsoukalos
 - [ ] [《A Go Developer's Notebook》](https://leanpub.com/GoNotebook/read)
 - [ ] [《An Introduction to Programming in Go》](http://www.golang-book.com/books/intro)
@@ -350,9 +350,9 @@
 
 本章节用于记录学习Go语言官方标准库。
 
-- https://pkg.go.dev
-- https://studygolang.com/pkgdoc
-- https://github.com/LearnGolang/Gopkg
+- [ ] https://pkg.go.dev
+- [ ] https://studygolang.com/pkgdoc
+- [ ] https://github.com/LearnGolang/Gopkg
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
@@ -384,8 +384,8 @@
 
 ### 01-命令参数
 
-- https://github.com/topics/cli?l=go
-- https://github.com/topics/command-line?l=go
+- [x] https://github.com/topics/cli?l=go
+- [x] https://github.com/topics/command-line?l=go
 - [x] https://github.com/spf13/cobra | Go语言命令参数交互指挥官 | 23.5k
 - [ ] https://github.com/urfave/cli | 构建简单快速有趣的命令行应用程序 | 16k
 - [ ] https://github.com/fatih/color | 构建彩色的命令参数应用程序 | 4.2k
@@ -438,8 +438,8 @@
 
 ### 02-网络框架
 
-- HTTP请求响应
-- https://github.com/topics/request?l=go
+- [ ] HTTP请求响应
+- [ ] https://github.com/topics/request?l=go
 - [ ] https://github.com/Gogods/dshttp
 - [ ] https://golang.org/pkg/net/http | Golang官方HTTP处理库
 - [ ] https://github.com/valyala/fasthttp | Go的快速实现HTTP | 15.2k
@@ -525,11 +525,11 @@
 - [ ] https://github.com/go-fed/httpsig
 - [ ] https://github.com/fanux/lhttp
 - [ ] https://github.com/Mrs4s/go-cqhttp
-- FTP
+- [ ] FTP
 - [ ] https://github.com/jlaffaye/ftp
-- RDP
+- [ ] RDP
 - [ ] https://github.com/tomatome/grdp
-- IP代理
+- [ ] IP代理
 - https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
 - [ ] https://github.com/a3kSec/purl
@@ -538,7 +538,7 @@
 - [ ] https://github.com/akkuman/rotateproxy
 - [ ] https://github.com/CreditTone/superproxy
 - [ ] https://github.com/lqqyt2423/go-mitmproxy
-- DNS处理
+- [ ] DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
 - [ ] https://github.com/m13253/dns-over-https
@@ -548,7 +548,7 @@
 - [ ] https://github.com/coredns/coredns
 - [ ] https://github.com/vaycore/DNStxt-exp
 - [ ] https://github.com/ogham/dog
-- 其他框架
+- [ ] 其他框架
 - [ ] https://github.com/fullstorydev/grpcurl
 - [ ] https://github.com/go-cierra/sockets
 - [ ] https://github.com/nakabonne/ali
@@ -565,7 +565,7 @@
 
 ### 04-文件处理
 
-- TXT文件
+- [ ] TXT文件
 - [ ] https://pkg.go.dev/os
 - [x] https://github.com/Gogods/dstxt
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 46
@@ -580,28 +580,28 @@
 - [ ] https://github.com/disclose/diosts
 - [ ] https://github.com/cybrcodr/txttools
 - [ ] https://github.com/Qingluan/FrameUtils
-- Excel文件
+- [ ] Excel文件
 - [ ] https://github.com/tealeg/xlsx
 - [ ] https://github.com/qax-os/excelize
 - [ ] https://github.com/foolin/gocsv
 - [ ] https://github.com/jm33-m0/txt2csv
 - [ ] https://github.com/tmickleydoyle/shallow-explore
 - [ ] https://github.com/rkritchat/csvtogo
-- Word文件
+- [ ] Word文件
 - [ ] https://github.com/unidoc/unioffice
 - [ ] https://github.com/sajari/word2vec
 - [ ] https://github.com/mattn/docx2md
-- PDF文件
+- [ ] PDF文件
 - [ ] https://github.com/pdfcpu/pdfcpu
 - [ ] https://github.com/mikeshimura/goreport
 - [ ] https://github.com/jung-kurt/gofpdf
 - [ ] https://github.com/signintech/gopdf
 - [ ] https://github.com/unidoc/unipdf
 - [ ] https://github.com/thecodingmachine/gotenberg
-- HTML文件
+- [ ] HTML文件
 - [ ] https://github.com/jaytaylor/html2text
 - [ ] https://github.com/yosssi/ace
-- Others
+- [ ] Others
 - [ ] https://github.com/sajari/docconv
 - [ ] https://github.com/cnf/structhash | Hash计算 | 116
 - [ ] https://github.com/hpcloud/tail
@@ -612,7 +612,7 @@
 
 ### 05-数据处理
 
-- MySQL
+- [ ] MySQL
 - [ ] https://github.com/go-sql-driver/mysql
 - [ ] https://github.com/pingcap/tidb
 - [ ] https://github.com/jmoiron/sqlx
@@ -624,21 +624,21 @@
 - [ ] https://github.com/xelabs/go-mysqlstack
 - [ ] https://github.com/vitessio/vitess
 - [ ] https://github.com/niudaii/go-sql
-- MongoDB
+- [ ] MongoDB
 - [ ] https://gopkg.in/mgo.v2
 - [ ] https://github.com/Cgboal/SonarSearch
 - [ ] https://github.com/mongodb/mongo-go-driver
 - [ ] https://github.com/qiniu/qmgo
 - [ ] https://github.com/256dpi/lungo
 - [ ] https://github.com/btubbs/pgq
-- PostgreSQL
+- [ ] PostgreSQL
 - [ ] https://github.com/go-pg/pg
 - [ ] https://github.com/prest/prest
 - [ ] https://github.com/sosedoff/pgweb
-- Redis
+- [ ] Redis
 - [ ] https://github.com/go-redis/redis
 - [ ] https://github.com/HDT3213/godis
-- Others
+- [ ] Others
 - [ ] https://github.com/jackc/pgx
 - [ ] https://github.com/boltdb/bolt
 - [ ] https://github.com/ideawu/ssdb
@@ -668,7 +668,7 @@
 
 ### 06-配置文件
 
-- JSON
+- [ ] JSON
 - https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
 - [ ] https://github.com/lqiz/amoeba
@@ -713,7 +713,7 @@
 - [ ] https://github.com/dolmen-go/jsonptr
 - [ ] https://github.com/tomnomnom/gron
 - [ ] https://github.com/antonmedv/fx
-- YAML
+- [ ] YAML
 - https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
@@ -725,12 +725,12 @@
 - [ ] https://github.com/goccy/go-yaml
 - [ ] https://github.com/mikefarah/yq
 - [ ] https://github.com/hillu/go-yara
-- INI
+- [ ] INI
 - https://github.com/topics/ini?l=go
 - [ ] https://github.com/go-ini/ini
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
-- Others
+- [ ] Others
 - [ ] https://github.com/antlr/antlr4
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/thedevsaddam/gojsonq
@@ -749,9 +749,9 @@
 
 ### 07-协程并发
 
-- https://github.com/topics/concurrency?l=go
-- https://github.com/topics/goroutine?l=go
-- https://github.com/topics/pool?l=go
+- [ ] https://github.com/topics/concurrency?l=go
+- [ ] https://github.com/topics/goroutine?l=go
+- [ ] https://github.com/topics/pool?l=go
 - [x] https://github.com/panjf2000/ants | 高性能低损耗的goroutine池 | 5.6k
 - [ ] https://github.com/Jeffail/tunny | Go的goroutine池 | 2.3k
 - [ ] https://github.com/alitto/pond | 简约高性能goroutine工作池 | 212
@@ -787,9 +787,9 @@
 
 ### 08-日志处理
 
-- https://github.com/topics/log?l=go
-- https://github.com/topics/logger?l=go
-- https://github.com/topics/logging?l=go
+- [ ] https://github.com/topics/log?l=go
+- [ ] https://github.com/topics/logger?l=go
+- [ ] https://github.com/topics/logging?l=go
 - [ ] https://golang.org/pkg/log | Go语言官方日志库
 - [ ] https://github.com/sirupsen/logrus | 强大的Go日志第三分库 | 17.7k
 - [ ] https://github.com/uber-go/zap | uber出品的日志库 | 12.5k
@@ -864,9 +864,9 @@
 
 ### 11-电子邮件
 
-- https://github.com/topics/mail?l=go
-- https://github.com/topics/email?l=go
-- https://github.com/topics/smtp?l=go
+- [ ] https://github.com/topics/mail?l=go
+- [ ] https://github.com/topics/email?l=go
+- [ ] https://github.com/topics/smtp?l=go
 - [ ] https://gopkg.in/gomail.v2 | 发送电子邮件的最佳方法
 - [ ] https://github.com/go-gomail/gomail | 发送电子邮件的最佳方法 | 3.2k
 - [ ] https://github.com/foxcpp/maddy |  可组合的多合一邮件服务器 | 2.3k
@@ -925,7 +925,7 @@
 
 ### 13-Web框架
 
-- https://github.com/topics/web?l=go
+- [ ] https://github.com/topics/web?l=go
 - [x] https://github.com/kataras/iris
 - [ ] https://github.com/beego/beego
 - [ ] https://github.com/gohugoio/hugo
@@ -1485,7 +1485,7 @@
 
 ### 05-量化投资
 
-- https://github.com/topics/stock-market?l=go
+- [ ] https://github.com/topics/stock-market?l=go
 - [ ] https://github.com/achannarasappa/ticker
 - [ ] https://github.com/mop-tracker/mop
 - [ ] https://github.com/doneland/yquotes
