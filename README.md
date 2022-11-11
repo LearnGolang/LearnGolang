@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年11月11日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年11月12日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -16,7 +16,7 @@
 - [**0x04-Golang项目**](https://github.com/LearnGolang/LearnGolang#0x04-golang%E9%A1%B9%E7%9B%AE)
   - |[01-开源网站](https://github.com/LearnGolang/LearnGolang#01-%E5%BC%80%E6%BA%90%E7%BD%91%E7%AB%99)|[02-娱乐游戏](https://github.com/LearnGolang/LearnGolang#02-%E5%A8%B1%E4%B9%90%E6%B8%B8%E6%88%8F)|[03-爬虫项目](https://github.com/LearnGolang/LearnGolang#03-%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE)|[04-图形项目](https://github.com/LearnGolang/LearnGolang#04-%E5%9B%BE%E5%BD%A2%E9%A1%B9%E7%9B%AE)|[05-量化投资](https://github.com/LearnGolang/LearnGolang#05-%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84)|[06-Web项目](https://github.com/LearnGolang/LearnGolang#06-Web%E9%A1%B9%E7%9B%AE)|[07-其他项目](https://github.com/LearnGolang/LearnGolang#07-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
 - [**0x05-Golang安全**](https://github.com/LearnGolang/LearnGolang#0x05-golang%E5%AE%89%E5%85%A8)
-  - |[01-域名收集](https://github.com/LearnGolang/LearnGolang#01-%E5%9F%9F%E5%90%8D%E6%94%B6%E9%9B%86)|[02-资产收集](https://github.com/LearnGolang/LearnGolang#02-%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86)|[03-端口扫描](https://github.com/LearnGolang/LearnGolang#03-%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F)|[04-漏洞扫描](https://github.com/LearnGolang/LearnGolang#04-%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F)|[05-密码爆破](https://github.com/LearnGolang/LearnGolang#05-%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B4)|[06-路径扫描](https://github.com/LearnGolang/LearnGolang#06-%E8%B7%AF%E5%BE%84%E6%89%AB%E6%8F%8F)|[07-Web安全](https://github.com/LearnGolang/LearnGolang#07-web%E5%AE%89%E5%85%A8)|[08-病毒免杀](https://github.com/LearnGolang/LearnGolang#08-%E7%97%85%E6%AF%92%E5%85%8D%E6%9D%80)|[09-隧道代理](https://github.com/LearnGolang/LearnGolang#09-%E9%9A%A7%E9%81%93%E4%BB%A3%E7%90%86)|[10-内网渗透](https://github.com/LearnGolang/LearnGolang#10-%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F)|[11-蜜罐钓鱼](https://github.com/LearnGolang/LearnGolang#11-%E8%9C%9C%E7%BD%90%E9%92%93%E9%B1%BC)|[12-代码审计](https://github.com/LearnGolang/LearnGolang#12-%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)|[13-编码规范](https://github.com/LearnGolang/LearnGolang#13-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)|[14-应急响应](https://github.com/LearnGolang/LearnGolang#14-%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)|[15-移动安全](https://github.com/LearnGolang/LearnGolang#15-%E7%A7%BB%E5%8A%A8%E5%AE%89%E5%85%A8)|[16-漏洞赏金](https://github.com/LearnGolang/LearnGolang#16-%E6%BC%8F%E6%B4%9E%E8%B5%8F%E9%87%91)|[17-其他项目](https://github.com/LearnGolang/LearnGolang#17-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
+  - |[01-域名收集](https://github.com/LearnGolang/LearnGolang#01-%E5%9F%9F%E5%90%8D%E6%94%B6%E9%9B%86)|[02-资产收集](https://github.com/LearnGolang/LearnGolang#02-%E8%B5%84%E4%BA%A7%E6%94%B6%E9%9B%86)|[03-端口扫描](https://github.com/LearnGolang/LearnGolang#03-%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F)|[04-漏洞扫描](https://github.com/LearnGolang/LearnGolang#04-%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F)|[05-密码爆破](https://github.com/LearnGolang/LearnGolang#05-%E5%AF%86%E7%A0%81%E7%88%86%E7%A0%B4)|[06-路径扫描](https://github.com/LearnGolang/LearnGolang#06-%E8%B7%AF%E5%BE%84%E6%89%AB%E6%8F%8F)|[07-Web安全](https://github.com/LearnGolang/LearnGolang#07-web%E5%AE%89%E5%85%A8)|[08-病毒免杀](https://github.com/LearnGolang/LearnGolang#08-%E7%97%85%E6%AF%92%E5%85%8D%E6%9D%80)|[09-远控隧道](https://github.com/LearnGolang/LearnGolang#09-%E8%BF%9C%E6%8E%A7%E9%9A%A7%E9%81%93)|[10-内网渗透](https://github.com/LearnGolang/LearnGolang#10-%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F)|[11-蜜罐钓鱼](https://github.com/LearnGolang/LearnGolang#11-%E8%9C%9C%E7%BD%90%E9%92%93%E9%B1%BC)|[12-代码审计](https://github.com/LearnGolang/LearnGolang#12-%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)|[13-编码规范](https://github.com/LearnGolang/LearnGolang#13-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)|[14-应急响应](https://github.com/LearnGolang/LearnGolang#14-%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)|[15-移动安全](https://github.com/LearnGolang/LearnGolang#15-%E7%A7%BB%E5%8A%A8%E5%AE%89%E5%85%A8)|[16-漏洞赏金](https://github.com/LearnGolang/LearnGolang#16-%E6%BC%8F%E6%B4%9E%E8%B5%8F%E9%87%91)|[17-其他项目](https://github.com/LearnGolang/LearnGolang#17-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
 - [**0x06-Golang逆向**](https://github.com/LearnGolang/LearnGolang#0x06-golang%E9%80%86%E5%90%91)
   - |[01-代码混淆](https://github.com/LearnGolang/LearnGolang#01-%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86)|[02-授权许可](https://github.com/LearnGolang/LearnGolang#02-%E6%8E%88%E6%9D%83%E8%AE%B8%E5%8F%AF)|[03-逆向工程](https://github.com/LearnGolang/LearnGolang#03-%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B)|[04-恶意软件](https://github.com/LearnGolang/LearnGolang#04-%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6)|[05-其他项目](https://github.com/LearnGolang/LearnGolang#05-%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE)|
 - [**0x07-Golang老师**](https://github.com/LearnGolang/LearnGolang#0x07-golang%E8%80%81%E5%B8%88)
@@ -352,6 +352,7 @@
 
 - https://pkg.go.dev
 - https://studygolang.com/pkgdoc
+- https://github.com/LearnGolang/Gopkg
 - [ ] [《Go语言标准库》](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)@徐新华
 - [ ] [《Go官方博客》](https://blog.golang.org)@Go
 - [ ] [《Go官方包文档》](https://golang.org/pkg)@Go
@@ -370,7 +371,7 @@
 
 ## 0x03-Golang框架
 
-本章节用于记录Go语言中的优秀框架资源，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
+本章节用于记录Go语言中的优秀第三方库，其中也包含少量的成品项目。站在巨人的肩膀上跑的更远！
 
 - https://github.com/topics/golang-library
 - https://github.com/topics/framework?l=go
@@ -565,7 +566,7 @@
 ### 04-文件处理
 
 - TXT文件
-- [ ] https://golang.org/pkg/os
+- [ ] https://pkg.go.dev/os
 - [x] https://github.com/Gogods/dstxt
 - [ ] https://github.com/evilsocket/brutemachine | 通过接口来循环字典 | 46
 - [ ] https://github.com/alash3al/re-txt
@@ -1420,6 +1421,7 @@
 - [ ] https://github.com/abdfnx/gomo
 - [ ] https://github.com/flanglet/kanzi-go
 - [ ] https://github.com/samber/lo
+- [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
 
 ## 0x04-Golang项目
 
@@ -2415,33 +2417,32 @@
 
 ### 02-资产收集
 - [ ] https://github.com/Goqi/Banli | 一款简单好用的高危资产识别工具 | 99
-- [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 299
-- [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 339
-- [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 516
+- [x] https://github.com/lcvvvv/kscan | 一款轻量级的资产发现工具 | 2.3k
+- [x] https://github.com/broken5/bscan | 强大简单实用高效的HTTP扫描器 | 663
+- [x] https://github.com/EdgeSecurityTeam/EHole | 红队重点攻击系统指纹探测工具 | 1.8k
 - [ ] https://github.com/l3m0n/whatweb | Web应用指纹识别 | 150
 - [ ] https://github.com/boy-hack/goWhatweb | go语言写的web指纹识别 | 65
 - [ ] https://github.com/zsdevX/DarkEye | 渗透测试情报收集工具 | 600
 - [ ] https://github.com/aeverj/weblive | 高并发网站信息获取工具 | 56
-- [ ] https://github.com/shmilylty/netspy
-- [ ] https://github.com/inbug-team/SweetBabyScan
-- [ ] https://github.com/zhzyker/dismap
-- [ ] https://github.com/yl2chen/cidranger
+- [ ] https://github.com/shmilylty/netspy | 一款快速探测内网可达网段工具 | 1.1k
+- [ ] https://github.com/zhzyker/dismap | 资产发现和识别工具 | 1.3k
+- [ ] https://github.com/Athena1337/blackJack | 重点系统指纹识别和目录扫描 | 27
+- [ ] https://github.com/xiecat/fofax | fofa API的命令行查询工具 | 489
+- [ ] https://github.com/redtoolskobe/scaninfo
 - [ ] https://github.com/timwhitez/Doge-AliveCheck
+- [ ] https://github.com/inbug-team/SweetBabyScan
 - [ ] https://github.com/TardC/fofadump
 - [ ] https://github.com/i11us0ry/tool-iFofa
 - [ ] https://github.com/inspiringz/fofa
 - [ ] https://github.com/hanc00l/nemo_go
 - [ ] https://github.com/j5s/Suscan
 - [ ] https://github.com/lakevilladom/goSkylar
-- [ ] https://github.com/redtoolskobe/scaninfo
 - [ ] https://github.com/fe1w0/assetMap
 - [ ] https://github.com/wgpsec/ENScanGo
 - [ ] https://github.com/DSO-Lab/gwaf
 - [ ] https://github.com/hakuQAQ/Holmes
 - [ ] https://github.com/ShangRui-hash/white-hat-helper
-- [ ] https://github.com/xiecat/fofax
 - [ ] https://github.com/ShangRui-hash/arp-spoofing-go
-- [ ] https://github.com/Athena1337/blackJack | 重点系统指纹识别和目录扫描 | 27
 - [ ] https://github.com/ErSuan/gotoscan
 - [ ] https://github.com/feiyu563/nbping
 - [ ] https://github.com/ffffffff0x/ones
@@ -2449,6 +2450,7 @@
 - [ ] https://github.com/yqcs/heartsk_community
 - [ ] https://github.com/lcvvvv/httpfinger
 - [ ] https://github.com/mmM1ku/Mscan
+- [ ] https://github.com/yl2chen/cidranger
 
 ### 03-端口扫描
 - [ ] https://github.com/topics/portscan?l=go
@@ -2578,9 +2580,9 @@
 -  [ ] https://github.com/projectdiscovery/nuclei | 基于POC模板的漏洞扫描工具 | 3.9k
 -  [ ] https://github.com/opensec-cn/kunpeng | Golang编写的开源POC框架 | 1.1k
 -  [ ] https://github.com/shadow1ng/fscan | 一款内网扫描工具 | 48
--  [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 8
+-  [ ] https://github.com/k8gege/LadonGo | 全平台渗透扫描器框架 | 1.1k
 -  [ ] https://github.com/bp0lr/wurl | 测试工作网址的工具 | 20
--  [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 1.2k
+-  [ ] https://github.com/jaeles-project/jaeles | Web应用程序测试的瑞士军刀 | 1.7k
 -  [ ] https://github.com/zmap/zgrab2 | 快速和模块化的Web扫描器 | 1.1k
 -  [x] https://github.com/marco-lancini/goscan | 互动式网络扫描仪 | 786
 -  [ ] https://github.com/irealing/banner | Web端口扫描工具 | 2
@@ -2597,7 +2599,7 @@
 -  [ ] https://github.com/awake1t/linglong | 一款甲方资产巡航扫描系统 | 667
 -  [ ] https://github.com/liamg/gitjacker | git仓库泄漏利用工具 | 1.1k
 -  [ ] https://github.com/leobeosab/sharingan | 进攻性安全侦察工具 | 71
--  [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 4.2k
+-  [ ] https://github.com/chaitin/xray | 一款完善的安全评估工具 | 7.5k
 -  [ ] https://github.com/gobysec/Goby| 一款新的网络安全测试工具 | 283
 -  [ ] https://github.com/Adminisme/ServerScan | 高并发网络扫描服务探测工具 | 432
 -  [ ] https://github.com/jjf012/gopoc | 用cel-go重现了xray的poc检测功能的轮子 | 62
@@ -2608,7 +2610,6 @@
 -  [ ] https://github.com/HToTH/fuckcdn | 全网扫描找出真实IP | 5
 -  [ ] https://github.com/realjf/sils | 敏感信息泄露扫描 | 0
 -  [ ] https://github.com/yinqiwen/gscan | HTTPS IP可用性扫描工具 | 490
--  [ ] https://github.com/xmendez/wfuzz | Web应用程序模糊器 | 3.3k
 -  [ ] https://github.com/zan8in/afrog  | 一个新的被动扫描工具 | 166
 -  [ ] https://github.com/wrenchonline/glint | 基于浏览器爬虫的扫描工具 | 200
 -  [ ] https://github.com/qian-shen/youzai
@@ -2770,7 +2771,7 @@
 - [ ] https://github.com/topics/webscan?l=go
 - [ ] https://github.com/Goqi/DirTurtle
 - [ ] https://github.com/l2-team/cmsfingers
-- [ ] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 3.2k
+- [x] https://github.com/ffuf/ffuf | 用Go编写的快速网络模糊器 | 8.1k
 - [ ] https://github.com/adamtlangley/ffufme | ffuf 的目标练习 | 23
 - [ ] https://github.com/OJ/gobuster | 用于暴力破解的工具 | 3.8k
 - [ ] https://github.com/tomnomnom/meg | 主机路径扫描 | 774
@@ -2836,13 +2837,13 @@
 - [ ] https://github.com/pikpikcu/XRCross | Web漏洞扫描工具 | 121
 - [ ] https://github.com/chennqqi/godnslog | 精美的dnslog日志服务器 | 253
 - [ ] https://github.com/projectdiscovery/interactsh | 一个OOB交互收集服务器和客户端库 | 1.4k
-- [ ] https://github.com/AlphabugX/Alphalog
-- [ ] https://github.com/ssssdl/DnslogMsg4Wx
 - [ ] https://github.com/Buzz2d0/Hyuga | 检测带外流量的监控工具 | 217
 - [ ] https://github.com/hahwul/dalfox | 基于Go的参数分析和XSS扫描工具 | 957
 - [ ] https://github.com/dwisiswant0/crlfuzz | CRLF漏洞扫描工具 | 205
 - [ ] https://github.com/teknogeek/ssrf-sheriff | SSRF漏洞探测工具 | 205
 - [ ] https://github.com/gen0cide/hasherbasher | SQL注入工具 | 29
+- [ ] https://github.com/AlphabugX/Alphalog
+- [ ] https://github.com/ssssdl/DnslogMsg4Wx
 - [ ] https://github.com/sukmoonlee/packetlog
 - [ ] https://github.com/vrechson/ademir
 - [ ] https://github.com/thatsn0tmysite/xsserve
@@ -2987,7 +2988,7 @@
 - [ ] https://github.com/chriskaliX/Hades
 - [ ] https://github.com/TideSec/GoBypassAV
 
-### 09-隧道代理
+### 09-远控隧道
 
 - [ ] https://github.com/topics/proxy?l=go
 - [ ] https://github.com/topics/tunnel?l=go
@@ -3253,6 +3254,7 @@
 
 - [ ] https://github.com/dreadl0ck/netcap | 安全和可扩展的网络流量分析框架 | 1.4k
 - [ ] https://github.com/gpaddis/logscan
+- [ ] https://github.com/Lengso/iplookup
 
 ### 15-移动安全
 
@@ -3430,7 +3432,6 @@ iOS
 - [ ] https://github.com/brompwnie/botb
 - [ ] https://github.com/dwisiswant0/galer
 - [ ] https://github.com/Jrohy/trojan
-- [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
 - [ ] https://github.com/yuin/gopher-lua
 - [ ] https://github.com/TRYblog/go-Tubi
 - [ ] https://github.com/EmYiQing/go-wafw00f
