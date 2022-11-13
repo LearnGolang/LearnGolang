@@ -474,7 +474,7 @@
 - [ ] https://github.com/go-resty/resty | 用于Go的简单HTTP和REST客户端库 | 4.3k
 - [ ] https://github.com/kitabisa/mubeng | 快速代理检查器和 IP 轮换器 | 430
 - [ ] https://github.com/xiecat/xhttp | 应用于扫描器场景下的http基础库 | 13
-- [ ] https://github.com/code-scan/Goal
+- [ ] https://github.com/code-scan/Goal | Go Red-Team 工具类 | 35
 - [ ] https://github.com/astaxie/bat
 - [ ] https://github.com/1pkg/hedgehog
 - [ ] https://github.com/dimfeld/httptreemux
@@ -560,7 +560,6 @@
 
 - [ ] https://github.com/goplus/gop
 - [ ] https://github.com/88250/gulu
-- [ ] https://github.com/qax-os/goreporter
 - [ ] https://github.com/zyedidia/generic
 - [ ] https://github.com/go-ldap/ldap
 
@@ -2290,6 +2289,7 @@
 - https://github.com/search?l=Go&q=cve
 - https://github.com/topics/redteam?l=go
 - https://github.com/topics/vulnerability?l=go
+- https://github.com/topics/security?l=go
 - https://github.com/topics/security-audit?l=go
 - https://github.com/topics/reconnaissance?l=go
 - https://github.com/topics/information-gathering?l=go
@@ -2713,6 +2713,7 @@
 -  [ ] https://github.com/sairson/RunExploit
 -  [ ] https://github.com/Ph33rr/cirrusgo
 -  [ ] https://github.com/niudaii/zpscan
+-  [ ] https://github.com/ShadowFl0w/YNM3000
 
 ### 05-密码爆破
 
@@ -3136,6 +3137,8 @@
 - [ ] https://github.com/yuxiaokui/gohtran
 - [ ] https://github.com/stripe/smokescreen
 - [ ] https://github.com/gowsp/wsp
+- [ ] https://github.com/grines/goc2
+- [ ] https://github.com/CMatri/MeetC2
 
 ### 10-内网渗透
 
@@ -3145,7 +3148,6 @@
 - [ ] https://github.com/TerminalJockey/Skiddify
 - [ ] https://github.com/TerminalJockey/GShell
 - [ ] https://github.com/dennis-tra/pcp
-- [ ] https://github.com/grines/goc2
 - [ ] https://github.com/S4R1N/Tritium
 - [ ] https://github.com/S4R1N/Hitman
 - [ ] https://github.com/schollz/croc
@@ -3156,7 +3158,6 @@
 - [ ] https://github.com/Wd0g/GoShell
 - [ ] https://github.com/lanrat/allxfr
 - [ ] https://github.com/jm33-m0/emp3r0r
-- [ ] https://github.com/CMatri/MeetC2
 - [ ] https://github.com/sensepost/godoh
 - [ ] https://github.com/Tylous/SourcePoint
 - [ ] https://github.com/Ne0nd0g/merlin
@@ -3245,6 +3246,7 @@
 - [ ] https://github.com/insidersec/insider
 - [ ] https://github.com/ZupIT/horusec
 - [ ] https://github.com/wahyuhadi/rinjani
+- [ ] https://github.com/qax-os/goreporter
 
 ### 13-编码规范
 
@@ -3341,7 +3343,6 @@ iOS
 - [ ] https://github.com/google/syzkaller
 - [ ] https://github.com/allyomalley/dnsobserver
 - [ ] https://github.com/chriskaliX/drdos-framework
-- [ ] https://github.com/360EntSecGroup-Skylar/goreporter
 - [ ] https://github.com/OlivierLaflamme/Offensive-Go-Scripts
 - [ ] https://github.com/michenriksen/gitrob
 - [ ] https://github.com/maliceio/malice
@@ -3669,8 +3670,8 @@ iOS
 - [ ] https://github.com/burrowers/garble
 - [ ] https://github.com/flew-software/filecrypt
 - [ ] https://github.com/unixpickle/gobfuscate
-- [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
 - [ ] https://github.com/v0id-re/go-smash
+- [ ] https://abelsu7.top/2019/10/24/go-build-compress-using-upx
 
 ### 02-授权许可
 
@@ -3727,10 +3728,10 @@ iOS
 ### 04-恶意软件
 
 - [ ] https://github.com/wille/cry
-- [ ] https://paper.seebug.org/1357/
 - [ ] https://github.com/petercunha/GoAT
 - [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/SaturnsVoid/GoBot2
+- [ ] https://paper.seebug.org/1357
 
 ### 05-其他项目
 
