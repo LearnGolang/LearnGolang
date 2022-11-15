@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年11月14日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年11月16日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -42,11 +42,13 @@
 - [x] [《Go语言程序设计》](https://item.jd.com/12989042.html)@刘洪泉译#100%#
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#100%#
+- [x] [《Go 细节和小技巧 101》](https://github.com/golang101/golang101/issues/127)@老貘
 - [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#70%#正在进行
 - [x] [《Go语言实战》]()@刘燕燕译#50%
 - [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
 - [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
 - [x] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#20%
+- [x] [《Go语言精进之路》](https://item.jd.com/10042998533587.html)@白明
 - [x] [《Go语言入门经典》](https://item.jd.com/13162162.html)@周家安
 - [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
 - [x] [《Go语言专家编程》](https://item.jd.com/12920392.html)@任洪彩
@@ -3226,6 +3228,8 @@
 
 ### 12-代码审计
 
+- [x] https://github.com/topics/static-analysis?l=go
+- [x] https://github.com/topics/static-code-analysis?l=go
 - [ ] https://github.com/Goqi/RiYue
 - [ ] https://github.com/0c34/govwa
 - [ ] https://github.com/tfsec/tfsec
@@ -3248,6 +3252,7 @@
 - [ ] https://github.com/wahyuhadi/rinjani
 - [ ] https://github.com/qax-os/goreporter
 - [ ] https://github.com/praetorian-inc/gokart
+- [ ] https://github.com/Contrast-Security-OSS/go-test-bench
 
 ### 13-编码规范
 
