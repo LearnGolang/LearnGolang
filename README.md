@@ -1,4 +1,4 @@
-# [Google's Go Style Guide](https://golangweekly.com/link/131885/web) LearnGolang
+# LearnGolang
 ![LearnGolang](https://socialify.git.ci/LearnGolang/LearnGolang/image?description=1&descriptionEditable=%E3%80%8AGolang%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8-%E5%8F%AA%E6%9C%89Go%E8%AF%AD%E8%A8%80%E6%89%8D%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E3%80%8B&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)
@@ -673,7 +673,7 @@
 
 ### 06-配置文件
 
-- [ ] JSON
+- [x] JSON
 - [ ] https://github.com/topics/json?l=go
 - [ ] https://github.com/simeji/jid
 - [ ] https://github.com/lqiz/amoeba
@@ -718,8 +718,8 @@
 - [ ] https://github.com/dolmen-go/jsonptr
 - [ ] https://github.com/tomnomnom/gron
 - [ ] https://github.com/antonmedv/fx
-- [ ] YAML
-- https://github.com/topics/yaml?l=go
+- [x] YAML
+- [x] https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
 - [ ] https://gopkg.in/yaml.v3
 - [ ] https://github.com/go-yaml/yaml
@@ -730,12 +730,14 @@
 - [ ] https://github.com/goccy/go-yaml
 - [ ] https://github.com/mikefarah/yq
 - [ ] https://github.com/hillu/go-yara
-- [ ] INI
-- https://github.com/topics/ini?l=go
+- [x] INI
+- [x] https://github.com/topics/ini?l=go
 - [ ] https://github.com/go-ini/ini
 - [ ] https://gopkg.in/gcfg.v1
 - [ ] https://github.com/go-gcfg/gcfg
-- [ ] Others
+- [x] TOML
+- [ ] https://github.com/BurntSushi/toml
+- [x] Others
 - [ ] https://github.com/antlr/antlr4
 - [ ] https://github.com/alash3al/re-txt
 - [ ] https://github.com/thedevsaddam/gojsonq
