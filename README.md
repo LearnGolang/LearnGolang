@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年12月1日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年12月3日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -403,6 +403,7 @@
 - [ ] https://github.com/AlecAivazis/survey | 构建交互提示的命令终端 | 2.3k
 - [ ] https://github.com/cheggaaa/pb | Go语言的控制台进度栏 |2.8k
 - [ ] https://github.com/gookit/color | 控制台颜色渲染工具库 | 1.2K
+- [ ] https://github.com/manifoldco/promptui | 命令行应用程序的交互式提示 | 5.2k
 - [ ] https://github.com/k0kubun/pp
 - [ ] https://github.com/alecthomas/kong
 - [ ] https://github.com/jessevdk/go-flags
@@ -719,6 +720,7 @@
 - [ ] https://github.com/dolmen-go/jsonptr
 - [ ] https://github.com/tomnomnom/gron
 - [ ] https://github.com/antonmedv/fx
+- [ ] https://github.com/yudppp/json2struct
 - [x] YAML
 - [x] https://github.com/topics/yaml?l=go
 - [ ] https://gopkg.in/yaml.v2
@@ -3147,6 +3149,7 @@
 - [ ] https://github.com/gowsp/wsp
 - [ ] https://github.com/grines/goc2
 - [ ] https://github.com/CMatri/MeetC2
+- [ ] https://github.com/apernet/hysteria
 
 ### 10-内网渗透
 
@@ -3674,6 +3677,7 @@ iOS
 - [ ] https://github.com/SecurityBrewery/catalyst
 - [ ] https://github.com/lcvvvv/echoes
 - [ ] https://github.com/DataDog/threatest
+- [ ] https://github.com/primait/nuvola
 
 ## 06-Golang逆向
 
@@ -3746,6 +3750,7 @@ iOS
 - [ ] https://github.com/redcode-labs/Coldfire
 - [ ] https://github.com/SaturnsVoid/GoBot2
 - [ ] https://github.com/hazcod/ransomwhere
+- [ ] https://github.com/NextronSystems/ransomware-simulator
 - [ ] https://paper.seebug.org/1357
 
 ### 05-其他项目
