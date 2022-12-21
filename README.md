@@ -5,7 +5,7 @@
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2022年12月19日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2022年12月21日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -539,7 +539,7 @@
 - [ ] RDP
 - [ ] https://github.com/tomatome/grdp
 - [ ] IP代理
-- https://github.com/topics/proxypool?l=go
+- [ ] https://github.com/topics/proxypool?l=go
 - [ ] https://github.com/henson/proxypool
 - [ ] https://github.com/a3kSec/purl
 - [ ] https://github.com/nccgroup/wstalker
@@ -548,6 +548,7 @@
 - [ ] https://github.com/CreditTone/superproxy
 - [ ] https://github.com/lqqyt2423/go-mitmproxy
 - [ ] https://github.com/kxg3030/shermie-proxy
+- [ ] https://github.com/yqcs/ipProxy
 - [ ] DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -1440,6 +1441,7 @@
 - [ ] https://github.com/samber/lo
 - [ ] https://github.com/rakyll/statik | 将静态文件目录嵌入Go二进制文件中 |3.1k
 - [ ] https://github.com/OrangePeel-2019/go-bytool
+- [ ] https://github.com/iDvel/rime-ice
 
 ## 0x04-Golang项目
 
@@ -1524,6 +1526,7 @@
 - [ ] https://github.com/xiaodingding/iotfast
 - [ ] https://github.com/pretty66/iptables-web
 - [ ] https://github.com/jiaocoll/BeeScan-web
+- [ ] https://github.com/answerdev/answer
 
 ### 07-其他项目
 
@@ -1788,7 +1791,6 @@
 - [ ] https://github.com/link1st/go-stress-testing | Go实现的压测工具 | 957
 - [ ] https://github.com/stashapp/stash
 - [ ] https://github.com/nickname32/discordhook
-- [ ] https://github.com/ossf/scorecard
 - [ ] https://github.com/zntrio/typogenerator
 - [ ] https://github.com/hgascon/pulsar
 - [ ] https://github.com/xitongsys/pangolin
@@ -2471,6 +2473,7 @@
 - [ ] https://github.com/lcvvvv/httpfinger
 - [ ] https://github.com/mmM1ku/Mscan
 - [ ] https://github.com/yl2chen/cidranger
+- [ ] https://github.com/praetorian-inc/fingerprintx
 
 ### 03-端口扫描
 - [ ] https://github.com/topics/portscan?l=go
@@ -3189,6 +3192,7 @@
 - [ ] https://github.com/1derian/go-nc
 - [ ] https://github.com/Li4n0/revsuit
 - [ ] https://github.com/lkarlslund/adalanche
+- [ ] https://github.com/wjlab/Darksteel
 
 ### 11-蜜罐钓鱼
 
@@ -3276,6 +3280,8 @@
 - [ ] https://github.com/qax-os/goreporter
 - [ ] https://github.com/praetorian-inc/gokart
 - [ ] https://github.com/Contrast-Security-OSS/go-test-bench
+- [ ] https://github.com/google/osv-scanner
+- [ ] https://github.com/ossf/scorecard
 
 ### 13-编码规范
 
@@ -3303,6 +3309,7 @@ Android
 - [ ] https://github.com/nicecp/GoIyov
 - [ ] https://github.com/tailscale/tailscale-android
 - [ ] https://github.com/sjatsh/unwxapkg
+- [ ] https://github.com/SeeFlowerX/estrace
 
 iOS
 
@@ -3692,6 +3699,7 @@ iOS
 - [ ] https://github.com/primait/nuvola
 - [ ] https://github.com/pipeline/proximity-core
 - [ ] https://github.com/doyensec/safeurl
+- [ ] https://github.com/selefra/selefra
 
 ## 06-Golang逆向
 
