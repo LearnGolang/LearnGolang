@@ -1484,6 +1484,7 @@
 - [ ] https://github.com/EndlessCheng/mahjong-helper
 - [ ] https://github.com/Lallassu/bintris
 - [ ] https://github.com/cherry-game/cherry
+- [ ] https://github.com/name5566/leaf
 
 ### 03-爬虫项目
 
@@ -2738,6 +2739,7 @@
 -  [ ] https://github.com/ShadowFl0w/YNM3000
 -  [ ] https://github.com/StarCrossPortal/scalpel
 -  [ ] https://github.com/sh1yan/Lscan
+-  [ ] https://github.com/kvesta/vesta
 
 ### 05-密码爆破
 
