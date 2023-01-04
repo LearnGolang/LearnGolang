@@ -1447,6 +1447,7 @@
 - [ ] https://github.com/iDvel/rime-ice
 - [ ] https://github.com/go-playground/validator
 - [ ] https://github.com/faiface/beep | 播放和音频处理 | 1.8k
+- [ ] https://github.com/snail007/gocron
 
 ## 0x04-Golang项目
 
