@@ -551,6 +551,7 @@
 - [ ] https://github.com/kxg3030/shermie-proxy
 - [ ] https://github.com/yqcs/ipProxy
 - [ ] https://github.com/howmp/iisproxy
+- [ ] https://github.com/Ggasdfg321/SmallProxyPool
 - [ ] DNS处理
 - [ ] https://github.com/miekg/dns
 - [ ] https://github.com/babolivier/go-doh-client
@@ -855,6 +856,7 @@
 - [ ] https://github.com/m-mizutani/zlog
 - [ ] https://github.com/evalphobia/logrus_sentry
 - [ ] https://github.com/go-logr/logr
+- [ ] https://github.com/charmbracelet/log
 
 ### 09-错误处理
 
@@ -1491,6 +1493,7 @@
 - [ ] https://github.com/Lallassu/bintris
 - [ ] https://github.com/cherry-game/cherry
 - [ ] https://github.com/name5566/leaf
+- [ ] https://github.com/otk-final/mahjong
 
 ### 03-爬虫项目
 
