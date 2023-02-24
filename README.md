@@ -1,11 +1,11 @@
 # LearnGolang
 ![LearnGolang](https://socialify.git.ci/LearnGolang/LearnGolang/image?description=0&descriptionEditable=%20&font=Bitter&forks=1&issues=1&name=1&owner=0&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习Go语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习Go语言的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的使用Go语言，尽可能的深入理解Go语言。学习Go语言，面向信仰编程！作者：[0e0w](https://github.com/0e0w)
 
 关于Go语言的学习教程，可以参考[《365天深入理解Go语言》](https://github.com/LearnGolang/365Golang)。Less is More or Less is Less.
 
-本项目创建于2020年8月10日，最近一次更新时间为2023年2月23日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年8月10日，最近一次更新时间为2023年2月24日。本项目会持续更新，直到海枯石烂。
 
 - [**0x01-Golang资源**](https://github.com/LearnGolang/LearnGolang#0x01-golang%E8%B5%84%E6%BA%90)
   - |[01-中文资源](https://github.com/LearnGolang/LearnGolang#01-%E4%B8%AD%E6%96%87%E8%B5%84%E6%BA%90)|[02-英文资源](https://github.com/LearnGolang/LearnGolang#02-%E8%8B%B1%E6%96%87%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/LearnGolang/LearnGolang#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-培训演讲](https://github.com/LearnGolang/LearnGolang#04-%E5%9F%B9%E8%AE%AD%E6%BC%94%E8%AE%B2)|[05-算法结构](https://github.com/LearnGolang/LearnGolang#05-%E7%AE%97%E6%B3%95%E7%BB%93%E6%9E%84)|[06-论坛版块](https://github.com/LearnGolang/LearnGolang#06-%E8%AE%BA%E5%9D%9B%E7%89%88%E5%9D%97)|[07-面试资料](https://github.com/LearnGolang/LearnGolang#07-%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99)|[08-其他资源](https://github.com/LearnGolang/LearnGolang#08-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -43,11 +43,11 @@
 - [x] [《Go语言趣学指南》](https://item.jd.com/12826232.html) @黄健宏译#100%#
 - [x] [《Go语言101》](https://gfw.go101.org/article/101.html)@老貘#100%#
 - [x] [《Go 细节和小技巧 101》](https://github.com/golang101/golang101/issues/127)@老貘
-- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#70%#正在进行
-- [x] [《Go语言实战》]()@刘燕燕译#50%
-- [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#50%
-- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#5%
-- [x] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#20%
+- [x] [《Go语言实战》](https://item.jd.com/12136974.html)@李兆海译#100%#
+- [x] [《Go语言实战》]()@刘燕燕译#100%
+- [x] [《Go语言学习笔记》](https://item.jd.com/56109131513.html)@雨痕#100%
+- [x] [《Go语言高级编程》](https://item.jd.com/12647494.html)@柴大曹大#100%
+- [x] [《Go语言入门经典》](https://item.jd.com/12406722.html)@张海燕译#100%
 - [x] [《Go语言精进之路》](https://item.jd.com/10042998533587.html)@白明
 - [x] [《Go语言入门经典》](https://item.jd.com/13162162.html)@周家安
 - [x] [《白帽子安全开发实战》](https://item.jd.com/12774589.html)@赵海锋
@@ -206,8 +206,8 @@
 
 ### 03-视频教程
 
-- [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹#10%
-- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情#5%
+- [ ] [《Golang进阶实战编程》](https://www.bilibili.com/video/BV1ox411R7Ci?p=5)@韩茹
+- [ ] [《22 讲通关Go语言》](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=536#/content)@飞雪无情
 - [ ] [《Go语言从入门到实战》](https://time.geekbang.org/course/intro/100024001)@蔡超
 - [ ] [《Go编程基础》](https://github.com/unknwon/go-fundamental-programming)@无闻
 - [ ] [《Go语言第一课》](https://www.imooc.com/learn/345)@郝林
@@ -2857,7 +2857,7 @@
 - [ ] https://github.com/ethicalhackingplayground/tprox
 - [ ] https://github.com/newbe3three/gotoscan
 - [ ] https://github.com/damit5/backupGen
-- [ ] https://github.com/corunb/Dirscan
+- [ ] https://github.com/corunb/Dirscan | Go编写的高并发的目录扫描器 | 67
 - [ ] https://github.com/carl1l/f403
 - [ ] https://github.com/pingc0y/URLFinder
 - [ ] https://github.com/musana/fuzzuli
