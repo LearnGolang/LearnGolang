@@ -2831,6 +2831,7 @@
 - [ ] https://github.com/RedTeamPentesting/monsoon | 快速HTTP枚举器 | 177
 - [ ] https://github.com/C-Sto/recursebuster | 就像gobuster，但是递归 | 201
 - [ ] https://github.com/graniet/GoFuzz | 用Go编写的请求模糊器 | 5
+- [x] https://github.com/corunb/Dirscan | Go编写的高并发的目录扫描器 | 67
 - [ ] https://github.com/TardC/prad
 - [ ] https://github.com/hunyaio/yuhScan
 - [ ] https://github.com/assetnote/kiterunner
@@ -2858,7 +2859,6 @@
 - [ ] https://github.com/ethicalhackingplayground/tprox
 - [ ] https://github.com/newbe3three/gotoscan
 - [ ] https://github.com/damit5/backupGen
-- [ ] https://github.com/corunb/Dirscan | Go编写的高并发的目录扫描器 | 67
 - [ ] https://github.com/carl1l/f403
 - [ ] https://github.com/pingc0y/URLFinder
 - [ ] https://github.com/musana/fuzzuli
